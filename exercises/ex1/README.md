@@ -8,7 +8,7 @@ As a business analyst for the BestRun company, we are interested in a business i
 
 ![alt text](https://github.com/SAP-samples/teched2021-ANA260/blob/1197ce5c47a4c2820bbfecb5590fa0fbbaa69a3c/exercises/ex1/images/Image%201.png)
 
-Welcome to **Start Your Story Page! **
+Welcome to **Start Your Story Page!**
   
 On this page, users can choose to import their own data, run a smart discovery on their data, add a responsive, canvas, or grid page, or start their story using a template. We are interested in exploring our data and the dimensions and measures we can analyze before we create a dashboard. 
 
@@ -59,7 +59,7 @@ We have just added an empty chart to our story and now we want to start adding m
 
 ![alt text](https://github.com/SAP-samples/teched2021-ANA260/blob/main/exercises/ex1/images/Image%209.png)
 
-12. Click **Add Dimension **
+12. Click **Add Dimension**
 
 ![alt text](https://github.com/SAP-samples/teched2021-ANA260/blob/main/exercises/ex1/images/Image%2012.png)
 
@@ -196,7 +196,7 @@ Our chart visualization now displays for us the proportional distribution of gro
 
 ![Image 42_43_44](https://user-images.githubusercontent.com/90856848/137971075-57b51d61-83b1-4b69-9f4b-cc49bfe8bd2d.png)
 
-<br> 45. Click **Add Dimension **
+<br> 45. Click **Add Dimension**
 
 ![Image 45](https://user-images.githubusercontent.com/90856848/137971191-06b7aa18-36d9-484e-a58a-507d2c685218.png)
 
