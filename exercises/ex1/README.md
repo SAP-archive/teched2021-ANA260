@@ -188,8 +188,73 @@ Our chart visualization now displays for us the proportional distribution of gro
 
 ![Image 41](https://user-images.githubusercontent.com/90856848/137968639-5b3d1a68-b54a-4950-9042-8f42b5e18df9.png)
 
+<br> 42. Scroll to find **Gross Margin**
 
+43. Click **Gross Margin**
 
+44. Click Inside the Builder Panel to Collapse the Measure Selection Drop Down Menu
+
+![Image 42_43_44](https://user-images.githubusercontent.com/90856848/137971075-57b51d61-83b1-4b69-9f4b-cc49bfe8bd2d.png)
+
+<br> 45. Click **Add Dimension **
+
+![Image 45](https://user-images.githubusercontent.com/90856848/137971191-06b7aa18-36d9-484e-a58a-507d2c685218.png)
+
+<br> 46. Scroll to find **Order Date**
+
+47. Click **Order Date**
+
+48. Click Inside the Builder Panel to Collapse the Measure Selection Drop Down Menu
+
+![Image 46_47_48](https://user-images.githubusercontent.com/90856848/137971380-391f714e-5a91-451a-b638-a2ed7da77012.png)
+
+<br> SAP Analytics Cloud immediately recognized our time dimension and created an upright chart orientation as per best practices. However, our chart currently shows an aggregation of all gross margins in our data set. Next, we want to apply a dynamic time filter for the year to date range and change the drill level to show months as the granularity of bars. 
+
+![Image 48](https://user-images.githubusercontent.com/90856848/137971623-f2d9fba2-6b27-4423-9f48-e8b2089612b4.png)
+
+<br> We have many options on filtering or drilling down on a dimension simply by hovering over the dimension in builder panel. 
+
+49. Click **Filter** 
+
+50. Click **Current**
+
+51. Click **Year** under **To Date**
+
+SAP Analytics Cloud offers users the ability to choose from a variety of dynamic time filters to quickly customize their charts to their business needs. We are using a year to date filter on our chart, so our data is filtered to begin on the start of the year 2021 until today. 
+
+![Image 49_50_51](https://user-images.githubusercontent.com/90856848/137971814-bb2fd2ec-09d3-4511-987c-89231431b6b3.png)
+
+<br> Let us Set Drill on our dimension. Currently our bar chart is aggregating data over all time, however we are more interested in seeing performance per month for the current year. 
+
+52. Click **Set Drill**
+
+Our hierarchy levels correspond to levels of granularity. In SAP Analytics Cloud, we dynamically provide various levels of time granularity (i.e. YQM, YHQM, YM). Currently, this chart is set to a YQM hierarchy with the first level set to aggregate over all time, so we want to select level 4 to reach monthly granularity
+
+53. Click **Level 4**
+
+![image 52_53](https://user-images.githubusercontent.com/90856848/137971995-18d6a306-27be-4be1-aca1-9e91cac54ade.png)
+
+<br> We have just created a chart with a time dimension using a Year to Date filter to organize our visualization. Next, we want to learn more about the trend of Gross Margin from our chart. 
+ 
+Please note your data will look different from this chart's values due to the dynamic date filter. 
+
+54. Resize the chart to be wider
+
+![Image 54](https://user-images.githubusercontent.com/90856848/137972097-afafbbfe-6d8a-452b-a8fe-2bb36d1274b6.png)
+
+<br> We can look at the trend of Gross Margin from our chart by adding a trendline by using the context menu. 
+
+55. Right Click on the chart to open the **Context Menu**
+
+56. Click **Add**
+
+57. Click **CGR (Compound Growth Rate)**
+
+![Image 55_56_57](https://user-images.githubusercontent.com/90856848/137972267-afac9e7c-cc63-4cf9-80d2-b8b5d1a76135.png)
+
+<br> We use the CGR added to the chart that compared to look at our compound growth rate in the year. If the CGR is negative it could be alarming information for the business user
+
+![Image 57](https://user-images.githubusercontent.com/90856848/137972347-d430a655-fc5b-4c14-b3a1-31e5e137e1d5.png)
 
 
 
