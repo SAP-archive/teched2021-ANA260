@@ -101,7 +101,7 @@ We have just added an empty chart to our story and now we want to start adding m
 
 ![Image 21](https://user-images.githubusercontent.com/90856848/137962592-6d198269-e592-4084-bfc3-661ee4abf92d.png)
 
-<br> 22. Scroll to find **Gross Margin**
+<br>  22. Scroll to find **Gross Margin**
 
 23. Click **Gross Margin**
 
@@ -113,7 +113,8 @@ We have just added an empty chart to our story and now we want to start adding m
 
 ![Image 25](https://user-images.githubusercontent.com/90856848/137962810-e03b2afe-d912-42a8-b210-a871d5b6829b.png)
 
-<br> 26. Scroll to find **Product**
+<br> 
+26. Scroll to find **Product**
 
 27. Click **Product**
 
