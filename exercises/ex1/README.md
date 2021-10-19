@@ -465,6 +465,87 @@ We will cover calculations in more detail for business analytics use cases in ou
 
 ![Image 105](https://user-images.githubusercontent.com/90856848/137993790-445062df-c582-4001-b84a-61c4a8c2eb8e.png)
 
+<br> 106. Click the **Expand** icon
+
+107. Click **2021**
+
+108. Click **OK**
+
+![Image 106_107_108](https://user-images.githubusercontent.com/90856848/137994376-8e64baa4-0818-4fb0-ab82-3b8f24ab1b79.png)
+
+<br> You have now created a numeric point chart that displays Gross Margin filtered for only data in 2021. 
+
+109. Decrease the size of the Numeric Point Chart
+
+![Image 109](https://user-images.githubusercontent.com/90856848/137994450-af633095-8423-449a-925a-e22706f2aa9b.png)
+
+<br> Let us use SAP Analytics Cloud's duplicate chart functionality to easily create our other KPIs. 
+
+110. Click the **More** icon
+
+111. Click **Copy**
+
+112. Click **Duplicate**
+
+![Image 110_111_112](https://user-images.githubusercontent.com/90856848/137994536-93b59d50-dd2c-4f0f-abac-17d38569057d.png)
+
+<br> **Quality check!** Has your dashboard updated with a copied KPI chart like this screenshot? 
+
+![Quality Check 5](https://user-images.githubusercontent.com/90856848/137994604-f78ff270-2a04-4c99-9556-89d3382d205c.png)
+
+<br> We want to create a new KPI of Sales Revenue like our first chart of Gross Margins. Since we duplicated the KPI, our previously applied date filter will be automatically applied to our new KPI. Let us now change the measure of our second KPI. 
+
+113. Deselect the Gross Margin measure for your new chart by clicking **Remove**
+
+114. Click **Add Measure**
+
+![Image 113_114](https://user-images.githubusercontent.com/90856848/137994720-c71681d7-6171-4190-ac11-dc0a7cf95ba9.png)
+
+<br> 115. Scroll until **Sales Revenue** is visible
+
+116. Click **Sales Revenue**
+
+117. Click Inside the Builder Panel to Collapse the Measure Selection Drop Down Menu
+
+![Image 115_116_117](https://user-images.githubusercontent.com/90856848/137994817-313c1585-f8da-4d4d-ab9b-a2a7a09aad98.png)
+
+<br> Now that we are satisfied with our second KPI for Sales Revenue, let us duplicate this chart again to create a KPI that calculates average sales revenue. 
+
+118. Click the **More** icon
+
+119. Click **Copy**
+
+120. Click **Duplicate**
+
+![Image 118_119_120](https://user-images.githubusercontent.com/90856848/137994876-ff3c9657-4fec-49e3-a60e-de5c531b3c4c.png)
+
+<br> We currently do not have a measure for our average sales revenue by store in our model. Hence, let us create a calculation to track this metric on our dashboard. 
+
+121. Remove Sales Revenue as a Measure
+
+122. Click **Add Measure **
+
+![Image 121_122](https://user-images.githubusercontent.com/90856848/137994960-6515a7c9-5632-4e72-8f66-8d1df87a6212.png)
+
+<br> Click **Create Calculation** in **Add Measure**
+
+![Image 123](https://user-images.githubusercontent.com/90856848/137995024-c34a8f38-e1cb-42ae-9d0d-405cc9266b62.png)
+
+<br> We want to calculate the average sales revenue by store for our company. This will require an aggregation of all sales revenue averaged by number of stores. We can create this in the Aggregation Calculation Type. 
+
+124. Select **Aggregation** as Calculation Type
+
+![Image 124](https://user-images.githubusercontent.com/90856848/137995115-e628f923-c48b-4336-b88c-5560d32d4b27.png)
+
+<br> 125. Click **Expand** for **Operation**
+
+126. Scroll till AVERAGE is Visible
+
+127. Click **AVERAGE**
+
+![Image 125_126_127](https://user-images.githubusercontent.com/90856848/137995225-83e32c59-4229-43f9-aebb-896db54fc98a.png)
+
+
 
 
 
