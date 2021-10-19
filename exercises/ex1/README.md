@@ -435,3 +435,26 @@ We will cover calculations in more detail for business analytics use cases in ou
 
 ![Image 96_97](https://user-images.githubusercontent.com/90856848/137991293-6d1655d1-60c9-458b-90fc-642a4710131f.png)
 
+<br> 98. **Click Target**
+
+99. **Click Numeric Point**
+
+![Image 98_99](https://user-images.githubusercontent.com/90856848/137993390-7e14db61-a527-418d-9cd0-a5e661934121.png)
+
+<br> 100. Click **Add Measure **
+
+![Image 100](https://user-images.githubusercontent.com/90856848/137993462-8908f81b-9664-40b7-9bb5-dccb70cb9bb8.png)
+
+<br> Let us use Gross Margin as our first KPI. 
+
+101. Scroll untill Gross Margin is visible
+
+102. Click **Gross Margin**
+
+103. Click Inside the Builder Panel to Collapse the Measure Selection Drop Down Menu
+
+![Image 101_102_103](https://user-images.githubusercontent.com/90856848/137993553-d6dd7fc7-b4fe-4617-bfea-f6d9bb2fdd07.png)
+
+
+
+
