@@ -61,9 +61,28 @@ We have just added an empty chart to our story and now we want to start adding m
 
 ![alt text](https://github.com/SAP-samples/teched2021-ANA260/blob/main/exercises/ex1/images/Image%209.png)
 
-## Summary
+12. Click **Add Dimension **
 
-You've now ...
+![alt text](https://github.com/SAP-samples/teched2021-ANA260/blob/main/exercises/ex1/images/Image%2012.png)
 
-Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
+13. Scroll till you find **Region**
 
+Within the Dimension Selection Menu, a hierarchy icon is displayed next to hierarchaldimensions. Dimensions with attributes can be further expanded within the menu.
+
+14. Click **Region**
+
+15. Click Inside the Builder Panel to Collapse the Measure Selection Drop Menu
+
+![alt text](https://github.com/SAP-samples/teched2021-ANA260/blob/main/exercises/ex1/images/Image%2013_14_15.png)
+
+
+We have now created our first bar chart using the Builder Panel.
+
+16. Resize the chart to be wider
+
+![alt text](https://github.com/SAP-samples/teched2021-ANA260/blob/main/exercises/ex1/images/Image%2016.png)
+
+  
+**Quality Check!** Does our story page look like the screenshot? 
+
+![alt text](https://github.com/SAP-samples/teched2021-ANA260/blob/main/exercises/ex1/images/Quality%20check%201.png)
