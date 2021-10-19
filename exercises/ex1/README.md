@@ -369,6 +369,38 @@ We will cover calculations in more detail for business analytics use cases in ou
 
 ![image 81_82](https://user-images.githubusercontent.com/90856848/137979310-1d12cb34-c7d6-4fb5-9283-5b0b0b8c6e67.png)
 
+<br> Now let’s use our newly made calculation in our table and remove the previous measure. 
+
+83. Click **Filter** on Account in Columns
+
+![image 83](https://user-images.githubusercontent.com/90856848/137989991-811df258-030d-4a46-93e4-e3b6fc57b818.png)
+
+<br> 84. Deselect **Gross Margin**
+
+85. Click **OK**
+
+![Image 84_85](https://user-images.githubusercontent.com/90856848/137990159-b5f17322-b34f-4880-89c2-af42b0b9d27f.png)
+
+<br> Now that we have our desired measure, let’s expand the Order Date column to see our values on a yearly basis. 
+
+86. Click **> (All)** to Expand the Order Date Dimension
+
+![image 86](https://user-images.githubusercontent.com/90856848/137990257-64901f37-9ad8-411f-88d0-c708a6314080.png)
+
+<br> We want to hide the all column that aggregates Gross Margin %. 
+
+87. Right Click the **All Order Date Column**
+
+88. Click **Hide Column**
+
+![Image 87_88](https://user-images.githubusercontent.com/90856848/137990379-2df94ee6-2b7b-4476-9ef6-e98c27f14531.png)
+
+<br> Our table should look like this screenshot now. Since our calculation is a percentage, we will now change the formatting of our values to improve our table visualization. 
+
+![Image 88](https://user-images.githubusercontent.com/90856848/137990473-4703cc71-5fb0-442e-8ede-4d82fb4b50bf.png)
+
+
+
 
 
 
