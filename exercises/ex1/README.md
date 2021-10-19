@@ -455,6 +455,16 @@ We will cover calculations in more detail for business analytics use cases in ou
 
 ![Image 101_102_103](https://user-images.githubusercontent.com/90856848/137993553-d6dd7fc7-b4fe-4617-bfea-f6d9bb2fdd07.png)
 
+<br> We should add a date filter on our KPI, so the context is more relevant to a business analyst looking for actionable insights. Let us filter data for the current year. 
+
+104. Click **Add Filters**
+
+![image104](https://user-images.githubusercontent.com/90856848/137993674-81bc10dd-13d5-45e3-891a-191417334e3a.png)
+
+<br> 105. Click **Order Date (Member)**
+
+![Image 105](https://user-images.githubusercontent.com/90856848/137993790-445062df-c582-4001-b84a-61c4a8c2eb8e.png)
+
 
 
 
