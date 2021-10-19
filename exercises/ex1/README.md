@@ -399,10 +399,21 @@ We will cover calculations in more detail for business analytics use cases in ou
 
 ![Image 88](https://user-images.githubusercontent.com/90856848/137990473-4703cc71-5fb0-442e-8ede-4d82fb4b50bf.png)
 
+<br> We can easily change the formatting and representation of our measures and calculations. 
 
+89. Click **Story Calculations**
 
+90. Click **Formatting**
 
+![Image 89_90](https://user-images.githubusercontent.com/90856848/137990609-6e7e78c5-0caa-4f38-aadf-b879be1f8bda.png)
 
+<br> 91. Deselect **Use Unit of Underlying Measures**
+
+92. Change Scale to **Percentage**
+
+93. Change Decimal places to 0
+
+94. Click **OK**
 
 
 
