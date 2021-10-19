@@ -1,4 +1,4 @@
-# Exercise 1 - Exercise 1 Description
+# Exercise 1 - Creating Your First Story
 
 In this exercise, we will create...
 
