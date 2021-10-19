@@ -571,4 +571,32 @@ We will cover calculations in more detail for business analytics use cases in ou
 
 ![Quality Check 6](https://user-images.githubusercontent.com/90856848/137995743-a107a55f-1b68-4241-a7dd-42667a22950a.png)
 
+<br> At this stage, you should save your first story. 
+
+135. Click **File** 
+
+136. Click **Save**
+
+137. Click **Save**
+
+![Image 135_136_137](https://user-images.githubusercontent.com/90856848/137997594-45a05e2c-e770-4a06-9e5c-c138748d9844.png)
+
+<br> 138. Save your story in My Files as **ANA260_ Your Initials**
+
+139. Click **OK**
+
+![Image 138_139](https://user-images.githubusercontent.com/90856848/137997679-c3218706-0bc8-43bd-ada2-5f80ebc37221.png)
+
+<br> You can also save your story by pressing **Ctrl + S** on your keyboard
+
+![Image 139](https://user-images.githubusercontent.com/90856848/137997730-de780fc1-a9a3-41c2-bf0b-2bacdf70c955.png)
+
+<br> You have completed **Creating Your First Story!** 
+  
+Please continue with the next section **Linked Analysis and Input Controls**. We will also improve the styling of this dashboard in** Section 4 - Theme and Style!**
+
+![Final Picture](https://user-images.githubusercontent.com/90856848/137997823-ed675788-ac8a-4c9a-9ddc-3c3a0795dd54.png)
+
+
+
 
