@@ -264,7 +264,7 @@ Please note your data will look different from this chart's values due to the dy
 
 ![Image 58_59](https://user-images.githubusercontent.com/90856848/137972974-0195f8b2-8ee2-40e9-b2e6-ac3e3ff1f741.png)
 
-<br> 60. Under **Rows** Click **+ Add Measures/Dimensions **
+<br> 60. Under **Rows** Click **+ Add Measures/Dimensions**
 
 ![Image 60](https://user-images.githubusercontent.com/90856848/137977280-1e94e91b-9ac1-4617-aded-d50bc9abdebb.png)
 
@@ -359,7 +359,7 @@ We will cover calculations in more detail for business analytics use cases in ou
 
 79. Type in **"Sal"**
 
-80. Click **["ANA260_ORDER_FINANCE":Sales_Revenue] **
+80. Click **["ANA260_ORDER_FINANCE":Sales_Revenue]**
 
 ![Image 78_79_80](https://user-images.githubusercontent.com/90856848/137979177-9ac3a396-215f-49f0-b63c-31b4211d7f65.png)
 
@@ -441,7 +441,7 @@ We will cover calculations in more detail for business analytics use cases in ou
 
 ![Image 98_99](https://user-images.githubusercontent.com/90856848/137993390-7e14db61-a527-418d-9cd0-a5e661934121.png)
 
-<br> 100. Click **Add Measure **
+<br> 100. Click **Add Measure**
 
 ![Image 100](https://user-images.githubusercontent.com/90856848/137993462-8908f81b-9664-40b7-9bb5-dccb70cb9bb8.png)
 
@@ -523,7 +523,7 @@ We will cover calculations in more detail for business analytics use cases in ou
 
 121. Remove Sales Revenue as a Measure
 
-122. Click **Add Measure **
+122. Click **Add Measure**
 
 ![Image 121_122](https://user-images.githubusercontent.com/90856848/137994960-6515a7c9-5632-4e72-8f66-8d1df87a6212.png)
 
@@ -593,7 +593,7 @@ We will cover calculations in more detail for business analytics use cases in ou
 
 <br> You have completed **Creating Your First Story!** 
   
-Please continue with the next section **Linked Analysis and Input Controls**. We will also improve the styling of this dashboard in** Section 4 - Theme and Style!**
+Please continue with the next section **Linked Analysis and Input Controls**. We will also improve the styling of this dashboard in **Section 4 - Theme and Style!**
 
 ![Final Picture](https://user-images.githubusercontent.com/90856848/137997823-ed675788-ac8a-4c9a-9ddc-3c3a0795dd54.png)
 
