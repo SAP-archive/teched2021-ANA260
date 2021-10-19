@@ -51,7 +51,7 @@ We have just added an empty chart to our story and now we want to start adding m
 
 ![alt text](https://github.com/SAP-samples/teched2021-ANA260/blob/main/exercises/ex1/images/image%208.png)
 
-9. Scroll till you find **Sales Revenue**
+9. Scroll untill you find **Sales Revenue**
 
 10. Click S**ales Revenue**
 
@@ -63,7 +63,7 @@ We have just added an empty chart to our story and now we want to start adding m
 
 ![alt text](https://github.com/SAP-samples/teched2021-ANA260/blob/main/exercises/ex1/images/Image%2012.png)
 
-13. Scroll till you find **Region**
+13. Scroll untill you find **Region**
 
 <br> Within the Dimension Selection Menu, a hierarchy icon is displayed next to hierarchaldimensions. Dimensions with attributes can be further expanded within the menu.
 
@@ -142,7 +142,7 @@ We have just added an empty chart to our story and now we want to start adding m
 
 ![Image 31](https://user-images.githubusercontent.com/90856848/137967572-42c31ef3-dbf3-45bf-8e3f-b76feb85419d.png)
 
-<br> 32. Scroll till **Workout Usage** is Visible
+<br> 32. Scroll untill **Workout Usage** is Visible
 
 33. Click **Workout Usage**
 
@@ -255,6 +255,120 @@ Please note your data will look different from this chart's values due to the dy
 <br> We use the CGR added to the chart that compared to look at our compound growth rate in the year. If the CGR is negative it could be alarming information for the business user
 
 ![Image 57](https://user-images.githubusercontent.com/90856848/137972347-d430a655-fc5b-4c14-b3a1-31e5e137e1d5.png)
+
+<br> Let us add a table to our story to examine our Gross Margin contribution by each Sales Manager. Since Sales Manager is a high cardinality dimension with a lot of members, it is recommended to view this data in a table. 
+
+58. Click **Insert** 
+
+59. Click **Table**
+
+![Image 58_59](https://user-images.githubusercontent.com/90856848/137972974-0195f8b2-8ee2-40e9-b2e6-ac3e3ff1f741.png)
+
+<br> 60. Under **Rows** Click **+ Add Measures/Dimensions **
+
+![Image 60](https://user-images.githubusercontent.com/90856848/137977280-1e94e91b-9ac1-4617-aded-d50bc9abdebb.png)
+
+<br> 61. Scroll untill **Product** and **Sales Manager** is visible
+
+62. Click **Product**
+
+63. Click **Sales Manager**
+ 
+64. Click inside the Builder Panel to Collapse the Measure/ Dimension Selection Drop Down Menu
+
+![Image 61_62_63_64](https://user-images.githubusercontent.com/90856848/137977475-e14757f7-800e-43c9-8b11-592c01d2a82d.png)
+
+<br> We can see that a table has been created to track Sales Managers. We can choose to expand the Product column to sort our table by Product Category contributions by each Manager. However, our table measure is currently set to Discount. Let’s change it to Gross Margin. 
+
+![Image 64](https://user-images.githubusercontent.com/90856848/137977602-5ee0a1ae-bf2a-4bcb-8fb9-72dbc793be6a.png)
+
+<br> 65. Return to the Builder Panel. Click **Filter** on Account Column
+
+![Image 65](https://user-images.githubusercontent.com/90856848/137977680-0a2bbc52-85f9-4d19-81a5-5662e48dba80.png)
+
+<br> 66. **Deselect Discount**
+
+67. Select **Gross Margin**
+
+68. Click **OK**
+
+![image 66_67_68](https://user-images.githubusercontent.com/90856848/137977807-3c040055-e028-4849-baad-9dee3aa85fff.png)
+
+<br> We have created a table to show contributions of Sales Manager to Gross Margin; however, this value is an aggregate over the entire period spanning the model. We would like to breakdown on Order Date to better interpret the yearly contributions of each Sales Manager to 
+Gross Margin 
+
+![Image 68](https://user-images.githubusercontent.com/90856848/137977889-82e2fef3-063f-4512-858f-6644f5f06728.png)
+
+<br> 69. Under **Columns** Click **+ Add Measures/Dimensions**
+
+![Image 69](https://user-images.githubusercontent.com/90856848/137977994-c55411e2-86a8-45ef-a40f-bc397e3e9bc7.png)
+
+<br> 70. Scroll untill Order Date is Visible
+
+71. Click **Order Date**
+
+72. Click inside the Builder Panel to Collapse the Measure/ Dimension Selection Drop Down Menu
+
+![Image 70_71_72](https://user-images.githubusercontent.com/90856848/137978113-fd5b3b06-d6ab-4ad1-bfea-20b3fb233868.png)
+
+<br> **Quality Check!** Does your table have the Product, Sales Manager, and Gross Margins columns? 
+
+There has been an Order Date field added to our table. If we expand on all, Gross Margin will be separated into yearly sums. We want to see our Gross Margin % in our table but we currently do not have that measure in our data model. We can create the Gross Margin % measure as a calculation with the Sales Revenue and Gross Margin measures
+
+![Quality Check 3](https://user-images.githubusercontent.com/90856848/137978245-4ac60fa9-c59f-41bb-a004-a24999f17150.png)
+
+<br> We may be looking for more insights from our data and can do so by creating a calculation! 
+
+73. Click the **More** Icon for Account
+
+74. Click **Add Calculation**
+
+![Image 73_74](https://user-images.githubusercontent.com/90856848/137978372-38974189-aca5-471d-8fe7-fca367f1da87.png)
+
+<br> Welcome to the Calculation Editor! 
+  
+The Calculation Editor allows you to create calculations for use in a chart or table. There are various types of calculations that a user can create which include:  
+  
+1. **Calculated Measures**: Perform a  calculation on one or more measures
+
+3. **Restricted Measures**: Restrict the data from a measure so that it excludes certain members of one or more dimensions  
+
+5. **Difference From**: Find the difference in a measure's value between two points in time for a single time dimension  
+ 
+4. **Aggregation**: Create an aggregation such as sum, count, count dimensions, max, and max  
+  
+5. **Date Difference**: Calculate the difference between two-time dimensions  
+  
+6. **Dimension to Measure**: Create a measure by converting a dimension to measure. 
+
+We will cover calculations in more detail for business analytics use cases in our **Section 7 - Calculations and Blending Deep Dive**. You can jump off to this section to learn more. 
+
+![Image 74](https://user-images.githubusercontent.com/90856848/137978728-f825539c-015a-4480-9c15-fc48b5a2230b.png)
+
+<br> 75. Click **Calculated Measure**
+
+![Image 75](https://user-images.githubusercontent.com/90856848/137978876-a1f5e2ff-680d-4acc-b26b-05adabcf321a.png)
+
+<br> 76. Click the formula field and enter **"gro"**
+
+77. Click **["ANA260_ORDER_FINANCE": Gross_Margin]**
+
+![Image 76_77](https://user-images.githubusercontent.com/90856848/137979038-613f7fcf-093d-4c87-8ae0-a1d7f7c76e6e.png)
+
+<br> 78. Type in **"/"** to indicate we want to divide in our calculation
+
+79. Type in **"Sal"**
+
+80. Click **["ANA260_ORDER_FINANCE":Sales_Revenue] **
+
+![Image 78_79_80](https://user-images.githubusercontent.com/90856848/137979177-9ac3a396-215f-49f0-b63c-31b4211d7f65.png)
+
+<br> 81. Name the measure **Gross Margin %**
+
+82. Click **OK**
+
+![image 81_82](https://user-images.githubusercontent.com/90856848/137979310-1d12cb34-c7d6-4fb5-9283-5b0b0b8c6e67.png)
+
 
 
 
