@@ -16,6 +16,18 @@ On this page, users can choose to import their own data, run a smart discovery o
 
 ![alt text](https://github.com/SAP-samples/teched2021-ANA260/blob/e204a03413e854f5807a951718ca4f324924eae0/exercises/ex1/images/image%202.png)
 
+Let’s start by adding in some charts. 
+
+3. Click **Insert** 
+
+![alt text](https://github.com/SAP-samples/teched2021-ANA260/blob/e55ed14b28058fb3f6e97a6880919a883d1bb21b/exercises/ex1/images/image%203.png)
+
+
+
+
+
+
+
 
 ## Summary
 
