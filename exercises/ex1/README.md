@@ -545,7 +545,30 @@ We will cover calculations in more detail for business analytics use cases in ou
 
 ![Image 125_126_127](https://user-images.githubusercontent.com/90856848/137995225-83e32c59-4229-43f9-aebb-896db54fc98a.png)
 
+<br> 128. Click **Expand** for **Operation**
 
+129. Click **Sales Revenue**
 
+![Image 128_129](https://user-images.githubusercontent.com/90856848/137995377-00b912c4-7dcb-49f3-89f9-c28118bbf2b3.png)
+
+<br> Here we are selecting the aggregation dimension that will be used to calculate our average. Since we want average sales revenue by store, we should change this dimension to Store. 
+
+130. Click **Expand** for **Aggregation Dimensions**
+
+131. Scroll till Store is Visible
+
+132. Click **Store**
+
+![Image 130_131_132](https://user-images.githubusercontent.com/90856848/137995484-d37e28c3-9d5b-46bb-9349-b7a74feea345.png)
+
+<br> 133. Rename the calculation to **Avg Sales Revenue**
+
+134. Click **OK**
+
+![Image 133_134](https://user-images.githubusercontent.com/90856848/137995657-dee75c9b-8f79-49f1-8caa-b0f73f49b3cc.png)
+
+<br> **Quality Check!** Do your numeric point charts have these values and measures on your story? Please note that your time chart may look different from this screenshot due to the dynamic date filter on YTD. 
+
+![Quality Check 6](https://user-images.githubusercontent.com/90856848/137995743-a107a55f-1b68-4241-a7dd-42667a22950a.png)
 
 
