@@ -415,6 +415,23 @@ We will cover calculations in more detail for business analytics use cases in ou
 
 94. Click **OK**
 
+![Image 91_92_93_94](https://user-images.githubusercontent.com/90856848/137990847-9feb9649-7bc3-430b-a24f-ff22e8bd88fe.png)
 
+<br> **Quality Check!** Does our table look like this screenshot? We have now formatted our chart so the % symbols for gross margin are indicated in the subtitle. This cleans up the table visualization. 
 
+![Quality Check 4](https://user-images.githubusercontent.com/90856848/137991025-72a18c2f-ed54-44cb-b280-468ec84aaff3.png)
+
+<br> Let us shift our focus back to our dashboard layout. We want to now add some KPIs that stand out for story viewers. 
+
+95. Select **Top Lane**
+
+![Image 95](https://user-images.githubusercontent.com/90856848/137991131-0f38faa3-82b3-4a70-83ce-adbe5ae0cc56.png)
+
+<br> Since this lane is in now at the top of our dashboard, let us add some easily viewable KPIs as numeric point charts in our story. Numeric point charts are a chart visualization that display the total of a measure and are best suited for highlighting key business KPIs. They can be filtered so the KPI describes a specific context relevant to the business user. 
+
+96. Click **Insert**
+
+97. Select **Chart**
+
+![Image 96_97](https://user-images.githubusercontent.com/90856848/137991293-6d1655d1-60c9-458b-90fc-642a4710131f.png)
 
