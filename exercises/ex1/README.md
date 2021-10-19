@@ -138,4 +138,61 @@ We have just added an empty chart to our story and now we want to start adding m
 
 ![Image 30](https://user-images.githubusercontent.com/90856848/137963208-2777abee-6879-4e3f-9bdb-c3f4cf943c5c.png)
 
+<br> 31. Under Color Click **+ Add Dimension/Measure**
+
+![Image 31](https://user-images.githubusercontent.com/90856848/137967572-42c31ef3-dbf3-45bf-8e3f-b76feb85419d.png)
+
+<br> 32. Scroll till **Workout Usage** is Visible
+
+33. Click **Workout Usage**
+
+34. Click Inside the Builder Panel to Collapse the Measure Selection Drop Down Menu
+
+![Image 32_33_34](https://user-images.githubusercontent.com/90856848/137967749-8966577b-f144-4498-8d49-dd9fe7955d9e.png)
+
+<br> Our bar chart is now divided in each product category by its Workout Usage. Using Color in charts is an effective way of mapping additional dimensions into a visualization. We can change our Chart Type to better visualize the dimensions we have selected. 
+
+![Image 34](https://user-images.githubusercontent.com/90856848/137967864-96b6bd25-6bb1-4697-8848-aaefaa83158d.png)
+
+<br> 35. Click **Bar/Column Tile**
+
+36. Click **Stacked Bar/Column**
+
+![Image 35_36](https://user-images.githubusercontent.com/90856848/137967984-3f3ed97f-ddea-4545-ac4e-39bae787715d.png)
+
+<br> We want to scale our chart so that the distribution of workout usage in each product category is easily comparable in percentages of the total. 
+
+37. Click **Show Chart as 100%**
+
+![Image 37](https://user-images.githubusercontent.com/90856848/137968133-4cb118f9-5244-455f-80bc-cbe1683ba0ea.png)
+
+<br> 38. Resize the chart to be Wider
+
+![image 38](https://user-images.githubusercontent.com/90856848/137968197-0e34f1e3-5d4f-490b-820a-5b8378d80db3.png)
+
+<br> **Quality Check!** Does the Stacked Bar Chart in your story show up like this? 
+
+Our chart visualization now displays for us the proportional distribution of gross margins in each Product Category based on their Workout Usage. This enables us to quickly analyze the contribution of the Workout Usage dimension within a Product Category
+
+![Quality check 2](https://user-images.githubusercontent.com/90856848/137968340-b2bd3573-4608-445a-8d02-27cd2ae3a25d.png)
+
+<br> We now want to analyze how our gross margin has been performing over time. Let us build a chart with a time dimension to display this data. 
+
+39. Click **Insert**
+
+40. Click **Chart**
+
+![Image 39_40](https://user-images.githubusercontent.com/90856848/137968527-bff8353d-db89-48fb-a1bf-a3169ba45b77.png)
+
+<br> Click **+ Add Measure**
+
+![Image 41](https://user-images.githubusercontent.com/90856848/137968639-5b3d1a68-b54a-4950-9042-8f42b5e18df9.png)
+
+
+
+
+
+
+
+
 
