@@ -184,7 +184,7 @@ Our chart visualization now displays for us the proportional distribution of gro
 
 ![Image 39_40](https://user-images.githubusercontent.com/90856848/137968527-bff8353d-db89-48fb-a1bf-a3169ba45b77.png)
 
-<br> Click **+ Add Measure**
+<br> 41. Click **+ Add Measure**
 
 ![Image 41](https://user-images.githubusercontent.com/90856848/137968639-5b3d1a68-b54a-4950-9042-8f42b5e18df9.png)
 
