@@ -5,7 +5,7 @@
 
 To start off, we want to add another lane to our story where viewers can choose specific filters to apply to the page and even change measures and dimensions in charts.
 
-1. Click the **Bottom Lane **
+1. Click the **Bottom Lane**
 
 2. Click the **More** Action on the Lane
 
