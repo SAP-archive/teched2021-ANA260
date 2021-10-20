@@ -50,3 +50,46 @@ Selecting All Members in the Filter dialogue populates the input control with al
 Quality Check! This is what your dashboard should look like after creating the input control. 
 
 ![img7](https://user-images.githubusercontent.com/92877810/138147325-74760d6f-75b2-433e-a89b-91d0188ec329.png)
+
+You have just made a Page Filter Input Control for Region. Let us make another Page Filter for Product. 
+
+14. Click **Insert**
+
+15. Clicking **Insert Input Control**
+
+![img8](https://user-images.githubusercontent.com/92877810/138147801-c8f25aab-1c1e-4c9f-961c-89826d3aa811.png)
+
+16. Click **Dimensions**
+
+17. Click **Product**
+
+![img9](https://user-images.githubusercontent.com/92877810/138147803-157c49b5-3ffd-4d3a-9c99-45aeb339fc38.png)
+
+Unlike **Region, Product** has additional properties attached to it. We're interested in filtering out the product itself, so we must now select it.  
+
+18. Click **Product (Dimension)**
+
+![img10](https://user-images.githubusercontent.com/92877810/138147804-b8ad2528-50af-4e90-8f02-36cc38057ac1.png)
+
+19. Click **OK**
+
+20. Click **All Members**
+
+![img11](https://user-images.githubusercontent.com/92877810/138147806-d8c8a1e4-5ba9-486b-b5ae-e2458fbd4ad7.png)
+
+Quality Check! Do our Page Filter Input Controls look like this? 
+
+Now that we have a Product input control, lets focus the entire dashboard to see how we are performing when it comes to Footwear and Clothing. 
+
+![img12](https://user-images.githubusercontent.com/92877810/138147807-2b291c88-68f5-4eb5-b1f5-a88397ba23a8.png)
+
+21. Click **Product**
+
+22. Click **Expand (All)**
+
+23. Deselect **Accessories.** So only **Clothing** and **Footwear** are selected
+
+24. Click outside to collapse the Input Control
+
+![img13](https://user-images.githubusercontent.com/92877810/138147809-e3528f2d-b68c-425a-a234-a51a58ef376a.png)
+
