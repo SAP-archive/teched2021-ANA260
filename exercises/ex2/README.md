@@ -315,7 +315,7 @@ Do you see your linked charts change when highlighting a Sales Manager? Notice h
 
 ![img46](https://user-images.githubusercontent.com/92877810/138149963-129790a6-fe35-4b58-b15b-b46c649b7b8c.png)
 
-Save your story by pressing Ctrl + S
+Save your story by pressing **Ctrl + S**
 
 ![img47](https://user-images.githubusercontent.com/92877810/138149965-f38d924e-c107-43d8-89f1-45ca82d390ed.png)
 
