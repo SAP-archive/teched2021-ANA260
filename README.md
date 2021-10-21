@@ -25,7 +25,7 @@ Our exercises build on the previous exercise for a holistic learning experience.
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
 - [Getting Started](exercises/ex0/)
-- [Section 1 - Creating Your First Story](exercises/Section 1 - Creating Your First Story/README.md/)
+- [Section 1 - Creating Your First Story](exercises/Section%201%20-%20Creating%20Your%20First%20Story/README.md/)
 - [Section 2 - Linked Analysis and Input Controls](exercises/ex2/)
 - [Section 3 - Geo Maps, Thresholds, and Variance](exercises/ex2/)
 
