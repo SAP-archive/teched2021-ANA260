@@ -7,7 +7,8 @@ In this exercise, you will...
 After completing these steps you will have....
 
 1.	Click here.
-<br>![](/exercises/Section_0/images/00_00_0010.png)
+<br>![](![00_00_0010](https://user-images.githubusercontent.com/92877810/138263988-39679a1a-678e-402d-ba6f-806086d79b86.png)
+)
 
 2.	Insert this code.
 ``` abap
