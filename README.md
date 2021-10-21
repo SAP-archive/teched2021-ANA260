@@ -14,9 +14,9 @@ This session consists of a series of exercises to introduce you to the most inno
 
 We will be using a provided SAP Analytics Cloud tenant for these exercises.
 
-Tenant URL: https://ana161.eu10.hcs.cloud.sap/
+Tenant URL: https://ana161.eu10.hcs.cloud.sap/ (to be updated)
 
-Users: User List
+Users: User List (to be updated)
 
 Our exercises build on the previous exercise for a holistic learning experience. For newer users, it is recommended to follow the exercises in order. You may find each completed exercise as a story that can be duplicated from the Public/TechEd folder on the tenant. This allows you to personalize your session experience by moving to the section most interesting to you.
 
