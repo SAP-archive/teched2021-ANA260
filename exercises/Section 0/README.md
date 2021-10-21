@@ -7,7 +7,7 @@ In this exercise, you will...
 After completing these steps you will have....
 
 1.	Click here.
-<br>![](/exercises/Section 0/images/00_00_0010.png)
+<br>![](/exercises/Section_0/images/00_00_0010.png)
 
 2.	Insert this code.
 ``` abap
