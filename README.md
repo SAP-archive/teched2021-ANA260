@@ -23,8 +23,9 @@ Our exercises build on the previous exercise for a holistic learning experience.
 ## Exercises
 
 - [Section 1 - Creating Your First Story](exercises/Section%201%20-%20Creating%20Your%20First%20Story/README.md/)
-- [Section 2 - Linked Analysis and Input Controls](exercises/ex2/)
-- [Section 3 - Geo Maps, Thresholds, and Variance](exercises/ex2/)
+- [Section 2 - Linked Analysis and Input Controls](exercises/Section%202%20-%20Linked%20Analysis%20and%20Input%20Controls/README.md/)
+- [Section 3 - Geo Maps, Thresholds, and Variance](exercises/Section%203%20-%20Geo%20Maps,%20Thresholds,%20and%20Variance/README.md/)
+- [Section 4 - Theme and Style](exercises/Section%204%20-%20Theme%20and%20Style/README.md/)
 
 
 ## How to obtain support
