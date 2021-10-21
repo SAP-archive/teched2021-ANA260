@@ -22,21 +22,11 @@ Our exercises build on the previous exercise for a holistic learning experience.
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
-
 - [Getting Started](exercises/ex0/)
 - [Section 1 - Creating Your First Story](exercises/Section%201%20-%20Creating%20Your%20First%20Story/README.md/)
 - [Section 2 - Linked Analysis and Input Controls](exercises/ex2/)
 - [Section 3 - Geo Maps, Thresholds, and Variance](exercises/ex2/)
 
-  
-**OR** Link to the Tutorial Navigator for example...
-
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
-
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
 
 ## How to obtain support
 
