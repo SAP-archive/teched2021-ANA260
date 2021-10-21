@@ -120,11 +120,55 @@ We want to remove the empty header in our top lane and create a summary lane wit
 
 ![4-13](https://user-images.githubusercontent.com/92877810/138348473-78fc7b60-8787-4176-bda6-1693fde1b929.png)
 
+21. Click and Drag the Numeric Point Chart to the Right 
+
+22. Drop the Numeric Point Chart Here 
 
 ![4-14](https://user-images.githubusercontent.com/92877810/138348475-a8046a07-a80d-4608-8e92-9f4ea454c7cd.png)
+
+23. Click and Drag the Numeric Point Chart to the Right 
+ 
+24. Drop the Numeric Point Chart Here 
+
 ![4-15](https://user-images.githubusercontent.com/92877810/138348476-554b7e2e-d352-41d7-a184-e0db396473f2.png)
+
+25. Click and Drag the Numeric Point Chart to the Right 
+ 
+26. Drop the Numeric Point Chart Here 
+
 ![4-16](https://user-images.githubusercontent.com/92877810/138348478-f6fe2cee-5e02-4076-8e66-e4e8087c0608.png)
+
+ℹ
+
+We have created some space on the left of our top lane for corporate branding covered later in this section. Let’s edit the charts on our dashboard to declutter the view. 
+
 ![4-17](https://user-images.githubusercontent.com/92877810/138348479-a79845e6-bdea-4acc-a2b8-f9628004aa1e.png)
+
+27. Hold Shift and Left Click the Three  Numeric Point Charts 
+
 ![4-18](https://user-images.githubusercontent.com/92877810/138348481-f0a4feee-94fd-4d7f-a745-b53bf490ba6d.png)
+
+28. Click **More**
+
+👉
+
+We can choose to hide a variety of different details on our charts so only the important elements are visible. Let’s hide the chart title for now. 
+
+29. Click **Show/Hide**
+
+30. Deselect **Chart Title**
+
 ![4-19](https://user-images.githubusercontent.com/92877810/138348482-04bed594-7ad1-4847-af78-d181a62bbd24.png)
+
+👉
+
+We can also easily customize the backgrounds of each lane to section our dashboard into logical segments. Let’s accent our top lane to highlight the KPIs. 
+
+31. Click the **Top Lane** with the Numeric Point Charts 
+ 
+32. Click **Designer** to Open the Styling Point Charts
+
 ![4-20](https://user-images.githubusercontent.com/92877810/138348483-b13cc43e-2d3e-451f-a624-17b127bf5448.png)
+
+
+
