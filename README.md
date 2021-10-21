@@ -8,7 +8,7 @@ This repository contains the material for the SAP TechEd 2021 session called ANA
 
 This session consists of a series of exercises to introduce you to the most innovative features in SAP Analytics Cloud. You will learn how to create your first story, use the newest data visualization features, harness smart analytics to get the most from your data, and build impactful stories.
 
-(reword***) For the more experienced SAP Analytics Cloud users, we have also included additional in-depth content in our Jump Off sections. These will teach you our best practices and most powerful features for creating calculations and blending data, building versatile geo visualizations, manipulating time dimensions, and showcasing your work in Digital Boardroom.
+We've also included additional content for expereinced users, which will teach best practices and how to use SAC features to create calculations, blend data, build versatile geo visualizations, manipulate time dimensions, and showcase your work in Digital Boardroom.
 
 ## Instructions to Log onto Tenant
 
