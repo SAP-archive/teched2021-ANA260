@@ -6,40 +6,39 @@ As a business analyst for the BestRun company, we are interested in a business i
 
 1. Click **Create Your First Story**
 
-![alt text](https://github.com/SAP-samples/teched2021-ANA260/blob/1197ce5c47a4c2820bbfecb5590fa0fbbaa69a3c/exercises/ex1/images/Image%201.png)
+![Image 1](https://user-images.githubusercontent.com/90856848/138345550-bcaa9493-36dc-4dca-b148-04827f22dc2d.png)
 
-Welcome to **Start Your Story Page!**
+<br> Welcome to **Start Your Story Page!**
   
 On this page, users can choose to import their own data, run a smart discovery on their data, add a responsive, canvas, or grid page, or start their story using a template. We are interested in exploring our data and the dimensions and measures we can analyze before we create a dashboard. 
 
 2. Click **Responsive** 
 
-![alt text](https://github.com/SAP-samples/teched2021-ANA260/blob/e204a03413e854f5807a951718ca4f324924eae0/exercises/ex1/images/image%202.png)
+![image 2](https://user-images.githubusercontent.com/90856848/138345633-6f60e8b2-01e4-4a76-8473-f7ac522420c2.png)
 
 <br> Let’s start by adding in some charts. 
 
 3. Click **Insert** 
 
-![alt text](https://github.com/SAP-samples/teched2021-ANA260/blob/e55ed14b28058fb3f6e97a6880919a883d1bb21b/exercises/ex1/images/image%203.png)
+![image 3](https://user-images.githubusercontent.com/90856848/138345734-9d5d535d-96ef-4120-b4b4-cb3076269197.png)
 
+<br> 4. Click **Chart**
 
-4. Click **Chart**
-
-![alt text](https://github.com/SAP-samples/teched2021-ANA260/blob/main/exercises/ex1/images/Image%204.png)
+![Image 4](https://user-images.githubusercontent.com/90856848/138345773-f4008930-c87d-48a8-9e28-9b7fb92c912e.png)
 
 <br> The data we will be using was already uploaded by a colleague in the Finance department. Let us access this model from the Public/TechEd folder in our tenant. 
 
 5. Click **Public**
 
-![alt text](https://github.com/SAP-samples/teched2021-ANA260/blob/main/exercises/ex1/images/image%205.png)
+![image 5](https://user-images.githubusercontent.com/90856848/138345799-d9424d9d-93c1-4f92-a7a2-7b48e5e92a50.png)
 
-6. Click **TechEd 2021**
+<br> 6. Click **TechEd 2021**
 
-![alt text](https://github.com/SAP-samples/teched2021-ANA260/blob/main/exercises/ex1/images/image%206.png)
+![image 6](https://user-images.githubusercontent.com/90856848/138345832-b330da8a-01c2-4b32-a435-72cc196234d2.png)
 
-7. Click **ANA260_ORDER_FINANCE**
+<br> 7. Click **ANA260_ORDER_FINANCE**
 
-![alt text](https://github.com/SAP-samples/teched2021-ANA260/blob/main/exercises/ex1/images/Image%207.png)
+![Image 7](https://user-images.githubusercontent.com/90856848/138345891-0f43ca72-86d0-4594-a7d6-bc44289a5b9e.png)
 
 <br> Welcome to the Builder Panel!  
   
@@ -49,39 +48,39 @@ We have just added an empty chart to our story and now we want to start adding m
 
 8. Click **Add Measure**
 
-![alt text](https://github.com/SAP-samples/teched2021-ANA260/blob/main/exercises/ex1/images/image%208.png)
+![image 8](https://user-images.githubusercontent.com/90856848/138345940-634d5da3-6a22-4174-bb1f-7a4756e8b8d3.png)
 
-9. Scroll untill you find **Sales Revenue**
+<br> 9. Scroll untill you find **Sales Revenue**
 
 10. Click S**ales Revenue**
 
 11. Click Inside the Builder Panel to Collapse the Measure Selection Drop Menu
 
-![alt text](https://github.com/SAP-samples/teched2021-ANA260/blob/main/exercises/ex1/images/Image%209.png)
+![Image 9](https://user-images.githubusercontent.com/90856848/138346008-0b98d4b3-d50e-42ce-abc9-61ed585a61f9.png)
 
-12. Click **Add Dimension**
+<br> 12. Click **Add Dimension**
 
-![alt text](https://github.com/SAP-samples/teched2021-ANA260/blob/main/exercises/ex1/images/Image%2012.png)
+![Image 12](https://user-images.githubusercontent.com/90856848/138346155-7a8a9727-c156-4951-80fd-2325d3d28ba3.png)
 
-13. Scroll untill you find **Region**
+<br> 13. Scroll untill you find **Region**
 
-<br> Within the Dimension Selection Menu, a hierarchy icon is displayed next to hierarchaldimensions. Dimensions with attributes can be further expanded within the menu.
+Within the Dimension Selection Menu, a hierarchy icon is displayed next to hierarchaldimensions. Dimensions with attributes can be further expanded within the menu.
 
 14. Click **Region**
 
 15. Click Inside the Builder Panel to Collapse the Measure Selection Drop Menu
 
-![alt text](https://github.com/SAP-samples/teched2021-ANA260/blob/main/exercises/ex1/images/Image%2013_14_15.png)
+![Image 13_14_15](https://user-images.githubusercontent.com/90856848/138346280-c19ab312-9ec8-40d2-a5d3-4e07c1e1897a.png)
 
 <br> We have now created our first bar chart using the Builder Panel.
 
 16. Resize the chart to be wider
 
-![alt text](https://github.com/SAP-samples/teched2021-ANA260/blob/main/exercises/ex1/images/Image%2016.png)
-  
+![Image 16](https://user-images.githubusercontent.com/90856848/138346335-64195781-1b71-4273-9cb3-9a101aff8ea1.png)
+
 <br> **Quality Check!** Does our story page look like the screenshot? 
 
-![alt text](https://github.com/SAP-samples/teched2021-ANA260/blob/main/exercises/ex1/images/Quality%20check%201.png)
+![Quality check 1](https://user-images.githubusercontent.com/90856848/138346373-46d6d074-c289-4291-9eca-644566236695.png)
 
 <br> 17. We can easily change the layout of our story page. Click and drag the **Right Lane** to the **Top**
 
