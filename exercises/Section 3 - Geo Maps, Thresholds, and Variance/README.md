@@ -109,3 +109,205 @@ Quality check! Does your geo map now look like this screenshot?
 
 ![3-20](https://user-images.githubusercontent.com/92877810/138260799-1b3045eb-3ab4-407e-bf96-f5b28ced95bd.png)
 
+Up to this point, we have created a lot of visualizations. For us to easily draw conclusions and highlight key insights, we should add variances and thresholds on our charts in our dashboard so we can draw attention to changes and outliers. 
+
+![3-21](https://user-images.githubusercontent.com/92877810/138261811-ccb46f24-2b2e-44cd-bc9f-65e5babceb12.png)
+
+First, let us add a variance to our KPI for average sales revenue in stores so we can compare if average sales revenue has dropped this year relative to our previous year's performance. If you can recall, our KPIs currently have a 2021 time filter applied on them. 
+
+19. Right Click on the Avg Sales Revenue Chart to Open the Context Menu
+
+20. Click Compare To
+
+21. Click Previous Period
+
+We want to compare our data in 2021 year to date with the calculation for the previous year. By comparing to previous period, SAC will automatically calculate this variance for us. 
+
+![3-22](https://user-images.githubusercontent.com/92877810/138261815-181434bd-67c1-4f37-b97e-b6319df2c378.png)
+
+After creating our variance, the absolute value may still be hard to contextually understand. We want to know the percentage difference so let us edit this variance. 
+
+![3-23](https://user-images.githubusercontent.com/92877810/138261816-7eaefbe5-59b2-4fe0-b0ae-aa4dd3d848a3.png)
+
+22. Click **1 Variance**
+
+23. Click **Edit All Measures in Use**
+
+![3-24](https://user-images.githubusercontent.com/92877810/138261817-c5304eab-976e-4c15-b1dc-fcd2913ff093.png)
+
+In this panel, users can choose how they want to format their variances to best fit their data. We are comparing a KPI across two periods using a single number. In this instance, a percentage would be easier to understand for an end user. 
+
+24. Click **Percentage**
+
+25. Deselect **Numbers**
+
+26. Click on **Avg Sales Revenue for Actual** to Collapse the Variance Panel
+
+![3-25](https://user-images.githubusercontent.com/92877810/138261818-9c84e36a-6eeb-45ff-a5db-4a508521d031.png)
+
+The new variance looks great! We can now clearly see that average sales revenue in our stores has experienced a 3.7% drop from the last period. 
+
+![3-26](https://user-images.githubusercontent.com/92877810/138261820-4d487ce7-79be-4bd8-ab9a-53445779ee16.png)
+
+Now let’s add more variances to our chart. A good candidate to track change in data over time is our chart using a time dimension. SAC offers recommended comparisons in the builder panel as a suggestion for easy creation of variances. 
+
+27. Select your **Gross Margin per Order Date for Actual** Chart
+
+We want to select Previous Period because it will dynamically change the variance based on the granularity in the chart. 
+
+![3-27](https://user-images.githubusercontent.com/92877810/138261821-154f9835-dac8-4f7a-9d40-d52f19f718a8.png)
+
+28. Expand **Recommened Comparisons**
+
+29. Click **Previous Period**
+
+![3-28](https://user-images.githubusercontent.com/92877810/138261822-434fb259-be1f-43b8-8ddf-a193366b87f5.png)
+
+Our variances show the delta to the period before, in this case the last month's gross margin. We want to know the percentage difference instead of absolute difference. Let us change the formatting of our variance values. 
+
+![3-29](https://user-images.githubusercontent.com/92877810/138261823-27ca40d7-c623-4e1e-abe8-c71544e5991d.png)
+
+30. Scroll to the Bottom of the Builder Panel
+
+31. Click **Edit** for the Variance **All Measure in Use (Previous Period)**
+
+![3-30](https://user-images.githubusercontent.com/92877810/138261824-2f15a39e-296d-4582-9601-a83dc45fb56f.png)
+
+32. Expand **Display Options**
+
+33. Scroll to the Bottom of the Builder Panel
+
+34. Click **Percentage**
+
+35. Deselect **Numeric**
+
+36. Click **OK**
+
+
+![3-31](https://user-images.githubusercontent.com/92877810/138261825-3b5fffe4-a935-4968-b6ff-e73fe5248003.png)
+
+Quality check! Have your variances in the chart updated to percentage values? Please note your data will look different due to the dynamic time filter on the chart
+
+![3-32](https://user-images.githubusercontent.com/92877810/138261826-c71bb5c7-c73e-437e-9479-6d1f2e364c26.png)
+
+Let’s alter this chart so it is easier to compare Sales Managers. We can sort the chart and create a dynamic reference line to benchmark individual Sales Managers against the average. 
+
+37. Right Click the **Gross Margin per Sales Manager per Actuals** Chart to Open the Context Menu
+
+38. Click Sort
+
+39. Click **New Measure Input Control**
+
+40. Click **Highest to Lowest**
+
+![3-33](https://user-images.githubusercontent.com/92877810/138261828-bc760507-e052-43d0-8c46-e766139b59c5.png)
+
+Quality check! Is your chart now sorted in descending order for the selected measure? If we chose to swap gross margin for sales revenue in the measure input control, our chart would re-sort itself in descending order corresponding to the new measure. 
+
+![3-34](https://user-images.githubusercontent.com/92877810/138261831-306d5315-66d6-4390-942b-c9e778dad47a.png)
+
+Let us add a benchmark to compare our sales manager performances with the average gross margin per sales manager
+
+41.  Right Click the **Gross Margin per Sales Manager per Actuals** Chart to Open the Context Menu
+
+42. Click **Add**
+
+43. Click **Reference Line**
+
+![3-35](https://user-images.githubusercontent.com/92877810/138261832-71ff76c5-4d49-4676-8714-b23d879095b0.png)
+
+We want to create a dynamic reference line so that our benchmark will update with the selected measure given by our measure input control. 
+
+44. Click **Dynamic** in the Panel for Create Reference Line
+
+45. Click **Select Measure**
+
+46. Expand **ANA260_ORDER_FINANCE**
+
+By choosing a Measure Input Control as the measure for the reference line, any changes to the input control will be reflected in a new reference line. 
+
+47. Click **Measure Input Control** as measure for calculating reference line
+
+48. Click **OK**
+
+![3-36](https://user-images.githubusercontent.com/92877810/138261833-dc632fc6-6eb0-426c-aea1-ad536339beee.png)
+
+Quality Check! Do you have a reference line and sorted chart for Sales Managers in your story? 
+
+![3-37](https://user-images.githubusercontent.com/92877810/138261834-7e46845c-1b63-4751-9957-7d6956ef8007.png)
+
+We would like to now add a variance in our table to easily highlight the change in gross margin % between years. This can be done automatically through the context menu. 
+
+49. Select the columns 2020 and 2021 in the Table
+
+50. Right Click to Open the Context Menu
+
+51. Click **Add Column**
+
+52. Click **Single**
+
+![3-38](https://user-images.githubusercontent.com/92877810/138261835-64e1854b-f811-4b08-bd52-9fa25c6dcf87.png)
+
+A new column has been created that represents the differences in values between 2019 and 2020. We want to add a visual indicator to see whether our delta is below or above the previous year. 
+
+53. Right Click on Delta to Open the Context Menu
+
+54. Click **Thresholds**
+
+55. Click **New Threshold...**
+
+![3-39](https://user-images.githubusercontent.com/92877810/138261836-4316999f-d492-4fdc-9ff9-9484a2f432d8.png)
+
+Welcome to the Thresholds panel. 
+  
+Within Thresholds, you can create a threshold based on a number range or against another measure. In our case, we are interested in a number range. 
+
+56. In Threshold Panel, Click **Add Range**
+
+![3-40](https://user-images.githubusercontent.com/92877810/138261837-a00d7b3c-1e41-4827-876d-eca788fb49c9.png)
+
+57. Enter 0 for the OK (Green) Min Range
+
+58. Enter 0 for the Warning (Yellow) Max Range
+
+![3-41](https://user-images.githubusercontent.com/92877810/138261839-55e6ab20-3a6d-4dba-9587-d14462d58392.png)
+
+59. Expand the **Orange Indicator**
+
+60. Choose the **Red Indicator**
+
+61. Click **Apply**
+
+![3-42](https://user-images.githubusercontent.com/92877810/138261840-30de12bd-f485-4d8d-99e6-b9915487e5e4.png)
+
+Users can see by scrolling through the table that an appropriate indicator has been given to values in each threshold in the Delta column. 
+  
+We would like to change how this value is displayed to only highlight the number rather than adding an indicator. 
+
+![3-43](https://user-images.githubusercontent.com/92877810/138261841-a745789d-f862-43a1-ba58-03c933ce00f0.png)
+
+62. Click **Designer** to Open Builder Panel (in case not already open)
+
+63. Click **Styling**
+
+![3-44](https://user-images.githubusercontent.com/92877810/138261842-9bb75e2e-26fb-4c78-87b7-622c4102c5b9.png)
+
+Welcome to the Styling Panel! 
+  
+The Styling Panel displays options available for the selected tile type. Some options may not be available to all users.  
+  
+For widget, you see only the styling options for the specific area that you have highlighted. The heading in the Styling Panel identifies the area. For example, it may show Title, Data Cell, Axis Labels, and so on. Selecting a different part of the widget changes the heading and the styling options. 
+
+![3-45](https://user-images.githubusercontent.com/92877810/138261843-bcf22ea7-26f3-42e8-8474-88e795adde2b.png)
+
+64. Expand **Threshold Style**
+
+65. Click **Color Values**
+
+![3-46](https://user-images.githubusercontent.com/92877810/138261844-ccf89b5c-0321-4451-aeed-29d15cd5418b.png)
+
+Thresholds in the table are now color coded instead of representation by a symbol indicator. 
+
+![3-47](https://user-images.githubusercontent.com/92877810/138261847-1706de9d-af06-4c1b-8774-3a19f90ef649.png)
+![3-48](https://user-images.githubusercontent.com/92877810/138261848-de24c692-62f2-410a-be46-a70b2c52d1b4.png)
+
