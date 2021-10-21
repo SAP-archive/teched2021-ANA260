@@ -7,10 +7,9 @@ In this exercise, you will...
 After completing these steps you will have....
 
 1.	Click here.
+
 ![00_00_0010](https://user-images.githubusercontent.com/92877810/138264202-5ebc1dc6-697d-450a-b19c-6446a898b537.png)
 
-
-)
 
 2.	Insert this code.
 ``` abap
