@@ -6,6 +6,8 @@ Exercise Check! Does your dashboard look like this? Are you in Edit mode?
 
 ![2-1](https://user-images.githubusercontent.com/92877810/138248049-fb8e41b1-69dd-4915-b13d-58ae0bbd7e40.png)
 
+![hand](https://user-images.githubusercontent.com/92877810/138340165-82f328fc-692a-42bf-95cf-6149185a0c72.png)
+
 To start off, we want to add another lane to our story where viewers can choose specific filters to apply to the page and even change measures and dimensions in charts.
 
 1. Click the **Bottom Lane** 
