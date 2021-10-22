@@ -6,7 +6,7 @@ In this section we will cover theme and styling options in SAP Analytics Cloud t
 
 ![4-1](https://user-images.githubusercontent.com/92877810/138502901-ddc92961-1536-4d94-9d3e-90061044aa91.png)
 
-👉Story creators can quickly change styling options for an entire story in the story preferences. This enables users to quickly apply corporate themes and sync their styling across different dashboards. We will first apply color and table preferences in this menu. 
+🚩Story creators can quickly change styling options for an entire story in the story preferences. This enables users to quickly apply corporate themes and sync their styling across different dashboards. We will first apply color and table preferences in this menu. 
 
 1. Click **File**
 
@@ -24,7 +24,7 @@ In story preferences, story creators can choose to set standard theme and stylin
 
 4. Click **Charts/Geo**
 
-👉Let us apply a custom color palette to our story that is based on our corporate colors
+🚩Let us apply a custom color palette to our story that is based on our corporate colors
 
 5. Expand **Standard Color Palettes**
 
@@ -62,7 +62,7 @@ Swatch 6: f9c43e
 
 ![4-7](https://user-images.githubusercontent.com/92877810/138502921-9f699d45-0b62-4723-a426-b8345b8098fe.png)
 
-👉 We want to apply this color palette to everything on our story, so we change the option to All. 
+🚩We want to apply this color palette to everything on our story, so we change the option to All. 
 
 11. Click **All pages, lanes, and titles**
 
@@ -70,7 +70,7 @@ Swatch 6: f9c43e
 
 12. Scroll untill **Default Styling Template** is **Visible**
 
-👉We can choose different styling templates for our charts and tables based on dashboard needs. In this instance, we want our tables to appear in report-styling. 
+🚩We can choose different styling templates for our charts and tables based on dashboard needs. In this instance, we want our tables to appear in report-styling. 
 
 13. Expand **Default Styling Template**
 
@@ -96,7 +96,7 @@ Swatch 6: f9c43e
 
 ![4-12](https://user-images.githubusercontent.com/92877810/138502935-8588442d-d1d5-4cc5-9185-177267166cd7.png)
 
-👉We want to remove the empty header in our top lane and create a summary lane with KPIs for our story that stands out.  
+🚩We want to remove the empty header in our top lane and create a summary lane with KPIs for our story that stands out.  
 
 19. Right Click the Title field in our Top Lane
 
@@ -126,7 +126,7 @@ Swatch 6: f9c43e
 
 ![4-17](https://user-images.githubusercontent.com/92877810/138502945-1b4555ea-7400-4b4c-8acb-900c6b7b062c.png)
 
-👉We can also easily customize the backgrounds of each lane to section our dashboard into logical segments. Let’s accent our top lane to highlight the KPIs. 
+🚩We can also easily customize the backgrounds of each lane to section our dashboard into logical segments. Let’s accent our top lane to highlight the KPIs. 
 
 27. Click the **Top Lane** with the Numeric Point Charts 
  
@@ -143,13 +143,13 @@ Swatch 6: f9c43e
 
 ![4-19](https://user-images.githubusercontent.com/92877810/138502949-c7d3c409-a96a-418b-84a5-eb4fc19160de.png)
 
-👉We can also change the background of the left lane to separate the input controls from visualizations. 
+🚩We can also change the background of the left lane to separate the input controls from visualizations. 
 
 32. Click **Left Lane**
 
 ![4-20](https://user-images.githubusercontent.com/92877810/138502951-f6ae1f69-cd43-457c-9485-014a8f7c9ef5.png)
 
-👉Instead of using a solid color, we can apply a custom gradient to our story. 
+🚩Instead of using a solid color, we can apply a custom gradient to our story. 
 
 33. Expand **Lane Background Color**
 
@@ -163,7 +163,7 @@ Swatch 6: f9c43e
 
 ![4-22](https://user-images.githubusercontent.com/92877810/138505220-4860187c-7a9f-40fa-b2d9-e678973811a6.png)
 
-👉In the gradient creation menu, users can apply specific colors on the gradient range or add additional swatches within the gradient. 
+🚩In the gradient creation menu, users can apply specific colors on the gradient range or add additional swatches within the gradient. 
 
 37. Click on first swatch
 
@@ -179,7 +179,7 @@ Swatch 6: f9c43e
 
 ![4-24](https://user-images.githubusercontent.com/92877810/138505226-b1116f0d-c2a9-4c31-af9c-0a7641ed12de.png)
   
-👉Now our story has lanes that are clearly differentiated into logical segments. Utilizing background is a great way to enhance your dashboard for clarity. We can notice that the color of our KPIs do not stand out against the dark background. Let’s change the font color so they are accented appropriately. 
+🚩Now our story has lanes that are clearly differentiated into logical segments. Utilizing background is a great way to enhance your dashboard for clarity. We can notice that the color of our KPIs do not stand out against the dark background. Let’s change the font color so they are accented appropriately. 
 
 42. Click on **Gross Margin** Numeric Point Chart
 
@@ -215,7 +215,7 @@ Swatch 6: f9c43e
 
 ![4-31](https://user-images.githubusercontent.com/92877810/138505238-f31eafb4-5942-4c46-bfea-43d6cd8b0f53.png)
 
-👉In responsive pages, the story is divided into cells that are used to format the placement and size of all elements on the story. This enables the story view to be easily converted for viewing on a variety of device formats, including mobile. Users can choose to change the size and spacing between cells. 
+🚩In responsive pages, the story is divided into cells that are used to format the placement and size of all elements on the story. This enables the story view to be easily converted for viewing on a variety of device formats, including mobile. Users can choose to change the size and spacing between cells. 
 
 ![4-32](https://user-images.githubusercontent.com/92877810/138505241-48d6c758-db2d-4f07-afc4-01660adacf2e.png)
 
@@ -225,11 +225,11 @@ Swatch 6: f9c43e
 
 ![4-33](https://user-images.githubusercontent.com/92877810/138505244-fd950008-61b6-41de-954b-bb3777ef3398.png)
 
-👉After some resizing and moving charts, our story looks like this! There are still some details we can polish in our charts. 
+🚩After some resizing and moving charts, our story looks like this! There are still some details we can polish in our charts. 
 
 ![4-34](https://user-images.githubusercontent.com/92877810/138505248-eafd6368-8bdf-484a-ba16-7b1f16095abe.png)
 
-👉Currently our KPIs are showing granular information. For better readability, we should reduce the number of significant digits. Let us format these numbers in our dashboard. 
+🚩Currently our KPIs are showing granular information. For better readability, we should reduce the number of significant digits. Let us format these numbers in our dashboard. 
 
 52. Click on Gross Margin numeric point chart
 
@@ -243,7 +243,7 @@ Swatch 6: f9c43e
 
 55. Scroll to the Bottom of the Styling Panel to Number Format 
   
-👉It is recommended to use auto-formatted scale for numbers in your dashboard as SAC will automatically adjust the scale based on the context of your data. You can also use scale formatting to change the way scale is being displayed
+🚩It is recommended to use auto-formatted scale for numbers in your dashboard as SAC will automatically adjust the scale based on the context of your data. You can also use scale formatting to change the way scale is being displayed
 
 56. Expand **Scale**
 
@@ -279,7 +279,7 @@ Swatch 6: f9c43e
 
 ![4-42](https://user-images.githubusercontent.com/92877810/138505269-16c008da-65cb-40ff-899e-8ae61bf0bfcc.png)
 
-👉Now that we have formatted our KPIs, we can hide any redundant information in our charts. 
+🚩Now that we have formatted our KPIs, we can hide any redundant information in our charts. 
  
 ![4-43](https://user-images.githubusercontent.com/92877810/138505270-7f17a45d-b38d-4cc0-8d03-99e162dbab8f.png)
 
@@ -289,7 +289,7 @@ Numeric Point Charts
 
 ![4-44](https://user-images.githubusercontent.com/92877810/138505272-35dd9169-d4c2-49a5-9f40-5c4cdf508536.png)
 
-👉We can choose to hide a variety of different details on our charts so only the important elements are visible. Let’s hide the chart title and subtitle for now. 
+🚩We can choose to hide a variety of different details on our charts so only the important elements are visible. Let’s hide the chart title and subtitle for now. 
 
 67. Click **More Actions**
 
@@ -326,7 +326,7 @@ for our other charts to improve the readability for our story viewers. First, ch
 
 ![4-49](https://user-images.githubusercontent.com/92877810/138517124-912feea3-afac-48cb-ba26-d88f7025f970.png)
 
-👉Next, change the formatting on our bar chart for sales manager metrics. 
+🚩Next, change the formatting on our bar chart for sales manager metrics. 
  
 77. Click **Gross Margin per Sales Manager** Chart
 
@@ -340,7 +340,7 @@ for our other charts to improve the readability for our story viewers. First, ch
 
 ![4-51](https://user-images.githubusercontent.com/92877810/138517133-b06056be-c28c-46e1-affe-b5d35b11f411.png)
 
-👉You can also change the decimal places in the Styling Panel
+🚩You can also change the decimal places in the Styling Panel
 
 81. Click **Expand**
 
@@ -350,7 +350,7 @@ for our other charts to improve the readability for our story viewers. First, ch
 
 ![4-53](https://user-images.githubusercontent.com/92877810/138517137-6bf17208-12e5-4016-9a85-68f618a39a41.png)
 
-👉We will now look at editing our Geo Map visualization to fit the styling of the rest of our story. 
+🚩We will now look at editing our Geo Map visualization to fit the styling of the rest of our story. 
 
 83. Click the **Geo Map**
 
@@ -362,7 +362,7 @@ for our other charts to improve the readability for our story viewers. First, ch
 
 ![4-55](https://user-images.githubusercontent.com/92877810/138517141-8df3c406-e499-498c-8c15-2f2ce96d0edd.png)
 
-👉Depending on the geo visualization layer and your data, there are a variety of different basemap types that can be applied to your geo map to best represent your data. We will choose a darker layout. 
+🚩Depending on the geo visualization layer and your data, there are a variety of different basemap types that can be applied to your geo map to best represent your data. We will choose a darker layout. 
 
 86. Expand **Basemap Options**
 
@@ -374,13 +374,13 @@ for our other charts to improve the readability for our story viewers. First, ch
 
 ![4-57](https://user-images.githubusercontent.com/92877810/138517147-44362068-7c77-416c-9f98-5a7a04e36152.png)
 
-👉Let us theme the choropleth layer data to be colored with a more accurate gradient. 
+🚩Let us theme the choropleth layer data to be colored with a more accurate gradient. 
 
 88. Click **Edit Layer**
 
 ![4-58](https://user-images.githubusercontent.com/92877810/138517150-5407e5f7-3b7c-4cd7-b1c9-2db6a9872fe3.png)
 
-👉Let’s create a custom gradient for the choropleth colors that matches the corporate colors we chose for our story. 
+🚩Let’s create a custom gradient for the choropleth colors that matches the corporate colors we chose for our story. 
 
 89. Click **Expand** on Avg Delivery Time
 
@@ -408,7 +408,7 @@ for our other charts to improve the readability for our story viewers. First, ch
 
 ![4-62](https://user-images.githubusercontent.com/92877810/138517158-c7572f90-0ac4-4928-bb33-08aec8d456ef.png)
 
-👉Next, we will look at formatting text and titles on our story. Let us first rename our input controls by double-clicking on their name. 
+🚩Next, we will look at formatting text and titles on our story. Let us first rename our input controls by double-clicking on their name. 
 
 97. Rename **New Measure Input Control** to **Measure** by double clicking on the heading
 
@@ -416,13 +416,13 @@ for our other charts to improve the readability for our story viewers. First, ch
 
 ![4-63](https://user-images.githubusercontent.com/92877810/138517161-daf9c015-3b18-4538-af4a-e819da1c7123.png)
 
-👉We can add a dynamic text title for our lane of charts so other analysts viewing our story can quickly understand the context of our visualizations. Let us add a title for the chart section that dynamically represents the data presented. 
+🚩We can add a dynamic text title for our lane of charts so other analysts viewing our story can quickly understand the context of our visualizations. Let us add a title for the chart section that dynamically represents the data presented. 
 
 99. Rename **Click to Enter Title...** to **Overview for**
 
 ![4-64](https://user-images.githubusercontent.com/92877810/138517162-cdb6f651-5d4a-4ee0-802d-b756e9c0d073.png)
 
-👉We can now create a dynamic text field that updates with input control selection. 
+🚩We can now create a dynamic text field that updates with input control selection. 
 
 100. Right Click Insider the Header to Open the Context Menu 
 
@@ -434,7 +434,7 @@ for our other charts to improve the readability for our story viewers. First, ch
   
 Dynamic text can be created in your story and are automatically updated based on the selected filters or input controls specified in this menu. This means that your story dashboard will automatically update with headers and titles suited to the context of your data. 
 
-👉Let us create a dynamic text based on the region filter we have applied on the page. 
+🚩Let us create a dynamic text based on the region filter we have applied on the page. 
 
 ![4-66](https://user-images.githubusercontent.com/92877810/138517165-7d8ec990-ff40-4d5c-9ebd-5b62f1993248.png)
 
@@ -448,7 +448,7 @@ Dynamic text can be created in your story and are automatically updated based on
 
 ![4-67](https://user-images.githubusercontent.com/92877810/138517167-bb22a266-9cf8-4f90-bd1d-31919b37b400.png)
 
-👉You have just created your first Dynamic Text. This text field will automatically update with the Page Filters applied on Region. 
+🚩You have just created your first Dynamic Text. This text field will automatically update with the Page Filters applied on Region. 
 
 ![4-68](https://user-images.githubusercontent.com/92877810/138517169-7b949254-9d56-4280-99e1-164af18f35fd.png)
 
@@ -486,7 +486,7 @@ Dynamic text can be created in your story and are automatically updated based on
 
 ![4-74](https://user-images.githubusercontent.com/92877810/138519438-1f3f3a51-568f-4ecf-a322-525d31e1895c.png)
 
-👉We want to upload a company logo from 
+🚩We want to upload a company logo from 
 local files to our story. For best performance, it is recommended to use vector images. 
 
 114. Click **Upload** in the Builder Panel
@@ -521,7 +521,7 @@ Our page looks great with all the styling changes we have made. We should now re
 
 ![4-81](https://user-images.githubusercontent.com/92877810/138519458-b84593df-5598-42c8-8fa4-b21dd7955c5d.png)
 
-👉Now that we have stylized our story, users can choose to preview their responsive page in a variety of device formats. We know that our executives will be consuming this dashboard on multiple devices. Thus, we want to make sure the dashboard looks great when displayed on mobile. 
+🚩Now that we have stylized our story, users can choose to preview their responsive page in a variety of device formats. We know that our executives will be consuming this dashboard on multiple devices. Thus, we want to make sure the dashboard looks great when displayed on mobile. 
 
 ![4-82](https://user-images.githubusercontent.com/92877810/138519459-c8fa636e-afa7-4c1e-a698-7a508c0442c9.png)
 
@@ -543,7 +543,7 @@ From the preview screen, you can change the device or size to see how your page 
 
 ![4-85](https://user-images.githubusercontent.com/92877810/138519468-d0764cea-caa4-4665-804f-f869e98635a9.png)
 
-👉We can that the numeric point charts on iOS are larger than necessary. Let’s fix the size in the Designer panel. 
+🚩We can that the numeric point charts on iOS are larger than necessary. Let’s fix the size in the Designer panel. 
 
 126. Click the numeric point chart
 
@@ -551,7 +551,7 @@ From the preview screen, you can change the device or size to see how your page 
 
 127. Click **Designer**
 
-👉We can change the font scaling for individual charts. All changes will only be reflected in the specified device format and do not change the original story. 
+🚩We can change the font scaling for individual charts. All changes will only be reflected in the specified device format and do not change the original story. 
 
 128. Change the Font Scale from **100%** to **86%**
 
@@ -569,7 +569,7 @@ From the preview screen, you can change the device or size to see how your page 
 
 ![4-90](https://user-images.githubusercontent.com/92877810/138519476-05a45e2b-fe38-4e9b-9c8e-4e158e5a3284.png)
 
-👉We have now customized the scaling of our story for a specific platform (Small iOS Phones). Does your story look like this screenshot in Device Preview? 
+🚩We have now customized the scaling of our story for a specific platform (Small iOS Phones). Does your story look like this screenshot in Device Preview? 
 
 ![4-91](https://user-images.githubusercontent.com/92877810/138520466-fe9b3862-2555-4fc0-a6f0-f5036860f0cc.png)
 
@@ -577,7 +577,7 @@ From the preview screen, you can change the device or size to see how your page 
 
 ![4-92](https://user-images.githubusercontent.com/92877810/138520470-b46b41d6-9868-4226-9578-07f51f288dcc.png)
 
-👉Story creators can also easily swap to view mode on the top right. This enables the user to see what viewer behavior is like on the story page with input controls and Explorer view. 
+🚩Story creators can also easily swap to view mode on the top right. This enables the user to see what viewer behavior is like on the story page with input controls and Explorer view. 
 
 132. Click **View Mode**
 
