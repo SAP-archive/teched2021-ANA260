@@ -255,17 +255,21 @@ Swatch 6: f9c43e
 
 ![4-38](https://user-images.githubusercontent.com/92877810/138505262-216184b8-4df3-4ecd-b1bf-e244df72535e.png)
 
+58. Click the Sales Revnue numeric point chart
+
+![4-39](https://user-images.githubusercontent.com/92877810/138505263-f3cebacc-7691-4610-a9c9-7f7470607e3b.png)
+
 59. Scroll to the Bottom of the Styling Panel to Number Format 
 
 60. Expand **Scale**
 
 61. Click **Auto-formatted**
 
-![4-39](https://user-images.githubusercontent.com/92877810/138505263-f3cebacc-7691-4610-a9c9-7f7470607e3b.png)
+![4-40](https://user-images.githubusercontent.com/92877810/138505264-6828618d-6a8e-42b9-a20b-27b36f2b667f.png)
 
 62. Click the Avg Sales Revnue numeric point chart
 
-![4-40](https://user-images.githubusercontent.com/92877810/138505264-6828618d-6a8e-42b9-a20b-27b36f2b667f.png)
+![4-41](https://user-images.githubusercontent.com/92877810/138505266-7c4f4b6f-615d-4df6-9130-126a5c919743.png)
 
 63. Scroll to the Bottom of the Styling Panel to Number Format 
 
@@ -273,17 +277,17 @@ Swatch 6: f9c43e
 
 65. Click **Auto-formatted**
 
-![4-41](https://user-images.githubusercontent.com/92877810/138505266-7c4f4b6f-615d-4df6-9130-126a5c919743.png)
+![4-42](https://user-images.githubusercontent.com/92877810/138505269-16c008da-65cb-40ff-899e-8ae61bf0bfcc.png)
 
 👉Now that we have formatted our KPIs, we can hide any redundant information in our charts. 
-
-![4-42](https://user-images.githubusercontent.com/92877810/138505269-16c008da-65cb-40ff-899e-8ae61bf0bfcc.png)
+ 
+![4-43](https://user-images.githubusercontent.com/92877810/138505270-7f17a45d-b38d-4cc0-8d03-99e162dbab8f.png)
 
 66. Hold Shift and Left Click the Three 
  
 Numeric Point Charts 
- 
-![4-43](https://user-images.githubusercontent.com/92877810/138505270-7f17a45d-b38d-4cc0-8d03-99e162dbab8f.png)
+
+![4-44](https://user-images.githubusercontent.com/92877810/138505272-35dd9169-d4c2-49a5-9f40-5c4cdf508536.png)
 
 👉We can choose to hide a variety of different details on our charts so only the important elements are visible. Let’s hide the chart title and subtitle for now. 
 
@@ -295,30 +299,27 @@ Numeric Point Charts
 
 70. Deselect **Subtitle**
 
-![4-44](https://user-images.githubusercontent.com/92877810/138505272-35dd9169-d4c2-49a5-9f40-5c4cdf508536.png)
+![4-45](https://user-images.githubusercontent.com/92877810/138505275-06d47931-38f9-4ddf-aaca-75de137cc503.png)
 
 ⚠️Quality check! Do your numeric point charts look like this screenshot? 
 
-![4-45](https://user-images.githubusercontent.com/92877810/138505275-06d47931-38f9-4ddf-aaca-75de137cc503.png)
+![4-46](https://user-images.githubusercontent.com/92877810/138505277-0dc5a3d0-2d61-4c22-9bb4-a15e9c3e6c17.png)
 
 ℹ️Let us now improve the number formatting 
 for our other charts to improve the readability for our story viewers. First, change the formatting for our time series chart. 
 
 71. Click Gross Margin per Order Date for Actual Chart
 
-![4-46](https://user-images.githubusercontent.com/92877810/138505277-0dc5a3d0-2d61-4c22-9bb4-a15e9c3e6c17.png)
+![4-47](https://user-images.githubusercontent.com/92877810/138505279-feb5556c-fc77-45ba-8ee1-946b896794bc.png)
 
 72. Click **Designer** to Open the Builder Panel (in case if not already open)
 
 73. Switch to **Styling Panel** (in case not already open)
 
-![4-47](https://user-images.githubusercontent.com/92877810/138505279-feb5556c-fc77-45ba-8ee1-946b896794bc.png)
+![4-48](https://user-images.githubusercontent.com/92877810/138505281-50d0112f-5fe6-4561-9dcb-b507d35f76f3.png)
 
 74. Scroll to the Bottom of the Styling Panel to Number Format 
  
 75. Expand **Scale**
 
 76. Click **Auto-formatted**
-
-![4-48](https://user-images.githubusercontent.com/92877810/138505281-50d0112f-5fe6-4561-9dcb-b507d35f76f3.png)
-
