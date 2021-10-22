@@ -1,6 +1,6 @@
 # Exercise 1 - Creating Your First Story
 
-In this exercise, we will create...
+🚩In this exercise, we will create...
 
 As a business analyst for the BestRun company, we are interested in a business intelligence dashboard to utilize our finance and shipping data to guide business decision making. We can do this by creating a story. 
 
@@ -8,7 +8,7 @@ As a business analyst for the BestRun company, we are interested in a business i
 
 ![Image 1](https://user-images.githubusercontent.com/90856848/138345550-bcaa9493-36dc-4dca-b148-04827f22dc2d.png)
 
-<br> Welcome to **Start Your Story Page!**
+<br> ℹ️Welcome to **Start Your Story Page!**
   
 On this page, users can choose to import their own data, run a smart discovery on their data, add a responsive, canvas, or grid page, or start their story using a template. We are interested in exploring our data and the dimensions and measures we can analyze before we create a dashboard. 
 
@@ -16,7 +16,7 @@ On this page, users can choose to import their own data, run a smart discovery o
 
 ![image 2](https://user-images.githubusercontent.com/90856848/138345633-6f60e8b2-01e4-4a76-8473-f7ac522420c2.png)
 
-<br> Let’s start by adding in some charts. 
+<br> 🚩Let’s start by adding in some charts. 
 
 3. Click **Insert** 
 
@@ -26,7 +26,7 @@ On this page, users can choose to import their own data, run a smart discovery o
 
 ![Image 4](https://user-images.githubusercontent.com/90856848/138345773-f4008930-c87d-48a8-9e28-9b7fb92c912e.png)
 
-<br> The data we will be using was already uploaded by a colleague in the Finance department. Let us access this model from the Public/TechEd folder in our tenant. 
+<br> ℹ️The data we will be using was already uploaded by a colleague in the Finance department. Let us access this model from the Public/TechEd folder in our tenant. 
 
 5. Click **Public**
 
@@ -40,7 +40,7 @@ On this page, users can choose to import their own data, run a smart discovery o
 
 ![Image 7](https://user-images.githubusercontent.com/90856848/138345891-0f43ca72-86d0-4594-a7d6-bc44289a5b9e.png)
 
-<br> Welcome to the Builder Panel!  
+<br> ℹ️Welcome to the Builder Panel!  
   
 The Builder Panel is a place where you can create your visualizations. The chart area on your responsive page will remain empty until a measure and dimension are selected from the Builder Panel. It will dynamically update depending on the visualization that you are trying to create.  
   
@@ -64,7 +64,7 @@ We have just added an empty chart to our story and now we want to start adding m
 
 <br> 13. Scroll untill you find **Region**
 
-Within the Dimension Selection Menu, a hierarchy icon is displayed next to hierarchaldimensions. Dimensions with attributes can be further expanded within the menu.
+💡Within the Dimension Selection Menu, a hierarchy icon is displayed next to hierarchaldimensions. Dimensions with attributes can be further expanded within the menu.
 
 14. Click **Region**
 
@@ -72,13 +72,13 @@ Within the Dimension Selection Menu, a hierarchy icon is displayed next to hiera
 
 ![Image 13_14_15](https://user-images.githubusercontent.com/90856848/138346280-c19ab312-9ec8-40d2-a5d3-4e07c1e1897a.png)
 
-<br> We have now created our first bar chart using the Builder Panel.
+<br> 🚩We have now created our first bar chart using the Builder Panel.
 
 16. Resize the chart to be wider
 
 ![Image 16](https://user-images.githubusercontent.com/90856848/138346335-64195781-1b71-4273-9cb3-9a101aff8ea1.png)
 
-<br> **Quality Check!** Does our story page look like the screenshot? 
+<br> ⚠️**Quality Check!** Does our story page look like the screenshot? 
 
 ![Quality check 1](https://user-images.githubusercontent.com/90856848/138346373-46d6d074-c289-4291-9eca-644566236695.png)
 
@@ -86,7 +86,7 @@ Within the Dimension Selection Menu, a hierarchy icon is displayed next to hiera
 
 ![Image 17](https://user-images.githubusercontent.com/90856848/137962398-4dc9b8ef-2e2c-48d4-a369-f3df0c8ec6e3.png)
 
-<br>Let's start adding in some additional charts. First, we are interested in the gross margin breakdown across our different products. 
+<br>🚩Let's start adding in some additional charts. First, we are interested in the gross margin breakdown across our different products. 
 
 18. Click **Bottom Pane**
 
@@ -121,11 +121,11 @@ Within the Dimension Selection Menu, a hierarchy icon is displayed next to hiera
  
 ![Image 26_27_28](https://user-images.githubusercontent.com/90856848/137962886-ade1a647-3b10-4220-bf89-e5d976fdf0a2.png)
 
-<br> We have now created our second bar chart using the Builder Panel. However, our data can be further transformed to extract more valuable business insights. Let’s change the hierarchy level so we can see gross margin for different Product categories. 
+<br> 🚩We have now created our second bar chart using the Builder Panel. However, our data can be further transformed to extract more valuable business insights. Let’s change the hierarchy level so we can see gross margin for different Product categories. 
 
 ![Image 28](https://user-images.githubusercontent.com/90856848/137963018-29d52182-8655-4584-a9bc-1626b64e82be.png)
 
-<br> We can drill down on the Product dimension to get more information from our bar chart. You can also drill down on charts via the Builder Panel as a designer or by clicking on the bar and drilling down. 
+<br> 🚩We can drill down on the Product dimension to get more information from our bar chart. You can also drill down on charts via the Builder Panel as a designer or by clicking on the bar and drilling down. 
 
 29. Click **Set Drill**
 
@@ -149,7 +149,7 @@ Within the Dimension Selection Menu, a hierarchy icon is displayed next to hiera
 
 ![Image 32_33_34](https://user-images.githubusercontent.com/90856848/137967749-8966577b-f144-4498-8d49-dd9fe7955d9e.png)
 
-<br> Our bar chart is now divided in each product category by its Workout Usage. Using Color in charts is an effective way of mapping additional dimensions into a visualization. We can change our Chart Type to better visualize the dimensions we have selected. 
+<br> 🚩Our bar chart is now divided in each product category by its Workout Usage. Using Color in charts is an effective way of mapping additional dimensions into a visualization. We can change our Chart Type to better visualize the dimensions we have selected. 
 
 ![Image 34](https://user-images.githubusercontent.com/90856848/137967864-96b6bd25-6bb1-4697-8848-aaefaa83158d.png)
 
@@ -159,7 +159,7 @@ Within the Dimension Selection Menu, a hierarchy icon is displayed next to hiera
 
 ![Image 35_36](https://user-images.githubusercontent.com/90856848/137967984-3f3ed97f-ddea-4545-ac4e-39bae787715d.png)
 
-<br> We want to scale our chart so that the distribution of workout usage in each product category is easily comparable in percentages of the total. 
+<br> 🚩We want to scale our chart so that the distribution of workout usage in each product category is easily comparable in percentages of the total. 
 
 37. Click **Show Chart as 100%**
 
@@ -169,13 +169,13 @@ Within the Dimension Selection Menu, a hierarchy icon is displayed next to hiera
 
 ![image 38](https://user-images.githubusercontent.com/90856848/137968197-0e34f1e3-5d4f-490b-820a-5b8378d80db3.png)
 
-<br> **Quality Check!** Does the Stacked Bar Chart in your story show up like this? 
+<br> ⚠️**Quality Check!** Does the Stacked Bar Chart in your story show up like this? 
 
-Our chart visualization now displays for us the proportional distribution of gross margins in each Product Category based on their Workout Usage. This enables us to quickly analyze the contribution of the Workout Usage dimension within a Product Category
+🚩Our chart visualization now displays for us the proportional distribution of gross margins in each Product Category based on their Workout Usage. This enables us to quickly analyze the contribution of the Workout Usage dimension within a Product Category
 
 ![Quality check 2](https://user-images.githubusercontent.com/90856848/137968340-b2bd3573-4608-445a-8d02-27cd2ae3a25d.png)
 
-<br> We now want to analyze how our gross margin has been performing over time. Let us build a chart with a time dimension to display this data. 
+<br> 🚩We now want to analyze how our gross margin has been performing over time. Let us build a chart with a time dimension to display this data. 
 
 39. Click **Insert**
 
@@ -207,11 +207,11 @@ Our chart visualization now displays for us the proportional distribution of gro
 
 ![Image 46_47_48](https://user-images.githubusercontent.com/90856848/137971380-391f714e-5a91-451a-b638-a2ed7da77012.png)
 
-<br> SAP Analytics Cloud immediately recognized our time dimension and created an upright chart orientation as per best practices. However, our chart currently shows an aggregation of all gross margins in our data set. Next, we want to apply a dynamic time filter for the year to date range and change the drill level to show months as the granularity of bars. 
+<br> 🚩SAP Analytics Cloud immediately recognized our time dimension and created an upright chart orientation as per best practices. However, our chart currently shows an aggregation of all gross margins in our data set. Next, we want to apply a dynamic time filter for the year to date range and change the drill level to show months as the granularity of bars. 
 
 ![Image 48](https://user-images.githubusercontent.com/90856848/137971623-f2d9fba2-6b27-4423-9f48-e8b2089612b4.png)
 
-<br> We have many options on filtering or drilling down on a dimension simply by hovering over the dimension in builder panel. 
+<br> 🚩We have many options on filtering or drilling down on a dimension simply by hovering over the dimension in builder panel. 
 
 49. Click **Filter** 
 
@@ -219,29 +219,29 @@ Our chart visualization now displays for us the proportional distribution of gro
 
 51. Click **Year** under **To Date**
 
-SAP Analytics Cloud offers users the ability to choose from a variety of dynamic time filters to quickly customize their charts to their business needs. We are using a year to date filter on our chart, so our data is filtered to begin on the start of the year 2021 until today. 
+🚩SAP Analytics Cloud offers users the ability to choose from a variety of dynamic time filters to quickly customize their charts to their business needs. We are using a year to date filter on our chart, so our data is filtered to begin on the start of the year 2021 until today. 
 
 ![Image 49_50_51](https://user-images.githubusercontent.com/90856848/137971814-bb2fd2ec-09d3-4511-987c-89231431b6b3.png)
 
-<br> Let us Set Drill on our dimension. Currently our bar chart is aggregating data over all time, however we are more interested in seeing performance per month for the current year. 
+<br> 🚩Let us Set Drill on our dimension. Currently our bar chart is aggregating data over all time, however we are more interested in seeing performance per month for the current year. 
 
 52. Click **Set Drill**
 
-Our hierarchy levels correspond to levels of granularity. In SAP Analytics Cloud, we dynamically provide various levels of time granularity (i.e. YQM, YHQM, YM). Currently, this chart is set to a YQM hierarchy with the first level set to aggregate over all time, so we want to select level 4 to reach monthly granularity
+🚩Our hierarchy levels correspond to levels of granularity. In SAP Analytics Cloud, we dynamically provide various levels of time granularity (i.e. YQM, YHQM, YM). Currently, this chart is set to a YQM hierarchy with the first level set to aggregate over all time, so we want to select level 4 to reach monthly granularity
 
 53. Click **Level 4**
 
 ![image 52_53](https://user-images.githubusercontent.com/90856848/137971995-18d6a306-27be-4be1-aca1-9e91cac54ade.png)
 
-<br> We have just created a chart with a time dimension using a Year to Date filter to organize our visualization. Next, we want to learn more about the trend of Gross Margin from our chart. 
+<br> 🚩We have just created a chart with a time dimension using a Year to Date filter to organize our visualization. Next, we want to learn more about the trend of Gross Margin from our chart. 
  
-Please note your data will look different from this chart's values due to the dynamic date filter. 
+⚠️Please note your data will look different from this chart's values due to the dynamic date filter. 
 
 54. Resize the chart to be wider
 
 ![Image 54](https://user-images.githubusercontent.com/90856848/137972097-afafbbfe-6d8a-452b-a8fe-2bb36d1274b6.png)
 
-<br> We can look at the trend of Gross Margin from our chart by adding a trendline by using the context menu. 
+<br> 🚩We can look at the trend of Gross Margin from our chart by adding a trendline by using the context menu. 
 
 55. Right Click on the chart to open the **Context Menu**
 
@@ -251,11 +251,11 @@ Please note your data will look different from this chart's values due to the dy
 
 ![Image 55_56_57](https://user-images.githubusercontent.com/90856848/137972267-afac9e7c-cc63-4cf9-80d2-b8b5d1a76135.png)
 
-<br> We use the CGR added to the chart that compared to look at our compound growth rate in the year. If the CGR is negative it could be alarming information for the business user
+<br> 🚩We use the CGR added to the chart that compared to look at our compound growth rate in the year. If the CGR is negative it could be alarming information for the business user
 
 ![Image 57](https://user-images.githubusercontent.com/90856848/137972347-d430a655-fc5b-4c14-b3a1-31e5e137e1d5.png)
 
-<br> Let us add a table to our story to examine our Gross Margin contribution by each Sales Manager. Since Sales Manager is a high cardinality dimension with a lot of members, it is recommended to view this data in a table. 
+<br> 🚩Let us add a table to our story to examine our Gross Margin contribution by each Sales Manager. Since Sales Manager is a high cardinality dimension with a lot of members, it is recommended to view this data in a table. 
 
 58. Click **Insert** 
 
@@ -277,7 +277,7 @@ Please note your data will look different from this chart's values due to the dy
 
 ![Image 61_62_63_64](https://user-images.githubusercontent.com/90856848/137977475-e14757f7-800e-43c9-8b11-592c01d2a82d.png)
 
-<br> We can see that a table has been created to track Sales Managers. We can choose to expand the Product column to sort our table by Product Category contributions by each Manager. However, our table measure is currently set to Discount. Let’s change it to Gross Margin. 
+<br> 🚩We can see that a table has been created to track Sales Managers. We can choose to expand the Product column to sort our table by Product Category contributions by each Manager. However, our table measure is currently set to Discount. Let’s change it to Gross Margin. 
 
 ![Image 64](https://user-images.githubusercontent.com/90856848/137977602-5ee0a1ae-bf2a-4bcb-8fb9-72dbc793be6a.png)
 
@@ -293,7 +293,7 @@ Please note your data will look different from this chart's values due to the dy
 
 ![image 66_67_68](https://user-images.githubusercontent.com/90856848/137977807-3c040055-e028-4849-baad-9dee3aa85fff.png)
 
-<br> We have created a table to show contributions of Sales Manager to Gross Margin; however, this value is an aggregate over the entire period spanning the model. We would like to breakdown on Order Date to better interpret the yearly contributions of each Sales Manager to 
+<br> 🚩We have created a table to show contributions of Sales Manager to Gross Margin; however, this value is an aggregate over the entire period spanning the model. We would like to breakdown on Order Date to better interpret the yearly contributions of each Sales Manager to 
 Gross Margin 
 
 ![Image 68](https://user-images.githubusercontent.com/90856848/137977889-82e2fef3-063f-4512-858f-6644f5f06728.png)
@@ -310,13 +310,13 @@ Gross Margin
 
 ![Image 70_71_72](https://user-images.githubusercontent.com/90856848/137978113-fd5b3b06-d6ab-4ad1-bfea-20b3fb233868.png)
 
-<br> **Quality Check!** Does your table have the Product, Sales Manager, and Gross Margins columns? 
+<br> ⚠️**Quality Check!** Does your table have the Product, Sales Manager, and Gross Margins columns? 
 
-There has been an Order Date field added to our table. If we expand on all, Gross Margin will be separated into yearly sums. We want to see our Gross Margin % in our table but we currently do not have that measure in our data model. We can create the Gross Margin % measure as a calculation with the Sales Revenue and Gross Margin measures
+🚩There has been an Order Date field added to our table. If we expand on all, Gross Margin will be separated into yearly sums. We want to see our Gross Margin % in our table but we currently do not have that measure in our data model. We can create the Gross Margin % measure as a calculation with the Sales Revenue and Gross Margin measures
 
 ![Quality Check 3](https://user-images.githubusercontent.com/90856848/137978245-4ac60fa9-c59f-41bb-a004-a24999f17150.png)
 
-<br> We may be looking for more insights from our data and can do so by creating a calculation! 
+<br> 🚩We may be looking for more insights from our data and can do so by creating a calculation! 
 
 73. Click the **More** Icon for Account
 
@@ -324,7 +324,7 @@ There has been an Order Date field added to our table. If we expand on all, Gros
 
 ![Image 73_74](https://user-images.githubusercontent.com/90856848/137978372-38974189-aca5-471d-8fe7-fca367f1da87.png)
 
-<br> Welcome to the Calculation Editor! 
+<br> ℹ️Welcome to the Calculation Editor! 
   
 The Calculation Editor allows you to create calculations for use in a chart or table. There are various types of calculations that a user can create which include:  
   
@@ -368,7 +368,7 @@ We will cover calculations in more detail for business analytics use cases in ou
 
 ![image 81_82](https://user-images.githubusercontent.com/90856848/137979310-1d12cb34-c7d6-4fb5-9283-5b0b0b8c6e67.png)
 
-<br> Now let’s use our newly made calculation in our table and remove the previous measure. 
+<br> 🚩Now let’s use our newly made calculation in our table and remove the previous measure. 
 
 83. Click **Filter** on Account in Columns
 
@@ -380,13 +380,13 @@ We will cover calculations in more detail for business analytics use cases in ou
 
 ![Image 84_85](https://user-images.githubusercontent.com/90856848/137990159-b5f17322-b34f-4880-89c2-af42b0b9d27f.png)
 
-<br> Now that we have our desired measure, let’s expand the Order Date column to see our values on a yearly basis. 
+<br> 🚩Now that we have our desired measure, let’s expand the Order Date column to see our values on a yearly basis. 
 
 86. Click **> (All)** to Expand the Order Date Dimension
 
 ![image 86](https://user-images.githubusercontent.com/90856848/137990257-64901f37-9ad8-411f-88d0-c708a6314080.png)
 
-<br> We want to hide the all column that aggregates Gross Margin %. 
+<br> 🚩We want to hide the all column that aggregates Gross Margin %. 
 
 87. Right Click the **All Order Date Column**
 
@@ -394,11 +394,11 @@ We will cover calculations in more detail for business analytics use cases in ou
 
 ![Image 87_88](https://user-images.githubusercontent.com/90856848/137990379-2df94ee6-2b7b-4476-9ef6-e98c27f14531.png)
 
-<br> Our table should look like this screenshot now. Since our calculation is a percentage, we will now change the formatting of our values to improve our table visualization. 
+<br> 🚩Our table should look like this screenshot now. Since our calculation is a percentage, we will now change the formatting of our values to improve our table visualization. 
 
 ![Image 88](https://user-images.githubusercontent.com/90856848/137990473-4703cc71-5fb0-442e-8ede-4d82fb4b50bf.png)
 
-<br> We can easily change the formatting and representation of our measures and calculations. 
+<br> 🚩We can easily change the formatting and representation of our measures and calculations. 
 
 89. Click **Story Calculations**
 
@@ -416,17 +416,17 @@ We will cover calculations in more detail for business analytics use cases in ou
 
 ![Image 91_92_93_94](https://user-images.githubusercontent.com/90856848/137990847-9feb9649-7bc3-430b-a24f-ff22e8bd88fe.png)
 
-<br> **Quality Check!** Does our table look like this screenshot? We have now formatted our chart so the % symbols for gross margin are indicated in the subtitle. This cleans up the table visualization. 
+<br> ⚠️**Quality Check!** Does our table look like this screenshot? We have now formatted our chart so the % symbols for gross margin are indicated in the subtitle. This cleans up the table visualization. 
 
 ![Quality Check 4](https://user-images.githubusercontent.com/90856848/137991025-72a18c2f-ed54-44cb-b280-468ec84aaff3.png)
 
-<br> Let us shift our focus back to our dashboard layout. We want to now add some KPIs that stand out for story viewers. 
+<br> 🚩Let us shift our focus back to our dashboard layout. We want to now add some KPIs that stand out for story viewers. 
 
 95. Select **Top Lane**
 
 ![Image 95](https://user-images.githubusercontent.com/90856848/137991131-0f38faa3-82b3-4a70-83ce-adbe5ae0cc56.png)
 
-<br> Since this lane is in now at the top of our dashboard, let us add some easily viewable KPIs as numeric point charts in our story. Numeric point charts are a chart visualization that display the total of a measure and are best suited for highlighting key business KPIs. They can be filtered so the KPI describes a specific context relevant to the business user. 
+<br> 🚩Since this lane is in now at the top of our dashboard, let us add some easily viewable KPIs as numeric point charts in our story. Numeric point charts are a chart visualization that display the total of a measure and are best suited for highlighting key business KPIs. They can be filtered so the KPI describes a specific context relevant to the business user. 
 
 96. Click **Insert**
 
@@ -444,7 +444,7 @@ We will cover calculations in more detail for business analytics use cases in ou
 
 ![Image 100](https://user-images.githubusercontent.com/90856848/137993462-8908f81b-9664-40b7-9bb5-dccb70cb9bb8.png)
 
-<br> Let us use Gross Margin as our first KPI. 
+<br> 🚩Let us use Gross Margin as our first KPI. 
 
 101. Scroll untill Gross Margin is visible
 
@@ -454,7 +454,7 @@ We will cover calculations in more detail for business analytics use cases in ou
 
 ![Image 101_102_103](https://user-images.githubusercontent.com/90856848/137993553-d6dd7fc7-b4fe-4617-bfea-f6d9bb2fdd07.png)
 
-<br> We should add a date filter on our KPI, so the context is more relevant to a business analyst looking for actionable insights. Let us filter data for the current year. 
+<br> 🚩We should add a date filter on our KPI, so the context is more relevant to a business analyst looking for actionable insights. Let us filter data for the current year. 
 
 104. Click **Add Filters**
 
@@ -472,13 +472,13 @@ We will cover calculations in more detail for business analytics use cases in ou
 
 ![Image 106_107_108](https://user-images.githubusercontent.com/90856848/137994376-8e64baa4-0818-4fb0-ab82-3b8f24ab1b79.png)
 
-<br> You have now created a numeric point chart that displays Gross Margin filtered for only data in 2021. 
+<br> 🚩You have now created a numeric point chart that displays Gross Margin filtered for only data in 2021. 
 
 109. Decrease the size of the Numeric Point Chart
 
 ![Image 109](https://user-images.githubusercontent.com/90856848/137994450-af633095-8423-449a-925a-e22706f2aa9b.png)
 
-<br> Let us use SAP Analytics Cloud's duplicate chart functionality to easily create our other KPIs. 
+<br> 🚩Let us use SAP Analytics Cloud's duplicate chart functionality to easily create our other KPIs. 
 
 110. Click the **More** icon
 
@@ -488,11 +488,11 @@ We will cover calculations in more detail for business analytics use cases in ou
 
 ![Image 110_111_112](https://user-images.githubusercontent.com/90856848/137994536-93b59d50-dd2c-4f0f-abac-17d38569057d.png)
 
-<br> **Quality check!** Has your dashboard updated with a copied KPI chart like this screenshot? 
+<br> ⚠️**Quality check!** Has your dashboard updated with a copied KPI chart like this screenshot? 
 
 ![Quality Check 5](https://user-images.githubusercontent.com/90856848/137994604-f78ff270-2a04-4c99-9556-89d3382d205c.png)
 
-<br> We want to create a new KPI of Sales Revenue like our first chart of Gross Margins. Since we duplicated the KPI, our previously applied date filter will be automatically applied to our new KPI. Let us now change the measure of our second KPI. 
+<br> ℹ️We want to create a new KPI of Sales Revenue like our first chart of Gross Margins. Since we duplicated the KPI, our previously applied date filter will be automatically applied to our new KPI. Let us now change the measure of our second KPI. 
 
 113. Deselect the Gross Margin measure for your new chart by clicking **Remove**
 
@@ -508,7 +508,7 @@ We will cover calculations in more detail for business analytics use cases in ou
 
 ![Image 115_116_117](https://user-images.githubusercontent.com/90856848/137994817-313c1585-f8da-4d4d-ab9b-a2a7a09aad98.png)
 
-<br> Now that we are satisfied with our second KPI for Sales Revenue, let us duplicate this chart again to create a KPI that calculates average sales revenue. 
+<br> 🚩Now that we are satisfied with our second KPI for Sales Revenue, let us duplicate this chart again to create a KPI that calculates average sales revenue. 
 
 118. Click the **More** icon
 
@@ -518,7 +518,7 @@ We will cover calculations in more detail for business analytics use cases in ou
 
 ![Image 118_119_120](https://user-images.githubusercontent.com/90856848/137994876-ff3c9657-4fec-49e3-a60e-de5c531b3c4c.png)
 
-<br> We currently do not have a measure for our average sales revenue by store in our model. Hence, let us create a calculation to track this metric on our dashboard. 
+<br> 🚩We currently do not have a measure for our average sales revenue by store in our model. Hence, let us create a calculation to track this metric on our dashboard. 
 
 121. Remove Sales Revenue as a Measure
 
@@ -530,7 +530,7 @@ We will cover calculations in more detail for business analytics use cases in ou
 
 ![Image 123](https://user-images.githubusercontent.com/90856848/137995024-c34a8f38-e1cb-42ae-9d0d-405cc9266b62.png)
 
-<br> We want to calculate the average sales revenue by store for our company. This will require an aggregation of all sales revenue averaged by number of stores. We can create this in the Aggregation Calculation Type. 
+<br> 🚩We want to calculate the average sales revenue by store for our company. This will require an aggregation of all sales revenue averaged by number of stores. We can create this in the Aggregation Calculation Type. 
 
 124. Select **Aggregation** as Calculation Type
 
@@ -550,7 +550,7 @@ We will cover calculations in more detail for business analytics use cases in ou
 
 ![Image 128_129](https://user-images.githubusercontent.com/90856848/137995377-00b912c4-7dcb-49f3-89f9-c28118bbf2b3.png)
 
-<br> Here we are selecting the aggregation dimension that will be used to calculate our average. Since we want average sales revenue by store, we should change this dimension to Store. 
+<br> 🚩Here we are selecting the aggregation dimension that will be used to calculate our average. Since we want average sales revenue by store, we should change this dimension to Store. 
 
 130. Click **Expand** for **Aggregation Dimensions**
 
@@ -566,31 +566,29 @@ We will cover calculations in more detail for business analytics use cases in ou
 
 ![Image 133_134](https://user-images.githubusercontent.com/90856848/137995657-dee75c9b-8f79-49f1-8caa-b0f73f49b3cc.png)
 
-<br> **Quality Check!** Do your numeric point charts have these values and measures on your story? Please note that your time chart may look different from this screenshot due to the dynamic date filter on YTD. 
+<br> ⚠️**Quality Check!** Do your numeric point charts have these values and measures on your story? Please note that your time chart may look different from this screenshot due to the dynamic date filter on YTD. 
 
 ![Quality Check 6](https://user-images.githubusercontent.com/90856848/137995743-a107a55f-1b68-4241-a7dd-42667a22950a.png)
 
-<br> At this stage, you should save your first story. 
+<br> 🚩At this stage, you should save your first story. 
 
 135. Click **File** 
 
 136. Click **Save**
 
-137. Click **Save**
-
 ![Image 135_136_137](https://user-images.githubusercontent.com/90856848/137997594-45a05e2c-e770-4a06-9e5c-c138748d9844.png)
 
-<br> 138. Save your story in My Files as **ANA260_ Your Initials**
+<br> 137. Save your story in My Files as **ANA260_ Your Initials**
 
-139. Click **OK**
+138. Click **OK**
 
 ![Image 138_139](https://user-images.githubusercontent.com/90856848/137997679-c3218706-0bc8-43bd-ada2-5f80ebc37221.png)
 
-<br> You can also save your story by pressing **Ctrl + S** on your keyboard
+<br> 🚩 You can also save your story by pressing **Ctrl + S** on your keyboard
 
 ![Image 139](https://user-images.githubusercontent.com/90856848/137997730-de780fc1-a9a3-41c2-bf0b-2bacdf70c955.png)
 
-<br> You have completed **Creating Your First Story!** 
+<br> ℹ️You have completed **Creating Your First Story!** 
   
 Please continue with the next section **Linked Analysis and Input Controls**. We will also improve the styling of this dashboard in **Section 4 - Theme and Style!**
 
