@@ -167,7 +167,7 @@ Swatch 6: f9c43e
 
 37. Click on first swatch
 
-38. Click hex to ccccce
+38. Click hex to **ccccce**
 
 ![4-23](https://user-images.githubusercontent.com/92877810/138505223-b2902da0-4bfa-437b-a098-a8f7574e1d3a.png)
 
