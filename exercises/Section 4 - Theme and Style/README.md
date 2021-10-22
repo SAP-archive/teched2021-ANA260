@@ -489,7 +489,7 @@ Dynamic text can be created in your story and are automatically updated based on
 👉We want to upload a company logo from 
 local files to our story. For best performance, it is recommended to use vector images. 
 
-114. Click Upload in the Builder Panel
+114. Click **Upload** in the Builder Panel
 
 ![4-75](https://user-images.githubusercontent.com/92877810/138519444-698e20d0-01dd-496a-95bd-72ec2d0e1ac8.png)
 
