@@ -461,7 +461,18 @@ Dynamic text can be created in your story and are automatically updated based on
 107. Click the **Top Lane** with the Numeric Point Chart
 
 ![4-70](https://user-images.githubusercontent.com/92877810/138517173-08376e20-2c5a-4ba9-aec9-b838f73b40c8.png)
+
+ℹ️You can find the file to upload on the GitHub page for this workshop under **teched2021-ANA260**
+
+108. Click **Excercises**
+
 ![4-71](https://user-images.githubusercontent.com/92877810/138517175-52846bae-2ffd-4563-bbc6-eca20b966c09.png)
+
+109. Click **logo.png**
+
 ![4-72](https://user-images.githubusercontent.com/92877810/138517178-af25d868-e84e-45d8-8f35-f3304c5f9de1.png)
+
+110. Click **Download** to download the file
+
 ![4-73](https://user-images.githubusercontent.com/92877810/138517179-1dea4c3a-4e43-4d5a-b394-63486aa499d9.png)
 
