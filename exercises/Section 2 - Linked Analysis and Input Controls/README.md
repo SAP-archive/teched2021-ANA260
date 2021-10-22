@@ -1,9 +1,9 @@
 # Exercise 2 - Linked Analysis and Input Controls
-**Exercise Check!** Does your dashboard look like this? Are you in Edit mode?
+⚠️**Exercise Check!** Does your dashboard look like this? Are you in Edit mode?
 
 ![Image 1](https://user-images.githubusercontent.com/90856848/138132038-7cef31ce-bbb0-4a69-a906-32bf36a4b13e.png)
 
-To start off, we want to add another lane to our story where viewers can choose specific filters to apply to the page and even change measures and dimensions in charts.
+🚩To start off, we want to add another lane to our story where viewers can choose specific filters to apply to the page and even change measures and dimensions in charts.
 
 1. Click the **Bottom Lane**
 
@@ -27,7 +27,7 @@ To start off, we want to add another lane to our story where viewers can choose 
 
 ![img4](https://user-images.githubusercontent.com/92877810/138146615-59e88bff-c173-4254-a6bb-3447806c7e5c.png)
 
-The first tool we will add to our story are page filter input controls. These allow viewers to easily change the dimensions driving the data in our visualizations on the page.
+🚩The first tool we will add to our story are page filter input controls. These allow viewers to easily change the dimensions driving the data in our visualizations on the page.
  
 Let's create filters on Region and Product as these are two important dimensions that businessesuse to analyze performance.
 
@@ -39,7 +39,7 @@ Let's create filters on Region and Product as these are two important dimensions
 
 ![img5](https://user-images.githubusercontent.com/92877810/138146758-8dd3a4cc-856b-4660-99a0-3976dc4b69d2.png)
 
-Selecting All Members in the Filter dialogue populates the input control with all members of the region dimension. This gives the person interacting with the input control the option of choosing any subset of regions. 
+🚩Selecting All Members in the Filter dialogue populates the input control with all members of the region dimension. This gives the person interacting with the input control the option of choosing any subset of regions. 
 
 12. Click **All Members**
 
@@ -47,11 +47,11 @@ Selecting All Members in the Filter dialogue populates the input control with al
 
 ![img6](https://user-images.githubusercontent.com/92877810/138147298-c06b17b3-49f9-4c22-acde-0f9dbc82c821.png)
 
-Quality Check! This is what your dashboard should look like after creating the input control. 
+⚠️Quality Check! This is what your dashboard should look like after creating the input control. 
 
 ![img7](https://user-images.githubusercontent.com/92877810/138147325-74760d6f-75b2-433e-a89b-91d0188ec329.png)
 
-You have just made a Page Filter Input Control for Region. Let us make another Page Filter for Product. 
+🚩You have just made a Page Filter Input Control for Region. Let us make another Page Filter for Product. 
 
 14. Click **Insert**
 
@@ -65,7 +65,7 @@ You have just made a Page Filter Input Control for Region. Let us make another P
 
 ![img9](https://user-images.githubusercontent.com/92877810/138147803-157c49b5-3ffd-4d3a-9c99-45aeb339fc38.png)
 
-Unlike **Region, Product** has additional properties attached to it. We're interested in filtering out the product itself, so we must now select it.  
+🚩Unlike **Region, Product** has additional properties attached to it. We're interested in filtering out the product itself, so we must now select it.  
 
 18. Click **Product (Dimension)**
 
@@ -77,9 +77,9 @@ Unlike **Region, Product** has additional properties attached to it. We're inter
 
 ![img11](https://user-images.githubusercontent.com/92877810/138147806-d8c8a1e4-5ba9-486b-b5ae-e2458fbd4ad7.png)
 
-Quality Check! Do our Page Filter Input Controls look like this? 
+⚠️Quality Check! Do our Page Filter Input Controls look like this? 
 
-Now that we have a Product input control, lets focus the entire dashboard to see how we are performing when it comes to Footwear and Clothing. 
+🚩Now that we have a Product input control, lets focus the entire dashboard to see how we are performing when it comes to Footwear and Clothing. 
 
 ![img12](https://user-images.githubusercontent.com/92877810/138147807-2b291c88-68f5-4eb5-b1f5-a88397ba23a8.png)
 
@@ -93,7 +93,7 @@ Now that we have a Product input control, lets focus the entire dashboard to see
 
 ![img13](https://user-images.githubusercontent.com/92877810/138147809-e3528f2d-b68c-425a-a234-a51a58ef376a.png)
 
-Changing the Product Input Control applies a filter to all charts and tables on the page. Now all our charts only include data for products in Clothing or Footwear. However, this behavior may be different from what we want. If we only want to change a few charts on the dashboard in response to the input control, we can do this by adding scope to our Page Filter. This is done via Linked Analysis. 
+🚩Changing the Product Input Control applies a filter to all charts and tables on the page. Now all our charts only include data for products in Clothing or Footwear. However, this behavior may be different from what we want. If we only want to change a few charts on the dashboard in response to the input control, we can do this by adding scope to our Page Filter. This is done via Linked Analysis. 
 
 ![img14](https://user-images.githubusercontent.com/92877810/138148606-f81f9d89-41e2-498a-88b7-f7532f801636.png)
 
@@ -103,15 +103,14 @@ Changing the Product Input Control applies a filter to all charts and tables on 
 
 ![img15](https://user-images.githubusercontent.com/92877810/138148609-3571c0e6-209d-4760-aa8d-99fb5c9f902f.png)
 
-Welcome to Linked Analysis! 
-  
+ℹ️Welcome to Linked Analysis!   
   
 Linked Analysis allows the user to define which widgets will be affected when interacting with the input control. 
 By default an input control will be applied to all widgets on the page, but a story designer can also choose to only apply the input control to a selected set of widgets.  This is often done when one wants to compare difference slices of the data side by side.  
 
 ![img16](https://user-images.githubusercontent.com/92877810/138148611-44194bc3-2b8b-4552-955b-6cdb6971ac59.png)
 
-We only want our page filter to apply to select charts. We can select these in the Linked Analysis Panel.  
+🚩We only want our page filter to apply to select charts. We can select these in the Linked Analysis Panel.  
 
 27. Click **Only Selected Widgets**
 
@@ -125,7 +124,7 @@ We only want our page filter to apply to select charts. We can select these in t
 
 ![img17](https://user-images.githubusercontent.com/92877810/138148614-db6613fe-b2d0-4faa-b04f-a904bf659dd2.png)
 
-We can test the Linked Analysis behavior by deselecting Clothing and seeing which charts change. 
+🚩We can test the Linked Analysis behavior by deselecting Clothing and seeing which charts change. 
 
 32. Click **Product**
 
@@ -137,11 +136,11 @@ We can test the Linked Analysis behavior by deselecting Clothing and seeing whic
 
 ![img19](https://user-images.githubusercontent.com/92877810/138148621-7856415c-b711-4b3f-b949-eb4ac7f3bdb4.png)
 
-Only data in the three charts we selected has changed. All other charts and tables on the page remain un-affected.  
+🚩Only data in the three charts we selected has changed. All other charts and tables on the page remain un-affected.  
 
 ![img20](https://user-images.githubusercontent.com/92877810/138148622-034c3b97-0511-409b-8242-af9baad4c7e0.png)
 
-Let’s revert to selecting all products. 
+🚩Let’s revert to selecting all products. 
 
 35. Click the **Product Input Control** 
 
@@ -153,11 +152,11 @@ Let’s revert to selecting all products.
 
 ![img22](https://user-images.githubusercontent.com/92877810/138148625-5d0a8134-fb43-4392-8426-41ed3ef131aa.png)
 
-Quality Check! Has your page reverted to show all **Products**?
+⚠️Quality Check! Has your page reverted to show all **Products**?
 
 ![img23](https://user-images.githubusercontent.com/92877810/138148627-fc20c3b3-d3d6-4c90-b3d4-36913a5f5074.png)
 
-We can provide end users the flexibility to analyze various measures (i.e. sales revenue, gross margin, etc.) with **Measure Input Controls**. This eliminates the need to duplicate charts and allows users to dynamically change the measures each chart consumes. Let's create a Measure Input Control and direct our chart to use that instead of a single measure. 
+🚩We can provide end users the flexibility to analyze various measures (i.e. sales revenue, gross margin, etc.) with **Measure Input Controls**. This eliminates the need to duplicate charts and allows users to dynamically change the measures each chart consumes. Let's create a Measure Input Control and direct our chart to use that instead of a single measure. 
 
 38. Select the **Sales Revenue per Region for Actual** Chart
 
@@ -177,7 +176,7 @@ We can provide end users the flexibility to analyze various measures (i.e. sales
 
 ![img26](https://user-images.githubusercontent.com/92877810/138149936-6301c7f5-e1cf-4639-a4c2-a99d78841fc5.png)
 
-Welcome to Measure Input Controls! 
+ℹ️Welcome to Measure Input Controls! 
   
 Measure Input Controls are a great way to change the Measure that is represented on a chart at view time. If your viewer would rather see Gross Margin in the regional breakdown than Sales Revenue, a Measure Input Control provides this functionality. 
 
@@ -199,15 +198,15 @@ Measure Input Controls are a great way to change the Measure that is represented
 
 49. Resize the Measure Input Control to see all members
 
-Please note: These input controls can be renamed; this functionality will be shown later in the styling section.  
+🚩Please note: These input controls can be renamed; this functionality will be shown later in the styling section.  
 
-This measure input control now drives our first chart in the right lane. 
+🚩This measure input control now drives our first chart in the right lane. 
 
 It is possible to add more than one chart to a measure input control to drive synced behavior in your story. Let's do this now and add a second chart that is controlled by this Measure Input Control.
 
 ![img30](https://user-images.githubusercontent.com/92877810/138149942-58405e25-8511-4362-8368-891c41b770bb.png)
 
-Quality Check! This is what your dashboard should look like.  
+⚠️Quality Check! This is what your dashboard should look like.  
   
 Take a minute and save your work using **Ctrl + S**. 
 
@@ -229,9 +228,9 @@ Take a minute and save your work using **Ctrl + S**.
 
 ![img33](https://user-images.githubusercontent.com/92877810/138149945-0cd758f0-232f-49c8-9abc-725e750c05ab.png)
 
-Quality Check! Do your story's charts use the same measures as this screenshot? 
+⚠️Quality Check! Do your story's charts use the same measures as this screenshot? 
 
-Since the measure input control is currently on Sales Revenue selection, all three of our charts are using Sales Revenue as the measure displayed in the visualization. 
+🚩Since the measure input control is currently on Sales Revenue selection, all three of our charts are using Sales Revenue as the measure displayed in the visualization. 
   
 Changing the measure input control to Gross Margin would update all 3 charts to display Gross Margin instead. 
 
@@ -277,13 +276,13 @@ Changing the measure input control to Gross Margin would update all 3 charts to 
 
 ![img40](https://user-images.githubusercontent.com/92877810/138149953-1a55fd87-6039-4792-8743-958f027f212f.png)
 
-Quality Check! Test out the effects of measure and dimension input controls in your story.
+⚠️Quality Check! Test out the effects of measure and dimension input controls in your story.
 
-After changing both input controls, Gross Margin should be the measure displayed in every chart. The first chart now visualizes a breakdown of Gross Margin across Sales Managers rather than region. 
+🚩After changing both input controls, Gross Margin should be the measure displayed in every chart. The first chart now visualizes a breakdown of Gross Margin across Sales Managers rather than region. 
 
 ![img41](https://user-images.githubusercontent.com/92877810/138149955-8deee799-258e-42e7-b00c-65deba6df177.png)
 
-There is still more dynamic functionality available within Sap Analytics Cloud. We can use additional functionality within Linked Analysis to link two charts so that if a data point is clicked on one chart, the other chart will update by creating a filter on that data point. Let's do this now and we'll get a better idea of what this means.  
+🚩There is still more dynamic functionality available within Sap Analytics Cloud. We can use additional functionality within Linked Analysis to link two charts so that if a data point is clicked on one chart, the other chart will update by creating a filter on that data point. Let's do this now and we'll get a better idea of what this means.  
 
 70. Click on the **More** icon on the Gross Margin per Sales Manager per Actual Chart to Open the Context Menu
 
@@ -291,7 +290,7 @@ There is still more dynamic functionality available within Sap Analytics Cloud. 
 
 ![img42](https://user-images.githubusercontent.com/92877810/138149956-18d558ea-8774-4f29-b879-ea893d195e7f.png)
 
-Remember we're now adding linked analysis on a chart as opposed to an Input Control. This provides us with a few more options. 
+ℹ️Remember we're now adding linked analysis on a chart as opposed to an Input Control. This provides us with a few more options. 
 
 72. Click **All Widgets on the Page**
 
@@ -301,13 +300,13 @@ Remember we're now adding linked analysis on a chart as opposed to an Input Cont
 
 ![img43](https://user-images.githubusercontent.com/92877810/138149959-789c6dbe-dbe4-4ee3-ac4a-c2fc4ab7d82e.png)
 
-Let's test Linked Analysis and get some more insight on how **Gary Dumin** in performing.  
+🚩Let's test Linked Analysis and get some more insight on how **Gary Dumin** in performing.  
 
 75. Click **Gary Dumin**
 
 ![img44](https://user-images.githubusercontent.com/92877810/138149961-96df2d23-a8b1-49c2-8622-824c76566fa7.png)
 
-Do you see your linked charts change when highlighting a Sales Manager? Notice how the CGR in our time dimension chart is positive under this filter (Note this data may be different due to the dynamic time filter).
+🚩Do you see your linked charts change when highlighting a Sales Manager? Notice how the CGR in our time dimension chart is positive under this filter (Note this data may be different due to the dynamic time filter).
 
 ![img45](https://user-images.githubusercontent.com/92877810/138149962-8cbec171-e519-4d68-b613-9daca5f3cb16.png)
 
@@ -315,13 +314,13 @@ Do you see your linked charts change when highlighting a Sales Manager? Notice h
 
 ![img46](https://user-images.githubusercontent.com/92877810/138149963-129790a6-fe35-4b58-b15b-b46c649b7b8c.png)
 
-Save your story by pressing **Ctrl + S**
+🚩Save your story by pressing **Ctrl + S**
 
 ![img47](https://user-images.githubusercontent.com/92877810/138149965-f38d924e-c107-43d8-89f1-45ca82d390ed.png)
 
-Quality Check! Does your dashboard look like this screenshot?  
+⚠️Quality Check! Does your dashboard look like this screenshot?  
 
-You have now completed the **Linked Analysis and Input Controls** section! In this section, you have learned how to dynamically change page filters with an input control, add interactive measures and dimensions to charts also with input controls, and create powerful analytics between the charts in your story using linked analysis and data point filtering. 
+ℹ️You have now completed the **Linked Analysis and Input Controls** section! In this section, you have learned how to dynamically change page filters with an input control, add interactive measures and dimensions to charts also with input controls, and create powerful analytics between the charts in your story using linked analysis and data point filtering. 
   
 We're going to add some styling to this dashboard later on. 
 
