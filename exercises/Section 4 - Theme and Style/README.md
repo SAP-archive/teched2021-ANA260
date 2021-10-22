@@ -476,3 +476,115 @@ Dynamic text can be created in your story and are automatically updated based on
 
 ![4-73](https://user-images.githubusercontent.com/92877810/138517179-1dea4c3a-4e43-4d5a-b394-63486aa499d9.png)
 
+111. Click **Insert**
+
+112. Click **Image**
+
+![4-74](https://user-images.githubusercontent.com/92877810/138519438-1f3f3a51-568f-4ecf-a322-525d31e1895c.png)
+
+👉We want to upload a company logo from 
+local files to our story. For best performance, it is recommended to use vector images. 
+
+113. Click Upload in the Builder Panel
+
+![4-75](https://user-images.githubusercontent.com/92877810/138519444-698e20d0-01dd-496a-95bd-72ec2d0e1ac8.png)
+
+114. Select **logo.png** from your downloaded files
+
+![4-76](https://user-images.githubusercontent.com/92877810/138519446-d12f1926-f767-45c8-a2d8-5c52ac68ce58.png)
+
+115. Click **logo.png**
+
+![4-77](https://user-images.githubusercontent.com/92877810/138519447-5ceb87f2-ba3e-4bd5-8935-67b877335c0b.png)
+
+116. Resize the Image as Tall as the Numeric Point Charts
+
+![4-78](https://user-images.githubusercontent.com/92877810/138519449-ab7b56be-70f2-4799-904f-42c4148f4288.png)
+
+Our page looks great with all the styling changes we have made. We should now rename the page in our story accordingly
+
+![4-79](https://user-images.githubusercontent.com/92877810/138519451-00662878-95ed-4e4f-ba2f-ee9d5760147b.png)
+
+117. Click **Expand** on Page 1
+
+118. Click **Rename**
+
+![4-80](https://user-images.githubusercontent.com/92877810/138519455-0243600e-d43a-4885-89f1-e9276298a9bc.png)
+
+119. Rename the story page **Overview**
+
+120. Click **Rename**
+
+![4-81](https://user-images.githubusercontent.com/92877810/138519458-b84593df-5598-42c8-8fa4-b21dd7955c5d.png)
+
+👉Now that we have stylized our story, users can choose to preview their responsive page in a variety of device formats. We know that our executives will be consuming this dashboard on multiple devices. Thus, we want to make sure the dashboard looks great when displayed on mobile. 
+
+![4-82](https://user-images.githubusercontent.com/92877810/138519459-c8fa636e-afa7-4c1e-a698-7a508c0442c9.png)
+
+121. Click **Format**
+
+122. Click **Device Preview**
+
+![4-83](https://user-images.githubusercontent.com/92877810/138519461-8aa3f69f-6936-4638-b96e-4448cc9b039e.png)
+
+ℹ️Welcome to Device Preview! 
+  
+From the preview screen, you can change the device or size to see how your page looks. In some cases, tiles resize and flow to fit smaller resolution screens when space becomes limited. 
+
+![4-84](https://user-images.githubusercontent.com/92877810/138519466-6bf4bce6-bca6-4821-b017-2f666a0019eb.png)
+
+123. Click **Expand Device**
+
+124. Click **iOS**
+
+![4-85](https://user-images.githubusercontent.com/92877810/138519468-d0764cea-caa4-4665-804f-f869e98635a9.png)
+
+👉We can that the numeric point charts on iOS are larger than necessary. Let’s fix the size in the Designer panel. 
+
+125. Click the numeric point chart
+
+![4-86](https://user-images.githubusercontent.com/92877810/138519469-5f5d1fee-eb6c-420b-9d95-a7a80ed8eeac.png)
+
+126. Click **Designer**
+
+👉We can change the font scaling for individual charts. All changes will only be reflected in the specified device format and do not change the original story. 
+
+127. Change the Font Scale from **100%** to **86%**
+
+![4-87](https://user-images.githubusercontent.com/92877810/138519472-80d65d1e-a1c2-4dfc-b7f0-ebb34ae49db4.png)
+
+⚠️Quality check! Has your numeric point chart become downscaled to better fit the mobile view? 
+
+![4-88](https://user-images.githubusercontent.com/92877810/138519473-ba810c09-ea92-4b09-9629-405a563920fd.png)
+
+128. Click the second numeric point chart
+
+![4-89](https://user-images.githubusercontent.com/92877810/138519474-1e664d4a-075e-4133-86c1-57fff7cb52c2.png)
+
+129. Change the Font Scale from **100%** to **86%**
+
+![4-90](https://user-images.githubusercontent.com/92877810/138519476-05a45e2b-fe38-4e9b-9c8e-4e158e5a3284.png)
+
+👉We have now customized the scaling of our story for a specific platform (Small iOS Phones). Does your story look like this screenshot in Device Preview? 
+
+![4-91](https://user-images.githubusercontent.com/92877810/138520466-fe9b3862-2555-4fc0-a6f0-f5036860f0cc.png)
+
+130. Click **Device Preview** to leave this view
+
+![4-92](https://user-images.githubusercontent.com/92877810/138520470-b46b41d6-9868-4226-9578-07f51f288dcc.png)
+
+👉Story creators can also easily swap to view mode on the top right. This enables the user to see what viewer behavior is like on the story page with input controls and Explorer view. 
+
+131. Click **View Mode**
+
+![4-93](https://user-images.githubusercontent.com/92877810/138520472-3f76b52b-b10a-46d7-b383-c1a2c759110e.png)
+
+⚠️Quality Check! Does your dashboard look like this screenshot after theme and styling? 
+
+⚠️Please save your story by pressing Ctrl + S on your keyboard! 
+
+![4-94](https://user-images.githubusercontent.com/92877810/138520473-49e38489-1e27-4d22-aa5b-cc7e677eb873.png)
+
+ℹ️You have now completed Theme and Style section! In this section, we have learned how to apply overall style changes in story preferences, hide and show chart features, change lane and font colors, auto format numbers, apply visual changes to geo maps, create dynamic text in our story, add external images, and edit the scaling of our story on different device formats. 
+
+![4-95](https://user-images.githubusercontent.com/92877810/138520474-b0fda2d6-c7cc-497d-8eb2-8ae369e468be.png)
