@@ -470,13 +470,15 @@ Dynamic text can be created in your story and are automatically updated based on
 
 109. Click **logo.png**
 
-![4-72](https://user-images.githubusercontent.com/92877810/138517178-af25d868-e84e-45d8-8f35-f3304c5f9de1.png)
+![4-step109](https://user-images.githubusercontent.com/92877810/138520697-0d835d6e-4204-473b-be80-a12b9393a8ed.png)
 
 110. Click **Download** to download the file
 
-![4-73](https://user-images.githubusercontent.com/92877810/138517179-1dea4c3a-4e43-4d5a-b394-63486aa499d9.png)
+![4-step110](https://user-images.githubusercontent.com/92877810/138520707-0e697bf0-b8e6-4981-afe2-23955ea1df57.png)
 
 111. Click **Insert**
+
+![4-step111](https://user-images.githubusercontent.com/92877810/138520712-524be070-5875-4a8f-bc88-d8a57e948f35.png)
 
 112. Click **Image**
 
