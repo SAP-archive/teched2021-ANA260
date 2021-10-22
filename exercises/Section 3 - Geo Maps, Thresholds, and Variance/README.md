@@ -26,7 +26,7 @@ Exercise check! Does your dashboard look like this screenshot?
 
 🚩We are going to be using a secondary model in this exercise. SAP Analytics Cloud supports using multiple models in a dashboard to best represent your story. Let us swap to our shipping model so we can display average delivery times by country in our geo map. 
 
-🚩4. Click **Select Model**
+4. Click **Select Model**
 
 ![3-5](https://user-images.githubusercontent.com/92877810/138260053-507e3619-6d00-463e-8ecd-7e5c20722133.png)
 
