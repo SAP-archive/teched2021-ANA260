@@ -29,8 +29,11 @@ Our exercises build on the previous exercise for a holistic learning experience.
 
 ## Further Learning
 
+**Category A**
 - [Resource 1 - XYZ](exercises/Section%201%20-%20Creating%20Your%20First%20Story/README.md/)
 - [Resource 2 - XYZ](exercises/Section%202%20-%20Linked%20Analysis%20and%20Input%20Controls/README.md/)
+
+**Category B**
 - [Resource 3 - XYZ](exercises/Section%203%20-%20Geo%20Maps,%20Thresholds,%20and%20Variance/README.md/)
 - [Resource 4 - XYZ](exercises/Section%204%20-%20Theme%20and%20Style/README.md/)
 
