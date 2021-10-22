@@ -139,7 +139,7 @@ Swatch 6: f9c43e
 
 30. Click  the **Paint Bucket** for **Lane Styling Options**
 
-31. Choose **Black** Color
+31. Choose **Black Color**
 
 ![4-19](https://user-images.githubusercontent.com/92877810/138502949-c7d3c409-a96a-418b-84a5-eb4fc19160de.png)
 
