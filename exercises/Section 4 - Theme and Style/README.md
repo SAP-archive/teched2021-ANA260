@@ -148,32 +148,177 @@ Swatch 6: f9c43e
 32. Click **Left Lane**
 
 ![4-20](https://user-images.githubusercontent.com/92877810/138502951-f6ae1f69-cd43-457c-9485-014a8f7c9ef5.png)
+
+👉Instead of using a solid color, we can apply a custom gradient to our story. 
+
+33. Expand **Lane Background Color**
+
+34. Click **Gradient**
+
 ![4-21](https://user-images.githubusercontent.com/92877810/138505213-537858a1-7ee0-4840-8495-c0da7360dafe.png)
+
+35. Click **Gradients to expand**
+
+36. Click **Create New Gradient**
+
 ![4-22](https://user-images.githubusercontent.com/92877810/138505220-4860187c-7a9f-40fa-b2d9-e678973811a6.png)
+
+👉In the gradient creation menu, users can apply specific colors on the gradient range or add additional swatches within the gradient. 
+
+37. Click on first swatch
+
+38. Click hex to ccccce
+
 ![4-23](https://user-images.githubusercontent.com/92877810/138505223-b2902da0-4bfa-437b-a098-a8f7574e1d3a.png)
+
+39. Click on second swatch
+
+40. Click hex to **f2f2f2**
+
+41. Click **Create**
+
 ![4-24](https://user-images.githubusercontent.com/92877810/138505226-b1116f0d-c2a9-4c31-af9c-0a7641ed12de.png)
+  
+👉Now our story has lanes that are clearly differentiated into logical segments. Utilizing background is a great way to enhance your dashboard for clarity. We can notice that the color of our KPIs do not stand out against the dark background. Let’s change the font color so they are accented appropriately. 
+
+42. Click on **Gross Margin** Numeric Point Chart
+
 ![4-25](https://user-images.githubusercontent.com/92877810/138505228-f608b218-b729-482c-964b-9f7648678341.png)
+
+43. Expand **Font Colors**
+
+44. Select the **White Swatch**
+
 ![4-26](https://user-images.githubusercontent.com/92877810/138505230-39a99be6-250e-425f-b6c1-3c724b6dec70.png)
+
+45. Click on **Sales Revenue** numeric point chart
+
 ![4-27](https://user-images.githubusercontent.com/92877810/138505231-df985d43-fdfa-49f4-801a-4d1a7c40fb54.png)
+
+46.  Expand Font Colors 
+
+47. Select the **White Swatch**
+
 ![4-28](https://user-images.githubusercontent.com/92877810/138505233-9559961e-713e-4371-ac49-f25b269bd4dc.png)
+
+48. Click on **Avg Sales Revenue** numeric point chart
+
 ![4-29](https://user-images.githubusercontent.com/92877810/138505235-b003bce1-ca26-478c-9708-db28029df3e1.png)
+
+49.  Expand Font Colors 
+
+50. Select the **White Swatch**
+
 ![4-30](https://user-images.githubusercontent.com/92877810/138505237-dcee57a7-55fa-4d39-9f4d-3023c39f977a.png)
+
+51. Resize your numeric point charts so they are smaller. 
+
 ![4-31](https://user-images.githubusercontent.com/92877810/138505238-f31eafb4-5942-4c46-bfea-43d6cd8b0f53.png)
+
+👉In responsive pages, the story is divided into cells that are used to format the placement and size of all elements on the story. This enables the story view to be easily converted for viewing on a variety of device formats, including mobile. Users can choose to change the size and spacing between cells. 
+
 ![4-32](https://user-images.githubusercontent.com/92877810/138505241-48d6c758-db2d-4f07-afc4-01660adacf2e.png)
+
+⚠️Quality Check! Is your top lane more compact
+
+ℹ️We will also now resize the other charts in our story. It is recommended to leave white space in between charts for better visual clarity. 
+
 ![4-33](https://user-images.githubusercontent.com/92877810/138505244-fd950008-61b6-41de-954b-bb3777ef3398.png)
+
+👉After some resizing and moving charts, our story looks like this! There are still some details we can polish in our charts. 
+
 ![4-34](https://user-images.githubusercontent.com/92877810/138505248-eafd6368-8bdf-484a-ba16-7b1f16095abe.png)
+
+👉Currently our KPIs are showing granular information. For better readability, we should reduce the number of significant digits. Let us format these numbers in our dashboard. 
+
+52. Click on Gross Margin numeric point chart
+
 ![4-35](https://user-images.githubusercontent.com/92877810/138505251-667f8781-e0b2-40a7-bbd4-96a8fb9b0dab.png)
+
+53. Click **Designer** to Open the Builder Panel (in case if not already open)
+
+54. Switch to **Styling Panel** (in case not already open)
+
 ![4-36](https://user-images.githubusercontent.com/92877810/138505259-632ae41a-acbe-48b5-a886-3077174b7970.png)
+
+55. Scroll to the Bottom of the Styling Panel to Number Format 
+  
+👉It is recommended to use auto-formatted scale for numbers in your dashboard as SAC will automatically adjust the scale based on the context of your data. You can also use scale formatting to change the way scale is being displayed
+
+56. Expand **Scale**
+
+57. Click **Auto-formatted**
+
 ![4-37](https://user-images.githubusercontent.com/92877810/138505261-2780adbf-d8e8-4912-b1cb-0a20343b911f.png)
+
+⚠️Quality check! Does your gross margin numeric point chart look like this after formatting changes? 
+
 ![4-38](https://user-images.githubusercontent.com/92877810/138505262-216184b8-4df3-4ecd-b1bf-e244df72535e.png)
+
+59. Scroll to the Bottom of the Styling Panel to Number Format 
+
+60. Expand **Scale**
+
+61. Click **Auto-formatted**
+
 ![4-39](https://user-images.githubusercontent.com/92877810/138505263-f3cebacc-7691-4610-a9c9-7f7470607e3b.png)
+
+62. Click the Avg Sales Revnue numeric point chart
+
 ![4-40](https://user-images.githubusercontent.com/92877810/138505264-6828618d-6a8e-42b9-a20b-27b36f2b667f.png)
+
+63. Scroll to the Bottom of the Styling Panel to Number Format 
+
+64. Expand **Scale**
+
+65. Click **Auto-formatted**
+
 ![4-41](https://user-images.githubusercontent.com/92877810/138505266-7c4f4b6f-615d-4df6-9130-126a5c919743.png)
+
+👉Now that we have formatted our KPIs, we can hide any redundant information in our charts. 
+
 ![4-42](https://user-images.githubusercontent.com/92877810/138505269-16c008da-65cb-40ff-899e-8ae61bf0bfcc.png)
+
+66. Hold Shift and Left Click the Three 
+ 
+Numeric Point Charts 
+ 
 ![4-43](https://user-images.githubusercontent.com/92877810/138505270-7f17a45d-b38d-4cc0-8d03-99e162dbab8f.png)
+
+👉We can choose to hide a variety of different details on our charts so only the important elements are visible. Let’s hide the chart title and subtitle for now. 
+
+67. Click **More Actions**
+
+68. Click **Show/Hide**
+
+69. Deselect **Chart Title**
+
+70. Deselect **Subtitle**
+
 ![4-44](https://user-images.githubusercontent.com/92877810/138505272-35dd9169-d4c2-49a5-9f40-5c4cdf508536.png)
+
+⚠️Quality check! Do your numeric point charts look like this screenshot? 
+
 ![4-45](https://user-images.githubusercontent.com/92877810/138505275-06d47931-38f9-4ddf-aaca-75de137cc503.png)
+
+ℹ️Let us now improve the number formatting 
+for our other charts to improve the readability for our story viewers. First, change the formatting for our time series chart. 
+
+71. Click Gross Margin per Order Date for Actual Chart
+
 ![4-46](https://user-images.githubusercontent.com/92877810/138505277-0dc5a3d0-2d61-4c22-9bb4-a15e9c3e6c17.png)
+
+72. Click **Designer** to Open the Builder Panel (in case if not already open)
+
+73. Switch to **Styling Panel** (in case not already open)
+
 ![4-47](https://user-images.githubusercontent.com/92877810/138505279-feb5556c-fc77-45ba-8ee1-946b896794bc.png)
+
+74. Scroll to the Bottom of the Styling Panel to Number Format 
+ 
+75. Expand **Scale**
+
+76. Click **Auto-formatted**
+
 ![4-48](https://user-images.githubusercontent.com/92877810/138505281-50d0112f-5fe6-4561-9dcb-b507d35f76f3.png)
 
