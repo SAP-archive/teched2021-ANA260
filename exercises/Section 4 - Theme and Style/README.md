@@ -325,26 +325,141 @@ for our other charts to improve the readability for our story viewers. First, ch
 76. Click **Auto-formatted**
 
 ![4-49](https://user-images.githubusercontent.com/92877810/138517124-912feea3-afac-48cb-ba26-d88f7025f970.png)
+
+👉Next, change the formatting on our bar chart for sales manager metrics. 
+ 
+77. Click **Gross Margin per Sales Manager** Chart
+
 ![4-50](https://user-images.githubusercontent.com/92877810/138517131-4e2fd677-6bd6-4c9f-80cd-1616c58a2928.png)
+
+78. Scroll to the Bottom of the Styling Panel to Number Format 
+
+79. Expand **Scale**
+
+80. Click **Auto-formatted**
+
 ![4-51](https://user-images.githubusercontent.com/92877810/138517133-b06056be-c28c-46e1-affe-b5d35b11f411.png)
+
+👉You can also change the decimal places in the Styling Panel
+
+81. Click **Expand**
+
 ![4-52](https://user-images.githubusercontent.com/92877810/138517135-abd2c9db-fd2d-47b4-a78d-5e31ca64d984.png)
+
+82. Select **0** decimal places
+
 ![4-53](https://user-images.githubusercontent.com/92877810/138517137-6bf17208-12e5-4016-9a85-68f618a39a41.png)
+
+👉We will now look at editing our Geo Map visualization to fit the styling of the rest of our story. 
+
+83. Click the **Geo Map**
+
 ![4-54](https://user-images.githubusercontent.com/92877810/138517139-c628cb58-bd62-4915-b6c6-20108b0e2513.png)
+
+84. Switch to **Builder Panel**
+
+85. Click **OK** to move out of Builder Layer 1
+
 ![4-55](https://user-images.githubusercontent.com/92877810/138517141-8df3c406-e499-498c-8c15-2f2ce96d0edd.png)
+
+👉Depending on the geo visualization layer and your data, there are a variety of different basemap types that can be applied to your geo map to best represent your data. We will choose a darker layout. 
+
+86. Expand **Basemap Options**
+
+87. Click **Transparent Dark Gray**
+
 ![4-56](https://user-images.githubusercontent.com/92877810/138517143-8ba20ff8-8add-41ee-823a-53a228bc3001.png)
+
+⚠️Quality check! Our geo map should look like this screenshot after the basemap change. 
+
 ![4-57](https://user-images.githubusercontent.com/92877810/138517147-44362068-7c77-416c-9f98-5a7a04e36152.png)
+
+👉Let us theme the choropleth layer data to be colored with a more accurate gradient. 
+
+88. Click **Edit Layer**
+
 ![4-58](https://user-images.githubusercontent.com/92877810/138517150-5407e5f7-3b7c-4cd7-b1c9-2db6a9872fe3.png)
+
+👉Let’s create a custom gradient for the choropleth colors that matches the corporate colors we chose for our story. 
+
+89. Click **Expand** on Avg Delivery Time
+
+90. Click **Expand Palette**
+
+91. Click **Add New Gradient**
+
 ![4-59](https://user-images.githubusercontent.com/92877810/138517151-db7f702e-c8f1-4dc3-9ea3-a86df5f4a991.png)
+
+92. Click the first swatch
+
+93. Change the hex to **ccccce**
+
 ![4-60](https://user-images.githubusercontent.com/92877810/138517152-310fba35-c997-4443-9d76-6385bebaf161.png)
+
+94. Click the second swatch
+
+95. Change the hex to **fc7928**
+
+96. Click **Create**
+
 ![4-61](https://user-images.githubusercontent.com/92877810/138517154-06420bd7-f39f-4af6-bd78-a56fcde14196.png)
+
+⚠️Quality Check! Does your Geo Map look like this screenshot?
+
 ![4-62](https://user-images.githubusercontent.com/92877810/138517158-c7572f90-0ac4-4928-bb33-08aec8d456ef.png)
+
+👉Next, we will look at formatting text and titles on our story. Let us first rename our input controls by double-clicking on their name. 
+
+97. Rename **New Measure Input Control** to **Measure** by double clicking on the heading
+
+98. Rename **New Dimension Input Control** to **Dimension** by double clicking on the heading
+
 ![4-63](https://user-images.githubusercontent.com/92877810/138517161-daf9c015-3b18-4538-af4a-e819da1c7123.png)
+
+👉We can add a dynamic text title for our lane of charts so other analysts viewing our story can quickly understand the context of our visualizations. Let us add a title for the chart section that dynamically represents the data presented. 
+
+99. Rename **Click to Enter Title...** to **Overview for**
+
 ![4-64](https://user-images.githubusercontent.com/92877810/138517162-cdb6f651-5d4a-4ee0-802d-b756e9c0d073.png)
+
+👉We can now create a dynamic text field that updates with input control selection. 
+
+100. Right Click Insider the Header to Open the Context Menu 
+
+101. Click **Dymanic Text**
+
 ![4-65](https://user-images.githubusercontent.com/92877810/138517163-44bf700c-2808-4412-b6df-b7a252a70172.png)
+
+ℹ️Welcome to Dynamic Text! 
+  
+Dynamic text can be created in your story and are automatically updated based on the selected filters or input controls specified in this menu. This means that your story dashboard will automatically update with headers and titles suited to the context of your data. 
+
+👉Let us create a dynamic text based on the region filter we have applied on the page. 
+
 ![4-66](https://user-images.githubusercontent.com/92877810/138517165-7d8ec990-ff40-4d5c-9ebd-5b62f1993248.png)
+
+102. Click **Dimension**
+
+103. Expand **ANA260_ORDER_FINANCE**
+
+104. Click **Region**
+
+105. Click **Create**
+
 ![4-67](https://user-images.githubusercontent.com/92877810/138517167-bb22a266-9cf8-4f90-bd1d-31919b37b400.png)
+
+👉You have just created your first Dynamic Text. This text field will automatically update with the Page Filters applied on Region. 
+
 ![4-68](https://user-images.githubusercontent.com/92877810/138517169-7b949254-9d56-4280-99e1-164af18f35fd.png)
+
+106. Add **Regions** at the End of the Header
+
 ![4-69](https://user-images.githubusercontent.com/92877810/138517171-2c0c1b42-049b-4970-9cb1-9358b5992c9c.png)
+
+ℹ️Let’s add a corporate logo to finalize the look of our dashboard! 
+
+107. Click the **Top Lane** with the Numeric Point Chart
+
 ![4-70](https://user-images.githubusercontent.com/92877810/138517173-08376e20-2c5a-4ba9-aec9-b838f73b40c8.png)
 ![4-71](https://user-images.githubusercontent.com/92877810/138517175-52846bae-2ffd-4563-bbc6-eca20b966c09.png)
 ![4-72](https://user-images.githubusercontent.com/92877810/138517178-af25d868-e84e-45d8-8f35-f3304c5f9de1.png)
