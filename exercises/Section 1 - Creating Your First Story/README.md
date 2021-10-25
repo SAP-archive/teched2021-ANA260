@@ -1,5 +1,25 @@
 # Exercise 1 - Creating Your First Story
 
+**Objective:** Develop a basic understanding on how to create visualizations within SAP Analytics Cloud. 
+
+**Estimated Time:** 20 mins
+
+**Exercise Description:** You want to get an understanding about what data is available to you and based on 
+your finance data find your first insights about company’s performance over time. 
+
+**Key Features:**
+• Interact with Explorer to create dynamic visualization and understand your data better
+• Copy and paste widgets from explorer to an existing dashboard
+• Understand how to use the Builder Panel
+• Create a variety of different charts to illustrate key relationships within your data
+
+⚠️**Disclaimer**
+When completing exercises, some data values in the screenshots may not match what you see on your 
+screen. This is because the dynamic time filters that were applied at the time the screenshots were taken is 
+different from the current system date.
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
 🚩In this exercise, we will create...
 
 As a business analyst for the BestRun company, we are interested in a business intelligence dashboard to utilize our finance and shipping data to guide business decision making. We can do this by creating a story. 
