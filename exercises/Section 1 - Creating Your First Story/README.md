@@ -20,9 +20,7 @@ different from the current system date.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-🚩In this exercise, we will create...
-
-As a business analyst for the BestRun company, we are interested in a business intelligence dashboard to utilize our finance and shipping data to guide business decision making. We can do this by creating a story. 
+🚩As a business analyst for the BestRun company, we are interested in a business intelligence dashboard to utilize our finance and shipping data to guide business decision making. We can do this by creating a story. 
 
 1. Click **Create Your First Story**
 
