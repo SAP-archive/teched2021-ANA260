@@ -576,6 +576,8 @@ We will cover calculations in more detail for business analytics use cases in ou
 
 136. Click **Save**
 
+137. Click **Save**
+
 ![Image 135_136_137](https://user-images.githubusercontent.com/90856848/137997594-45a05e2c-e770-4a06-9e5c-c138748d9844.png)
 
 <br> 137. Save your story in My Files as **ANA260_ Your Initials**
