@@ -176,3 +176,132 @@ Manager performance we were looking at
 🚩We're back to the original state.  
 
 ![5-20](https://user-images.githubusercontent.com/92877810/138757107-22ea44de-1d98-44ed-9baf-04648247bb6e.png)
+
+🚩We now want to analyze the performance of all our Sales Managers in the EMEA North and EMEA South Regions. Let's create this filter and bookmark it for our personal use so we can refer to it later. 
+
+46. Click Region Page Filter
+
+47. Deselect All 
+
+48. Select EMEA North and EMEA South
+
+49. Click Outside the Input Control to Collapse
+
+![5-21](https://user-images.githubusercontent.com/92877810/138759517-d437c254-8140-41f5-9b5f-0e3e0939585e.png)
+
+50. Click Bookmark
+
+51. Click Bookmark Current State
+
+![5-22](https://user-images.githubusercontent.com/92877810/138759523-eae6ff0a-ee97-4064-98e1-944b060f6b17.png)
+
+52. Name the Bookmark EMEA Overview
+
+ℹ️This time we're going to make it a personal bookmark for use by ourselves only. 
+
+53. Click Personal
+
+54. Click Save
+
+![5-23](https://user-images.githubusercontent.com/92877810/138759525-954d29ca-9ed5-456c-90ba-f125963b2435.png)
+
+🚩Now that we have a bookmark, we can easily come back to this state. Let's go back to our global bookmark and notify our colleague Tony by leaving him a comment
+
+55. Click Bookmark 
+
+56. Expand Open Saved Bookmarks
+
+57. Click Overview for Janet, Gary, and James
+
+![5-24](https://user-images.githubusercontent.com/92877810/138759526-6b1e4d7f-54b4-4cd2-882a-59f5d1905a08.png)
+
+⚠️Quality Check! Let's make sure we're back in the state we had bookmarked. 
+
+![5-25](https://user-images.githubusercontent.com/92877810/138759530-40c87eb0-0e20-4243-9c4b-3a618636d40b.png)
+
+🚩Once we're back in the bookmarked state, we can add a comment. 
+
+58. Click Edit (if not already in edit mode)
+
+59. Expand Overview
+
+60. Click Comment
+
+![5-26](https://user-images.githubusercontent.com/92877810/138759533-bbc32cd3-df40-4a72-b799-933f3551b5b9.png)
+
+61. Search for Tony by typing "@" before Tony
+
+62. Once the desired person shows up, click their name so they can be notified
+
+![5-27](https://user-images.githubusercontent.com/92877810/138759536-7bc53c4c-e0cd-4d2f-813c-5c14f4b575d1.png)
+
+63. Type @Tony Please see the Overview page here
+
+64. Click Add Comment
+
+![5-28](https://user-images.githubusercontent.com/92877810/138759538-34ade29d-b4dd-4ede-8771-be112817ec48.png)
+
+🚩Once the comment is placed, you can interact with it further. For example, you 
+can click the like icon. This can be done for your own or someone else comment and they will see this interaction. 
+
+65. Hover over the comment and Click the Like icon
+
+66. Click Exit to close the comment dialogue
+
+![5-29](https://user-images.githubusercontent.com/92877810/138759543-d0228aec-8c5f-42c8-8c81-e7c40836a81a.png)
+
+⚠️Quality Check! Does your dashboard look like this?  
+  
+This is also a good time to Save your Story
+  
+🚩Press Ctrl + S to save your story
+
+![5-30](https://user-images.githubusercontent.com/92877810/138759547-3e60cf8a-3923-4f24-b48a-d46013f86fbf.png)
+
+🚩SAP Analytics Cloud allows users to collaborate on stories. This can be done via discussions.  
+
+67. Click Collaborate
+
+68. Click New Discussion
+
+![5-31](https://user-images.githubusercontent.com/92877810/138759640-00b91aa0-4f98-475c-8ed4-a0900855bddb.png)
+
+ℹ️Welcome to the Discussion Panel! This is where we can collaborate with our colleagues and discuss the story. 
+  
+Let's start by inviting someone to the discussion. 
+
+69. Click Invite Participants
+
+![5-32](https://user-images.githubusercontent.com/92877810/138759643-86aed1f9-258f-42c2-a959-ba1f970a0922.png)
+
+70. Search for Tony
+
+71. Select Tony
+
+72. Click OK
+
+![5-33](https://user-images.githubusercontent.com/92877810/138759644-415b2277-bb8c-4c65-a6ef-49d09cc13888.png)
+
+🚩In the discussion panel, we're going to point Tony towards a specific story, and we're going to link it, so he knows which story we're talking about. 
+
+73. Write Tony a message:  i.e. Hey Tony, this is the overview page for our company's finances
+
+74. Press ENTER or click the Send icon to send
+
+![5-34](https://user-images.githubusercontent.com/92877810/138759646-6c350819-46cd-4613-90a2-458f7ab68d1d.png)
+
+🚩Now let's link the story so Tony knows what we're talking about. 
+
+75. Click New
+
+76. Select Link Story and the story we have open will be linked
+
+![5-35](https://user-images.githubusercontent.com/92877810/138759648-f32843cd-1973-4add-a70d-41a7f506cc7a.png)
+
+⚠️Quality Check! This is what your screen should look like once you’ve linked the story.  
+  
+This is the end of the section! You’ve learned how to create global and personal bookmarks, how to share stories in bookmarked states, comment on pages (and tag people in comments) and start discussions. 
+  
+Make sure to Save your story before moving on to the next section.  
+
+![5-36](https://user-images.githubusercontent.com/92877810/138759650-a819cf8d-c062-4f20-9bb5-8b55af983ed1.png)
