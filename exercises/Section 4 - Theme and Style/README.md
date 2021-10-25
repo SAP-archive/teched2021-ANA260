@@ -1,5 +1,33 @@
 # Section 4 - Theme & Style
 
+⚠️This section builds on top of another section. If you did not complete the previous section, please select 
+**“Section 3 – Geo Maps, Thresholds and Variances”** from the **“Public/TechEd”** folder and click **Copy To** your
+directory. You will then be able to edit this story to complete the following exercise.
+
+ℹ️**Objective:** Style and theme a dashboard for easier readability and a better look and feel.
+
+**Estimated Time:** 25 mins
+
+**Exercise Description:** You have created an analytics dashboard with visualizations that show variances 
+and thresholds, you added interaction for our viewers, but before you share the dashboard with your
+colleagues at BestRun, you need to make sure your dashboard is not only insightful but also looks visually
+appealing.
+
+**Key Features:**
+- Learn about the styling panel and how to format your visualizations
+- Learn how to simplify your visualisations by hiding unnecessary information 
+- Learn how to add an image or a logo to your dashboard
+- Use Device Preview to preview your analytical content across various devices and screen sizes (i.e. 
+Laptop, Tablet, Phone)
+
+⚠️**Disclaimer**
+When completing exercises, some data values in the screenshots may not match what you see on your 
+screen. This is because the dynamic time filters that were applied at the time the screenshots were taken is 
+different from the current system date.
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+
 ℹ️Exercise check! Does your dashboard look like this screenshot?  
 
 In this section we will cover theme and styling options in SAP Analytics Cloud to tweak your story into a professional dashboard. 
@@ -592,3 +620,17 @@ From the preview screen, you can change the device or size to see how your page 
 ℹ️You have now completed Theme and Style section! In this section, we have learned how to apply overall style changes in story preferences, hide and show chart features, change lane and font colors, auto format numbers, apply visual changes to geo maps, create dynamic text in our story, add external images, and edit the scaling of our story on different device formats. 
 
 ![4-95](https://user-images.githubusercontent.com/92877810/138520474-b0fda2d6-c7cc-497d-8eb2-8ae369e468be.png)
+
+<br><br>
+
+## Summary
+
+**You have completed the entire Theme and Style section!**
+
+**You are now able to:**
+- Use the styling panel 
+- Simplify your visualisations by hiding unnecessary information 
+- Add an image or a logo to your dashboard
+- Use Device Preview to preview your analytical content across various devices and screen sizes (i.e. 
+Laptop, Tablet, Phone)
+
