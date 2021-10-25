@@ -611,11 +611,15 @@ Please continue with the next section **Linked Analysis and Input Controls**. We
 
 ![Final Picture](https://user-images.githubusercontent.com/90856848/137997823-ed675788-ac8a-4c9a-9ddc-3c3a0795dd54.png)
 
-**Summary**
+<br>
+----------------------------------------------------------------------------------------------------------------------------------------
+
+# Summary
 
 **You have completed the entire Create Your First Story section!**
 
 **You are now able to:**
+
 • Understand how to use the Builder Panel
 • Create a variety of different charts to illustrate key relationships within your data
 
