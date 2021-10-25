@@ -37,25 +37,25 @@ On this page, users can choose to import their own data, run a smart discovery o
 
 ![image 3](https://user-images.githubusercontent.com/90856848/138345734-9d5d535d-96ef-4120-b4b4-cb3076269197.png)
 
-<br> 4. Click **Chart**
+4. Click **Chart**
 
 ![Image 4](https://user-images.githubusercontent.com/90856848/138345773-f4008930-c87d-48a8-9e28-9b7fb92c912e.png)
 
-<br> ℹ️The data we will be using was already uploaded by a colleague in the Finance department. Let us access this model from the Public/TechEd folder in our tenant. 
+ℹ️The data we will be using was already uploaded by a colleague in the Finance department. Let us access this model from the Public/TechEd folder in our tenant. 
 
 5. Click **Public**
 
 ![image 5](https://user-images.githubusercontent.com/90856848/138345799-d9424d9d-93c1-4f92-a7a2-7b48e5e92a50.png)
 
-<br> 6. Click **TechEd 2021**
+6. Click **TechEd 2021**
 
 ![image 6](https://user-images.githubusercontent.com/90856848/138345832-b330da8a-01c2-4b32-a435-72cc196234d2.png)
 
-<br> 7. Click **ANA260_ORDER_FINANCE**
+7. Click **ANA260_ORDER_FINANCE**
 
 ![Image 7](https://user-images.githubusercontent.com/90856848/138345891-0f43ca72-86d0-4594-a7d6-bc44289a5b9e.png)
 
-<br> ℹ️Welcome to the Builder Panel!  
+ℹ️Welcome to the Builder Panel!  
   
 The Builder Panel is a place where you can create your visualizations. The chart area on your responsive page will remain empty until a measure and dimension are selected from the Builder Panel. It will dynamically update depending on the visualization that you are trying to create.  
   
@@ -65,7 +65,7 @@ We have just added an empty chart to our story and now we want to start adding m
 
 ![image 8](https://user-images.githubusercontent.com/90856848/138345940-634d5da3-6a22-4174-bb1f-7a4756e8b8d3.png)
 
-<br> 9. Scroll untill you find **Sales Revenue**
+9. Scroll untill you find **Sales Revenue**
 
 10. Click S**ales Revenue**
 
