@@ -33,7 +33,7 @@ Our exercises build on the previous exercise for a holistic learning experience.
 - [Link to SAP Community](https://community.sap.com/topics/cloud-analytics)
 
 **OpenSAP Online Course - Learn how to make intelligent decisions with SAP Analytics Cloud**
-- [OpenSAP Course](https://open.sap.com/courses/sac1)
+- [Link to Course](https://open.sap.com/courses/sac1)
 
 **Customer Influence - Help shape the future of SAP Analytics Cloud by suggesting improvements or new features**
 - [Link to SAP Community](https://influence.sap.com/sap/ino/#/campaigns-open)
@@ -41,7 +41,7 @@ Our exercises build on the previous exercise for a holistic learning experience.
 **Roadmap Explorer - View upcoming SAP Analytics Cloud features**
 - [Link to SAP Community](https://roadmaps.sap.com/board?PRODUCT=67838200100800006884&range=CURRENT-LAST#Q4%202021)
 
-<br><br>
+<br>
 
 **[Link to SAP Community](https://community.sap.com/topics/cloud-analytics)** - Contains a list of articles and blogs outlining various SAP Analytics Cloud topics
 
