@@ -32,6 +32,16 @@ Our exercises build on the previous exercise for a holistic learning experience.
 **SAP Community - Contains a list of articles and blogs outlining various SAP Analytics Cloud topics**
 - [Link to SAP Community](https://community.sap.com/topics/cloud-analytics)
 
+**OpenSAP Online Course - Learn how to make intelligent decisions with SAP Analytics Cloud**
+- [Link to SAP Community](https://community.sap.com/topics/cloud-analytics)
+
+**Customer Influence - Help shape the future of SAP Analytics Cloud by suggesting improvements or new features**
+- [Link to SAP Community](https://community.sap.com/topics/cloud-analytics)
+
+**Roadmap Explorer - View upcoming SAP Analytics Cloud features**
+- [Link to SAP Community](https://community.sap.com/topics/cloud-analytics)
+
+
 
 - [SAP Community - Contains a list of articles and blogs outlining various SAP Analytics Cloud topics](https://community.sap.com/topics/cloud-analytics)
 - [OpenSAP Online Course - Learn how to make intelligent decisions with SAP Analytics Cloud](https://open.sap.com/courses/sac1)
