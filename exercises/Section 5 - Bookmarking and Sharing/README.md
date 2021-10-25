@@ -1,4 +1,4 @@
-# Section 4 - Bookmarking and Sharing
+# Section 5 - Bookmarking and Sharing
 
 ℹ️In this section, we're going to learn how to bookmark states, share stories, add comments and have discussions with our colleagues.  
 
@@ -94,12 +94,85 @@ Gross Margin, but what about Sales Revenue? Are the managers performing differen
 23. Click Bookmark Current State
 
 ![5-11](https://user-images.githubusercontent.com/92877810/138757084-d9ed4052-9bd6-4065-a16b-4699b3fa192d.png)
+
+ℹ️Welcome to Bookmarking!  
+Bookmarking allows content consumers to have a customized view saved so that they can simply consume the saved state later. 
+  
+Designers can create global bookmarks that are visible to anyone with access to the story. When sharing a story, a designer can also assign a default global bookmark.  
+ 
+Viewers also can create private bookmarks that are only visible to them or if they choose to share with others then they are visible to the shared group as well.  
+
 ![5-12](https://user-images.githubusercontent.com/92877810/138757087-32e852a8-14e8-48fc-a3df-b26da772472d.png)
+
+24. Let's name our bookmark Overview for Janet, Gary, and James
+
+25. Select Global so this bookmark can be visible to any team members we choose to collaborate with.  
+ 
+26. Click Set as new default
+
+27. Click Save
+
 ![5-13](https://user-images.githubusercontent.com/92877810/138757089-5bc006a5-c9df-4c57-af03-7bb3a1139a68.png)
+
+ℹ️Let's share this story with our colleague Tony and see if he agrees with our analysis. 
+
+28. Click File
+
+29. Click Share
+
 ![5-14](https://user-images.githubusercontent.com/92877810/138757092-f6605fbf-ba2f-428b-946e-def10631a268.png)
+
+30. Type in Tony
+
+31. Select Tony
+
 ![5-15](https://user-images.githubusercontent.com/92877810/138757094-b143e17d-9d35-4df8-838e-9223fc96da1f.png)
+
+🚩We want Tony to see the story in the bookmarked state by default. 
+
+32. Select Apply Global Bookmark Default
+
+33. Expand Bookmark
+
+34. Select Overview for Janet, Gary, and James
+
 ![5-16](https://user-images.githubusercontent.com/92877810/138757098-5d060243-7326-46fc-b264-eec643ad83c4.png)
+
+🚩These selections will apply the bookmarked state to the story as soon as Tony opens it. Allowing him to view the insights on Sales 
+Manager performance we were looking at
+
+35. Click Share
+
+36. Click Close
+
 ![5-17](https://user-images.githubusercontent.com/92877810/138757100-1ea89201-8385-403e-a5c7-21d1ff99eaf5.png)
+
+⚠️Take a minute to save your work by using the Save Icon or pressing Ctrl + S. 
+
+🚩Now that we have created and shared the bookmark, we can return to this state at any time. Let's revert the changes and go back to our original Overview Dashboard. 
+
+37. Click Sales Manager Story Filter
+
+38. Select All
+
+39. Click Outside the Sales Manager Drop Down Menu
+
 ![5-18](https://user-images.githubusercontent.com/92877810/138757101-66578184-6f2e-444d-bc61-2fd8933aba83.png)
+
+40. Click Product Page Filter
+
+41. Click All
+
+42. Click Outside the Input Control to Collapse
+
 ![5-19](https://user-images.githubusercontent.com/92877810/138757105-d6f8bbfb-7410-413c-946d-e2afd7756fa7.png)
+
+43. Click Region
+
+44. Select All Regions
+
+45. Click Outside the Input Control to Collapse
+
+🚩We're back to the original state.  
+
 ![5-20](https://user-images.githubusercontent.com/92877810/138757107-22ea44de-1d98-44ed-9baf-04648247bb6e.png)
