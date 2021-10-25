@@ -1,5 +1,33 @@
 # Section 5 - Bookmarking and Sharing
 
+⚠️This section builds on top of another section. If you did not complete the previous section, please select 
+**“Section 4 – Theme and Style”** from the **“Public/TechEd”** folder and click **Copy To** your
+directory. You will then be able to edit this story to complete the following exercise.
+
+ℹ️**Objective:**  Collaborate with your colleagues by sharing your dashboard and setting up discussion points 
+within SAP Analytics Cloud.
+
+**Estimated Time:** 12 mins
+
+**Exercise Description:** As a business analyst and content creator, you have finished creating your 
+dashboard. You now need to share your dashboard with your colleagues. To help your colleagues be 
+effective from the moment you share the dashboard, you can customize their view via bookmarks. Make sure 
+to collect feedback from your colleagues about the dashboard before the executive meeting! 
+
+**Key Features:**
+- Create global and private bookmarks to create alternate views of the Story
+- Share a Story with other users
+- Learn how to create comments and @mentions
+- Start a discussion with your colleges to track key decisions
+
+
+⚠️**Disclaimer**
+When completing exercises, some data values in the screenshots may not match what you see on your 
+screen. This is because the dynamic time filters that were applied at the time the screenshots were taken is 
+different from the current system date.
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
 ℹ️In this section, we're going to learn how to bookmark states, share stories, add comments and have discussions with our colleagues.  
 
 Bookmarks allow us to save the story in our preferred view. To showcase this, let's zoom in and analyze the performance of three Sales Managers.  
@@ -305,3 +333,17 @@ This is the end of the section! You’ve learned how to create global and person
 Make sure to Save your story before moving on to the next section.  
 
 ![5-36](https://user-images.githubusercontent.com/92877810/138759650-a819cf8d-c062-4f20-9bb5-8b55af983ed1.png)
+
+<br><br>
+
+## Summary
+
+**You have completed the entire Collaboration and Bookmarking section!**
+
+**You are now able to:**
+- Create global and private bookmarks to create alternate views of the Story
+- Share a Story with other users
+- Create comments and @mentions
+- Start a discussion with your colleges to track key decisions
+
+
