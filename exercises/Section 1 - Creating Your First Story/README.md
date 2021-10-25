@@ -4,12 +4,9 @@
 
 **Estimated Time:** 20 mins
 
-**Exercise Description:** You want to get an understanding about what data is available to you and based on 
-your finance data find your first insights about company’s performance over time. 
+**Exercise Description:** You want to visualize your company's performance over time, and find your first insights. 
 
 **Key Features:**
-• Interact with Explorer to create dynamic visualization and understand your data better
-• Copy and paste widgets from explorer to an existing dashboard
 • Understand how to use the Builder Panel
 • Create a variety of different charts to illustrate key relationships within your data
 
@@ -614,6 +611,12 @@ Please continue with the next section **Linked Analysis and Input Controls**. We
 
 ![Final Picture](https://user-images.githubusercontent.com/90856848/137997823-ed675788-ac8a-4c9a-9ddc-3c3a0795dd54.png)
 
+**Summary**
 
+**You have completed the entire Create Your First Story section!**
+
+**You are now able to:**
+• Understand how to use the Builder Panel
+• Create a variety of different charts to illustrate key relationships within your data
 
 
