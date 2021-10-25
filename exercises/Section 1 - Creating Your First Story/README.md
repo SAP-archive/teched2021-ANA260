@@ -526,7 +526,7 @@ We will cover calculations in more detail for business analytics use cases in ou
 
 ![Image 121_122](https://user-images.githubusercontent.com/90856848/137994960-6515a7c9-5632-4e72-8f66-8d1df87a6212.png)
 
-<br> Click **Create Calculation** in **Add Measure**
+<br> 123. Click **Create Calculation** in **Add Measure**
 
 ![Image 123](https://user-images.githubusercontent.com/90856848/137995024-c34a8f38-e1cb-42ae-9d0d-405cc9266b62.png)
 
