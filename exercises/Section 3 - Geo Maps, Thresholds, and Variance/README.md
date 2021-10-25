@@ -1,5 +1,34 @@
 # Section 3 - Geo Maps, Thresholds, and Variance
 
+⚠️This section builds on top of another section. If you did not complete the previous section, please select 
+**“Section 2 – Linked Analysis and Input Controls”** from the **“Public/TechEd”** folder and click **Copy To** your
+directory. You will then be able to edit this story to complete the following exercise.
+
+ℹ️**Objective:** Create a Geo Visualization with location data and use variances and thresholds to draw attention 
+to what is important in your dashboard by highlighting where to focus on.
+
+**Estimated Time:** 20 mins
+
+**Exercise Description:** In previous sections we added charts, tables and made the dashboard interactive 
+with input controls and linked analysis. You now need to include geographical data as part of your analysis
+as well as ensuring other employees can quickly draw conclusions when looking at the dashboard you 
+created. This can be achieved with thresholds and variances.
+
+**Key Features:**
+- Create Geo Visualization
+- Learn about Bubble and Choropleth layers and drill down a geographical hierarchy
+- Use recommended comparison to quickly add variances to a chart
+- Learn how to add a dynamic reference lines and sort a chart
+- Understand how to add a threshold to a table
+
+⚠️**Disclaimer**
+When completing exercises, some data values in the screenshots may not match what you see on your 
+screen. This is because the dynamic time filters that were applied at the time the screenshots were taken is 
+different from the current system date.
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+
 ℹ️Welcome to the **Geo Maps, Thresholds and Variance** section! We will also go into greater detail on the analytic capabilities available to story creators with geo maps and geo-enriched data in our **Section 8 - Geo Visualizations Deep Dive**. 
  
 Exercise check! Does your dashboard look like this screenshot? 
@@ -319,3 +348,14 @@ To explore more of SAP Analytics Cloud's capabilities in analyzing geo enriched 
  
 ![3-48](https://user-images.githubusercontent.com/92877810/138261848-de24c692-62f2-410a-be46-a70b2c52d1b4.png)
 
+<br><br>
+
+## Summary
+
+**You have completed the entire Linked Analysis and Input Controls section!**
+
+**You are now able to:**
+- Create page filters and apply them to a subset of widgets only
+- Add a measure and dimension input control to dynamically change the context of your data 
+visualization
+- Set up linked analysis to drive filters via widget interaction
