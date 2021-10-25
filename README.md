@@ -28,8 +28,6 @@ Our exercises build on the previous exercise for a holistic learning experience.
 - [Section 4 - Theme and Style](exercises/Section%204%20-%20Theme%20and%20Style/README.md/)
 
 ## Further Learning
-<br>
-
 **[Link to SAP Community](https://community.sap.com/topics/cloud-analytics)** - Contains a list of articles and blogs outlining various SAP Analytics Cloud topics
 
 **[Link to OpenSAP Course](https://open.sap.com/courses/sac1)** - Learn how to make intelligent decisions with SAP Analytics Cloud
