@@ -1,4 +1,33 @@
 # Exercise 2 - Linked Analysis and Input Controls
+
+⚠️This section builds on top of another section. If you did not complete the previous section, please select 
+**“Section 1 – Creating Your First Story”** from the **“Public/TechEd”** folder and click **Copy To** your
+directory. You will then be able to edit this story to complete the following exercise.
+
+ℹ️**Objective:** Develop a basic understanding on how to make a dashboard more dynamic for your viewers to 
+draw insights between multiple visualizations
+
+**Estimated Time:** 15 mins
+
+**Exercise Description:** In the last section, we created our first story and added new visualizations. However, 
+currently our dashboard is quite static. In this section, we want to add interactive capabilities to the 
+dashboard by adding new filters and input controls. This way our dashboard can be easily used by a number 
+of different employees at the company - each user will be able to easily manipulate the dashboard view and 
+only see what is important to them
+
+**Key Features:**
+- Learn about page filters and how to apply them to a subset of widgets only
+- Understand how to add a measure and dimension input control to dynamically change the context of 
+your data visualization
+- Understand how to set up linked analysis to drive filters via widget interaction
+
+⚠️**Disclaimer**
+When completing exercises, some data values in the screenshots may not match what you see on your 
+screen. This is because the dynamic time filters that were applied at the time the screenshots were taken is 
+different from the current system date.
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
 ⚠️**Exercise Check!** Does your dashboard look like this? Are you in Edit mode?
 
 ![Image 1](https://user-images.githubusercontent.com/90856848/138132038-7cef31ce-bbb0-4a69-a906-32bf36a4b13e.png)
@@ -326,3 +355,14 @@ We're going to add some styling to this dashboard later on.
 
 ![img48](https://user-images.githubusercontent.com/92877810/138149968-c8ef67f0-442e-4815-9258-e8dcfe16b985.png)
 
+<br><br>
+
+## Summary
+
+**You have completed the entire Linked Analysis and Input Controls section!**
+
+**You are now able to:**
+- Create page filters and apply them to a subset of widgets only
+- Add a measure and dimension input control to dynamically change the context of your data 
+visualization
+- Set up linked analysis to drive filters via widget interaction
