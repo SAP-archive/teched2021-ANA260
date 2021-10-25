@@ -352,10 +352,11 @@ To explore more of SAP Analytics Cloud's capabilities in analyzing geo enriched 
 
 ## Summary
 
-**You have completed the entire Linked Analysis and Input Controls section!**
+**You have completed the entire Geo Maps, Thresholds, and Variances section!**
 
 **You are now able to:**
-- Create page filters and apply them to a subset of widgets only
-- Add a measure and dimension input control to dynamically change the context of your data 
-visualization
-- Set up linked analysis to drive filters via widget interaction
+- Create Geo Visualization
+- Create Bubble and Choropleth layers and drill down a geographical hierarchy
+- Use recommended comparison to quickly add variances to a chart
+- Add reference lines and sort a chart
+- Add a threshold to a table
