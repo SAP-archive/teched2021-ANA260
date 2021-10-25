@@ -35,7 +35,7 @@ Our exercises build on the previous exercise for a holistic learning experience.
 **OpenSAP Online Course - Learn how to make intelligent decisions with SAP Analytics Cloud**
 - [Link to Course](https://open.sap.com/courses/sac1)
 
-**Customer Influence - Help shape the future of SAP Analytics Cloud by suggesting improvements or new features**
+**Customer Influence - Help shape the future of SAP Analytics Cloud by suggesting potential improvements**
 - [Link to SAP Community](https://influence.sap.com/sap/ino/#/campaigns-open)
 
 **Roadmap Explorer - View upcoming SAP Analytics Cloud features**
