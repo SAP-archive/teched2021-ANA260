@@ -36,10 +36,10 @@ Our exercises build on the previous exercise for a holistic learning experience.
 - [Link to Course](https://open.sap.com/courses/sac1)
 
 **Customer Influence - Help shape the future of SAP Analytics Cloud by suggesting potential improvements**
-- [Link to SAP Community](https://influence.sap.com/sap/ino/#/campaigns-open)
+- [Link to Customer Influence](https://influence.sap.com/sap/ino/#/campaigns-open)
 
 **Roadmap Explorer - View upcoming SAP Analytics Cloud features**
-- [Link to SAP Community](https://roadmaps.sap.com/board?PRODUCT=67838200100800006884&range=CURRENT-LAST#Q4%202021)
+- [Link to Roadmap Explorer](https://roadmaps.sap.com/board?PRODUCT=67838200100800006884&range=CURRENT-LAST#Q4%202021)
 
 <br>
 
