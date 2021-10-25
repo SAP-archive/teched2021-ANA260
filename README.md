@@ -32,6 +32,12 @@ Our exercises build on the previous exercise for a holistic learning experience.
 **SAP Community - Contains a list of articles and blogs outlining various SAP Analytics Cloud topics**
 - [Link to SAP Community](https://community.sap.com/topics/cloud-analytics)
 
+
+- [SAP Community - Contains a list of articles and blogs outlining various SAP Analytics Cloud topics](https://community.sap.com/topics/cloud-analytics)
+- [OpenSAP Online Course - Learn how to make intelligent decisions with SAP Analytics Cloud](https://open.sap.com/courses/sac1)
+- [Customer Influence - Help shape the future of SAP Analytics Cloud by suggesting improvements or new features](https://influence.sap.com/sap/ino/#/campaigns-open)
+- [Roadmap Explorer - View upcoming SAP Analytics Cloud features](https://roadmaps.sap.com/board?PRODUCT=67838200100800006884&range=CURRENT-LAST#Q4%202021)
+
 **Category B**
 - [Resource 3 - XYZ](exercises/Section%203%20-%20Geo%20Maps,%20Thresholds,%20and%20Variance/README.md/)
 - [Resource 4 - XYZ](exercises/Section%204%20-%20Theme%20and%20Style/README.md/)
