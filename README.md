@@ -28,19 +28,6 @@ Our exercises build on the previous exercise for a holistic learning experience.
 - [Section 4 - Theme and Style](exercises/Section%204%20-%20Theme%20and%20Style/README.md/)
 
 ## Further Learning
-
-**SAP Community - Contains a list of articles and blogs outlining various SAP Analytics Cloud topics**
-- [Link to SAP Community](https://community.sap.com/topics/cloud-analytics)
-
-**OpenSAP Online Course - Learn how to make intelligent decisions with SAP Analytics Cloud**
-- [Link to Course](https://open.sap.com/courses/sac1)
-
-**Customer Influence - Help shape the future of SAP Analytics Cloud by suggesting potential improvements**
-- [Link to Customer Influence](https://influence.sap.com/sap/ino/#/campaigns-open)
-
-**Roadmap Explorer - View upcoming SAP Analytics Cloud features**
-- [Link to Roadmap Explorer](https://roadmaps.sap.com/board?PRODUCT=67838200100800006884&range=CURRENT-LAST#Q4%202021)
-
 <br>
 
 **[Link to SAP Community](https://community.sap.com/topics/cloud-analytics)** - Contains a list of articles and blogs outlining various SAP Analytics Cloud topics
