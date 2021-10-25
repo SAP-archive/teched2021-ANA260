@@ -29,9 +29,8 @@ Our exercises build on the previous exercise for a holistic learning experience.
 
 ## Further Learning
 
-**Category A**
-- [Resource 1 - XYZ](exercises/Section%201%20-%20Creating%20Your%20First%20Story/README.md/)
-- [Resource 2 - XYZ](exercises/Section%202%20-%20Linked%20Analysis%20and%20Input%20Controls/README.md/)
+**SAP Community - Contains a list of articles and blogs outlining various SAP Analytics Cloud topics**
+- [Link to SAP Community](https://community.sap.com/topics/cloud-analytics)
 
 **Category B**
 - [Resource 3 - XYZ](exercises/Section%203%20-%20Geo%20Maps,%20Thresholds,%20and%20Variance/README.md/)
