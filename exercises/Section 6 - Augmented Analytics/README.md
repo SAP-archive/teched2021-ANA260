@@ -314,3 +314,114 @@ insights. Let's look at the location contributor.
 
 ![6-48](https://user-images.githubusercontent.com/92877810/138935483-ae0c4cf9-8908-4d34-9977-bdf719634f39.png)
 
+ℹ️Let's copy the table we created in our previous story. 
+
+68. Right Click on Files
+
+![6-49](https://user-images.githubusercontent.com/92877810/138958406-aa0f420e-40f0-4541-8125-a553b14abc10.png)
+
+69. Click Open App in New tab to open MyFiles in a new window
+
+![6-50](https://user-images.githubusercontent.com/92877810/138958409-56112e71-d62d-4cc3-92fd-61a96ee1e77a.png)
+
+🚩Find the file you saved 
+
+70. Click ANA260_Your Initials
+
+![6-51](https://user-images.githubusercontent.com/92877810/138958410-bc9fa1a6-8367-45a5-b5e6-c6e30dcebc56.png)
+
+71. Click Edit 
+
+![6-52](https://user-images.githubusercontent.com/92877810/138958413-8ac8daec-57e1-4307-8af2-dcb7531769b4.png)
+
+72. Scroll to the bottom
+
+73. Select the table
+
+74. Click More icon
+
+75. Click Copy
+
+76. Click Copy
+
+![6-53](https://user-images.githubusercontent.com/92877810/138958415-a2b76a3a-7be9-4715-9c6b-9d202c0b63a4.png)
+
+77. Go back to our Current Story by changing the tab
+
+![6-54](https://user-images.githubusercontent.com/92877810/138958418-82759bd8-8b22-4666-a700-9cf61b001374.png)
+
+🚩Press Ctrl + V to paste the table
+
+![6-55](https://user-images.githubusercontent.com/92877810/138958421-60f30841-8b79-4cec-96e0-053880104d3b.png)
+
+ℹ️Quality Check! Does your story look like this?
+
+![6-56](https://user-images.githubusercontent.com/92877810/138958423-ba7446da-89f6-4c2d-916d-9837c9578f51.png)
+
+ℹ️The range of insights provided in the smart insights’ panel are dynamic and vary based on the data point selected by the user. Earlier in this workshop we created a calculate of Gross Margin %. For a user viewing the resultant table it might not be clear how Gross Margin % is calculated. Smart Insights can help with this. 
+
+78. Rigth Click on the data point
+
+79. Click Smart Insights
+
+![6-57](https://user-images.githubusercontent.com/92877810/138958425-23579b9e-9e36-4076-975c-d115357385df.png)
+
+80. Click to expand
+
+ℹ️In this case as smart Gross Margin % is a calculated value we see different insights and the calculation is shown to the user. 
+
+81. Hovering over a measure in the calculation shows the value.
+
+![6-58](https://user-images.githubusercontent.com/92877810/138958427-95224a1b-29c5-4dbf-a03a-dbae26f0dbd5.png)
+
+🚩Smart Insights are available on the values contributing to the calculation, to allow the user to explore further and better understand the numbers. (Right Click on Gross Margin for smart insights)
+
+🚩Smart Insights are available on the values contributing to the calculation, to allow the user to explore further and better understand the numbers.
+
+![6-59](https://user-images.githubusercontent.com/92877810/138958430-79deaf27-db0b-4033-b132-e8d1ac0b274b.png)
+
+🚩Besides Search to Insight and Smart Insight, SAP Analytics Cloud can also generate an entire story for you using Smart Discovery. Let's try that out. 
+
+82. Click Tools
+
+83. Click Smart Discovery
+
+![6-60](https://user-images.githubusercontent.com/92877810/138958431-21731c50-e529-49a8-a9a8-984bfdace522.png)
+
+🚩If your user enters Smart Discovery for the first time this dialog may appear.  
+
+84. Click Got it
+
+![6-61](https://user-images.githubusercontent.com/92877810/138958432-40324201-2c5d-438c-81c7-ddaca9bc8dce.png)
+
+ℹ️Welcome to Smart Discocery!
+ 
+Smart Discovery offers you a viable way to use automated machine learning on top of your BI data, without losing precious analysis time on data preparation. Simply decide the business question you want to ask your data and let Smart Discovery analyze it for you, by running a machine learning algorithm. You can then explore the generated results to gain insights into your data.
+
+![6-62](https://user-images.githubusercontent.com/92877810/138958435-911a9be5-429c-44d0-92fe-ca1934a1d9d8.png)
+![6-63](https://user-images.githubusercontent.com/92877810/138958438-dd66609d-fa09-484c-9f76-a533fcd097f6.png)
+![6-64](https://user-images.githubusercontent.com/92877810/138958439-683b586a-4dca-42ce-b043-519234abbfc6.png)
+![6-65](https://user-images.githubusercontent.com/92877810/138958441-40ffbad6-6d23-4b0c-95a4-60d4eaef177b.png)
+![6-66](https://user-images.githubusercontent.com/92877810/138958444-ef353794-c9d0-4709-96dc-50a9cd841cc4.png)
+![6-67](https://user-images.githubusercontent.com/92877810/138958446-f41cdeb6-bb47-48b0-ae71-c63310171ebf.png)
+![6-68](https://user-images.githubusercontent.com/92877810/138958450-3763d092-4a24-4100-bd6f-68362022637e.png)
+![6-69](https://user-images.githubusercontent.com/92877810/138958453-6f980818-1cc7-4b02-9ba6-65463998d878.png)
+![6-70](https://user-images.githubusercontent.com/92877810/138958454-8d4a6533-3776-4255-b00a-671d1a87d9d8.png)
+![6-71](https://user-images.githubusercontent.com/92877810/138958455-9e8bac8e-abed-4e63-b0b1-b8057e0035ce.png)
+![6-72](https://user-images.githubusercontent.com/92877810/138958460-73df95b9-8c47-40fd-a594-cc6c33fe8a17.png)
+![6-73](https://user-images.githubusercontent.com/92877810/138958461-2054ad0e-9fe9-47b0-b713-8a71a90affa8.png)
+![6-74](https://user-images.githubusercontent.com/92877810/138958463-d8a3d6a5-8d23-426a-bf6d-8a0e6964602a.png)
+![6-75](https://user-images.githubusercontent.com/92877810/138958465-217715c3-dfdd-4148-a25e-71fc45720d83.png)
+![6-76](https://user-images.githubusercontent.com/92877810/138958469-430e6719-24c9-4615-8506-24f941f104c1.png)
+![6-77](https://user-images.githubusercontent.com/92877810/138958471-6fea3c2e-9f81-455b-8acf-3094eb9ecf6e.png)
+![6-78](https://user-images.githubusercontent.com/92877810/138958473-460e3528-30f9-4937-994a-af7f89221d65.png)
+![6-79](https://user-images.githubusercontent.com/92877810/138958475-4b388408-6652-4b2e-8370-185c306c01d4.png)
+![6-80](https://user-images.githubusercontent.com/92877810/138958479-1976993e-f1c0-4345-a4d7-a4e20f1adbe2.png)
+![6-81](https://user-images.githubusercontent.com/92877810/138958482-ed7aef2b-7df2-4580-9a93-c300043af470.png)
+![6-82](https://user-images.githubusercontent.com/92877810/138958485-921b4e0a-2fe2-438b-b4a7-10d9b804bf43.png)
+![6-83](https://user-images.githubusercontent.com/92877810/138958487-e35ebbef-3459-4896-8dbc-1783509f793c.png)
+![6-84](https://user-images.githubusercontent.com/92877810/138958491-37664b82-4f96-4748-83d5-9cede505c77f.png)
+![6-85](https://user-images.githubusercontent.com/92877810/138958493-49a22afb-d434-4def-98e5-5a01edb40de8.png)
+![6-86](https://user-images.githubusercontent.com/92877810/138958498-6c6e0322-3946-4412-8c65-8b623ddb0427.png)
+![6-87](https://user-images.githubusercontent.com/92877810/138958503-ba80ddc6-f448-4c0a-89bf-380dc27f9755.png)
+
