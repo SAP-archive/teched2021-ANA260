@@ -1,25 +1,25 @@
 # Section 6 - Augmented Analytics
 
-1. Click Home icon
+1. Click **Home** icon
 ![6-1](https://user-images.githubusercontent.com/92877810/138933131-3304fc2b-25f0-4bc8-a37a-0ad94affab93.png)
 
-ℹ️Exercise Check! Are you on the homepage? 
+ℹ️**Exercise Check!** Are you on the homepage? 
  
 If not, then navigate to the homepage. 
 ![6-2](https://user-images.githubusercontent.com/92877810/138933140-f7a8258a-34b3-445c-87e5-f8af1a2e71b5.png)
 
 🚩First you want to find out more about your Gross Margin, but you don't really know which model Gross Margin contains. As you start typing the search goes across all models and suggests you the best results for measure, dimension as well as dimension members related to what you're asking for. 
 
-2. Click the Search to Insight Textbox to start asking your data related questions
+2. Click the **Search to Insight** Textbox to start asking your data related questions
 
-3. Enter "Show me gro" in the textbox
+3. Enter **"Show me gro"** in the textbox
 
-4. Click show me  Gross Margin
+4. Click show me  **Gross Margin**
 
-5. Click Search icon
+5. Click **Search** icon
 ![6-3](https://user-images.githubusercontent.com/92877810/138933142-613aa00c-f668-47f3-b13f-726d88bd3e1e.png)
 
-ℹ️Welcome to Search to Insight (Natural Language Search)!  
+ℹ️Welcome to **Search to Insight (Natural Language Search)!**
   
 Drive conversational artificial intelligence forward by asking questions about your data as simple as if you were asking your colleague. Understanding natural language, Search to Insight allows you to get the information you need, instantly. 
 
@@ -30,7 +30,7 @@ Drive conversational artificial intelligence forward by asking questions about y
 🚩You can see which model the Gross 
 Margin comes from my selecting the model icon of the chart details. 
 
-6. Click Model icon
+6. Click **Model** icon
 
 ![6-5](https://user-images.githubusercontent.com/92877810/138933150-bd06b86a-b5ad-467f-ad6a-3479bfc68dd6.png)
 
@@ -40,11 +40,11 @@ Margin comes from my selecting the model icon of the chart details.
 
 🚩You can see that several suggestions for questions are provided as part of the type ahead. 
 
-8. Select Show me Gross Margin by Workout Usage
+8. Select **Show me Gross Margin by Workout Usage**
 
 ![6-6](https://user-images.githubusercontent.com/92877810/138933154-8897d1e6-8868-4531-98ac-9a6eab139da6.png)
 
-9. Click Search icon
+9. Click **Search** icon
 
 ![6-7](https://user-images.githubusercontent.com/92877810/138933155-89f055bc-7712-4ca5-a4e4-a4bff054f78f.png)
 
@@ -52,25 +52,25 @@ Margin comes from my selecting the model icon of the chart details.
 
 ![6-8](https://user-images.githubusercontent.com/92877810/138933157-c787b4d9-89f6-4b6c-b58d-d6822b24b21d.png)
 
-10. Click Copy icon
+10. Click **Copy** icon
 
-11. Click Copy
+11. Click **Copy**
 
-12. Click Home
+12. Click **Home**
 
 ![6-9](https://user-images.githubusercontent.com/92877810/138933160-11baebc9-0578-4c4b-b784-4d0ef5bd3d0e.png)
 
-13. Click Create Your First Story
+13. Click **Create Your First Story**
 
 ![6-10](https://user-images.githubusercontent.com/92877810/138933164-7af725d0-346f-4588-b604-5740f4879199.png)
 
-14. Click Responsive 
+14. Click **Responsive**
 
 ![6-11](https://user-images.githubusercontent.com/92877810/138933166-b01e8237-7b06-4f82-b8c9-39c0d1a95429.png)
 
-15. Click Copy
+15. Click **Copy**
 
-16. Click Paste
+16. Click **Paste**
 
 ![6-12](https://user-images.githubusercontent.com/92877810/138933169-371a5464-2d22-40ba-b9a2-9e467e6c27ab.png)
 
@@ -79,35 +79,35 @@ Margin comes from my selecting the model icon of the chart details.
 🚩You have more questions about your data. 
 Move back to Search to Insight. 
 
-17. Click  the Search to Insight icon
+17. Click the **Search to Insight** icon
 
 ![6-13](https://user-images.githubusercontent.com/92877810/138933174-e531bf32-c995-46d3-b153-8c1e139adc6e.png)
 
 🚩Next you want to know how the Gross Margin performs over time. 
 
-18. Type "Show me gross" in the textbox
+18. Type **"Show me gross"** in the textbox
 
-19. Click show me  Gross Margin
+19. Click **show me Gross Margin**
 
 ![6-14](https://user-images.githubusercontent.com/92877810/138933177-83c78a0a-c384-4df2-837e-3f55f584d60a.png)
 
-20. Add "by month" at the end of the search term
+20. Add **"by month"** at the end of the search term
 
-21. Click the Search icon
+21. Click the **Search** icon
 
 ![6-15](https://user-images.githubusercontent.com/92877810/138933183-b9fb84ee-1a81-4693-bb20-93ddf842b73c.png)
 
-⚠️Quality Check! Does your time series chart look like this?
+⚠️**Quality Check!** Does your time series chart look like this?
 
 ![6-16](https://user-images.githubusercontent.com/92877810/138933186-86c692b2-93cd-4bb0-8fc3-16f796d04595.png)
 
-22. Add "for last year and this year" to the question
+22. Add **"for last year and this year"** to the question
 
-23. Click the Search icon
+23. Click the **Search** icon
 
 ![6-17](https://user-images.githubusercontent.com/92877810/138933190-4ffb170f-3014-475c-b344-0c08fd960ac7.png)
 
-24. Click Display as Line to create a line chart
+24. Click **Display as Line** to create a line chart
 
 ![6-18](https://user-images.githubusercontent.com/92877810/138935393-923febc8-7554-4850-b209-9eaf0cc07885.png)
 
@@ -117,7 +117,7 @@ Move back to Search to Insight.
   
 Note, that your data may vary based on the current year. 
 
-25. Click Filter Token to see Filter values
+25. Click **Filter Token** to see Filter values
 
 26. Click outside the filter box to close the menu
 
@@ -127,9 +127,9 @@ Note, that your data may vary based on the current year.
 
 27. Right Click on the Chart
 
-28. Click Compare To
+28. Click **Compare To**
 
-29. Click Previous Period
+29. Click **Previous Period**
 
 ![6-20](https://user-images.githubusercontent.com/92877810/138935404-f5dad056-b201-4c7e-9742-174c550c695d.png)
 
@@ -139,13 +139,13 @@ Note, that your data may vary based on the current year.
 
 🚩Let's copy the chart to the story. 
 
-30. Click Copy icon
+30. Click **Copy** icon
 
-31. Click Copy To
+31. Click **Copy To**
 
-32. Click Page 1
+32. Click **Page 1**
 
-33. Click Exit Search to Insight
+33. Click **Exit Search to Insight**
 
 ![6-22](https://user-images.githubusercontent.com/92877810/138935412-5b6dd895-d587-4419-a7cd-e980e16f26e7.png)
 
@@ -153,11 +153,11 @@ Note, that your data may vary based on the current year.
 
 ![6-23](https://user-images.githubusercontent.com/92877810/138935414-18273ed3-e754-40c0-94a9-614f81c1a9f5.png)
 
-34. Click empty Right Lane
+34. Click empty **Right Lane**
 
-35. Click Menu icon
+35. Click **Menu** icon
 
-36. Click Remove
+36. Click **Remove**
 
 ![6-24](https://user-images.githubusercontent.com/92877810/138935417-45f2d931-36c9-43a6-a142-880e145ff6d2.png)
 
@@ -165,19 +165,19 @@ Note, that your data may vary based on the current year.
 
 ![6-25](https://user-images.githubusercontent.com/92877810/138935422-6e4d9079-46c7-42c4-b7bc-4c008f581211.png)
 
-⚠️Quality Check! Does your story look like this? 
+⚠️**Quality Check!** Does your story look like this? 
 
 ![6-26](https://user-images.githubusercontent.com/92877810/138935425-2caef19a-ab9a-4074-b381-7367f406bb49.png)
 
 🚩You wonder how Gross Margin will perform in future. SAP Analytics Cloud can run automatic time series forecasts to provide you with this useful information. 
 
-38. Click Menu icon
+38. Click **Menu** icon
 
-39. Click Add
+39. Click **Add**
 
-40. Click Forecast
+40. Click **Forecast**
 
-41. Click Automatic Forecast
+41. Click **Automatic Forecast**
 
 ![6-27](https://user-images.githubusercontent.com/92877810/138935426-39d165f5-c8d9-4ba6-a4d2-bcbc6122b263.png)
 
@@ -187,25 +187,25 @@ Note, that your data may vary based on the current year.
 
 🚩You wonder what other insights SAP Analytics Cloud can provide. Specifically, you're interested in finding out more about the Gross Margin in relation to the Workout Usage. Let's add some Smart Insight to the bar chart. 
 
-42. Select the Gross Margin per Workout Usage Chart
+42. Select the **Gross Margin per Workout Usage** Chart
 
-43. Click Menu icon
+43. Click **Menu** icon
 
-44. Click Add Smart Insights
+44. Click **Add Smart Insights**
 
 ![6-29](https://user-images.githubusercontent.com/92877810/138935429-b60b2d54-85c6-4489-9d7b-752b44f94846.png)
 
-ℹ️Welcome to Smart Insights! in the chart footer. 
+ℹ️Welcome to **Smart Insights!** in the chart footer. 
   
 Smart Insights lets you gain more intrinsic information about a data the data in your visualization. As you apply filters, your data updates the insights are being re-evaluated keeping your insights context aware. 
 
 🚩Smart Insights show us how Gross Margin for High Intensity workout usage has been performing overtime. Let's find out more. 
 
-45. Click View More
+45. Click **View More**
 
 ![6-30](https://user-images.githubusercontent.com/92877810/138935433-1ea3a347-b524-45d0-9fd5-93d068bc7299.png)
 
-ℹ️Welcome to Smart Insights! side panel  
+ℹ️Welcome to **Smart Insights!** side panel  
   
 The side panel appears visual insights on that chart or data point.  
 1.	The upper pane shows how the information has changed over time. 
@@ -219,7 +219,7 @@ Note: different charts and data may provide different insights.
 
 ℹ️change based on day granularity, you're more interested in the monthly data change. Switch to month view.
 
-46. Click M
+46. Click **M**
 
 ![6-32](https://user-images.githubusercontent.com/92877810/138935439-648d8cad-8a35-401c-81d5-7912c64f40ba.png)
   
@@ -233,47 +233,47 @@ Note: different charts and data may provide different insights.
 
 🚩There seem to be 2 identical location dimensions in the data model as well as 2 dimensions for Order IDs. This results in redundant insights. A story designer can configure whether certain dimension will be excluded from Smart Insight in order to provide better results. Let's exclude the redundant dimensions. 
 
-48. Click Close
+48. Click **Close**
 
 ![6-34](https://user-images.githubusercontent.com/92877810/138935445-736060eb-4546-4615-9962-8d29b0b2c383.png)
 
-49. Click File
+49. Click **File**
 
-50. Click Edit Story
+50. Click **Edit Story**
 
-51. Click Smart Insight Settings
+51. Click **Smart Insight Settings**
 
 ![6-35](https://user-images.githubusercontent.com/92877810/138935450-dd20a4cb-0205-41e1-995f-7388b7575640.png)
 
-52. Click + Select Dimension Members
+52. Click **+ Select Dimension Members**
 
 ![6-36](https://user-images.githubusercontent.com/92877810/138935454-ca648d38-23b3-4c3b-b061-a13a86bd87d5.png)
 
-53. Click GeoLocation
+53. Click **GeoLocation**
 
 ![6-37](https://user-images.githubusercontent.com/92877810/138935457-f4b70053-dcf8-4524-9e08-d4ddb874996f.png)
 
-54. Click All Members
+54. Click **All Members**
 
-55. Click OK
+55. Click **OK**
 
 ![6-38](https://user-images.githubusercontent.com/92877810/138935459-79578943-c00c-4ecf-bf9d-1014ec0d92a3.png)
 
-56. Click + Select Dimension Members
+56. Click **+ Select Dimension Members**
 
 ![6-39](https://user-images.githubusercontent.com/92877810/138935462-672d8196-fe95-489b-aff3-2375bc24450b.png)
 
-57. Click Order ID
+57. Click **Order ID**
 
 ![6-40](https://user-images.githubusercontent.com/92877810/138935465-e0a0c418-e5cd-4aba-95a8-4b58f46e7d46.png)
 
-58. Click All Members
+58. Click **All Members**
 
-59. Click OK
+59. Click **OK**
 
 ![6-41](https://user-images.githubusercontent.com/92877810/138935468-31e8af96-bf28-4d9b-be39-1d0ecfbfaca4.png)
 
-60. Click OK
+60. Click **OK**
 
 ![6-42](https://user-images.githubusercontent.com/92877810/138935471-509bb455-b757-4c6c-8a60-fa7b5d4b1ab3.png)
 
@@ -283,7 +283,7 @@ Note: different charts and data may provide different insights.
 
 61. Right Click on High Intensity 
 
-62. Select Smart Insights
+62. Select **Smart Insights**
 
 ![6-44](https://user-images.githubusercontent.com/92877810/138935474-3d97c03c-5457-48d5-a07d-af7e2f799a70.png)
 
@@ -300,15 +300,15 @@ insights. Let's look at the location contributor.
 
 ![6-46](https://user-images.githubusercontent.com/92877810/138935479-c72a429d-064a-4c88-ba6b-9c9acf79d759.png)
 
-65. Click Copy
+65. Click **Copy**
 
-66. Click Copy to Page 1
+66. Click **Copy to Page 1**
 
-67. Click Close
+67. Click **Close**
 
 ![6-47](https://user-images.githubusercontent.com/92877810/138935480-10eac0f9-75f0-4469-8396-68068141f9f0.png)
 
-⚠️Quality Check! Does your story look like this? 
+⚠️**Quality Check!** Does your story look like this? 
  
 🚩The exploration of a value does not need to stop at the first data point, we can see that Germany is the top location contributor for High Intensity. However, if we want to drill deeper on Germany we can be running smart Insights on that sub set of the data. Again, this is particularly useful in view mode and for users without a good understanding of the underlying model.
 
@@ -316,21 +316,21 @@ insights. Let's look at the location contributor.
 
 ℹ️Let's copy the table we created in our previous story. 
 
-68. Right Click on Files
+68. Right Click on **Files**
 
 ![6-49](https://user-images.githubusercontent.com/92877810/138958406-aa0f420e-40f0-4541-8125-a553b14abc10.png)
 
-69. Click Open App in New tab to open MyFiles in a new window
+69. Click **Open App in New tab** to open MyFiles in a new window
 
 ![6-50](https://user-images.githubusercontent.com/92877810/138958409-56112e71-d62d-4cc3-92fd-61a96ee1e77a.png)
 
 🚩Find the file you saved 
 
-70. Click ANA260_Your Initials
+70. Click **ANA260_Your Initials**
 
 ![6-51](https://user-images.githubusercontent.com/92877810/138958410-bc9fa1a6-8367-45a5-b5e6-c6e30dcebc56.png)
 
-71. Click Edit 
+71. Click **Edit**
 
 ![6-52](https://user-images.githubusercontent.com/92877810/138958413-8ac8daec-57e1-4307-8af2-dcb7531769b4.png)
 
@@ -338,23 +338,23 @@ insights. Let's look at the location contributor.
 
 73. Select the table
 
-74. Click More icon
+74. Click **More** icon
 
-75. Click Copy
+75. Click **Copy**
 
-76. Click Copy
+76. Click **Copy**
 
 ![6-53](https://user-images.githubusercontent.com/92877810/138958415-a2b76a3a-7be9-4715-9c6b-9d202c0b63a4.png)
 
-77. Go back to our Current Story by changing the tab
+77. Go back to our **Current Story** by changing the tab
 
 ![6-54](https://user-images.githubusercontent.com/92877810/138958418-82759bd8-8b22-4666-a700-9cf61b001374.png)
 
-🚩Press Ctrl + V to paste the table
+🚩Press **Ctrl + V** to paste the table
 
 ![6-55](https://user-images.githubusercontent.com/92877810/138958421-60f30841-8b79-4cec-96e0-053880104d3b.png)
 
-ℹ️Quality Check! Does your story look like this?
+ℹ️**Quality Check!** Does your story look like this?
 
 ![6-56](https://user-images.githubusercontent.com/92877810/138958423-ba7446da-89f6-4c2d-916d-9837c9578f51.png)
 
@@ -362,7 +362,7 @@ insights. Let's look at the location contributor.
 
 78. Rigth Click on the data point
 
-79. Click Smart Insights
+79. Click **Smart Insights**
 
 ![6-57](https://user-images.githubusercontent.com/92877810/138958425-23579b9e-9e36-4076-975c-d115357385df.png)
 
@@ -382,19 +382,19 @@ insights. Let's look at the location contributor.
 
 🚩Besides Search to Insight and Smart Insight, SAP Analytics Cloud can also generate an entire story for you using Smart Discovery. Let's try that out. 
 
-82. Click Tools
+82. Click **Tools**
 
-83. Click Smart Discovery
+83. Click **Smart Discovery**
 
 ![6-60](https://user-images.githubusercontent.com/92877810/138958431-21731c50-e529-49a8-a9a8-984bfdace522.png)
 
 🚩If your user enters Smart Discovery for the first time this dialog may appear.  
 
-84. Click Got it
+84. Click **Got it**
 
 ![6-61](https://user-images.githubusercontent.com/92877810/138958432-40324201-2c5d-438c-81c7-ddaca9bc8dce.png)
 
-ℹ️Welcome to Smart Discocery!
+ℹ️Welcome to **Smart Discocery!**
  
 Smart Discovery offers you a viable way to use automated machine learning on top of your BI data, without losing precious analysis time on data preparation. Simply decide the business question you want to ask your data and let Smart Discovery analyze it for you, by running a machine learning algorithm. You can then explore the generated results to gain insights into your data.
 
@@ -406,32 +406,32 @@ Smart Discovery offers you a viable way to use automated machine learning on top
 
 🚩Our Business Question is to understand gross margin at the store level
 
-85. Click + Select a Dimension or Measure
+85. Click **+ Select a Dimension or Measure**
 
 ![6-64](https://user-images.githubusercontent.com/92877810/138958439-683b586a-4dca-42ce-b043-519234abbfc6.png)
 
-86. Click Gross Margin
+86. Click **Gross Margin**
 
 ![6-65](https://user-images.githubusercontent.com/92877810/138958441-40ffbad6-6d23-4b0c-95a4-60d4eaef177b.png)
 
-87. Click + Select a Dimension
+87. Click **+ Select a Dimension**
 
 ![6-66](https://user-images.githubusercontent.com/92877810/138958444-ef353794-c9d0-4709-96dc-50a9cd841cc4.png)
 
 88. Scroll to find Store
 
-89. Select Store
+89. Select **Store**
 
 🚩Before running the Smart Discovery, we can preview it and see what macro's we're going to be running the discovery on 
 
-90. Click Preview
+90. Click **Preview**
 
 ![6-67](https://user-images.githubusercontent.com/92877810/138958446-f41cdeb6-bb47-48b0-ae71-c63310171ebf.png)
 
 🚩The Smart Discovery preview provides an opportunity to confirm the Business Question before running the Smart Discovery.
 In this example Smart Discovery will explore Gross Margin at the store level. The dataset contains 453 stores and ~1.8M in gross Margin
 
-91. Click Run
+91. Click **Run**
 
 ![6-68](https://user-images.githubusercontent.com/92877810/138958450-3763d092-4a24-4100-bd6f-68362022637e.png)
 
@@ -442,14 +442,14 @@ It is important to note that the analysis is performed on a snapshot of the data
 ![6-69](https://user-images.githubusercontent.com/92877810/138958453-6f980818-1cc7-4b02-9ba6-65463998d878.png)
 
 ℹ️Smart Discovery Creates up to Four Pages: 
-1.	Overview: The overview page provides visualizations to summarize the results for your target dimension or measure in relation to your entity
-2.	Key Influencers:The Key Influencers page is generated based on the predictive model. The Key Influencers page lists (ranked from highest to lowest) up to 10 dimensions and measures that significantly impact the target. 
-3.	Unexpected Values: contains a table with the records that have been identified by the underlying machine learning model as unexpected. The table shows the actual and the predicted values along with the other corresponding dimensions.  
-4.	Simulation: it contains a listing of the key influencers and their corresponding values. You can simulate an impact by selecting values for each key influencer. The impact of the value is reflected on the chart. 
+1.	**Overview:** The overview page provides visualizations to summarize the results for your target dimension or measure in relation to your entity
+2.	**Key Influencers:** The Key Influencers page is generated based on the predictive model. The Key Influencers page lists (ranked from highest to lowest) up to 10 dimensions and measures that significantly impact the target. 
+3.	**Unexpected Values:** contains a table with the records that have been identified by the underlying machine learning model as unexpected. The table shows the actual and the predicted values along with the other corresponding dimensions.  
+4.	**Simulation:** it contains a listing of the key influencers and their corresponding values. You can simulate an impact by selecting values for each key influencer. The impact of the value is reflected on the chart. 
 
 ![6-70](https://user-images.githubusercontent.com/92877810/138958454-8d4a6533-3776-4255-b00a-671d1a87d9d8.png)
 
-92. Click Key Influencers
+92. Click **Key Influencers**
 
 ![6-71](https://user-images.githubusercontent.com/92877810/138958455-9e8bac8e-abed-4e63-b0b1-b8057e0035ce.png)
 
@@ -480,7 +480,7 @@ It is important to note that the analysis is performed on a snapshot of the data
 
 🚩Let's look at the Unexpected Values
 
-95. Click Unpexted Values
+95. Click **Unexpected Values**
 
 ![6-76](https://user-images.githubusercontent.com/92877810/138958469-430e6719-24c9-4615-8506-24f941f104c1.png)
 
@@ -490,13 +490,13 @@ Looks like we only have a few unexpected values. Let's move to the simulation pa
 
 ![6-77](https://user-images.githubusercontent.com/92877810/138958471-6fea3c2e-9f81-455b-8acf-3094eb9ecf6e.png)
 
-96. Click Simulation
+96. Click **Simulation**
 
 ![6-78](https://user-images.githubusercontent.com/92877810/138958473-460e3528-30f9-4937-994a-af7f89221d65.png)
 
 ⚠️If your user enters simulations for the very first time you may see this dialog. 
 
-97. Click Got it
+97. Click **Got it**
 
 ![6-79](https://user-images.githubusercontent.com/92877810/138958475-4b388408-6652-4b2e-8370-185c306c01d4.png)
 
@@ -506,25 +506,25 @@ Looks like we only have a few unexpected values. Let's move to the simulation pa
 
 98. Scroll down
 
-99. Expand Region
+99. Expand **Region**
 
-100. Click MEE
+100. Click **MEE**
 
 ![6-81](https://user-images.githubusercontent.com/92877810/138958482-ed7aef2b-7df2-4580-9a93-c300043af470.png)
 
-101. Click Discount field
+101. Click **Discount** field
 
 102. Drag the slider as desired
 
 ![6-82](https://user-images.githubusercontent.com/92877810/138958485-921b4e0a-2fe2-438b-b4a7-10d9b804bf43.png)
 
-103. Click Product Count
+103. Click **Product Count**
 
 104. Drag the slider as desired
 
 ![6-83](https://user-images.githubusercontent.com/92877810/138958487-e35ebbef-3459-4896-8dbc-1783509f793c.png)
 
-105. Click Simulate
+105. Click **Simulate**
 
 ![6-84](https://user-images.githubusercontent.com/92877810/138958491-37664b82-4f96-4748-83d5-9cede505c77f.png)
 
@@ -532,19 +532,19 @@ Looks like we only have a few unexpected values. Let's move to the simulation pa
 
 ![6-85](https://user-images.githubusercontent.com/92877810/138958493-49a22afb-d434-4def-98e5-5a01edb40de8.png)
 
-106. Click File
+106. Click **File**
 
-107. Click Save
+107. Click **Save**
 
-108. Click Save
+108. Click **Save**
 
 ![6-86](https://user-images.githubusercontent.com/92877810/138958498-6c6e0322-3946-4412-8c65-8b623ddb0427.png)
 
 🚩Save the story in MyFiles
 
-109. Type ANA260_Section 6_Your Initials
+109. Type **ANA260_Section 6_Your Initials**
 
-110. Click OK
+110. Click **OK**
 
 ![6-87](https://user-images.githubusercontent.com/92877810/138958503-ba80ddc6-f448-4c0a-89bf-380dc27f9755.png)
 
