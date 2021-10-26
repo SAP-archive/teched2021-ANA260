@@ -578,3 +578,13 @@ Looks like we only have a few unexpected values. Let's move to the simulation pa
 
 ![6-87](https://user-images.githubusercontent.com/92877810/138958503-ba80ddc6-f448-4c0a-89bf-380dc27f9755.png)
 
+<br><br>
+
+## Summary
+
+**You have completed the entire Augmented Analytics: Smart Assist Features section!**
+
+**You are now able to:**
+- Use Search to Insight to find answers for your questions with natural language
+- Use Smart Discovery to investigate your data and build a dashboard for your 
+- Use Smart Insights can help you explain more of your data
