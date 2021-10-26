@@ -26,6 +26,8 @@ Our exercises build on the previous exercise for a holistic learning experience.
 - [Section 2 - Linked Analysis and Input Controls](exercises/Section%202%20-%20Linked%20Analysis%20and%20Input%20Controls/README.md/)
 - [Section 3 - Geo Maps, Thresholds, and Variance](exercises/Section%203%20-%20Geo%20Maps,%20Thresholds,%20and%20Variance/README.md/)
 - [Section 4 - Theme and Style](exercises/Section%204%20-%20Theme%20and%20Style/README.md/)
+- [Section 5 - Bookmarking and Sharing](exercises/Section%205%20-%20Bookmarking%20and%20Sharing/README.md/)
+- [Section 6 - Augmented Analytics: Smart Assist Features](exercises/Section%206%20-%20Augmented%20Analytics:%20Smart%20Assist%20Features/README.md/)
 
 ## Further Learning
 **[Link to SAP Community](https://community.sap.com/topics/cloud-analytics)** - Contains a list of articles and blogs outlining various SAP Analytics Cloud topics
