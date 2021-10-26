@@ -236,18 +236,81 @@ Note: different charts and data may provide different insights.
 48. Click Close
 
 ![6-34](https://user-images.githubusercontent.com/92877810/138935445-736060eb-4546-4615-9962-8d29b0b2c383.png)
+
+49. Click File
+
+50. Click Edit Story
+
+51. Click Smart Insight Settings
+
 ![6-35](https://user-images.githubusercontent.com/92877810/138935450-dd20a4cb-0205-41e1-995f-7388b7575640.png)
+
+52. Click + Select Dimension Members
+
 ![6-36](https://user-images.githubusercontent.com/92877810/138935454-ca648d38-23b3-4c3b-b061-a13a86bd87d5.png)
+
+53. Click GeoLocation
+
 ![6-37](https://user-images.githubusercontent.com/92877810/138935457-f4b70053-dcf8-4524-9e08-d4ddb874996f.png)
+
+54. Click All Members
+
+55. Click OK
+
 ![6-38](https://user-images.githubusercontent.com/92877810/138935459-79578943-c00c-4ecf-bf9d-1014ec0d92a3.png)
+
+56. Click + Select Dimension Members
+
 ![6-39](https://user-images.githubusercontent.com/92877810/138935462-672d8196-fe95-489b-aff3-2375bc24450b.png)
+
+57. Click Order ID
+
 ![6-40](https://user-images.githubusercontent.com/92877810/138935465-e0a0c418-e5cd-4aba-95a8-4b58f46e7d46.png)
+
+58. Click All Members
+
+59. Click OK
+
 ![6-41](https://user-images.githubusercontent.com/92877810/138935468-31e8af96-bf28-4d9b-be39-1d0ecfbfaca4.png)
+
+60. Click OK
+
 ![6-42](https://user-images.githubusercontent.com/92877810/138935471-509bb455-b757-4c6c-8a60-fa7b5d4b1ab3.png)
+
+🚩Lets view the smart insights panel again to see how the configuration has impacted the top contributor results. As we mentioned earlier the insights can be opened on any data point so we can select any point in the chat and launch Smart Insights to see the same results. This gives a story viewer the ability to run get smart insights on any data point.
+
 ![6-43](https://user-images.githubusercontent.com/92877810/138935473-ac3b85be-165e-44d9-bd0b-05505056dbcf.png)
+
+61. Right Click on High Intensity 
+
+62. Select Smart Insights
+
 ![6-44](https://user-images.githubusercontent.com/92877810/138935474-3d97c03c-5457-48d5-a07d-af7e2f799a70.png)
+
+🚩You can see there are no more redundant 
+insights. Let's look at the location contributor. 
+
+63. Expand the Germany Insight
+
 ![6-45](https://user-images.githubusercontent.com/92877810/138935477-e4914ee1-3fbd-4cf1-aede-d87d5467f3d7.png)
+
+64. Scroll to the Bottom
+  
+🚩You can see now the top 10 location contributors. You like to add this chart to the page. 
+
 ![6-46](https://user-images.githubusercontent.com/92877810/138935479-c72a429d-064a-4c88-ba6b-9c9acf79d759.png)
+
+65. Click Copy
+
+66. Click Copy to Page 1
+
+67. Click Close
+
 ![6-47](https://user-images.githubusercontent.com/92877810/138935480-10eac0f9-75f0-4469-8396-68068141f9f0.png)
+
+⚠️Quality Check! Does your story look like this? 
+ 
+🚩The exploration of a value does not need to stop at the first data point, we can see that Germany is the top location contributor for High Intensity. However, if we want to drill deeper on Germany we can be running smart Insights on that sub set of the data. Again, this is particularly useful in view mode and for users without a good understanding of the underlying model.
+
 ![6-48](https://user-images.githubusercontent.com/92877810/138935483-ae0c4cf9-8908-4d34-9977-bdf719634f39.png)
 
