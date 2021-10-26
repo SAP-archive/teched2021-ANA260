@@ -1,4 +1,4 @@
-# Section 6 - Augmented Analytics
+# Section 6 - Augmented Analytics: Smart Assist Features
 
 1. Click **Home** icon
 
