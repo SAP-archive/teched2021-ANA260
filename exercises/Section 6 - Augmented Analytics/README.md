@@ -1,6 +1,7 @@
 # Section 6 - Augmented Analytics
 
 1. Click **Home** icon
+
 ![6-1](https://user-images.githubusercontent.com/92877810/138933131-3304fc2b-25f0-4bc8-a37a-0ad94affab93.png)
 
 ℹ️**Exercise Check!** Are you on the homepage? 
