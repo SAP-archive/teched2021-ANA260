@@ -1,5 +1,33 @@
 # Section 6 - Augmented Analytics: Smart Assist Features
 
+ℹ️**Objective:** Use Natural Language Search (Search to Insight) to translate your questions into visualizations 
+and understand how to run a Smart Discovery within SAP Analytics Cloud. Develop an understanding and 
+purpose of the various pages that are created by Smart Discovery.
+
+**Estimated Time:** 15 mins
+
+**Exercise Description:** After hearing back from your colleagues about the dashboard you shared, you have 
+a few quick questions regarding the company’s financial. You can quickly find answers for your questions via 
+Search to Insight, leveraging SAC’s natural language processing capabilities. Once you try Search to Insight 
+for yourself, you can tell your colleagues all about it and they will no longer need to come to you with their 
+questions about data. 
+
+Once SAP Analytics Cloud found the answer to your questions you want to use other smart features such 
+smart insight and time series forecast to enhance the result. Finally, you want to use Smart Discovery to 
+have SAP Analytics Cloud investigate Gross Margin at BestRun and automatically built a story for you.
+
+**Key Features:**
+- Use Search to Insight to find answers for your questions with natural language
+- Have SAP Analytics Cloud investigate one of the measures and build a dashboard for you with Smart Discovery
+- Understand how Smart Insights can help you explain more of your data
+
+⚠️**Disclaimer**
+When completing exercises, some data values in the screenshots may not match what you see on your 
+screen. This is because the dynamic time filters that were applied at the time the screenshots were taken is 
+different from the current system date.
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
 1. Click **Home** icon
 
 ![6-1](https://user-images.githubusercontent.com/92877810/138933131-3304fc2b-25f0-4bc8-a37a-0ad94affab93.png)
