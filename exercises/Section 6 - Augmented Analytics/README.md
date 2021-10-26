@@ -6,6 +6,7 @@
 ℹ️**Exercise Check!** Are you on the homepage? 
  
 If not, then navigate to the homepage. 
+
 ![6-2](https://user-images.githubusercontent.com/92877810/138933140-f7a8258a-34b3-445c-87e5-f8af1a2e71b5.png)
 
 🚩First you want to find out more about your Gross Margin, but you don't really know which model Gross Margin contains. As you start typing the search goes across all models and suggests you the best results for measure, dimension as well as dimension members related to what you're asking for. 
