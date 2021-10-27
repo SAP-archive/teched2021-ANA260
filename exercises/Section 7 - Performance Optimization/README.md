@@ -1,6 +1,7 @@
 # Section 7 - Performance Optimization
 
-*Header & Footer need to be edited
+*Header & Footer need to be edited - is there an already created one or will I need to make it?
+
 ℹ️**Objective:** Learn how to improve the perforrmance of your stories within SAP Analytics Cloud by using optimized view mode, and how to design widgets to have better performance. 
 
 
