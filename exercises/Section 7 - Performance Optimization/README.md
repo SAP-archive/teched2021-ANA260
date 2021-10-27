@@ -1,4 +1,4 @@
-# Section 7
+# Section 7 - Performance Optimization
 
 ℹ️**Objective:** Use Natural Language Search (Search to Insight) to translate your questions into visualizations 
 and understand how to run a Smart Discovery within SAP Analytics Cloud. Develop an understanding and 
