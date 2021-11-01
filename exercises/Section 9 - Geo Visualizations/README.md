@@ -1,8 +1,10 @@
 
 ⚠️**Excercise Check!** Does your story look like this? 
+
 ![9-1](https://user-images.githubusercontent.com/92877810/139740637-c40c7f10-e4d1-4ea2-8aed-633989fd8aa0.png)
 
 1. Click **Files**
+
 ![9-2](https://user-images.githubusercontent.com/92877810/139740639-fd6dea9e-94a2-4ea0-b9b6-7f01334b770c.png)
 
 👉If you are not in the TechEd 2021 folder, follow the path: **Public/TechEd 2021**
@@ -10,40 +12,51 @@
 2. Select **Section 9.0 - Geo Visualizations(Start)**
 
 3. Click **Copy To**
+
 ![9-3](https://user-images.githubusercontent.com/92877810/139740640-a7364740-d27f-4d6e-9d06-7fceb0060743.png)
 
 4. Click **MyFiles**
+
 ![9-4](https://user-images.githubusercontent.com/92877810/139740641-e4996336-a389-41d1-9d56-c23052cbc658.png)
 
 5. Save the file in MyFiles under the name **"ANA260_Section 9_Your Initials"**
 
 6. Click **OK**
+
 ![9-5](https://user-images.githubusercontent.com/92877810/139740643-ad896924-cef9-4246-9d3f-2ab315da6d1a.png)
 
 7. Click **MyFiles**
+
 ![9-6](https://user-images.githubusercontent.com/92877810/139740645-d4f0fe28-780e-4bf0-8e68-7efb65e113ea.png)
 
 8. Open **ANA260_Section 9_Your Initials** file
+
 ![9-7](https://user-images.githubusercontent.com/92877810/139740646-e8a2ec27-8d6a-419b-91eb-d0fa5cd7ff19.png)
 
 9. Click **Edit**
+
 ![9-8](https://user-images.githubusercontent.com/92877810/139740647-28c96ed8-e1d1-41c0-a87e-5cfe09a66ad7.png)
 
 10. Click **Shipping Analysis** Page
+
 ![9-9](https://user-images.githubusercontent.com/92877810/139740648-2dba2f23-1fb0-4ee4-a60c-f05ed8c606e5.png)
 
 ℹ️**Excercise Check!** Does your dashboard look like this screenshot?
+
 ![9-10](https://user-images.githubusercontent.com/92877810/139740649-3eb5066c-bc0c-4f33-92bd-273cda6a903a.png)
 
 👉In our Shipping Analysis page, we prepared a variety of visualizations that will be used conjunctly with our geo map in analysis. The first chart is a bar graph of sales revenue per region. This chart is linked to our geo map and will filter regions on the geo map based on chart selection.
+
 ![9-11](https://user-images.githubusercontent.com/92877810/139740650-1138b926-7429-4796-a8f5-a5064db08a95.png)
 
 👉The second visualization is a table displaying the No of Delivered Orders and Avg Delivery Times for stores in our shipping model. This chart has linked analysis filtering applied from our geo map and will filter entries based on selections made on our geo map.
+
 ![9-12](https://user-images.githubusercontent.com/92877810/139740651-a5c1df01-f6f0-4593-9aca-790685c2c3f7.png)
 
 11. Scroll to the bottom
 
 12. Select the Geo Map already created for you
+
 ![9-13](https://user-images.githubusercontent.com/92877810/139740653-c3cce88c-470d-4855-beef-65f032df0a9f.png)
 
 13. Click **Designer** to open Builder Panel (in case not already open)
@@ -51,6 +64,7 @@
 👉We want to choose a layer that will help us visualize the distribution of our measure, Average Delivery Time, in our geo visualization. The Heat Map Layer is a good way to visualize the data density of a measure on our map. Let us create this layer in our geo map
 
 14. Click **Add Layer**
+
 ![9-14](https://user-images.githubusercontent.com/92877810/139740656-c6289226-3b2d-4b21-88d5-ebbf063d5a94.png)
 
 15. Rename the layer to **Order Delivery Time Density**
@@ -58,12 +72,15 @@
 👉Let us change the model for this layer to the shipping model which contains our desired measures. You can add layers sourcing measures and dimensions from multiple models on a single geo visualization, enhancing your ability to compare data.
 
 16. Click **Select Model**
+
 ![9-15](https://user-images.githubusercontent.com/92877810/139740657-3953fc2b-4b87-4643-8ccc-9708737bf3d1.png)
 
 17. Click **ANA260_SHIPPING_INFO**
+
 ![9-16](https://user-images.githubusercontent.com/92877810/139740659-0d771fd9-48ad-4604-94de-8f5e4ccfdf3b.png)
 
 18. Click **OK**
+
 ![9-17](https://user-images.githubusercontent.com/92877810/139740660-3b413276-b872-47ec-9a05-d2179b097e68.png)
 
 ℹ️SAP Analytics Cloud offers a variety of layers for geographical visualizations. The most common used ones are •Bubble Layer, which show each location as a bubble. Using color and size of the bubble allows to see correlation between different measures•Choropleth Layer, shows the shape of a geo location and allows drilling from aggregated levels such as country into smaller areas such as regions•Heat Map Layer, allows to show the concentration of geographical locationsFor your next step you like to view your data in a heat map.
@@ -71,6 +88,7 @@
 19. Click **Choose Layer Type**
 
 20. Click **Heat Map Layer**
+
 ![9-18](https://user-images.githubusercontent.com/92877810/139740661-147b4f70-4a23-47e9-95f2-9e0e2ac49878.png)
 
 ℹ️Let us add our geo enriched dimension to this geo map.
@@ -94,6 +112,7 @@
 ![9-22](https://user-images.githubusercontent.com/92877810/139740668-f9ba1595-8b2f-42aa-8d83-75602ab3954f.png)
 
 25. Click **OK**
+
 ![9-23](https://user-images.githubusercontent.com/92877810/139740671-119deb3c-b417-4230-a435-d38b11501f2a.png)
 
 ⚠️  
@@ -130,6 +149,7 @@ Quality check! Does your geo map look like this screenshot after applying the he
 ![9-28](https://user-images.githubusercontent.com/92877810/139740677-913cba12-2116-4590-92ea-401865ec66ce.png)
 
 👉You can change the appearance of the heat map layer as well by zooming in and out of the geo map and focusing on areas of interest. When we zoom into Spain, we notice there are some distinct clusters of higher average delivery times. Let us investigate this further.
+
 ![9-29](https://user-images.githubusercontent.com/92877810/139740678-e887acf5-1569-436d-b01b-ca9a6ee66e87.png)
 
 👉Let us create a new layer that looks at our delivery time measuresat a store level. First, let us hide our heat map layer.
@@ -166,6 +186,7 @@ We are going to create a layer that shows our delivery measures on a store by st
 ![9-33](https://user-images.githubusercontent.com/92877810/139740684-74c6c64c-d3fb-49e7-a6c4-8d734d339c20.png)
 
 40. Click **+ Add Location Dimension** 
+
 ![9-34](https://user-images.githubusercontent.com/92877810/139740685-202beaae-18e5-41e5-ad69-c289d0690523.png)
 ![9-35](https://user-images.githubusercontent.com/92877810/139740686-32d0b396-c091-4912-ae69-048947bdaf88.png)
 ![9-36](https://user-images.githubusercontent.com/92877810/139740687-77ae5047-a40b-4ba7-ad6a-6ad4669c3446.png)
