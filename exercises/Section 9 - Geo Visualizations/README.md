@@ -188,19 +188,109 @@ We are going to create a layer that shows our delivery measures on a store by st
 40. Click **+ Add Location Dimension** 
 
 ![9-34](https://user-images.githubusercontent.com/92877810/139740685-202beaae-18e5-41e5-ad69-c289d0690523.png)
+
+41. Click **StoreLocation**
+
 ![9-35](https://user-images.githubusercontent.com/92877810/139740686-32d0b396-c091-4912-ae69-048947bdaf88.png)
+
+42. Click **Add Measure/Dimension**
+
 ![9-36](https://user-images.githubusercontent.com/92877810/139740687-77ae5047-a40b-4ba7-ad6a-6ad4669c3446.png)
+
+👉Let us add additional measures into our analysis. We can choose to color code our bubbles with the Average # of Delivered Orders to see if this measure is related to our delivery times.
+
+43. Click **Average # of Delivered Orders**
+
 ![9-37](https://user-images.githubusercontent.com/92877810/139740690-b501aa28-9250-4d58-a31f-c8211e8fedd8.png)
+
+44. Click **+ Add Measure**
+
 ![9-38](https://user-images.githubusercontent.com/92877810/139740691-02cad606-a063-4852-8034-81593a168c41.png)
+
+👉We are choosing average delivery time as our bubble size, so it is easy to pinpoint which stores are outliers in our modeled data.
+
+45. Scroll and Click **Avg Delivery Time**
+
 ![9-39](https://user-images.githubusercontent.com/92877810/139740693-91e01cb9-4f2b-426f-a632-559275622c8e.png)
+
+⚠️Quality check! Does your geo map look like this screenshot after adding the new choropleth layer?
+
 ![9-40](https://user-images.githubusercontent.com/92877810/139740694-3a58e818-fd3a-4153-a139-7c53866a3532.png)
+  
+👉Based on our current geo map, the sizing of our bubbles does not suit our analysis of delivery times. We can customize how our measure is translated into bubble size to improve our visualization
+
+46. Click **Expand** on **Avg Delivery Time**
+  
+👉Changing the range for our bubbles will help us identify outliers in our geo map based on our measure, Avg Delivery Time. Let us changes these ranges for the hierarchy levels we are interested in: Country, Region, and StoreLocation.
+
+47. Expand **Range** for **Country**
+
+48. Change upper range from **100%** to **500%**
+
+49. Click outside the pop-up.
+
 ![9-41](https://user-images.githubusercontent.com/92877810/139740697-eddbc7a3-d29f-417a-8df8-c582acad9983.png)
+
+50. Expand **Range** for **Region**
+
+51. Change upper range from **100%** to **500%**
+
+52. Click outside the pop-up.
+
 ![9-42](https://user-images.githubusercontent.com/92877810/139740699-4072727d-eacb-4129-821d-603f9d155a28.png)
+
+53. Expand **Range** for **StoreLocation**
+
+54. Change upper range from **100%** to **500%**
+
+55. Click outside the pop-up.
+
+56. Click **OK**
+
 ![9-43](https://user-images.githubusercontent.com/92877810/139740700-5e38afc4-695e-4303-8956-463a9ceb6f90.png)
+
+⚠️Quality check! Does our geo map look like this screenshot after Bubble Size changes? It is now much easier to differentiate the hierarchy level members on our geo map.
+
 ![9-44](https://user-images.githubusercontent.com/92877810/139740701-5841516d-8007-459f-8700-3c7e6cef18be.png)
+
+57. Click **Spain**
+
+58. Click **Drill Down**
+
 ![9-45](https://user-images.githubusercontent.com/92877810/139740702-cfc219ba-42a9-482b-a3ee-50d1d9e03e82.png)
+
+⚠️Quality check! Does your geo map look like this screenshot after drilling down?
+
+👉We can see that the La Rioja region in Spain seems to have high average delivery times (with its large bubble) and high numbers ofdelivered orders. On the other hand, Castilla Leon has very low average delivery times. This is very informative, and we should look at this layer on an individual store level.
+
 ![9-46](https://user-images.githubusercontent.com/92877810/139740705-087c9288-1510-43c3-a28a-f2aa7a7d95ae.png)
+  
+👉Before we drill down again, let us check to see how our hierarchy is defined.
+
+59. Click **Navigate up/down the hierarchy**
+
+👉Let us choose the hierarchy for the current map layer we are looking at.
+
+60. Click **Store Location**
+
 ![9-47](https://user-images.githubusercontent.com/92877810/139740706-aaafc19d-1332-44ea-8357-804cd09114aa.png)
+
+👉As we can see, there are 2 additional hierarchy layers, Sub-Region 1 and Sub-Region 2, before we reach our desired StoreLocation level. Let us simplify our hierarchy to two levels, Country and StoreLocation, for efficiency purposes
+
 ![9-48](https://user-images.githubusercontent.com/92877810/139740708-3391394d-70d4-4ac1-93d6-af31a379db0e.png)
+
+👉We can customize which hierarchy levels are drillable in our choropleth layer. This is a performance best practice tip! Rendering additional hierarchy levels that we are not interested in is both time and resource intensive.
+
+61. Click the **Hierarchy** option for **Store Location Analysis**
+
 ![9-49](https://user-images.githubusercontent.com/92877810/139740710-2dee1ee5-3883-4870-8793-8504de1d4897.png)
+
+62. Uncheck **Show Region**
+
+63. Uncheck **Show Sub-Region 1**
+
+64. Uncheck **Show Sub-Region 2**
+
+65. Click **Save**
+
 ![9-50](https://user-images.githubusercontent.com/92877810/139740712-2c0cb199-32c4-4b4f-a302-9317bf8f0e40.png)
