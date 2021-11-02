@@ -1,3 +1,10 @@
+# Section 9 - Geo Visualizations
+
+*Just need to add Header & Footer
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
 ⚠️**Excercise Check!** Does your story look like this? 
 
 ![9-1](https://user-images.githubusercontent.com/92877810/139945745-2f9ecdfa-81de-4a0e-aacd-b1e907adb605.png)
