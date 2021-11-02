@@ -1,7 +1,27 @@
 # Section 9 - Geo Visualizations
 
-*Just need to add Header & Footer
+ℹ️**Objective:** Use Geo Maps in SAP Analytics Cloud to interpret geo-enriched models and enhance your 
+dashboard’s analytic capabilities. Develop an understanding of the various features available in geo 
+visualizations to customize your insights.
 
+**Estimated Time:** 20 mins
+
+**Exercise Description:**  You need to do a deeper analysis on BestRun’s regions and understand what drives 
+geographical differences in the company’s performance. You need to leverage geo-spatial analytic 
+capabilities of SAP Analytics Cloud to create new geo maps for your analysis.
+
+**Key Features:**
+- Create your own geo-enriched models with acquired data
+- Employ heat maps to gather insights on geo data density
+- Understand the use of distance filters and the lasso tool in analyzing your hypotheses
+- Use tooltips, labels, and overlapping points to enhance the insights in your geo map
+- Change your basemap layer to view your geo enriched data in different contexts
+- Style your geo map for clear and informative visualizations
+
+⚠️**Disclaimer**
+When completing exercises, some data values in the screenshots may not match what you see on your 
+screen. This is because the dynamic time filters that were applied at the time the screenshots were taken is 
+different from the current system date.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -823,4 +843,18 @@ Note that some of the rows were rejected due to incorrect locations.
 
 ℹ️You have now completed the **Geo Visualizations** Deep Dive section!
 ![9-142](https://user-images.githubusercontent.com/92877810/139954511-fa6c3750-14fa-42b1-9bd2-472255410dd3.png)
+
+<br><br>
+
+## Summary
+
+**You have completed the entire Geo Visualizations section!**
+
+**You are now able to:**
+- Create your own geo-enriched models with acquired data
+- Employ heat maps to gather insights on geo data density
+- Understand the use of distance filters and the lasso tool in analyzing your hypotheses
+- Use tooltips, labels, and overlapping points to enhance the insights in your geo map
+- Change your basemap layer to view your geo enriched data in different contexts
+- Style your geo map for clear and informative visualizations
 
