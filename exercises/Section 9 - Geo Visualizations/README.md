@@ -227,7 +227,7 @@ For your next step you would like to view your data in a heat map.
 
 47. Expand **Range** for **Country**
 
-48. Change upper range from **100%** to **500% **
+48. Change upper range from **100%** to **500**
 
 49. Click outside the pop-up. 
 
@@ -408,4 +408,412 @@ To access the Shipping Ports file, please navigate to our ANA260 GitHubrepositor
 86. Click **Shipping Ports.xlsx**
 
 ![9-71](https://user-images.githubusercontent.com/92877810/139946909-d47e72f3-9f29-4946-be95-191cefd15a9a.png)
+
+🚩Please download the Excel file onto your computer so you can import it into SAP Analytics Cloud as an acquired model.
+
+87. Click **Download**
+
+![9-72](https://user-images.githubusercontent.com/92877810/139954383-38f972ef-03a0-444b-9d51-1247a3009cdd.png)
+
+🚩  
+Navigate back to SAP Analytics Cloud
+
+88. Click Import **From a CSV or Excel File**
+
+![9-73](https://user-images.githubusercontent.com/92877810/139954385-17281bf8-cec2-4944-9ebb-7eb791b7c8bd.png)
+
+89. Click **Select Source File**
+
+![9-74](https://user-images.githubusercontent.com/92877810/139954386-0255d774-0fe0-41ce-81d2-29e7bd44721f.png)
+
+ℹ️Once the Shipping Ports.xlsx is downloaded, open the Downloads folder on your machineto select the file.
+
+90. Select the **Shipping Ports.xlsx** file
+
+91. Click **Open**
+
+![9-75](https://user-images.githubusercontent.com/92877810/139954387-e6a5dc61-d8e9-4a38-8d18-6feb0c92a7b3.png)
+
+92. Click **Import**
+
+![9-76](https://user-images.githubusercontent.com/92877810/139954389-49a49fd4-1857-4201-b2dc-2b9cdf5e54a8.png)
+
+⚠️Quality Check! Does your imported file bring you to a model creation screen like this screenshot
+
+🚩Welcome to Data Modeling in SAP Analytics Cloud!
+ 
+In this screen, users can assign dimensions and measures, build hierarchies in their data, apply transformations on columns of data, check for and replace wrong data entries, and geo enrich their data. If you are importing a large data set, this screen will show a subset of your data,so it is easier to work with. SAP Analytics Cloud will apply all your requested changes to your entire data set when creating the model.
+
+![9-77](https://user-images.githubusercontent.com/92877810/139954390-0258271f-fb93-4568-b5ba-654728b63ab4.png)
+
+🚩Let us geo enrich our model so it can be used in our geo visualization. Model creators can choose to geo enrich their data by coordinates (latitude and longitude) or by location name (country and region name). Country data can be imported by ISO3 and ISO2 codes or by Englishnames.
+
+93. Click **Geo Enrichment**
+
+94. Click **Coordinates**
+
+![9-78](https://user-images.githubusercontent.com/92877810/139954391-8630d971-9e77-4ac1-9afc-0f2c20993c16.png)
+
+🚩Let us choose an Identifier for our geo enriched Location dimension. This will be thelabel used for each node in a geo map layer. Let us use the Shipping Port names as the description.
+
+95. Click **Location Description**
+
+96. Click **Port**
+
+![9-79](https://user-images.githubusercontent.com/92877810/139954392-ceea855e-07f7-4dd1-a262-ef4f39d52caa.png)
+
+97. Click **Create**
+
+![9-80](https://user-images.githubusercontent.com/92877810/139954393-bc8fb881-e685-4bb0-9c40-c4366e3c372d.png)
+
+⚠️Quality check! Does your model creation screen have a new dimension like this Location column in the screenshot?
+
+![9-81](https://user-images.githubusercontent.com/92877810/139954395-0a282ed9-abf6-4eb8-9d0e-787c8ea29344.png)
+  
+🚩Let us now create our model with the geo enriched dimension. You may notice that there area few invalid data points in our geo enriched dimension due to incorrect longitude and latitude data. SAP Analytics Cloud warns model creators about potential errors in the data. The model can still be created and the rows containing faulty data will be excluded from the model. You can choose to replace these invalid data cells directly in the model creation screen.
+
+98. Click **Create Model**
+
+![9-82](https://user-images.githubusercontent.com/92877810/139954397-ee0a1aab-a02a-4c9e-8145-93dad45381bb.png)
+
+99. Click **Create**
+
+![9-83](https://user-images.githubusercontent.com/92877810/139954398-c8ee441a-e9ed-479b-93c9-1b77e2278b81.png)
+  
+🚩Let us name our model **ShippingPorts** and save it in our MyFiles directory on the tenant.
+
+100. Click **OK**
+
+![9-84](https://user-images.githubusercontent.com/92877810/139954399-5e64e171-b661-4b26-8d8c-acc2bf3ffc82.png)
+
+⚠️Quality check! Your screen should now display this Model creation in prompt.
+
+![9-85](https://user-images.githubusercontent.com/92877810/139954400-76224d5c-895d-4a4b-9a1e-07cb3ac1a786.png)
+  
+⚠️Quality check! Our model creation is successfully complete! Do you see a screen like this screenshot?
+ 
+Note that some of the rows were rejected due to incorrect locations.
+  
+ℹ️After this stage, we can navigate back to our **"ANA260_Section 9_Your Initials"** story and continue our analysis with our new ShippingPorts model!
+
+![9-86](https://user-images.githubusercontent.com/92877810/139954403-cfa5e7c2-23a0-4206-82cd-99297edcd64d.png)
+
+101. Click **Home**
+
+![9-87](https://user-images.githubusercontent.com/92877810/139954405-99eeceb2-0842-426a-9dbf-be98dbefa841.png)
+
+ℹ️Since we just used the Geo story before, we can open it via the recently used stories tiles on the homepage.
+
+102. Select the last story you worked on (ANA260_Section 9_Your Initials)
+
+![9-88](https://user-images.githubusercontent.com/92877810/139954407-cc99cdc0-2053-4d90-85f6-b9013f1512f9.png)
+
+103. Click **Edit**
+
+![9-89](https://user-images.githubusercontent.com/92877810/139954408-7300f45c-85bb-4a0d-929a-4ac972c735b3.png)
+
+104. Click **Shipping Analysis**
+
+![9-90](https://user-images.githubusercontent.com/92877810/139954409-82a3f1e3-6af5-4487-b472-c4d3e66b16d8.png)
+
+105. Select the **Geo Map**
+
+106. Click **Designer**
+
+![9-91](https://user-images.githubusercontent.com/92877810/139954410-1224b5a4-8598-44f4-8995-40d4d362196b.png)
+
+🚩Let us add a new layer with our new geo enriched model.
+
+107. Click **+ Add Layer**
+
+![9-92](https://user-images.githubusercontent.com/92877810/139954413-b246e806-0ffc-4ff0-9a08-27c5eff8ea06.png)
+
+108. Rename Layer to **Shipping Port Location**
+
+109. Click **Change Model**
+
+![9-93](https://user-images.githubusercontent.com/92877810/139954414-bc9ee6ba-86e7-486b-824e-71083342b73f.png)
+  
+🚩Since our model is new to this story, we will have to select it from our files first.
+
+110. Click **Select other model...**
+
+![9-94](https://user-images.githubusercontent.com/92877810/139954416-44fb2e19-f307-4d39-ab9c-6bd25fa481f2.png)
+
+🚩Navigate to where you saved the ShippingPorts model (My Files directory).
+
+111. Click **ShippingPorts**
+
+![9-95](https://user-images.githubusercontent.com/92877810/139954418-205ace14-8174-4de3-9e2e-3fcc3810d885.png)
+
+ℹ️Let us add the geo enriched dimension we created with coordinates
+
+112. Click **+ Add Location Dimension**
+
+![9-96](https://user-images.githubusercontent.com/92877810/139954421-22004dc1-08b3-4e7c-9323-31b404926c87.png)
+
+113. Click **Location**
+
+![9-97](https://user-images.githubusercontent.com/92877810/139954422-6ec74605-ddb9-454c-8357-25077baac0f4.png)
+
+⚠️Quality check! Does your geo map now populate with shipping port bubbles like this screenshot?
+
+![9-98](https://user-images.githubusercontent.com/92877810/139954424-ee8c5793-5c3e-4887-9e02-a9a674d5fc71.png)
+
+🚩Let us change the shape of our shipping port bubbles so they are easily distinguished fromour stores.
+
+114. Click **Expand**
+
+115. Click **Shapes**
+
+116. Choose the **Star** shape
+
+117. Click **OK**
+
+![9-99](https://user-images.githubusercontent.com/92877810/139954425-45e7c89f-17bf-4b40-ad8e-275e4059f12e.png)
+
+⚠️Quality check! Does your geo map look like this screenshot with the shipping port shape changes?
+
+![9-100](https://user-images.githubusercontent.com/92877810/139954429-529a8f27-283e-4dee-b7e5-a14e88865566.png)
+  
+🚩We can now choose to add a filter between our two location dimensions, Store Location and Shipping Port Location, to generate additional analysis in our geo visualization
+
+118. Click **+ Add Filter**
+
+![9-101](https://user-images.githubusercontent.com/92877810/139954430-f9cf4ef3-17eb-4544-ad1f-8d9e218847dd.png)
+
+ℹ️We want to test a hypothesis if distance to shipping ports affect delivery times. We will create a distance filter based on the distance from a shipping port. If a store is further from a shipping port than our defined distance, it will be excluded from our geo map.
+
+![9-102](https://user-images.githubusercontent.com/92877810/139954431-fd79aecb-79f6-4306-a1b1-a0c69282408a.png)
+
+🚩Our Show parameter is the dimension that we would like to exclude members based on our distance filter.
+
+119. **Expand** Show Dimension
+
+120. Click ***StoreLocation** as the Show Dimension
+
+![9-103](https://user-images.githubusercontent.com/92877810/139954432-45eb583c-4004-434a-8024-95091b2fde18.png)
+
+🚩Let us add an interactive input control slider to our page to dynamically change the distance in distance filter.
+
+121. Check **Add as an input control slider to page**
+
+122. Input **1** as Minimum Distance 
+
+123. Input **6000** as Maximum Distance 
+
+![9-104](https://user-images.githubusercontent.com/92877810/139954433-207e58da-5e25-4fb2-9a7a-5f52bf280ded.png)
+
+🚩Let us choose the Shipping Port locations as our reference location to measure the distance from.
+
+124. Click **Select a Reference Location**
+
+125. Click **Dimensions**
+
+![9-105](https://user-images.githubusercontent.com/92877810/139954436-1814dc16-f163-4207-95de-aa20e2975604.png)
+
+126. Choose **Location** dimension from ShippingPorts model.
+
+![9-106](https://user-images.githubusercontent.com/92877810/139954437-ed3d141c-6e15-4bca-a0bd-011da8e16e4e.png)
+
+127. Click **OK**
+
+![9-107](https://user-images.githubusercontent.com/92877810/139954439-b9460787-06c3-4230-8c4e-f383b1e773b6.png)
+
+⚠️Quality check! Does your geo map look like this screenshot? Since our distance filter has defaulted to 1km, there should be no stores displayed on our geo map as they areall excluded currently.
+
+![9-108](https://user-images.githubusercontent.com/92877810/139954441-a15b455b-c641-47c9-b713-323984d8bb5a.png)
+
+🚩Let us resize our input control so it is easier to read and dynamically change.
+
+128. Expand the Input Control by dragging on the bottom right corner
+
+![9-109](https://user-images.githubusercontent.com/92877810/139954444-f3f0b05b-330f-4884-a184-5bb539db827c.png)
+
+⚠️Quality check! Does your distance filter input control look like this after resizing?
+
+![9-110](https://user-images.githubusercontent.com/92877810/139954445-fd9dcc8c-5cfb-4332-81d3-cf3a1eb32fef.png)
+
+🚩Let us start with a medium distance filter.
+
+129. Change the distance filter to 275
+
+![9-111](https://user-images.githubusercontent.com/92877810/139954446-ad13e8b6-fb20-4601-b912-db49563d7f7f.png)
+
+⚠️Quality check! Does your geo map look like this screenshot? Interestingly, our high average delivery time outlier, Definite Gains Gym, shows up but our other low average delivery time outlier, trainingapparel4sale.com, is missing.
+
+![9-112](https://user-images.githubusercontent.com/92877810/139954448-68dbd4ac-c7c0-424a-8260-8c64396ff73b.png)
+
+🚩Let us increase the range of our distance filter.
+
+130. Change the distance filter to 500
+
+![9-113](https://user-images.githubusercontent.com/92877810/139954449-f9be75b7-3365-4172-9e39-86f42c5b96b2.png)
+
+⚠️Quality check! Does your geo map look like this screenshot?Now most of our stores in Spain have appeared from the filter.
+
+![9-114](https://user-images.githubusercontent.com/92877810/139954451-845aa052-7bd1-47c7-959c-5b5a4ac3ea1a.png)
+
+🚩Let's add **Linked Analysis** on our Geo Map
+
+131. Click **More** icon
+
+132. Click **Linked Analysis**
+
+![9-115](https://user-images.githubusercontent.com/92877810/139954453-43fa301d-3210-474b-b499-010dc7c714e5.png)
+
+133. Click **Only Selected Widgets**
+
+![9-116](https://user-images.githubusercontent.com/92877810/139954454-21afc2f0-d65a-4462-a149-d344d47dc14d.png)
+
+134. Select **Filter on Data Point Selection**
+
+![9-117](https://user-images.githubusercontent.com/92877810/139954455-cb135b81-54a9-47fd-8c3e-be113d4a649c.png)
+
+135. Scroll and Select **Store Region wise Delivery Time and # of Delivered Orders..**
+
+136. Click **Apply**
+
+![9-118](https://user-images.githubusercontent.com/92877810/139954457-8b3c73b5-d3ce-46d3-b9a1-8871532c2864.png)
+
+ℹ️Let us filter directly on our two outlier stores for Avg Delivery Time.
+
+137. Mouse wheel up in the geo map to zoom in on Spain
+
+![9-119](https://user-images.githubusercontent.com/92877810/139954458-ea643b8a-5c08-4635-85ab-898fefe4bf5f.png)
+
+ℹ️We want the ability to be able to select many data points on our geo map directly and easily filter on a selected area. Let us use the lasso functionality in geo maps.
+
+138. Click the **Lasso Tool**
+
+![9-120](https://user-images.githubusercontent.com/92877810/139954461-c5730895-ba7c-4545-9d7f-70e0d62fc932.png)
+
+139. Draw a lasso around **Definite Gains Gym and trainingapparel4sale.com**
+
+![9-121](https://user-images.githubusercontent.com/92877810/139954463-8e94a982-6a3a-4e89-bb70-a2fd2c0ae527.png)
+
+🚩We can now choose to apply a filter on the bubbles selected by our lasso tool.
+
+140. Click the **Filter Icon**
+
+![9-122](https://user-images.githubusercontent.com/92877810/139954465-2f71a45e-d50b-4f41-90a7-d7bafbea8e76.png)
+
+⚠️Quality check! Does your geo map look like this screenshot after filtering on lasso tool?
+
+![9-123](https://user-images.githubusercontent.com/92877810/139954467-b01e26de-af2d-4389-8a15-4ecd49195d97.png)
+
+🚩We can also look at our table that is connected to our geo map by linked analysis applied on data point selection. We can see the measures in this table for our two filtered entries.
+
+![9-124](https://user-images.githubusercontent.com/92877810/139954470-d593c256-c996-48da-9720-095c267d8815.png)
+
+🚩Since we did not verify our hypothesis that distance to shipping ports is the cause for a higher average delivery time, let us dive into another tool we can use for analysis in our geo map.
+
+141. Select our Geo Map and click on **Designer**
+
+![9-125](https://user-images.githubusercontent.com/92877810/139954472-fc034328-ea01-4a9b-8472-1c958ea74239.png)
+
+ℹ️We can change the basemap layer in our visualization to better fit the purposes of our analysis. Let us see if there is a geographical reason forthe outliers in delivery time. For now, we want to see if there are any insights that we can gather from the street map view in our geo map
+
+142. Click **Choose Basemap**
+
+143. Click **OpenStreetMap**
+
+![9-126](https://user-images.githubusercontent.com/92877810/139954473-ca99f466-4e59-4b62-b91d-5116c8423c34.png)
+
+⚠️Quality check! Does your geo map look like this screenshot after changing the base map? Let us change the formatting to make analyzing this visualization easier
+
+![9-127](https://user-images.githubusercontent.com/92877810/139954478-fea7db17-776d-4109-831c-67d0a5ca1aff.png)
+
+🚩First, let us change the font color so it stands out on our base map.
+
+144. Click **Styling Panel**
+
+![9-128](https://user-images.githubusercontent.com/92877810/139954483-daa9a143-8821-4fba-a991-05411e356c9e.png)
+
+ℹ️We can change formatting options for all text in the geo map or based on individual layers. We want to select the Store layer to change the color on Store name labels.
+
+145. Scroll to Font Options and click **Text Selection**
+
+146. Click **Store Location Analysis**
+
+![9-129](https://user-images.githubusercontent.com/92877810/139954484-b3e9215a-db3b-4653-bfa9-1dbc2dbacc8d.png)
+
+147. Click **Color**
+
+148. Select **Black Palette**
+
+![9-130](https://user-images.githubusercontent.com/92877810/139954485-600e6041-9332-408f-b3ef-726c2117dc72.png)
+
+🚩Let us now change the Basemap properties to complement our styling change
+
+149. Click **Builder Panel**
+
+![9-131](https://user-images.githubusercontent.com/92877810/139954486-5c60bed6-990c-401d-adf9-b79ff1604043.png)
+
+🚩We can change the Basemap Opacity,so our layers stand out in our geo map
+
+150. Click **Expand**
+
+151. Change Basemap Opacity from **100%** to **50%**
+
+![9-132](https://user-images.githubusercontent.com/92877810/139954487-e7e03dc2-0942-4575-b3e4-3cd3c5154c58.png)
+
+⚠️Quality check! Does your geo map look like this screenshot after applying styling changes?
+
+🚩If we lookat the geo map, a new hypothesis for delivery times can be formed. trainingapparel4sale.comis located directly on a major highway connected to Madrid whereas Definite Gains Gym is secluded and much further from major transit routes. This potentially explains our outliers for average delivery times.
+
+![9-133](https://user-images.githubusercontent.com/92877810/139954488-18c2f7f5-fbda-4669-9e13-80ef30c6dfe5.png)
+
+🚩Let us move forward and change our Basemap back to a standard template to try out other geo visualization features.
+
+152. Click **Choose Basemap**
+
+153. Click **Light Gray**
+
+![9-134](https://user-images.githubusercontent.com/92877810/139954491-dae5c11c-a6e2-4674-a03b-0099568c3afd.png)
+
+⚠️Quality check! Does your geo map look like this screenshot after basemap changes?
+
+![9-135](https://user-images.githubusercontent.com/92877810/139954494-f0b24b7a-0284-42ab-85b1-b53a17dcf4e8.png)
+
+🚩We want to look at a different area in the geo map. Let us move backto general view by removing all our applied filters.
+
+154. Click **Remove Filters**
+
+![9-136](https://user-images.githubusercontent.com/92877810/139954496-e19206fd-d0e7-42fc-a833-dcc588acd06f.png)
+
+🚩Let us also drill up to the country hierarchy level.
+
+155. Click on a Store Bubble
+
+156. Click **Drill Up**
+
+![9-137](https://user-images.githubusercontent.com/92877810/139954499-da5e2afb-9089-417d-b6d3-ace47518d93c.png)
+
+⚠️Quality check! Does your geo map look like this screenshot?
+
+![9-138](https://user-images.githubusercontent.com/92877810/139954501-4f803ecd-99f6-4422-9005-5a0d6bf175be.png)
+
+🚩We can also choose to change our layer options in the Legends tab of the geo map. This enables us to change our geo map display in View Mode without accessing the Designer Panel.
+
+157. Click **Expand Legends**
+
+![9-139](https://user-images.githubusercontent.com/92877810/139954503-77e0fff1-28b0-49ae-9354-e56a5bb91556.png)
+
+🚩Let us show the original choropleth layer for sales revenue and hide the other layers we have created. We want to go back to our chart analysis of sales revenue across all regions in our geo map.
+
+158. Click **Hide Layer** for Shipping Port Layer.
+
+159. Click to **Collapse Legends**
+
+![9-140](https://user-images.githubusercontent.com/92877810/139954506-66bbb938-9b17-4ef7-a9b4-58386116d59a.png)
+
+⚠️Quality check! Does your geo map look like this visualization?
+  
+🚩Please save your story by pressing Ctrl + S on your keyboard!
+
+![9-141](https://user-images.githubusercontent.com/92877810/139954509-31016ab8-3187-445e-8824-6c3bc49e7e83.png)
+
+ℹ️You have now completed the **Geo Visualizations** Deep Dive section!
+![9-142](https://user-images.githubusercontent.com/92877810/139954511-fa6c3750-14fa-42b1-9bd2-472255410dd3.png)
 
