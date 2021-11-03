@@ -405,3 +405,179 @@ Let's expand it and put it into the position.
 97. Expand the **End Date Picker**
 
 ![10-70](https://user-images.githubusercontent.com/92877810/140183534-2b4270f6-8ae2-48ee-bfe1-7b6d3adaf9c0.png)
+
+98. Click **2022**
+
+![10-71](https://user-images.githubusercontent.com/92877810/140186478-4cc111fd-32e1-412c-bf52-fded6ab542a5.png)
+
+99. Click **2021**
+
+![10-72](https://user-images.githubusercontent.com/92877810/140186481-a8ceac4e-65bc-4891-a16a-62933c4fa814.png)
+
+100. Click **January**
+
+![10-73](https://user-images.githubusercontent.com/92877810/140186484-d3ad7ab3-e1b0-4932-b5fe-dc58f630e829.png)
+
+101. Click **Nov**
+
+![10-74](https://user-images.githubusercontent.com/92877810/140186486-3e52fc92-a5c7-465d-a14d-55748b355a20.png)
+
+102. Click **30**
+
+![10-75](https://user-images.githubusercontent.com/92877810/140186489-8c60ad7f-0e58-443b-bda2-fc5b1cb272ad.png)
+
+⚠️Quality Check! Does your range match the screenshot (October 1, 2021 - November 30, 2021)? 
+
+103. Click **OK**
+
+![10-76](https://user-images.githubusercontent.com/92877810/140186492-b58e50f6-edbc-4b7f-b55c-e39ffd647ead.png)
+
+🚩The input control was added to the page. Let's expand it and put it into the position. 
+
+104. Reszie **Receive Date** as Wide as **Order Date Range Filter**
+
+![10-77](https://user-images.githubusercontent.com/92877810/140186493-fb79cf82-398e-4102-a740-069d7ae9c547.png)
+
+⚠️Quality Check! Your dashboard should look like this. 
+
+![10-78](https://user-images.githubusercontent.com/92877810/140186494-39826280-9dcc-4609-950d-aaf27eb6eca1.png)
+
+105. Drag.
+
+106. Drop on .
+
+![10-79](https://user-images.githubusercontent.com/92877810/140186495-df666425-8c9b-46de-baee-946d40fe5d16.png)
+
+🚩You may have noticed that the entire dashboard is filtered on the Order and Receive date input controls that you just added. You only want to apply these to the Order Delivery Analysis table. You can use Linked Analysis to set the scope of the page input controls
+
+107. Click the **Order Date Range Filter**
+
+108. Click the **More Action**
+
+109. Click **Linked Analysis**
+
+![10-80](https://user-images.githubusercontent.com/92877810/140186496-6ae5f811-92d1-429c-aa2c-7512086976a2.png)
+
+110. Click **Only Selected Widgets**
+
+![10-81](https://user-images.githubusercontent.com/92877810/140186497-bc428b4a-08ec-4967-b407-95b70f040a89.png)
+
+111. Scroll and Click **Order Delivery Analysis**
+
+112. Click **Apply**
+
+![10-82](https://user-images.githubusercontent.com/92877810/140186499-1133a61e-128c-4c29-a45e-ea12dee51c60.png)
+
+🚩We want to repeat the steps for the 
+Receive Date Range Filter Input Control. 
+
+113. Click **Receive Date Range Filter**
+
+114. Click **More Action** icon
+
+115. Click **Linked Analysis**
+
+![10-83](https://user-images.githubusercontent.com/92877810/140186502-56325139-6b98-4598-b773-50cb9156239a.png)
+
+116. Click **Only Selected Widgets**
+
+![10-84](https://user-images.githubusercontent.com/92877810/140186505-b049e077-4c88-451d-a02c-7f8845672c1f.png)
+
+117. Scroll and Click **Order Delivery Analysis**
+
+118. Click **Apply**
+
+![10-85](https://user-images.githubusercontent.com/92877810/140186506-6bdc613a-d4c1-441b-8fa4-26c45bc90d11.png)
+
+⚠️Quality Check! Your page input controls should only drive the Order Delivery Analysis table
+
+![10-86](https://user-images.githubusercontent.com/92877810/140186509-4a1a1cf7-3315-44e7-9275-15a046d644d1.png)
+
+🚩Let's find out which orders that were shipped after Oct 1st, 2021 have been received by October 8th, 2021. 
+
+119. Click the **End Date Picker**
+
+![10-87](https://user-images.githubusercontent.com/92877810/140186512-413438e7-b011-4fc5-b628-15776b63e818.png)
+
+120. Click **November**
+
+![10-88](https://user-images.githubusercontent.com/92877810/140186513-3c465b16-965c-461a-9eb2-26874113e9fe.png)
+
+121. Click **Oct**
+
+![10-89](https://user-images.githubusercontent.com/92877810/140186514-fc5e9d28-a1aa-4c8f-b308-9ceab2ac1f01.png)
+
+122. Click **8**
+
+![10-90](https://user-images.githubusercontent.com/92877810/140186516-b102e2c1-4cac-49c3-bc40-18bb289abce6.png)
+  
+🚩Next you want to calculate the time it takes to deliver your orders. This can easily be done via calculations. 
+
+123. Click the **Order Delivery Analysis Table**
+
+![10-91](https://user-images.githubusercontent.com/92877810/140186519-db3becca-215f-4e71-aa49-2f30a4ad8222.png)
+
+124. Click **Designer**
+
+125. Click **More Action** Icon for **Account**
+
+126. Click **Add Calculation**
+
+![10-92](https://user-images.githubusercontent.com/92877810/140186521-6a21f910-e8ab-43a2-b8bf-0a5289473498.png)
+
+127. Click **Date Difference**
+
+![10-93](https://user-images.githubusercontent.com/92877810/140186522-6b19ff77-090d-4095-9052-b5074fdea4e2.png)
+
+The time to deliver the orders is the difference between Receive Date and Order Date. 
+
+128. Expand **Time (A)**
+
+129. Click **Receive Date**
+
+![10-94](https://user-images.githubusercontent.com/92877810/140186524-d499a9d0-c42b-49fa-81ed-4ca4875c0614.png)
+
+🚩You must specify the context of the calculation. As the delivery time is based on orders you must use Order ID in the dimension context. Also, in case the chart or table does not include Order ID, then an additional average aggregation will be applied to the calculation.  
+
+130. Expand **Dimension Context**
+
+![10-95](https://user-images.githubusercontent.com/92877810/140186525-f3c28564-d364-48de-ac19-5c2ea740c655.png)
+
+131. Click **Order ID**
+
+132. Click Outside the Dimension Context Drop Down Menu to Collapse
+
+![10-96](https://user-images.githubusercontent.com/92877810/140186527-ce60798c-380d-4fd7-82ae-5e4d74aa9a52.png)
+
+133. Rename Calculation to **Delivery Time**
+
+134. Click **OK**
+
+![10-97](https://user-images.githubusercontent.com/92877810/140186528-fc880f7e-7fa9-48d8-afe1-b8ca316fd413.png)
+
+🚩You can see the delivery time has been added to the table.  
+  
+**Note:** You may need to scroll in the table to see the new calculation. 
+
+![10-98](https://user-images.githubusercontent.com/92877810/140186530-2f9ea854-9ce7-4bfa-b63c-1874b981f206.png)
+  
+Let's format the calculation. 
+
+135. Click **1 Story Calculations**
+
+136. Click **Edit Formatting**
+
+![10-99](https://user-images.githubusercontent.com/92877810/140186533-5ed7d0e2-7907-4d2f-ade6-0a020f0a0980.png)
+
+137. Deselect **Use Unit of Underlying Measure**
+
+138. Set **Decimal Places** to **0**
+
+139. Click **OK**
+
+![10-100](https://user-images.githubusercontent.com/92877810/140186534-4efe053f-b133-4ac8-8219-b129a6b03561.png)
+
+🚩The calculation has been formatted. Let's order the measures in the table. 
+
+
+
