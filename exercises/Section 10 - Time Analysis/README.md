@@ -708,4 +708,25 @@ Let's format the calculation.
 
 173. Click **Year**
 
+![10-121](https://user-images.githubusercontent.com/92877810/140194901-16dd988d-2aa2-453d-a363-8e7e0609d3f5.png)
+![10-122](https://user-images.githubusercontent.com/92877810/140194904-f1fa64e4-cffe-4c9d-9877-70cf030cc428.png)
+![10-123](https://user-images.githubusercontent.com/92877810/140194905-0c8fc6c1-601b-44d2-8e09-861166745b5f.png)
+![10-124](https://user-images.githubusercontent.com/92877810/140194909-44264c1b-64d1-4599-91c1-46457ac68fd7.png)
+![10-125](https://user-images.githubusercontent.com/92877810/140194911-341d7476-1141-4863-a56e-970b11604729.png)
+![10-126](https://user-images.githubusercontent.com/92877810/140194912-970bbdee-1279-4533-adec-8520c7d2e777.png)
+![10-127](https://user-images.githubusercontent.com/92877810/140194913-fde857c1-fa0f-4c9f-a0d1-9c3725eeb1ff.png)
+![10-128](https://user-images.githubusercontent.com/92877810/140194915-29f69f4d-dbbd-44d7-a6d0-8863e6811414.png)
+![10-129](https://user-images.githubusercontent.com/92877810/140194916-40b8242b-730d-4c23-a321-17b420a5548e.png)
+![10-130](https://user-images.githubusercontent.com/92877810/140194917-0b264ca4-c2f4-46da-81cc-b234ff24225b.png)
+![10-131](https://user-images.githubusercontent.com/92877810/140194918-2f489b1b-c330-4e1a-93a2-b15629742cab.png)
+![10-132](https://user-images.githubusercontent.com/92877810/140194919-324e156a-72b7-4396-b02a-c31da246dbf2.png)
+![10-133](https://user-images.githubusercontent.com/92877810/140194921-311034fa-6564-42a1-912e-8a6a6ef80f29.png)
+![10-134](https://user-images.githubusercontent.com/92877810/140194922-326313a1-a75f-4118-88d2-a0a9a34bb21e.png)
+![10-135](https://user-images.githubusercontent.com/92877810/140194923-8b7d9285-e8b2-48ba-a490-5695b993e817.png)
+![10-136](https://user-images.githubusercontent.com/92877810/140194924-9b0f737b-fa30-48ea-9990-664353829930.png)
+![10-137](https://user-images.githubusercontent.com/92877810/140194925-cdce293e-efb6-445c-9246-4fa18a74de64.png)
+![10-138](https://user-images.githubusercontent.com/92877810/140194927-700fa2ae-d7ce-4785-a138-e39d24f9ef87.png)
+![10-139](https://user-images.githubusercontent.com/92877810/140194928-e4be17e7-9f9b-4e33-a8b3-a3a5861c3397.png)
+![10-140](https://user-images.githubusercontent.com/92877810/140194929-a257fdc1-b387-4778-9296-3ab85f02ba31.png)
+
 
