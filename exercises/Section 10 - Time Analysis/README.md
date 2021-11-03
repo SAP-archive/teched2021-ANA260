@@ -579,5 +579,114 @@ Let's format the calculation.
 
 🚩The calculation has been formatted. Let's order the measures in the table. 
 
+![10-101](https://user-images.githubusercontent.com/92877810/140192554-52e3153d-fcc2-45c4-a3d9-76c0a3809f28.png)
 
+101. Click **Nov**
+
+![10-102](https://user-images.githubusercontent.com/92877810/140192558-60a7965c-13a9-4045-bb89-78dc0c4e3b51.png)
+
+102. Click **30**
+
+![10-103](https://user-images.githubusercontent.com/92877810/140192559-a781153e-976c-49f3-a326-ee2ec079abf7.png)
+
+⚠️Quality Check! Does your range match the screenshot (October 1, 2021 - November 30, 2021)? 
+
+103. Click **OK**
+
+![10-104](https://user-images.githubusercontent.com/92877810/140192561-efc8a051-1b8b-4120-8b64-008281c08396.png)
+
+The input control was added to the page. Let's expand it and put it into the position. 
+
+104. Reszie **Receive Date** as Wide as **Order Date Range Filter**
+
+![10-105](https://user-images.githubusercontent.com/92877810/140192562-b3658ddd-593f-46c0-b408-caff6446e3b2.png)
+
+⚠️Quality Check! Your dashboard should look like this. 
+
+![10-106](https://user-images.githubusercontent.com/92877810/140192564-6787222a-eb94-41f2-8cf8-801fb60c3ed7.png)
+
+105. Drag.
+
+106. Drop on.
+
+![10-107](https://user-images.githubusercontent.com/92877810/140192565-ed098374-0244-4848-bc0f-4f6f30c0a3e5.png)
+
+🚩You may have noticed that the entire dashboard is filtered on the Order and Receive date input controls that you just added. You only want to apply these to the Order Delivery Analysis table. You can use Linked Analysis to set the scope of the page input controls
+
+107. Click the **Order Date Range Filter**
+
+108. Click the **More Action **
+
+109. Click **Linked Analysis**
+
+![10-108](https://user-images.githubusercontent.com/92877810/140192566-b5a7f715-50e5-4f6b-b47b-b212b9046f44.png)
+
+110. Click Only Selected Widgets
+
+![10-109](https://user-images.githubusercontent.com/92877810/140192567-969736ce-018a-4609-b7ad-c0e3c57be954.png)
+
+111. Scroll and Click **Order Delivery Analysis**
+
+112. Click **Apply**
+
+![10-110](https://user-images.githubusercontent.com/92877810/140192569-7cb06df7-d840-4f8c-bb9b-b85ffcfbf01f.png)
+
+🚩We want to repeat the steps for the 
+Receive Date Range Filter Input Control. 
+
+113. Click **Receive Date Range Filter**
+
+114. Click **More Action** icon
+
+115. Click **Linked Analysis**
+
+![10-111](https://user-images.githubusercontent.com/92877810/140192570-2c242cbe-166d-42e1-974d-ca2b060cf4be.png)
+
+116. Click Only **Selected Widgets**
+
+![10-112](https://user-images.githubusercontent.com/92877810/140192572-038cff7b-7a9a-41a6-9347-6c1184af9098.png)
+
+117. Scroll and Click **Order Delivery Analysis**
+
+118. Click **Apply**
+
+![10-113](https://user-images.githubusercontent.com/92877810/140192574-d0633bf1-1ce7-420c-9be4-51be75267a7f.png)
+
+⚠️Quality Check! Your page input controls should only drive the Order Delivery Analysis table
+
+![10-114](https://user-images.githubusercontent.com/92877810/140192575-2bf06b8a-c437-487d-8c57-bb010c217fd5.png)
+
+🚩Let's find out which orders that were shipped after Oct 1st, 2021 have been received by October 8th, 2021. 
+
+119. Click the **End Date Picker**
+
+![10-115](https://user-images.githubusercontent.com/92877810/140192577-8bb7976b-f5d6-4437-bd00-45199200fccc.png)
+
+120. Click **November**
+
+![10-116](https://user-images.githubusercontent.com/92877810/140192579-4a5a9b6d-69fb-409b-ac40-6eca1eb26f0d.png)
+
+121. Click **Oct**
+
+![10-117](https://user-images.githubusercontent.com/92877810/140192580-1a3af021-a454-44ce-8ab8-1c858d24458a.png)
+
+122. Click **8**
+
+![10-118](https://user-images.githubusercontent.com/92877810/140192582-103f71f8-2f78-4ed6-995a-0c5bbab1db9c.png)
+
+Next you want to calculate the time it takes to deliver your orders. This can easily be done via calculations. 
+
+123. Click the **Order Delivery Analysis Table**
+
+![10-119](https://user-images.githubusercontent.com/92877810/140192584-d2bf122b-e877-4e9c-8d5c-611ed64c7fa9.png)
+
+124. Click **Designer**
+
+125. Click **More Action** Icon for **Account**
+
+126. Click **Add Calculation**
+
+![10-120](https://user-images.githubusercontent.com/92877810/140192585-c3bfd93c-2db9-4682-aa36-71d60f3b5c36.png)
+
+127. Click **Date Difference**
 
