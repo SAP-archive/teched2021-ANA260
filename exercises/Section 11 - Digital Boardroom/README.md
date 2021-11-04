@@ -331,7 +331,7 @@ Let's add the option to the Action Bar.
 
 87. Click Outside the Background Color Menu to Collapse
 
-![11-50](https://user-images.githubusercontent.com/92877810/140398493-edc99d76-a5ca-4fa7-b760-98d5af6f87ee.png)
+![11-51](https://user-images.githubusercontent.com/92877810/140398494-871eabe4-5584-46e4-b663-06d499dfc544.png)
 
 ⚠️Quality Check! Does your Theme Preview match the screenshot? 
 
@@ -339,25 +339,25 @@ Let's add the option to the Action Bar.
   
 🚩Press **Ctrl + S** to Save
 
-![11-51](https://user-images.githubusercontent.com/92877810/140398494-871eabe4-5584-46e4-b663-06d499dfc544.png)
+![11-52](https://user-images.githubusercontent.com/92877810/140398496-c7b17352-045a-49aa-af7e-c5aa9c64984a.png)
 
 🚩Before we consume the Digital Boardroom for the executive meeting, we want to ensure that it is designed and functions as we intended. 
 
 89. Click **Start Presentation**
 
-![11-52](https://user-images.githubusercontent.com/92877810/140398496-c7b17352-045a-49aa-af7e-c5aa9c64984a.png)
+![11-53](https://user-images.githubusercontent.com/92877810/140398499-08c54000-5d18-4e76-947d-d6ff2977d3ab.png)
 
 🚩We can see that as soon as we open our Digital Boardroom, it displays the Overview of BestRun. Let's ensure that we can navigate to the Historical Performance page. 
 
 90. Click the **Next Page** Icon
 
-![11-53](https://user-images.githubusercontent.com/92877810/140398499-08c54000-5d18-4e76-947d-d6ff2977d3ab.png)
+![11-54](https://user-images.githubusercontent.com/92877810/140398500-217f79c0-a903-4bb0-9b2f-5e2cf783df15.png)
 
 🚩We can see that we had a smooth navigation to the **Historical Performance** page. The breadcrumb at the top of the Digital Boardroom has updated to reflect the new page. Let's navigate back to the **Overview** page. 
 
 91. Click **Overview** 
 
-![11-54](https://user-images.githubusercontent.com/92877810/140398500-217f79c0-a903-4bb0-9b2f-5e2cf783df15.png)
+![11-55](https://user-images.githubusercontent.com/92877810/140398503-0fdf44d1-299c-4a6c-98b4-82cd4ed8c1ed.png)
 
 92. **Right Click** on the Mouse
 
@@ -365,19 +365,19 @@ Let's add the option to the Action Bar.
 
 93. Click **Jump to...**
 
-![11-55](https://user-images.githubusercontent.com/92877810/140398503-0fdf44d1-299c-4a6c-98b4-82cd4ed8c1ed.png)
+![11-56](https://user-images.githubusercontent.com/92877810/140398505-208781f5-348d-4085-9b47-338277710510.png)
 
 🚩We can see that the jump to HR and Operations Topic are both available. Let's jump to the HR Topic. 
 
 94. Click **HR.**
 
-![11-56](https://user-images.githubusercontent.com/92877810/140398505-208781f5-348d-4085-9b47-338277710510.png)
+![11-57](https://user-images.githubusercontent.com/92877810/140398506-86fb3ffe-082e-4177-8641-f0f9a45a627a.png)
 
 🚩We can see that our jump to the HR Topic, specifically the Salary Overview page works as expected. Let's ensure that we can take Meeting Minute notes. 
 
 95. Click **Meeting Minutes**
 
-![11-57](https://user-images.githubusercontent.com/92877810/140398506-86fb3ffe-082e-4177-8641-f0f9a45a627a.png)
+![11-58](https://user-images.githubusercontent.com/92877810/140398507-04dc37fd-10a8-42a5-8e1e-c00ffe1258b8.png)
 
 96. Click **Add**
   
@@ -387,7 +387,7 @@ Let's add the option to the Action Bar.
 
 98. Click **Salary Overview**
 
-![11-58](https://user-images.githubusercontent.com/92877810/140398507-04dc37fd-10a8-42a5-8e1e-c00ffe1258b8.png)
+![11-59](https://user-images.githubusercontent.com/92877810/140398508-4d6ccced-de28-452c-aa73-55de3ce12b46.png)
 
 99. Add a Note: Consider raising Operations avg salary to company average 
 
@@ -395,7 +395,7 @@ Let's add the option to the Action Bar.
 
 101. Close the **Meeting Minutes**
 
-![11-59](https://user-images.githubusercontent.com/92877810/140398508-4d6ccced-de28-452c-aa73-55de3ce12b46.png)
+![11-60](https://user-images.githubusercontent.com/92877810/140398509-bce72c29-18d9-4900-9ab9-b655e1c012c1.png)
 
 🚩Let's navigate back to the Overview Page to ensure that our Jump To via a chart context works. 
 
@@ -405,7 +405,7 @@ Let's add the option to the Action Bar.
 
 103. Click **Overview** 
 
-![11-60](https://user-images.githubusercontent.com/92877810/140398509-bce72c29-18d9-4900-9ab9-b655e1c012c1.png)
+![11-61](https://user-images.githubusercontent.com/92877810/140398510-54cd2929-375c-401a-804b-11b968d60df2.png)
 
 Let's test our Jump To navigation with the filter context by selecting Clothing as the product we are interested. 
 
@@ -413,7 +413,7 @@ Let's test our Jump To navigation with the filter context by selecting Clothing 
 
 105. Click the **Jump To** Icon
 
-![11-61](https://user-images.githubusercontent.com/92877810/140398510-54cd2929-375c-401a-804b-11b968d60df2.png)
+![11-62](https://user-images.githubusercontent.com/92877810/140398512-f1e1dfc4-61aa-49fe-9f6d-3867acea2550.png)
 
 🚩We can see that the dashboard has updated to reflect our Clothing Product Category. We can see that based on the table, MEE has the highest contribution to our Revenue. Let's further filter down our data to focus on the MEE region. 
 
