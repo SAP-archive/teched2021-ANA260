@@ -12,7 +12,7 @@ capabilities to ensure company’s managers can further investigate the data.
 **Key Features:**
 - Create dynamic and fixed date-based story and page filters with multiple ranges
 - Learn how to customise “current date” for greater flexibility when analysing time-based data
-- Create dynamic calculations such as Year-to-Date (YTD), Year-over-Year (YoY) and others
+- Create dynamic calculations such as Year-to-Date (YTD), Previous Year-to-Date (PYTD) and others
 - Learn how to define date-based hierarchies in SAC that best suit your needs
 
 ⚠️**Disclaimer**
@@ -931,6 +931,6 @@ Measure Selector
 **You are now able to:**
 - Create dynamic and fixed date-based story and page filters with multiple ranges
 - Customise “current date” for greater flexibility when analysing time-based data
-- Create dynamic calculations such as Year-to-Date (YTD), Year-over-Year (YoY) and others
+- Create dynamic calculations such as Year-to-Date (YTD), Previous Year-to-Date (PYTD) and others
 - Define date-based hierarchies in SAC that best suit your needs
 
