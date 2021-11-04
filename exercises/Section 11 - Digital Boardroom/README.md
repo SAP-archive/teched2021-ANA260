@@ -1,3 +1,30 @@
+# Section 11 - Digital Boardroom
+
+ℹ️**Objective:** Learn how to create an executive overview of your company’s performance by curating selected 
+pages from several Stories in one view with Digital Boardroom.
+
+**Estimated Time:** 10 mins
+
+**Exercise Description:** In preparation for an executive meeting coming up at the end of the month, you 
+need to create an overview of all analytic content at your company. You will create a Digital Boardroom with 
+a curated selection of pages from various departments at your company: Finance, HR and Operations. You 
+will then enhance the Digital Boardroom experience by adding interactive functionality to be used during the 
+presentation and try out the executive presentation experience yourself in preparation for the meeting.
+
+**Key Features:**
+- Create a new Digital Boardroom and use selected pages from several Stories
+- Customize navigation across different topics of Digital Boardroom
+- Add a selection of interactive functionality to be used during the presentation 
+- Open Digital Boardroom in presentation view and experience the executive presentation functionality 
+for yourself
+
+⚠️**Disclaimer**
+When completing exercises, some data values in the screenshots may not match what you see on your 
+screen. This is because the dynamic time filters that were applied at the time the screenshots were taken is 
+different from the current system date.
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
 
 ⚠️Quality Check! Does your screen look like this?
 
@@ -443,4 +470,15 @@ Let's test our Jump To navigation with the filter context by selecting Clothing 
 
 ![11-67](https://user-images.githubusercontent.com/92877810/140402263-45d04c30-b27e-4aba-91a1-63d02f189055.png)
 
+<br><br>
 
+## Summary
+
+**You have completed the entire Augmented Analytics: Smart Assist Features section!**
+
+**You are now able to:**
+- Create a new Digital Boardroom and use selected pages from several Stories
+- Customize navigation across different topics of Digital Boardroom
+- Add a selection of interactive functionality to be used during the presentation 
+- Open Digital Boardroom in presentation view and experience the executive presentation functionality 
+for yourself
