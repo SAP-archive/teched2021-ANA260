@@ -709,7 +709,15 @@ Let's format the calculation.
 173. Click **Year**
 
 ![10-121](https://user-images.githubusercontent.com/92877810/140194901-16dd988d-2aa2-453d-a363-8e7e0609d3f5.png)
+
+174. Rename the Calculation to **PYTD**
+
+175. Click **OK**
+
 ![10-122](https://user-images.githubusercontent.com/92877810/140194904-f1fa64e4-cffe-4c9d-9877-70cf030cc428.png)
+
+176. Click the More Action s Button
+
 ![10-123](https://user-images.githubusercontent.com/92877810/140194905-0c8fc6c1-601b-44d2-8e09-861166745b5f.png)
 ![10-124](https://user-images.githubusercontent.com/92877810/140194909-44264c1b-64d1-4599-91c1-46457ac68fd7.png)
 ![10-125](https://user-images.githubusercontent.com/92877810/140194911-341d7476-1141-4863-a56e-970b11604729.png)
