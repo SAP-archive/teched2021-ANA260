@@ -716,25 +716,185 @@ Let's format the calculation.
 
 ![10-122](https://user-images.githubusercontent.com/92877810/140194904-f1fa64e4-cffe-4c9d-9877-70cf030cc428.png)
 
-176. Click the More Action s Button
+🚩Next you want to calculate the variance between last years data and this year’s data. 
 
-![10-123](https://user-images.githubusercontent.com/92877810/140194905-0c8fc6c1-601b-44d2-8e09-861166745b5f.png)
-![10-124](https://user-images.githubusercontent.com/92877810/140194909-44264c1b-64d1-4599-91c1-46457ac68fd7.png)
-![10-125](https://user-images.githubusercontent.com/92877810/140194911-341d7476-1141-4863-a56e-970b11604729.png)
-![10-126](https://user-images.githubusercontent.com/92877810/140194912-970bbdee-1279-4533-adec-8520c7d2e777.png)
-![10-127](https://user-images.githubusercontent.com/92877810/140194913-fde857c1-fa0f-4c9f-a0d1-9c3725eeb1ff.png)
-![10-128](https://user-images.githubusercontent.com/92877810/140194915-29f69f4d-dbbd-44d7-a6d0-8863e6811414.png)
-![10-129](https://user-images.githubusercontent.com/92877810/140194916-40b8242b-730d-4c23-a321-17b420a5548e.png)
-![10-130](https://user-images.githubusercontent.com/92877810/140194917-0b264ca4-c2f4-46da-81cc-b234ff24225b.png)
-![10-131](https://user-images.githubusercontent.com/92877810/140194918-2f489b1b-c330-4e1a-93a2-b15629742cab.png)
-![10-132](https://user-images.githubusercontent.com/92877810/140194919-324e156a-72b7-4396-b02a-c31da246dbf2.png)
-![10-133](https://user-images.githubusercontent.com/92877810/140194921-311034fa-6564-42a1-912e-8a6a6ef80f29.png)
-![10-134](https://user-images.githubusercontent.com/92877810/140194922-326313a1-a75f-4118-88d2-a0a9a34bb21e.png)
-![10-135](https://user-images.githubusercontent.com/92877810/140194923-8b7d9285-e8b2-48ba-a490-5695b993e817.png)
-![10-136](https://user-images.githubusercontent.com/92877810/140194924-9b0f737b-fa30-48ea-9990-664353829930.png)
-![10-137](https://user-images.githubusercontent.com/92877810/140194925-cdce293e-efb6-445c-9246-4fa18a74de64.png)
-![10-138](https://user-images.githubusercontent.com/92877810/140194927-700fa2ae-d7ce-4785-a138-e39d24f9ef87.png)
-![10-139](https://user-images.githubusercontent.com/92877810/140194928-e4be17e7-9f9b-4e33-a8b3-a3a5861c3397.png)
-![10-140](https://user-images.githubusercontent.com/92877810/140194929-a257fdc1-b387-4778-9296-3ab85f02ba31.png)
+176. Click the **More Actions** Icon for **Cross Calculations**
 
+177. Click **Add Calculation**
+
+![10-123](https://user-images.githubusercontent.com/92877810/140416150-41033377-251d-4973-88be-b0e5a24b1c64.png)
+
+178. Click **Calculated Measure**
+
+![10-124](https://user-images.githubusercontent.com/92877810/140416151-09429935-49d8-4c60-9655-8e83e7976ef8.png)
+
+179. Type **P**
+
+180. Click **PYTD**
+
+![10-125](https://user-images.githubusercontent.com/92877810/140416153-846fedb2-0554-4521-bdbd-8a956afd2de6.png)
+
+181. Type **Y**
+
+182. Click **YTD** 
+
+![10-126](https://user-images.githubusercontent.com/92877810/140416155-e4d922c4-1a30-43cd-829e-fcf8a261f88f.png)
+
+183. Rename Calculation to **Variance**
+
+184. Click **OK**
+
+![10-127](https://user-images.githubusercontent.com/92877810/140416156-8846a57c-5104-40ec-b19d-9931310db939.png)
+
+🚩Before reviewing the table. Let's make sure we have only the desired calculations selected. 
+
+185. Click **Filter** for **Cross Calculations**
+
+![10-128](https://user-images.githubusercontent.com/92877810/140416158-559e4385-de9b-4070-be7b-2c3f6b8b73da.png)
+
+186. Click **PYTD**
+
+187. Click **OK**
+
+![10-129](https://user-images.githubusercontent.com/92877810/140416160-73313292-70eb-4644-899f-39044fe52708.png)
+
+⚠️Quality Check! Does your table look like this? 
+  
+Note: Due to the dynamic time filter the data may vary. 
+
+![10-130](https://user-images.githubusercontent.com/92877810/140416162-7629fd39-d437-4c9d-8780-772c0f9df1df.png)
+
+🚩Next, you would like to adjust the order of the columns in the table. 
+
+188. Click the **More Actions** Icon for **Cross Calculations**
+
+189. Click **Edit Member Order...**
+
+![10-131](https://user-images.githubusercontent.com/92877810/140416163-f8f3c2d3-03e7-4132-a3b0-6b3c1fb2a75f.png)
+
+🚩The required member order is: 
+ 
+YTD
+PYTD
+Variance
+Account Values
+Measure Selector
+
+190. Click and drag **YTD** to top
+
+191. Click and drag **PYTD** below YTD
+
+192. Click and drag **Variance** below PYTD
+
+![10-132](https://user-images.githubusercontent.com/92877810/140416164-e41aecd9-f4e5-490c-92c7-2bcf8f57d885.png)
+
+⚠️Quality Check! Does your Edit Member Order match the screenshot? 
+
+193. Click **Done**
+
+![10-133](https://user-images.githubusercontent.com/92877810/140416166-20d56089-9df8-4757-ba13-3cebc3e046e8.png)
+
+⚠️Quality Check! Does your table look like this? 
+
+![10-134](https://user-images.githubusercontent.com/92877810/140416167-ff83c058-1b55-4cde-85a6-9c8a00be3419.png)
+
+🚩You want to make the variance stand out more easily indicating where there was an increase or decrease from last year. This can easily be done by turning it into a variance in-cell chart.  
+
+194. Right Click Variance to Open the Context Menu
+
+195. Click **In-Cell Chart**
+
+![10-135](https://user-images.githubusercontent.com/92877810/140416170-c0f79d3a-335d-4606-af6b-90e489445331.png)
+
+196. Click the **In-Cell Chart**
+
+197. Expand the **Comparison Tile**
+
+198. Click **Variance Bar**
+
+![10-137](https://user-images.githubusercontent.com/92877810/140416173-43fbea61-d361-43e3-820f-02393749ab99.png)
+
+⚠️Quality Check! Does your table look like this? 
+
+![10-138](https://user-images.githubusercontent.com/92877810/140416176-89626d1d-121a-4cf6-b421-277a580bd682.png)
+
+🚩Next let's look at some time navigation inside a chart. The chart shows the Sales Revenue over time. Let's drill a level down to understand how 2021 is performing. 
+
+199. Drag the **Horizontal Scroll Bar** to the **Right**
+
+200. Left Click the **2021** Bar
+
+201. Click the **Drill Down** Icon
+
+![10-139](https://user-images.githubusercontent.com/92877810/140416177-73f0524d-dc6b-4f03-b4a3-e9c59ef80d3d.png)
+
+🚩You can see the chart now show the Sales Revenue by quarter. However, you're more interested in it for the half year. Let's change the hierarchy via the builder panel. 
+
+![10-140](https://user-images.githubusercontent.com/92877810/140416178-718fb807-8904-4739-a533-069d6b6a29ae.png)
+
+202. Click the **Drill** Icon for **Order Date**
+
+203. Click **Set Hierarchy**
+
+![10-141](https://user-images.githubusercontent.com/92877810/140416179-ce6c7d10-0ad1-4402-9284-8ad2a3e86aee.png)
+
+204. Expand **Hierarchy**
+
+205. Click **Year, Half-Year, Quarter, Month, Day**
+
+![10-142](https://user-images.githubusercontent.com/92877810/140416180-6997eec4-4e42-4aa4-add8-cf08b18c2765.png)
+
+206. Click **Set**
+
+![10-143](https://user-images.githubusercontent.com/92877810/140416182-ea251592-5015-414a-b23b-be56f4ad2444.png)
+
+🚩The chart has been reset to the new hierarchy. Let's change the level via the builder panel. 
+
+![10-144](https://user-images.githubusercontent.com/92877810/140416184-a9ba3c1a-fb15-4d23-a63c-9f9e703b811a.png)
+
+207. Click the **Drill Icon** for **Order Date**
+
+208. Click **Level 3**
+
+![10-145](https://user-images.githubusercontent.com/92877810/140416186-68e5abb9-113e-43a0-89b8-ac0ba8acec11.png)
+
+⚠️Quality Check! Does your chart look like this? 
+
+![10-146](https://user-images.githubusercontent.com/92877810/140416190-11f22b89-2fde-4bf0-9082-a6a1e3ef2e2e.png)
+
+🚩Now let's look at quickly showing the year over year changes if the Sales Revenue. This can be done via time calculation quick options if time if in the chart
+
+209. Click the **More Action Icon** for **Sales Revenue** under Measures
+
+210. Click **Add Time Calculation**
+
+211. Click **Year Over Year**
+
+![10-147](https://user-images.githubusercontent.com/92877810/140416191-3900cf0e-b912-4431-a5a8-23368a9e981a.png)
+
+212. Remove **Sales Revenue**
+
+![10-148](https://user-images.githubusercontent.com/92877810/140416193-480abdcc-9038-41c2-9c0f-86f7b6928272.png)
+
+⚠️Quality Check! Does your chart look like this? 
+
+![10-149](https://user-images.githubusercontent.com/92877810/140416194-6f6cdf60-7e4a-4a2a-aab7-7b13017ab304.png)
+
+🚩You can see that H1 2021 is significantly lower than H1 2020. Let's drill into this more. 
+
+213. Click the **H1 2021** Bar
+
+214. Click **Drill Down**
+
+![10-150](https://user-images.githubusercontent.com/92877810/140416197-cc7fce00-97b6-46b4-b384-e0163c0c0d1a.png)
+
+🚩The major deviation was in Q1 of 2021. 
+
+![10-151](https://user-images.githubusercontent.com/92877810/140416198-30c6cd7a-266b-4cbb-819a-d348a8073529.png)
+  
+ℹ️You have concluded the **Time Analysis Section!** Save your document.
+
+🚩Press **Ctrl + S** to save your story
+
+![10-152](https://user-images.githubusercontent.com/92877810/140416199-770e7da5-4f92-4a6d-b574-e7de1ba43228.png)
 
