@@ -1,3 +1,4 @@
+
 ⚠️Quality Check! Does your screen look like this?
 
 1. Click **Home**
@@ -203,4 +204,125 @@ Similarly, we want to provide the executives a quick way to jump to the Operatio
 
 52. Click **Operations**
 
+![11-31](https://user-images.githubusercontent.com/92877810/140395019-c566148c-a786-4fd0-9ec8-21ee12ea16bb.png)
 
+53. Click **Expand for Page**
+
+54. Click **Operations Overview**
+
+55. Check **Apply Selected Dimension as Filter**
+
+![11-32](https://user-images.githubusercontent.com/92877810/140395020-da7810f0-2961-497a-94be-25b066b12688.png)
+
+56. Rename the **Label** to **Operations**
+
+57. Click **Close**
+
+![11-33](https://user-images.githubusercontent.com/92877810/140395022-9bc1ff47-eb0d-475c-ab9b-0ff0c96199fb.png)
+
+🚩As we are consuming pages from various dashboards, we want to ensure that all the data is filtered to the same region. Furthermore, we want to provide our executives the flexibility to modify the filter based on the region they want to analyze. 
+
+58. Click the **Topic Filter** Icon
+
+59. Click on the **Overview Topic**
+
+![11-34](https://user-images.githubusercontent.com/92877810/140395024-0d12a739-6b87-4d52-892d-edaeb396eb01.png)
+
+60. Click **Add Topic Filter**
+
+61. Click **Dimensions**
+
+![11-35](https://user-images.githubusercontent.com/92877810/140395026-aa8c5812-6604-41ea-b308-b5ebc7942ad2.png)
+
+62. Click **Region**
+
+![11-36](https://user-images.githubusercontent.com/92877810/140395031-fbd255c4-a95d-459d-9866-1284bffd058f.png)
+
+63. Select **All Members**
+
+64. Click **OK**
+
+![11-37](https://user-images.githubusercontent.com/92877810/140395032-31079e4e-c184-4af1-a0d3-ed792c37563f.png)
+
+65. Click **Close**
+
+![11-38](https://user-images.githubusercontent.com/92877810/140395033-e40c5e99-e720-4363-acfd-2c0cd31f9fc5.png)
+
+⚠️Quality Check! Does your Digital Boardroom look like the screenshot? 
+
+![11-39](https://user-images.githubusercontent.com/92877810/140395036-6ff2f861-1049-4169-a03d-d461ab907c50.png)
+
+🚩We've designed our Digital Boardroom based on the content that our executives need. However, we now want to modify our Digital Boardroom settings to ensure that we provide them with the various tools they need during their meeting. 
+
+66. Click **Presentation Settings**
+
+![11-40](https://user-images.githubusercontent.com/92877810/140395038-5426042c-867f-4de2-a261-9f5c734ef691.png)
+
+🚩We want to make sure that during the presentation we provide the board the ability to take notes during their meeting. 
+Let's add the option to the Action Bar. 
+
+67. Click **Action Bar**
+
+68. Enable **Fix Action Bar to Selected Position**
+
+69. Select **View Action Bar as Footer**
+
+70. Click and Drag the **Filter Action**
+
+71. Move the **Filter Action** to the Left of the **Exit Action**
+
+![11-41](https://user-images.githubusercontent.com/92877810/140395039-9ee84c6c-630a-4890-923e-d83a38fd52ac.png)
+
+72. Click and Drag the **Meeting Minutes Action**
+
+73. Move the **Meeting Minutes Action** to the **Left of the Filter Action**
+
+![11-42](https://user-images.githubusercontent.com/92877810/140395042-a4867186-9dd1-46ba-b704-37d859e67ccd.png)
+
+74. Click and Drag the **Reset Action Action**
+
+75. More the **Reset Topic Action** to the **Right of the Fullscreen Action**
+
+![11-43](https://user-images.githubusercontent.com/92877810/140395045-a3163efe-7dcc-41d6-8be3-a119a2351ece.png)
+
+⚠️Quality Check! Do your presentation settings match the screenshot? 
+
+76. Click **Apply**
+
+![11-44](https://user-images.githubusercontent.com/92877810/140395046-412cf29c-0ec0-45d8-9f45-4226c2e4c776.png)
+
+77. Click **Designer**
+
+78. Click **Styling Panel**
+
+![11-45](https://user-images.githubusercontent.com/92877810/140395047-dbe380cc-be29-48f1-a89a-04ceadcddbd3.png)
+
+🚩We want to ensure that our Digital Boardroom presentation has the correct theme applied to match our corporate colors. 
+
+79. Click the **Boardroom Preview** Icon
+
+![11-46](https://user-images.githubusercontent.com/92877810/140395048-3ff60c03-f17e-4815-be22-c7308427413f.png)
+
+ℹ️The Digital Boardroom Preview allows you to design the way you want to display your boardroom. It also allows you to add a consistent look and feel if your stories have different settings.
+  
+🚩Based on the guidance provided from our marketing department, we need to select a darker theme
+
+![11-47](https://user-images.githubusercontent.com/92877810/140395051-ad992e46-9bde-4a08-9a83-ad5dd85e8cac.png)
+
+80. Click **Expand** for **Theme**
+
+81. Click **Digital Boardroom Dark**
+
+![11-48](https://user-images.githubusercontent.com/92877810/140395053-d3fdb769-4bf7-463c-8ec0-9d636a699e28.png)
+
+82. Click **Expand** for **Background**
+
+83. Select **Solid Color**
+
+![11-49](https://user-images.githubusercontent.com/92877810/140395055-d274b67a-df26-4595-9436-57d91d9f9898.png)
+
+84. Click the **Color Swatch** for **Background**
+
+85. Click **More**
+
+![11-50](https://user-images.githubusercontent.com/92877810/140395056-0431fcfa-df21-4643-8be8-94b0768637fe.png)
