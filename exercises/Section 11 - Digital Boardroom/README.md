@@ -429,18 +429,18 @@ Let's test our Jump To navigation with the filter context by selecting Clothing 
 
 110. Close the **Filter Dialogue**
 
-![11-64](https://user-images.githubusercontent.com/92877810/140401223-b7e9767f-9cb4-4beb-b568-d2d9742665f0.png)
+![11-65](https://user-images.githubusercontent.com/92877810/140401100-d296466c-0bf5-468e-8bbc-4873afbd9a4a.png)
 
 🚩As you can see the dashboard has updated to include only the **MEE Region** for the **Clothing Product Category**. Now that we are done validating our Digital Boardroom and familiarized ourselves with the various actions, we are ready to moderate during the board meeting. 
 
 111. Click **Leave** in the **Action Bar**
 
-![11-65](https://user-images.githubusercontent.com/92877810/140401100-d296466c-0bf5-468e-8bbc-4873afbd9a4a.png)
+![11-66](https://user-images.githubusercontent.com/92877810/140401101-26d0fe02-433f-4bf4-838d-d7a1993589d3.png)
 
 🚩We're back in the **Digital Boardroom** Designer and can continue make edits to our Digital Boardroom as needed. 
   
 ℹ️You have completed **Digital Boardroom Deep Dive.**  
 
-![11-66](https://user-images.githubusercontent.com/92877810/140401101-26d0fe02-433f-4bf4-838d-d7a1993589d3.png)
+![11-67](https://user-images.githubusercontent.com/92877810/140402263-45d04c30-b27e-4aba-91a1-63d02f189055.png)
 
 
