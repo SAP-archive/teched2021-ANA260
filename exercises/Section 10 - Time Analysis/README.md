@@ -1,3 +1,27 @@
+# Section 10 - Time Analysis
+
+ℹ️**Objective:** Learn how to effectively analyze your time-based data, how to create time-based filters, 
+calculations and visualisations. 
+
+**Estimated Time:** 20 mins
+
+**Exercise Description:** You as a business analyst, need to assess company’s performance this year, 
+compare operational and finance KPIs over time and learn how to enhance the dashboard with interactive 
+capabilities to ensure company’s managers can further investigate the data.
+
+**Key Features:**
+- Create dynamic and fixed date-based story and page filters with multiple ranges
+- Learn how to customise “current date” for greater flexibility when analysing time-based data
+- Create dynamic calculations such as Year-to-Date (YTD), Year-over-Year (YoY) and others
+- Learn how to define date-based hierarchies in SAC that best suit your needs
+
+⚠️**Disclaimer**
+When completing exercises, some data values in the screenshots may not match what you see on your 
+screen. This is because the dynamic time filters that were applied at the time the screenshots were taken is 
+different from the current system date.
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
 ⚠️Quality Check! Does your screen look like this screenshot?
 
 ![10-1](https://user-images.githubusercontent.com/92877810/140169050-9da1077e-80d2-4de4-a035-b10a445bca10.png)
@@ -897,4 +921,16 @@ Measure Selector
 🚩Press **Ctrl + S** to save your story
 
 ![10-152](https://user-images.githubusercontent.com/92877810/140416199-770e7da5-4f92-4a6d-b574-e7de1ba43228.png)
+
+<br><br>
+
+## Summary
+
+**You have completed the entire Time Analysis section!**
+
+**You are now able to:**
+- Create dynamic and fixed date-based story and page filters with multiple ranges
+- Customise “current date” for greater flexibility when analysing time-based data
+- Create dynamic calculations such as Year-to-Date (YTD), Year-over-Year (YoY) and others
+- Define date-based hierarchies in SAC that best suit your needs
 
