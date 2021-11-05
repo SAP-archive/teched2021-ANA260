@@ -1,7 +1,23 @@
 # Section 7 - Performance Optimization
 
-*Header & Footer to be added soon
+ℹ️**Objective:** Learn about SAC performance best practices and the benefits of optimized view mode.
 
+**Estimated Time:** 15 mins
+
+**Exercise Description:** As a business analyst, your dashboards could be viewed by many different colleagues and executives. To ensure that they have the best viewing experience possible, you want to learn how to maximize the performance of your story.  
+
+Once SAP Analytics Cloud found the answer to your questions you want to use other smart features such 
+smart insight and time series forecast to enhance the result. Finally, you want to use Smart Discovery to 
+have SAP Analytics Cloud investigate Gross Margin at BestRun and automatically built a story for you.
+
+**Key Features:**
+- Leverage optimization tips to ensure the creation of performant stories 
+- Learn about performance and usability benefits of the optimized view mode 
+
+⚠️**Disclaimer**
+When completing exercises, some data values in the screenshots may not match what you see on your 
+screen. This is because the dynamic time filters that were applied at the time the screenshots were taken is 
+different from the current system date.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
@@ -385,4 +401,12 @@ With Optimized View Mode, you can see that the drop down menu is much wider.
 
 ![7-61](https://user-images.githubusercontent.com/92877810/139122034-9777aa91-4ed9-468c-842c-8dd59e304d75.png)
 
+<br><br>
 
+## Summary
+
+**You have completed the entire Performance Optimization section!**
+
+**You are now able to:**
+- Leverage optimization tips to ensure the creation of performant stories 
+- Learn about performance and usability benefits of the optimized view mode 
