@@ -404,34 +404,185 @@ Aggregation from the Shipping Model for the Number of Delivered Orders. Since we
 84. Click **Apply**
 
 ![8-61](https://user-images.githubusercontent.com/92877810/140558791-07496d08-dcb9-4a10-8a25-d11973dce90a.png)
+
+⚠️Quality check! Does your chart look like this screenshot? 
+
 ![8-62](https://user-images.githubusercontent.com/92877810/140558794-566bb5f2-3d86-4da0-b1da-4c4627c15751.png)
+
+🚩We want to use this chart to drive our analysis to be able to filter on a top performing store. Let us use Linked Analysis from this chart to filter other visualizations. 
+
+85. Click **More Actions**
+
+86. Click **Linked Analysis**
+
 ![8-63](https://user-images.githubusercontent.com/92877810/140558797-b43692ea-30fe-4e4b-bcd8-5f57614a0397.png)
+
+🚩We want to select which visualizations are impacted by filtering when we select a top performing store. Let us choose only selected widgets for Linked Analysis. 
+
+87. Click Only **Selected Widgets**
+
 ![8-64](https://user-images.githubusercontent.com/92877810/140558798-4b862dcf-7095-40a5-8d8b-2452db9f3496.png)
+
+🚩Let us link our blended chart to a chart that 
+only uses the Shipping model. Any selections on our original chart will filter to the secondary chart via Store name. 
+
+88. Scroll and Click **Avg Delivery Time per Store for Actual**
+
+89. Click **Apply** 
+
 ![8-65](https://user-images.githubusercontent.com/92877810/140558799-0a082550-8217-4cc8-afdc-ca247f8a2f0e.png)
+
+90. Click the First Three Entries in the Store Order Size per Store Chart
+
 ![8-66](https://user-images.githubusercontent.com/92877810/140558801-3bcc9a15-1e7c-4cf4-9b3e-bc91f0a253c1.png)
+
+91. Click **Filter**
+
 ![8-67](https://user-images.githubusercontent.com/92877810/140558802-76cee994-46a0-470b-8640-6b6934090cd3.png)
+
+⚠️Quality check! Do your two charts look like this screenshot? 
+ 
+**Note:** You might have a different color for your first chart.
+  
+🚩It looks as if there is a relationship between larger average order size and a faster average delivery. We have filtered using Linked Analysis from our Finance model with Store Order Size to our Shipping model with Avg Delivery Time based on the linking of dimensions we have created previously. 
+  
+Let us now look a scatterplot to see if Average Delivery Time is affecting our Gross Margin. 
+
 ![8-68](https://user-images.githubusercontent.com/92877810/140558803-6dd43a4e-5db0-4326-8169-0a9bd7000575.png)
+
+92. Scroll to the right of the dashboard
+
+93. Click **Avg Delivery Time. Gross Margin per Store for Actual Chart**
+
 ![8-69](https://user-images.githubusercontent.com/92877810/140558804-1025ad90-de0e-487c-b01c-ce11c1ba9a4a.png)
+
+🚩Scatterplots are a great way to look at the correlation between two measures in our blended data. We will be comparing the average delivery time and gross margin for each store. Let us move to the Builder panel. 
+
+94. Click **Add Measure**
+
 ![8-70](https://user-images.githubusercontent.com/92877810/140558806-5ad94b74-8dd3-42c2-8b26-4248ac4b5f02.png)
+
+95. Click **ANA260_SHIPPING_INFO**
+
 ![8-71](https://user-images.githubusercontent.com/92877810/140558807-cb390ec0-1d17-45af-b5c1-bec37bc86cc8.png)
+
+96. Click **Avg Delivery Time**
+
 ![8-72](https://user-images.githubusercontent.com/92877810/140558809-6147d9ea-5c26-4852-bcde-58625979b651.png)
+
+97. Click **Add Measure**
+
 ![8-73](https://user-images.githubusercontent.com/92877810/140558810-2fcabcc8-0787-4327-8f27-63d5a83b0c0c.png)
+
+98. Click **ANA260_ORDER_FINANCE**
+
 ![8-74](https://user-images.githubusercontent.com/92877810/140558812-a364467f-cc69-4147-9154-0133b54a84dd.png)
+
+99. Click **Gross Margin**
+
 ![8-75](https://user-images.githubusercontent.com/92877810/140558813-509ffb36-86cf-4787-888d-052c2ba58ca3.png)
+
+⚠️Quality check! Does your scatterplot look like this screenshot? We can see that stores with higher avg delivery time seem to also have lower gross margin
+
 ![8-76](https://user-images.githubusercontent.com/92877810/140558815-13349c86-b64c-40b6-8452-a65419e204f0.png)
+
+🚩Let us now test out Calculation Input Controls and simulating values. Here we have a basic financial statement of gross margin, sales revenue, and cost of goods sold calculated by the difference between sales revenue and gross margin. We want to simulate what our gross margin % on each product would be given a simulated sales revenue increase
+
+100. Scroll to the bottom of the Dashboard
+
+101. Click the **ANA260_ORDER_FINANCE** Table
+
 ![8-77](https://user-images.githubusercontent.com/92877810/140558816-eb980967-f020-4f2e-b709-01a844067dd0.png)
+
+🚩Let us add a calculation for simulated sales revenue. 
+
+102. Click **More Action** Icon for the **Account Dimension**
+
+103. Click **Add Calculation**
+
 ![8-78](https://user-images.githubusercontent.com/92877810/140558817-fb904fee-a62f-42c3-8f7f-3b2b2d0d19f8.png)
+
+104. Click **Calculated Measure**
+
 ![8-79](https://user-images.githubusercontent.com/92877810/140558819-97a186e2-97d7-4a76-9146-53ef071e9563.png)
+
+105. Rename the Calculation to **Simulated Sales Revenue**
+
+106. Click **["ANA260_ORDER_FINANCE":Sales_Revenue]** 
+
 ![8-80](https://user-images.githubusercontent.com/92877810/140558820-7cb8b4c2-5340-4085-a7e8-f2a995f657fb.png)
+
+107. Type in **"*" (Multiplication Sign)**
+  
+🚩We are using a calculation input control in this calculation. Calculation input controls allow the viewer of the story to adjust the value in the formula through a widget on the page. This interactivity is key to our simulated financial statement
+
+108. Click **+ Create New**
+
 ![8-81](https://user-images.githubusercontent.com/92877810/140558822-6b88f84e-b9c4-4af2-b8d9-3a90dd3b64b6.png)
+
+🚩Calculation input controls can be created using values in Existing Dimensions or through values defined in a Static List. We want to create a static list of Revenue Multiplier values
+
+109. Click **Revenue Multiplier**
+
+110. Click **Static List**
+
+111. Expand **Values**
+
 ![8-82](https://user-images.githubusercontent.com/92877810/140558825-02eedf0d-a6dd-450d-9026-935644a78096.png)
+
+🚩Let us define a range of possible values to multiply our simulated sales revenue by. 
+
+112. Click **Select by Range**
+
 ![8-83](https://user-images.githubusercontent.com/92877810/140558826-e70db0be-cfb7-40cb-8f54-fa4e00021186.png)
+
+113. Input **1** as the Min Value
+
+114. Input **2.5** as the Max Value
+
+115. Input **0.1** as the Increment Value
+
+116. Click **OK**
+
 ![8-84](https://user-images.githubusercontent.com/92877810/140558828-0a5bb909-cf4b-4dae-85f3-061633da0ba5.png)
+
+117. Click **OK**
+
 ![8-85](https://user-images.githubusercontent.com/92877810/140558831-09f94829-3dc1-462b-821d-1f85de99bd7e.png)
+
+118. Click **Revenue Multiplier**
+
+119. Click **OK**
+
 ![8-86](https://user-images.githubusercontent.com/92877810/140558832-20b61a46-f813-49ad-8380-32e610392f65.png)
+
+120. Drag our new Input Control to the left of the table
+
 ![8-87](https://user-images.githubusercontent.com/92877810/140558833-f939b7b7-d2eb-4d7f-b69e-efc687d0522c.png)
+
+🚩Now we can test to see how our Revenue Multiplier input control can help simulate values in our table. 
+
+121. Resize the **Revenue Multiplier Calculation Input Control**
+
 ![8-88](https://user-images.githubusercontent.com/92877810/140558834-bfd39519-6f44-4d8b-a464-0fdc635e65a7.png)
+
+⚠️Quality check! Does your revenue multiplier and table look like this screenshot? Let us try simulating some values. 
+
 ![8-89](https://user-images.githubusercontent.com/92877810/140558836-8853c122-209d-48f2-97a7-079ed82d38d9.png)
+
+122. Drag the Revenue Multiplier to **1.5**
+
 ![8-90](https://user-images.githubusercontent.com/92877810/140558837-e13d2434-a17b-4ea7-bf95-2058140080a4.png)
+
+⚠️Quality check! Do the values on your table look like this after changing the calculation input control? Using the calculation input control for a simulation improves the interactivity of our dashboard for the use of the story viewer.
+
 ![8-91](https://user-images.githubusercontent.com/92877810/140558838-c4401c27-cb35-4742-ae51-00677e40ff1c.png)
+
+⚠️  
+Quality check! Does your dashboard look like this screenshot? 
+
+🚩Please save your story by pressing **Ctrl + S** on your keyboard! 
+ 
+ℹ️You have now completed the **Calculations and Blending Jump Off**. In this section we have covered how to create a calculated dimension with string functions, how to link dimensions and use blending for visualizations, how to create calculations with measures across models, how to apply linked analysis between charts with different models, how to use median and quartile aggregations, and how to use calculation input controls to create simulated calculations. 
+
 ![8-92](https://user-images.githubusercontent.com/92877810/140558839-1c77e933-1e47-4fcf-b120-d8b59e029881.png)
