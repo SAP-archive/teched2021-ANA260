@@ -85,7 +85,7 @@ Let's add another chart to this page.
 
 ![7-12](https://user-images.githubusercontent.com/92877810/139118600-01d69e8d-44f3-4916-9d08-6b71bfe3fc07.png)
 
-💡As you add a new chart, a new desginer only performance optimization tip appears.
+💡As you add a new chart, a new designer only performance optimization tip appears.
  
 This tip warns you that you already have a large number of widgets or the widget your story contains are complex and process-heavy. It suggests you to change the design of your page either by removing some widgets or changing their type. 
  
