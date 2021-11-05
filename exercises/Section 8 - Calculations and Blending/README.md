@@ -2,7 +2,7 @@
 
 ℹ️**Objective:** Use the latest calculations available in SAP Analytics Cloud to expose additional information that 
 was not available in your original data model. Understand the potential and workflow of blending models and 
-creating cross calculations in our story.
+creating calculations in our story.
 
 **Estimated Time:** 25 mins
 
@@ -14,7 +14,6 @@ and impact of delivery delays on sales revenue.
 **Key Features:**
 - Create calculated dimensions with string functions to enhance your data
 - Understand how to blend data models by linking on common dimensions
-- Utilize cross calculations with measures from different models
 - Employ statistical calculations in aggregations of your data
 - Integrate calculation input controls to simulate values in your visualizations
 
@@ -622,6 +621,5 @@ Quality check! Does your dashboard look like this screenshot?
 **You are now able to:**
 - Create calculated dimensions with string functions to enhance your data
 - Understand how to blend data models by linking on common dimensions
-- Utilize cross calculations with measures from different models
 - Employ statistical calculations in aggregations of your data
 - Integrate calculation input controls to simulate values in your visualizations
