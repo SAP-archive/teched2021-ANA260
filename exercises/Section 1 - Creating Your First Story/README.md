@@ -33,7 +33,7 @@ On this page, users can choose to import their own data, run a smart discovery o
 
 <br> 🚩Let’s start by adding in some charts. 
 
-3. Click **Insert** 
+3. Click **Insert** (Click More if you don't see Insert)
 
 ![image 3](https://user-images.githubusercontent.com/90856848/138345734-9d5d535d-96ef-4120-b4b4-cb3076269197.png)
 
