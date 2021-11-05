@@ -2,8 +2,6 @@
 
 *Header & Footer to be added soon
 
-ℹ️**Objective:** Learn how to improve the perforrmance of your stories within SAP Analytics Cloud by using optimized view mode, and how to design widgets to have better performance. 
-
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
