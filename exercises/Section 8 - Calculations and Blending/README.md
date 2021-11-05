@@ -612,3 +612,16 @@ Quality check! Does your dashboard look like this screenshot?
 ℹ️You have now completed the **Calculations and Blending Jump Off**. In this section we have covered how to create a calculated dimension with string functions, how to link dimensions and use blending for visualizations, how to create calculations with measures across models, how to apply linked analysis between charts with different models, how to use median and quartile aggregations, and how to use calculation input controls to create simulated calculations. 
 
 ![8-92](https://user-images.githubusercontent.com/92877810/140558839-1c77e933-1e47-4fcf-b120-d8b59e029881.png)
+
+<br><br>
+
+## Summary
+
+**You have completed the entire Time Analysis section!**
+
+**You are now able to:**
+- Create calculated dimensions with string functions to enhance your data
+- Understand how to blend data models by linking on common dimensions
+- Utilize cross calculations with measures from different models
+- Employ statistical calculations in aggregations of your data
+- Integrate calculation input controls to simulate values in your visualizations
