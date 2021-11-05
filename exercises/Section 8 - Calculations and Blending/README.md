@@ -9,7 +9,7 @@ creating cross calculations in our story.
 **Exercise Description:** You have access to shipping information and financial sales data that with some 
 common dimensions, including Order Number and Store Name. You need to create various calculated 
 dimensions, statistical aggregations, and blended visualizations to understand the effects of shipping times 
-and impact of delivery delays on BestRun’s sales revenue.
+and impact of delivery delays on sales revenue.
 
 **Key Features:**
 - Create calculated dimensions with string functions to enhance your data
