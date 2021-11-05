@@ -190,3 +190,211 @@ Description, it is important to clarify that we are looking to parse the Store n
 35. Click Avg Sales Revenue for Actual Chart
 
 ![8-30](https://user-images.githubusercontent.com/92877810/140549603-8c0a65f3-0e30-4d04-8242-f36a6cef9d1f.png)
+
+36. Click **+ Add Dimension** 
+
+![8-31](https://user-images.githubusercontent.com/92877810/140554035-5d406625-989b-4baa-95f4-39c69a528e07.png)
+
+37. Scroll and Click **Store Group**
+
+38. Click Inside the Builder Panel to Collapse the Dimension Selection Drop Down Menu 
+
+![8-32](https://user-images.githubusercontent.com/92877810/140554037-ab975a17-23ff-4641-b8e5-270b2d6f1ad6.png)
+
+⚠️Quality check! Do your charts look like this screenshot? 
+  
+🚩We can now see that Avg Sales Revenue is also higher for Studio Stores. It could be a good business decision to change our contract structure with our Studio Stores! 
+
+![8-33](https://user-images.githubusercontent.com/92877810/140554039-db560268-4991-414b-b69f-9589b723809f.png)
+
+🚩Up until this point, we have been working with visualizations built from measures and dimensions spanning a single model. Now, we can improve the value of our analysis through Blending to combine data sources. We can accomplish this by linking dimensions across models so we can compare and analyze the relationship between measures and dimensions across multiple models
+
+ℹ️If you are missing the icon for Link Dimensions in your toolbar, click on 
+... under More to surface this option. 
+
+39. Click **Link Dimensions**
+
+![8-34](https://user-images.githubusercontent.com/92877810/140554041-9111d980-223d-480f-954c-3d27ca9709ab.png)
+
+ℹ️Welcome to Link Dimensions! 
+  
+Link Dimensions allow you to create blended visualizations that display data from multiple models. It also allows you to create filters that simultaneously update all visualization that include linked data regardless of the model.  
+  
+By default, the ID attribute is used to match members between the linked dimensions. However, for non-hierarchy dimensions it is possible to change the description that is used for linking. 
+
+We can utilize Linked Dimensions in our data by linking across the Finance and Shipping models by connecting dimensions that are identical across our two models. 
+
+![8-35](https://user-images.githubusercontent.com/92877810/140554043-d42dfb93-1be3-4934-bca9-4d47c2ac8b51.png)
+
+🚩Let us link the Order Number and Store dimensions between our two models. Both these dimensions are identical across our models and have independent members that we can gather insights from. By linking on Store and Order Number we can look at analyses that target Store entities or individual orders. 
+
+40. Scroll and Click **Order Number**
+ 
+41. Scroll and Click **Order Number**
+ 
+![8-36](https://user-images.githubusercontent.com/92877810/140554044-0149768f-1514-46d0-b447-d97c6f8f9dc3.png)
+
+42. Scroll and Click **Store** 
+ 
+43. Scroll and Click **Store**
+ 
+![8-37](https://user-images.githubusercontent.com/92877810/140554045-0c508e60-5778-4a78-87d5-389c70d87788.png)
+
+🚩It is important to specify the Dimension Attribute we are linking across. Order Number in our models is common on the Dimension ID whereas Store is common on the Dimension Description (the store name). Let us make sure that Order Number is linked by IDs between the models and Store is linked by Description or Store Names between the models. 
+
+44. Click **Link Attribute**
+
+45. Click **ID**
+
+![8-38](https://user-images.githubusercontent.com/92877810/140554046-0e7dc1de-088e-477c-951a-0cf357ede842.png)
+
+48. Click **Link Attribute**
+
+49. Click **Description**
+
+![8-39](https://user-images.githubusercontent.com/92877810/140554047-cb7439d2-a9b8-45ec-92f0-2926976d790d.png)
+
+50. Click **Link Attribute**
+
+51. Click **Description**
+
+52. Click **Set**
+
+![8-40](https://user-images.githubusercontent.com/92877810/140554048-587bd199-3237-40ab-8a79-fd6c599d842e.png)
+
+🚩SAP Analytics Cloud will display the model links you have created to link dimensions. We could choose to edit these links or add more linked dimensions. 
+
+53. Click **Done**
+
+![8-41](https://user-images.githubusercontent.com/92877810/140554051-7448a98d-e2de-46c8-a40e-ceea581d032e.png)
+
+🚩Now that we have Linked Dimensions, we can create blended visualizations to look at correlations in our data. As a business analyst, we may be concerned about shipping delays and how it affects our company revenue. Let us look at a blended table to display information that would help this analysis
+
+54. Scroll to the Right of the Dashboard
+
+55. Click **ANA260_Shipping_Info** Table
+
+![8-42](https://user-images.githubusercontent.com/92877810/140554053-4b750b64-2b8b-4bf3-ad27-8be37cafe3ee.png)
+
+56. Click **+ Add Linked Models**
+
+![8-43](https://user-images.githubusercontent.com/92877810/140554054-68697cb0-bef5-4621-bd00-c103dd801dd1.png)
+
+57. Click **ANA260_ORDER_FINANCE**
+
+ℹ️We are now able to see ANA260_ORDER_FINANCE as a linkable model to this table because we have linked it to our Shipping model on Order Number and Store dimensions. 
+  
+We can choose to display measures and calculations across our columns from both models to look at the relationships in the data. 
+  
+In this table, we have specified Reasons for Delay as our Row dimension. We can look at how our Finance data is affected in each of these delay members. 
+
+![8-44](https://user-images.githubusercontent.com/92877810/140554055-d4ed9d76-5abc-461b-a0af-5590964e5dff.png)
+
+🚩Let us create a calculation using Finance data to see how much of our product revenue falls under each of the Reasons for Delay categories. 
+
+58. Click the **More Action** Icon for the **Account Dimension**
+
+59. Click **Add Calculation**
+
+60. Click **ANA260_ORDER_FINANCE**
+
+![8-45](https://user-images.githubusercontent.com/92877810/140554057-7652be75-e3ab-4e66-ad5e-eaa8f727fade.png)
+
+61. Rename the Calculation to % **Contribution to Revenue**
+
+![8-46](https://user-images.githubusercontent.com/92877810/140554058-c7b4d44e-bc93-4b10-95eb-eac572812d2b.png)
+
+62. Type in "%" in Edit Formula
+
+63. Select **%GrandTotal**
+
+![8-47](https://user-images.githubusercontent.com/92877810/140554060-a621a52e-31f0-497d-83b7-3d70bf80a437.png)
+
+64. Type in **"Re"** in %GrandTotal Field
+
+65. Click **["ANA260_ORDER_FINANCE":Sales_Revenue]** 
+
+66. Click **OK**
+
+![8-48](https://user-images.githubusercontent.com/92877810/140554061-40e1fc37-da1c-42dd-b541-a252c7416797.png)
+
+🚩Our table has updated with this calculation, but it has also included many other measures from the Finance model. First, we need to filter what columns are included in the table. 
+
+67. Click **Filter**
+
+68. Click **ANA260_ORDER_FINANCE**
+
+![8-49](https://user-images.githubusercontent.com/92877810/140554062-e9fd33d2-a946-47f1-8d5f-576948a9837d.png)
+
+69. Scroll and Click **% Contribution to Revenue**
+
+70. Click **OK**
+
+![8-50](https://user-images.githubusercontent.com/92877810/140554064-9b63ef6a-b6e2-484c-967a-0e0237fe7bb9.png)
+
+⚠️Quality Check! Does your table look like this screenshot? 
+
+🚩We can see how useful blended visualizations can be with multiple data sets. From this table, we can see that around 42% of our revenue ships on time. However, weather conditions and out of stock also have relatively high % contributions to revenue. We should probably consider inventory management improvements as over 11% of our revenue in shipments are delayed due to being Out of Stock. 
+
+![8-51](https://user-images.githubusercontent.com/92877810/140554065-cea38047-1403-494a-974b-53ca2ff750db.png)
+
+🚩We can create calculations with measures from both models for visualization purposes. Let us look at the relationship between average order size from our stores and the delivery time
+
+71. Scroll down 
+
+72. Click the **Store Order Size per Store for Actual** Chart
+
+![8-52](https://user-images.githubusercontent.com/92877810/140554067-20718442-2f86-4ee8-8404-52e63cd19e32.png)
+
+🚩Once again, our visualization has a linked model for Finance. Let us add a new measure for Store Order Size. 
+
+73. Click **Add Measure** 
+
+![8-53](https://user-images.githubusercontent.com/92877810/140554068-71c9e198-a08f-4c5e-8fba-666badb21014.png)
+
+74. Click **ANA260_SHIPPING_INFO**
+
+![8-54](https://user-images.githubusercontent.com/92877810/140554069-9903484e-4b61-40cf-8b9c-4b6cd49d2f48.png)
+
+75. Click **Store Order Size**
+
+76. Click Inside the Builder Panel to collapse the Measure Selection drop - down menu 
+ 
+![8-55](https://user-images.githubusercontent.com/92877810/140554070-fef8cd4c-554a-4d0c-a3f9-d867f2a80daf.png)
+
+⚠️Quality check! Does your chart appear like this screenshot? 
+ 
+**Note:** You might have a different color chart
+
+![8-56](https://user-images.githubusercontent.com/92877810/140554071-feada96e-c27f-463b-9c7c-0f614fa64447.png)
+
+ℹ️Let us look at how this calculation was created. We can easily examine the formula by going into the options
+
+77. Click **More Action** Icon for **Store Order Size**
+
+78. Click **Edit Calculation**
+
+![8-57](https://user-images.githubusercontent.com/92877810/140554073-bb572f64-9069-4682-a934-f0c0163229a3.png)
+
+🚩Here is the formula for Store Order Size. It is a calculation using Sales Revenue from the Finance model and a Count 
+Aggregation from the Shipping Model for the Number of Delivered Orders. Since we are blending on Store name, our chart will understand this context for our Shipping aggregation. 
+
+79. Click **OK**
+
+![8-58](https://user-images.githubusercontent.com/92877810/140554075-629191d6-14b6-4e8b-a4e4-55c85a2d7a78.png)
+
+🚩Let us use a Top N ranking to sort our chart data since we are interested in analyzing our top performing stores rather than all our stores. 
+
+80. Click **More Actions**
+
+81. Click **Rank**
+
+82. Click **Top N Options**
+
+![8-59](https://user-images.githubusercontent.com/92877810/140554077-6d7777df-3207-45f6-b67c-7d3ed60ed0cc.png)
+
+83. Set Value to 10
+
+84. Click **Apply**
+
+![8-60](https://user-images.githubusercontent.com/92877810/140554078-1393f924-ff32-430d-95c8-00de10be16cb.png)
