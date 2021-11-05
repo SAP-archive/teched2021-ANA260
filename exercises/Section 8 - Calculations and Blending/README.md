@@ -248,11 +248,17 @@ We can utilize Linked Dimensions in our data by linking across the Finance and S
 
 ![8-38](https://user-images.githubusercontent.com/92877810/140554046-0e7dc1de-088e-477c-951a-0cf357ede842.png)
 
+46. Click **Link Attribute**
+
+47. Click **ID**
+
+![8-39](https://user-images.githubusercontent.com/92877810/140554047-cb7439d2-a9b8-45ec-92f0-2926976d790d.png)
+
 48. Click **Link Attribute**
 
 49. Click **Description**
 
-![8-39](https://user-images.githubusercontent.com/92877810/140554047-cb7439d2-a9b8-45ec-92f0-2926976d790d.png)
+![8-40](https://user-images.githubusercontent.com/92877810/140554048-587bd199-3237-40ab-8a79-fd6c599d842e.png)
 
 50. Click **Link Attribute**
 
@@ -260,13 +266,13 @@ We can utilize Linked Dimensions in our data by linking across the Finance and S
 
 52. Click **Set**
 
-![8-40](https://user-images.githubusercontent.com/92877810/140554048-587bd199-3237-40ab-8a79-fd6c599d842e.png)
+![8-41](https://user-images.githubusercontent.com/92877810/140554051-7448a98d-e2de-46c8-a40e-ceea581d032e.png)
 
 🚩SAP Analytics Cloud will display the model links you have created to link dimensions. We could choose to edit these links or add more linked dimensions. 
 
 53. Click **Done**
 
-![8-41](https://user-images.githubusercontent.com/92877810/140554051-7448a98d-e2de-46c8-a40e-ceea581d032e.png)
+![8-42](https://user-images.githubusercontent.com/92877810/140554053-4b750b64-2b8b-4bf3-ad27-8be37cafe3ee.png)
 
 🚩Now that we have Linked Dimensions, we can create blended visualizations to look at correlations in our data. As a business analyst, we may be concerned about shipping delays and how it affects our company revenue. Let us look at a blended table to display information that would help this analysis
 
@@ -274,11 +280,11 @@ We can utilize Linked Dimensions in our data by linking across the Finance and S
 
 55. Click **ANA260_Shipping_Info** Table
 
-![8-42](https://user-images.githubusercontent.com/92877810/140554053-4b750b64-2b8b-4bf3-ad27-8be37cafe3ee.png)
+![8-43](https://user-images.githubusercontent.com/92877810/140554054-68697cb0-bef5-4621-bd00-c103dd801dd1.png)
 
 56. Click **+ Add Linked Models**
 
-![8-43](https://user-images.githubusercontent.com/92877810/140554054-68697cb0-bef5-4621-bd00-c103dd801dd1.png)
+![8-44](https://user-images.githubusercontent.com/92877810/140554055-d4ed9d76-5abc-461b-a0af-5590964e5dff.png)
 
 57. Click **ANA260_ORDER_FINANCE**
 
@@ -288,7 +294,7 @@ We can choose to display measures and calculations across our columns from both 
   
 In this table, we have specified Reasons for Delay as our Row dimension. We can look at how our Finance data is affected in each of these delay members. 
 
-![8-44](https://user-images.githubusercontent.com/92877810/140554055-d4ed9d76-5abc-461b-a0af-5590964e5dff.png)
+![8-45](https://user-images.githubusercontent.com/92877810/140554057-7652be75-e3ab-4e66-ad5e-eaa8f727fade.png)
 
 🚩Let us create a calculation using Finance data to see how much of our product revenue falls under each of the Reasons for Delay categories. 
 
@@ -298,17 +304,17 @@ In this table, we have specified Reasons for Delay as our Row dimension. We can 
 
 60. Click **ANA260_ORDER_FINANCE**
 
-![8-45](https://user-images.githubusercontent.com/92877810/140554057-7652be75-e3ab-4e66-ad5e-eaa8f727fade.png)
+![8-46](https://user-images.githubusercontent.com/92877810/140554058-c7b4d44e-bc93-4b10-95eb-eac572812d2b.png)
 
 61. Rename the Calculation to % **Contribution to Revenue**
 
-![8-46](https://user-images.githubusercontent.com/92877810/140554058-c7b4d44e-bc93-4b10-95eb-eac572812d2b.png)
+![8-47](https://user-images.githubusercontent.com/92877810/140554060-a621a52e-31f0-497d-83b7-3d70bf80a437.png)
 
 62. Type in "%" in Edit Formula
 
 63. Select **%GrandTotal**
 
-![8-47](https://user-images.githubusercontent.com/92877810/140554060-a621a52e-31f0-497d-83b7-3d70bf80a437.png)
+![8-48](https://user-images.githubusercontent.com/92877810/140554061-40e1fc37-da1c-42dd-b541-a252c7416797.png)
 
 64. Type in **"Re"** in %GrandTotal Field
 
@@ -316,7 +322,7 @@ In this table, we have specified Reasons for Delay as our Row dimension. We can 
 
 66. Click **OK**
 
-![8-48](https://user-images.githubusercontent.com/92877810/140554061-40e1fc37-da1c-42dd-b541-a252c7416797.png)
+![8-49](https://user-images.githubusercontent.com/92877810/140554062-e9fd33d2-a946-47f1-8d5f-576948a9837d.png)
 
 🚩Our table has updated with this calculation, but it has also included many other measures from the Finance model. First, we need to filter what columns are included in the table. 
 
@@ -324,19 +330,19 @@ In this table, we have specified Reasons for Delay as our Row dimension. We can 
 
 68. Click **ANA260_ORDER_FINANCE**
 
-![8-49](https://user-images.githubusercontent.com/92877810/140554062-e9fd33d2-a946-47f1-8d5f-576948a9837d.png)
+![8-50](https://user-images.githubusercontent.com/92877810/140554064-9b63ef6a-b6e2-484c-967a-0e0237fe7bb9.png)
 
 69. Scroll and Click **% Contribution to Revenue**
 
 70. Click **OK**
 
-![8-50](https://user-images.githubusercontent.com/92877810/140554064-9b63ef6a-b6e2-484c-967a-0e0237fe7bb9.png)
+![8-51](https://user-images.githubusercontent.com/92877810/140554065-cea38047-1403-494a-974b-53ca2ff750db.png)
 
 ⚠️Quality Check! Does your table look like this screenshot? 
 
 🚩We can see how useful blended visualizations can be with multiple data sets. From this table, we can see that around 42% of our revenue ships on time. However, weather conditions and out of stock also have relatively high % contributions to revenue. We should probably consider inventory management improvements as over 11% of our revenue in shipments are delayed due to being Out of Stock. 
 
-![8-51](https://user-images.githubusercontent.com/92877810/140554065-cea38047-1403-494a-974b-53ca2ff750db.png)
+![8-52](https://user-images.githubusercontent.com/92877810/140554067-20718442-2f86-4ee8-8404-52e63cd19e32.png)
 
 🚩We can create calculations with measures from both models for visualization purposes. Let us look at the relationship between average order size from our stores and the delivery time
 
@@ -344,29 +350,29 @@ In this table, we have specified Reasons for Delay as our Row dimension. We can 
 
 72. Click the **Store Order Size per Store for Actual** Chart
 
-![8-52](https://user-images.githubusercontent.com/92877810/140554067-20718442-2f86-4ee8-8404-52e63cd19e32.png)
+![8-53](https://user-images.githubusercontent.com/92877810/140554068-71c9e198-a08f-4c5e-8fba-666badb21014.png)
 
 🚩Once again, our visualization has a linked model for Finance. Let us add a new measure for Store Order Size. 
 
 73. Click **Add Measure** 
 
-![8-53](https://user-images.githubusercontent.com/92877810/140554068-71c9e198-a08f-4c5e-8fba-666badb21014.png)
+![8-54](https://user-images.githubusercontent.com/92877810/140554069-9903484e-4b61-40cf-8b9c-4b6cd49d2f48.png)
 
 74. Click **ANA260_SHIPPING_INFO**
-
-![8-54](https://user-images.githubusercontent.com/92877810/140554069-9903484e-4b61-40cf-8b9c-4b6cd49d2f48.png)
+ 
+![8-55](https://user-images.githubusercontent.com/92877810/140554070-fef8cd4c-554a-4d0c-a3f9-d867f2a80daf.png)
 
 75. Click **Store Order Size**
 
 76. Click Inside the Builder Panel to collapse the Measure Selection drop - down menu 
- 
-![8-55](https://user-images.githubusercontent.com/92877810/140554070-fef8cd4c-554a-4d0c-a3f9-d867f2a80daf.png)
+
+![8-56](https://user-images.githubusercontent.com/92877810/140554071-feada96e-c27f-463b-9c7c-0f614fa64447.png)
 
 ⚠️Quality check! Does your chart appear like this screenshot? 
  
 **Note:** You might have a different color chart
 
-![8-56](https://user-images.githubusercontent.com/92877810/140554071-feada96e-c27f-463b-9c7c-0f614fa64447.png)
+![8-57](https://user-images.githubusercontent.com/92877810/140554073-bb572f64-9069-4682-a934-f0c0163229a3.png)
 
 ℹ️Let us look at how this calculation was created. We can easily examine the formula by going into the options
 
@@ -374,14 +380,14 @@ In this table, we have specified Reasons for Delay as our Row dimension. We can 
 
 78. Click **Edit Calculation**
 
-![8-57](https://user-images.githubusercontent.com/92877810/140554073-bb572f64-9069-4682-a934-f0c0163229a3.png)
+![8-58](https://user-images.githubusercontent.com/92877810/140554075-629191d6-14b6-4e8b-a4e4-55c85a2d7a78.png)
 
 🚩Here is the formula for Store Order Size. It is a calculation using Sales Revenue from the Finance model and a Count 
 Aggregation from the Shipping Model for the Number of Delivered Orders. Since we are blending on Store name, our chart will understand this context for our Shipping aggregation. 
 
 79. Click **OK**
 
-![8-58](https://user-images.githubusercontent.com/92877810/140554075-629191d6-14b6-4e8b-a4e4-55c85a2d7a78.png)
+![8-59](https://user-images.githubusercontent.com/92877810/140554077-6d7777df-3207-45f6-b67c-7d3ed60ed0cc.png)
 
 🚩Let us use a Top N ranking to sort our chart data since we are interested in analyzing our top performing stores rather than all our stores. 
 
@@ -391,10 +397,41 @@ Aggregation from the Shipping Model for the Number of Delivered Orders. Since we
 
 82. Click **Top N Options**
 
-![8-59](https://user-images.githubusercontent.com/92877810/140554077-6d7777df-3207-45f6-b67c-7d3ed60ed0cc.png)
+![8-60](https://user-images.githubusercontent.com/92877810/140554078-1393f924-ff32-430d-95c8-00de10be16cb.png)
 
 83. Set Value to 10
 
 84. Click **Apply**
 
-![8-60](https://user-images.githubusercontent.com/92877810/140554078-1393f924-ff32-430d-95c8-00de10be16cb.png)
+![8-61](https://user-images.githubusercontent.com/92877810/140558791-07496d08-dcb9-4a10-8a25-d11973dce90a.png)
+![8-62](https://user-images.githubusercontent.com/92877810/140558794-566bb5f2-3d86-4da0-b1da-4c4627c15751.png)
+![8-63](https://user-images.githubusercontent.com/92877810/140558797-b43692ea-30fe-4e4b-bcd8-5f57614a0397.png)
+![8-64](https://user-images.githubusercontent.com/92877810/140558798-4b862dcf-7095-40a5-8d8b-2452db9f3496.png)
+![8-65](https://user-images.githubusercontent.com/92877810/140558799-0a082550-8217-4cc8-afdc-ca247f8a2f0e.png)
+![8-66](https://user-images.githubusercontent.com/92877810/140558801-3bcc9a15-1e7c-4cf4-9b3e-bc91f0a253c1.png)
+![8-67](https://user-images.githubusercontent.com/92877810/140558802-76cee994-46a0-470b-8640-6b6934090cd3.png)
+![8-68](https://user-images.githubusercontent.com/92877810/140558803-6dd43a4e-5db0-4326-8169-0a9bd7000575.png)
+![8-69](https://user-images.githubusercontent.com/92877810/140558804-1025ad90-de0e-487c-b01c-ce11c1ba9a4a.png)
+![8-70](https://user-images.githubusercontent.com/92877810/140558806-5ad94b74-8dd3-42c2-8b26-4248ac4b5f02.png)
+![8-71](https://user-images.githubusercontent.com/92877810/140558807-cb390ec0-1d17-45af-b5c1-bec37bc86cc8.png)
+![8-72](https://user-images.githubusercontent.com/92877810/140558809-6147d9ea-5c26-4852-bcde-58625979b651.png)
+![8-73](https://user-images.githubusercontent.com/92877810/140558810-2fcabcc8-0787-4327-8f27-63d5a83b0c0c.png)
+![8-74](https://user-images.githubusercontent.com/92877810/140558812-a364467f-cc69-4147-9154-0133b54a84dd.png)
+![8-75](https://user-images.githubusercontent.com/92877810/140558813-509ffb36-86cf-4787-888d-052c2ba58ca3.png)
+![8-76](https://user-images.githubusercontent.com/92877810/140558815-13349c86-b64c-40b6-8452-a65419e204f0.png)
+![8-77](https://user-images.githubusercontent.com/92877810/140558816-eb980967-f020-4f2e-b709-01a844067dd0.png)
+![8-78](https://user-images.githubusercontent.com/92877810/140558817-fb904fee-a62f-42c3-8f7f-3b2b2d0d19f8.png)
+![8-79](https://user-images.githubusercontent.com/92877810/140558819-97a186e2-97d7-4a76-9146-53ef071e9563.png)
+![8-80](https://user-images.githubusercontent.com/92877810/140558820-7cb8b4c2-5340-4085-a7e8-f2a995f657fb.png)
+![8-81](https://user-images.githubusercontent.com/92877810/140558822-6b88f84e-b9c4-4af2-b8d9-3a90dd3b64b6.png)
+![8-82](https://user-images.githubusercontent.com/92877810/140558825-02eedf0d-a6dd-450d-9026-935644a78096.png)
+![8-83](https://user-images.githubusercontent.com/92877810/140558826-e70db0be-cfb7-40cb-8f54-fa4e00021186.png)
+![8-84](https://user-images.githubusercontent.com/92877810/140558828-0a5bb909-cf4b-4dae-85f3-061633da0ba5.png)
+![8-85](https://user-images.githubusercontent.com/92877810/140558831-09f94829-3dc1-462b-821d-1f85de99bd7e.png)
+![8-86](https://user-images.githubusercontent.com/92877810/140558832-20b61a46-f813-49ad-8380-32e610392f65.png)
+![8-87](https://user-images.githubusercontent.com/92877810/140558833-f939b7b7-d2eb-4d7f-b69e-efc687d0522c.png)
+![8-88](https://user-images.githubusercontent.com/92877810/140558834-bfd39519-6f44-4d8b-a464-0fdc635e65a7.png)
+![8-89](https://user-images.githubusercontent.com/92877810/140558836-8853c122-209d-48f2-97a7-079ed82d38d9.png)
+![8-90](https://user-images.githubusercontent.com/92877810/140558837-e13d2434-a17b-4ea7-bf95-2058140080a4.png)
+![8-91](https://user-images.githubusercontent.com/92877810/140558838-c4401c27-cb35-4742-ae51-00677e40ff1c.png)
+![8-92](https://user-images.githubusercontent.com/92877810/140558839-1c77e933-1e47-4fcf-b120-d8b59e029881.png)
