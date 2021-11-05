@@ -1,4 +1,30 @@
-**Sec 8 will be finished in < 1 hr**
+# Section 8 - Calculations and Blending
+
+ℹ️**Objective:** Use the latest calculations available in SAP Analytics Cloud to expose additional information that 
+was not available in your original data model. Understand the potential and workflow of blending models and 
+creating cross calculations in our story.
+
+**Estimated Time:** 25 mins
+
+**Exercise Description:** You have access to shipping information and financial sales data that with some 
+common dimensions, including Order Number and Store Name. You need to create various calculated 
+dimensions, statistical aggregations, and blended visualizations to understand the effects of shipping times 
+and impact of delivery delays on BestRun’s sales revenue.
+
+**Key Features:**
+- Create calculated dimensions with string functions to enhance your data
+- Understand how to blend data models by linking on common dimensions
+- Utilize cross calculations with measures from different models
+- Employ statistical calculations in aggregations of your data
+- Integrate calculation input controls to simulate values in your visualizations
+
+⚠️**Disclaimer**
+When completing exercises, some data values in the screenshots may not match what you see on your 
+screen. This is because the dynamic time filters that were applied at the time the screenshots were taken is 
+different from the current system date.
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
 
 ⚠️Does your Dashboard look like this?
 
