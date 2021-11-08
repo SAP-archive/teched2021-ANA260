@@ -158,7 +158,7 @@ For your next step you would like to view your data in a heat map.
 
 🚩Let us reduce the blur radius so it is clearerwhere our high and low average delivery times are present in Spain. The blur radius determines the size of each data point and how it overlaps with other values. We can improve the definition between pointsby reducing the blur radius. 
 
-27. Click **Expand on Avg Delivery Time**
+27. Click **Expand** on **Avg Delivery Time**
 
 28. Change the Blue Radius from 40% to 20% 
 
