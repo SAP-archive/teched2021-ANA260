@@ -387,7 +387,7 @@ With Optimized View Mode, you can see that the drop down menu is much wider.
 
 ![7-59](https://user-images.githubusercontent.com/92877810/139122029-51fdf340-cdc1-4f4c-9383-3dffce2d0501.png)
 
-🚩**Notice!** With Optimized VIew Moode, the Actions menu is updated where you can see what are the filters and sorts that have been applied to this chart. Along with this you can also see other already available actions all in a single menu.
+🚩**Notice!** With Optimized View Mode, the Actions menu is updated where you can see what are the filters and sorts that have been applied to this chart. Along with this you can also see other already available actions all in a single menu.
 
 90. Click **Applied to Chart**
 
