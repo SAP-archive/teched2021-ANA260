@@ -47,8 +47,8 @@ different from the current system date.
 ℹ️Welcome to the **Digital Boardroom!**
  
 The Digital Boardroom is a place to design a real-time, interactive boardroom presentation. 
-•	**Agenda:** it allows you to set various meeting talking points and associate pages from different stories. 
-•	**Dashboard:** it's a more dynamic presentation style in comparison to Agendas. It allows you to present in freeform and jump from topic to topic without having to complete the agenda before moving on. 
+-	**Agenda:** it allows you to set various meeting talking points and associate pages from different stories. 
+-	**Dashboard:** it's a more dynamic presentation style in comparison to Agendas. It allows you to present in freeform and jump from topic to topic without having to complete the agenda before moving on. 
 
 🚩Based on the previous executive meetings, we know that the board members tend to prefer more dynamic presentations instead of fixed agenda. Hence, let’s create a Dashboard. 
 
