@@ -617,7 +617,7 @@ Note that some of the rows were rejected due to incorrect locations.
 
 119. **Expand** Show Dimension
 
-120. Click ***StoreLocation** as the Show Dimension
+120. Click **StoreLocation** as the Show Dimension
 
 ![9-103](https://user-images.githubusercontent.com/92877810/139954432-45eb583c-4004-434a-8024-95091b2fde18.png)
 
