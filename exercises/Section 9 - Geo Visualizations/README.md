@@ -469,7 +469,7 @@ Navigate back to SAP Analytics Cloud
 
 🚩Welcome to Data Modeling in SAP Analytics Cloud!
  
-In this screen, users can assign dimensions and measures, build hierarchies in their data, apply transformations on columns of data, check for and replace wrong data entries, and geo enrich their data. If you are importing a large data set, this screen will show a subset of your data,so it is easier to work with. SAP Analytics Cloud will apply all your requested changes to your entire data set when creating the model.
+In this screen, users can assign dimensions and measures, build hierarchies in their data, apply transformations on columns of data, check for and replace wrong data entries, and geo enrich their data. If you are importing a large data set, this screen will show a subset of your data, so it is easier to work with. SAP Analytics Cloud will apply all your requested changes to your entire data set when creating the model.
 
 ![9-77](https://user-images.githubusercontent.com/92877810/139954390-0258271f-fb93-4568-b5ba-654728b63ab4.png)
 
