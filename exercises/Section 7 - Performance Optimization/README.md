@@ -41,7 +41,7 @@ Let's open the required story
 
 ![7-4](https://user-images.githubusercontent.com/92877810/139118589-a7b026a2-21f2-42c5-86cb-3418c3da537a.png)
 
-4. Open **Section 7 - Perfromance Optimisation START**
+4. Open **Section 7 - Performance Optimisation START**
 
 ![7-5](https://user-images.githubusercontent.com/92877810/139118590-4f673288-916c-4781-b4fc-74d005b958fd.png)
 
