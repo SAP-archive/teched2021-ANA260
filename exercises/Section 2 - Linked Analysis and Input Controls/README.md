@@ -257,7 +257,7 @@ Take a minute and save your work using **Ctrl + S**.
 
 56. Click Inside the Builder Panel to Collapse the Measure Selection Drop Down
 
-![img33](https://user-images.githubusercontent.com/92877810/138149945-0cd758f0-232f-49c8-9abc-725e750c05ab.png)
+![2-r1](https://user-images.githubusercontent.com/92877810/140988250-dbc6227f-991f-4b04-aed7-d34785854e42.png)
 
 57. Click **Sales Revenue per Order Date for Actual** Chart
 
@@ -265,7 +265,7 @@ Take a minute and save your work using **Ctrl + S**.
 
 59. Remove **Sales Revenue**
 
-![2-replace2](https://user-images.githubusercontent.com/92877810/140985444-ba8dc4af-25ca-442a-9da3-dcd992065b17.png)
+![2-r2](https://user-images.githubusercontent.com/92877810/140988254-d7fc06ba-672f-4079-bf39-f64d07f7203e.png)
 
 60. Scroll until New Measure Input Control is Visible
 
@@ -273,7 +273,7 @@ Take a minute and save your work using **Ctrl + S**.
 
 62. Click Inside the Builder Panel to Collapse the Measure Selection Drop Down
 
-![2-replace3](https://user-images.githubusercontent.com/92877810/140985447-8432583a-fc79-4438-8dbc-b55f64275388.png)
+![2-r3](https://user-images.githubusercontent.com/92877810/140988255-f33de9a9-77af-4eb9-a68c-e13db2a6a91c.png)
 
 ⚠️Quality Check! Do your story's charts use the same measures as this screenshot? 
 
@@ -281,7 +281,7 @@ Take a minute and save your work using **Ctrl + S**.
   
 Changing the measure input control to Gross Margin would update all 3 charts to display Gross Margin instead. 
 
-![2-replace4](https://user-images.githubusercontent.com/92877810/140985449-9587d750-a275-4fce-9d3f-9f85988226cd.png)
+![2-r4](https://user-images.githubusercontent.com/92877810/140988257-f1fec211-022d-4f79-bbc2-dfbab4f25691.png)
 
 63. Click **Sales Revenue per Region for Actual** Chart
 
@@ -289,13 +289,13 @@ Changing the measure input control to Gross Margin would update all 3 charts to 
 
 65. Click **Add Dimension**
 
-![2-replace5](https://user-images.githubusercontent.com/92877810/140985451-d3573c33-637d-4be9-b378-33ebd0572229.png)
+![2-r5](https://user-images.githubusercontent.com/92877810/140988259-772e2945-0f11-4c52-a5e8-b5bc50f70edb.png)
 
 59. Scroll untill Create Dimension Input Control is Visible
 
 60. Click **Create Dimension Input Control**
 
-![img36](https://user-images.githubusercontent.com/92877810/138149949-b1fdc670-3177-4d54-a755-8ed1b480d67b.png)
+![2-r6](https://user-images.githubusercontent.com/92877810/140988260-f6427672-1494-431f-85de-5ab860c74022.png)
 
 61. Click **Product**
 
@@ -305,29 +305,29 @@ Changing the measure input control to Gross Margin would update all 3 charts to 
 
 64. Click **OK**
 
-![img37](https://user-images.githubusercontent.com/92877810/138149950-0669b426-50f0-4d9d-95d2-27e9fb98a860.png)
+![2-r7](https://user-images.githubusercontent.com/92877810/140988262-d63aadd8-cbb2-4a7f-8ea4-c0ecd6b5d58d.png)
 
 65. Click and Drag the **New Dimension Input Control** to the Left Lane
 
 66. Drop the **Dimension Input Control Here**
 
-![img38](https://user-images.githubusercontent.com/92877810/138149951-ce65144a-7bfe-4de6-aef3-c1fc9a1664f0.png)
+![2-r8](https://user-images.githubusercontent.com/92877810/140988265-7f445aca-97cf-4adb-983f-6870fdb74bf8.png)
 
 67. Resize the Dimension Input Control to View All Members
 
-![img39](https://user-images.githubusercontent.com/92877810/138149952-f02c5d3f-a660-49c7-95d5-6dfb146de93a.png)
+![2-r9](https://user-images.githubusercontent.com/92877810/140988269-0d416d50-82db-4330-8094-8ec088ebf014.png)
 
 68. Click **Gross Margin**
 
 69. Click **Sales Manager**
 
-![img40](https://user-images.githubusercontent.com/92877810/138149953-1a55fd87-6039-4792-8743-958f027f212f.png)
+![2-r10](https://user-images.githubusercontent.com/92877810/140988270-113392d8-2132-4876-af55-81b849c0f655.png)
 
 ⚠️Quality Check! Test out the effects of measure and dimension input controls in your story.
 
 🚩After changing both input controls, Gross Margin should be the measure displayed in every chart. The first chart now visualizes a breakdown of Gross Margin across Sales Managers rather than region. 
 
-![img41](https://user-images.githubusercontent.com/92877810/138149955-8deee799-258e-42e7-b00c-65deba6df177.png)
+![2-r11](https://user-images.githubusercontent.com/92877810/140988271-162671a9-616f-4fa0-bf92-0ddc42b2c06b.png)
 
 🚩There is still more dynamic functionality available within Sap Analytics Cloud. We can use additional functionality within Linked Analysis to link two charts so that if a data point is clicked on one chart, the other chart will update by creating a filter on that data point. Let's do this now and we'll get a better idea of what this means.  
 
@@ -335,7 +335,7 @@ Changing the measure input control to Gross Margin would update all 3 charts to 
 
 71. Click **Linked Analysis**
 
-![img42](https://user-images.githubusercontent.com/92877810/138149956-18d558ea-8774-4f29-b879-ea893d195e7f.png)
+![2-r12](https://user-images.githubusercontent.com/92877810/140988273-0f8fd557-53e7-4a63-a81a-762b6674d6e1.png)
 
 ℹ️Remember we're now adding linked analysis on a chart as opposed to an Input Control. This provides us with a few more options. 
 
@@ -345,25 +345,25 @@ Changing the measure input control to Gross Margin would update all 3 charts to 
 
 74. Click **Apply** 
 
-![img43](https://user-images.githubusercontent.com/92877810/138149959-789c6dbe-dbe4-4ee3-ac4a-c2fc4ab7d82e.png)
+![2-r13](https://user-images.githubusercontent.com/92877810/140988274-c1268f47-5ba7-4722-8870-e04f0661a11e.png)
 
 🚩Let's test Linked Analysis and get some more insight on how **Gary Dumin** in performing.  
 
 75. Click **Gary Dumin**
 
-![img44](https://user-images.githubusercontent.com/92877810/138149961-96df2d23-a8b1-49c2-8622-824c76566fa7.png)
+![2-r14](https://user-images.githubusercontent.com/92877810/140988275-1e92e97b-27c2-4e58-92b6-8771d5d29870.png)
 
 🚩Do you see your linked charts change when highlighting a Sales Manager? Notice how the CGR in our time dimension chart is positive under this filter (Note this data may be different due to the dynamic time filter).
 
-![img45](https://user-images.githubusercontent.com/92877810/138149962-8cbec171-e519-4d68-b613-9daca5f3cb16.png)
+![2-r15](https://user-images.githubusercontent.com/92877810/140988276-260313ec-e812-4abe-8df5-9947d62f55d8.png)
 
 76. Click within the chart to Deselect Gary
 
-![img46](https://user-images.githubusercontent.com/92877810/138149963-129790a6-fe35-4b58-b15b-b46c649b7b8c.png)
+![2-r16](https://user-images.githubusercontent.com/92877810/140988277-379c5cf3-8c4c-4069-8fcf-a92167eef97f.png)
 
 🚩Save your story by pressing **Ctrl + S**
 
-![img47](https://user-images.githubusercontent.com/92877810/138149965-f38d924e-c107-43d8-89f1-45ca82d390ed.png)
+![2-r17](https://user-images.githubusercontent.com/92877810/140988279-9f3637e9-b085-4f68-a94b-55d0a3383592.png)
 
 ⚠️Quality Check! Does your dashboard look like this screenshot?  
 
@@ -371,7 +371,7 @@ Changing the measure input control to Gross Margin would update all 3 charts to 
   
 We're going to add some styling to this dashboard later on. 
 
-![img48](https://user-images.githubusercontent.com/92877810/138149968-c8ef67f0-442e-4815-9258-e8dcfe16b985.png)
+![2-r18](https://user-images.githubusercontent.com/92877810/140988282-129e4c38-5f6c-4318-ab53-e96d8d7d4a5f.png)
 
 <br><br>
 
