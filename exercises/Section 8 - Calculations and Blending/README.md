@@ -431,22 +431,10 @@ Aggregation from the Shipping Model for the Number of Delivered Orders. Since we
 85. Click **Apply**
 
 ![8-61](https://user-images.githubusercontent.com/92877810/141006775-d8848aa5-b409-4401-81a3-df79a30b9f11.png)
-![8-62](https://user-images.githubusercontent.com/92877810/141006777-18f8210e-3b20-45a7-91e0-c50d2610b4f7.png)
-![8-63](https://user-images.githubusercontent.com/92877810/141006779-74abb924-368d-416b-b74b-e0e8a3ece9a8.png)
-![8-64](https://user-images.githubusercontent.com/92877810/141006780-3e982569-4cb6-4385-866e-6cc90e345c70.png)
-![8-65](https://user-images.githubusercontent.com/92877810/141006781-64a8ad43-e637-443d-b956-a71e76aab5ec.png)
-![8-66](https://user-images.githubusercontent.com/92877810/141006783-9058473a-f798-4a28-a51a-eec203f70750.png)
-![8-67](https://user-images.githubusercontent.com/92877810/141006785-1e03fbb0-2508-4437-88bd-2e5897d44ca1.png)
-![8-68](https://user-images.githubusercontent.com/92877810/141006786-7bbc3a60-b04f-4924-b782-bb371a3fda84.png)
-![8-69](https://user-images.githubusercontent.com/92877810/141006788-d9f9a577-ee31-4542-a026-9b4775c5be1f.png)
-![8-70](https://user-images.githubusercontent.com/92877810/141006790-e5b8e778-9961-4e3d-a4d1-aef5dba33b22.png)
-![8-71](https://user-images.githubusercontent.com/92877810/141006793-4c724e69-1371-44d1-9d07-990e04da8da2.png)
-![8-72](https://user-images.githubusercontent.com/92877810/141006794-c38b5d14-441d-492d-8564-973e6f4ff29d.png)
-![8-73](https://user-images.githubusercontent.com/92877810/141006795-cd41d4da-3739-47f7-92df-8fb36f032f85.png)
 
 ⚠️Quality check! Does your chart look like this screenshot? 
 
-![8-62](https://user-images.githubusercontent.com/92877810/140558794-566bb5f2-3d86-4da0-b1da-4c4627c15751.png)
+![8-62](https://user-images.githubusercontent.com/92877810/141006777-18f8210e-3b20-45a7-91e0-c50d2610b4f7.png)
 
 🚩We want to use this chart to drive our analysis to be able to filter on a top performing store. Let us use Linked Analysis from this chart to filter other visualizations. 
 
@@ -454,13 +442,13 @@ Aggregation from the Shipping Model for the Number of Delivered Orders. Since we
 
 87. Click **Linked Analysis**
 
-![8-63](https://user-images.githubusercontent.com/92877810/140558797-b43692ea-30fe-4e4b-bcd8-5f57614a0397.png)
+![8-63](https://user-images.githubusercontent.com/92877810/141006779-74abb924-368d-416b-b74b-e0e8a3ece9a8.png)
 
 🚩We want to select which visualizations are impacted by filtering when we select a top performing store. Let us choose only selected widgets for Linked Analysis. 
 
 88. Click Only **Selected Widgets**
 
-![8-64](https://user-images.githubusercontent.com/92877810/140558798-4b862dcf-7095-40a5-8d8b-2452db9f3496.png)
+![8-64](https://user-images.githubusercontent.com/92877810/141006780-3e982569-4cb6-4385-866e-6cc90e345c70.png)
 
 🚩Let us link our blended chart to a chart that 
 only uses the Shipping model. Any selections on our original chart will filter to the secondary chart via Store name. 
@@ -469,15 +457,15 @@ only uses the Shipping model. Any selections on our original chart will filter t
 
 90. Click **Apply** 
 
-![8-65](https://user-images.githubusercontent.com/92877810/140558799-0a082550-8217-4cc8-afdc-ca247f8a2f0e.png)
+![8-65](https://user-images.githubusercontent.com/92877810/141006781-64a8ad43-e637-443d-b956-a71e76aab5ec.png)
 
 91. Click the First Three Entries in the Store Order Size per Store Chart
 
-![8-66](https://user-images.githubusercontent.com/92877810/140558801-3bcc9a15-1e7c-4cf4-9b3e-bc91f0a253c1.png)
+![8-66](https://user-images.githubusercontent.com/92877810/141006783-9058473a-f798-4a28-a51a-eec203f70750.png)
 
 92. Click **Filter**
 
-![8-67](https://user-images.githubusercontent.com/92877810/140558802-76cee994-46a0-470b-8640-6b6934090cd3.png)
+![8-67](https://user-images.githubusercontent.com/92877810/141006785-1e03fbb0-2508-4437-88bd-2e5897d44ca1.png)
 
 ⚠️Quality check! Do your two charts look like this screenshot? 
  
@@ -487,43 +475,43 @@ only uses the Shipping model. Any selections on our original chart will filter t
   
 Let us now look a scatterplot to see if Average Delivery Time is affecting our Gross Margin. 
 
-![8-68](https://user-images.githubusercontent.com/92877810/140558803-6dd43a4e-5db0-4326-8169-0a9bd7000575.png)
+![8-68](https://user-images.githubusercontent.com/92877810/141006786-7bbc3a60-b04f-4924-b782-bb371a3fda84.png)
 
 93. Scroll to the right of the dashboard
 
 94. Click **Avg Delivery Time. Gross Margin per Store for Actual Chart**
 
-![8-69](https://user-images.githubusercontent.com/92877810/140558804-1025ad90-de0e-487c-b01c-ce11c1ba9a4a.png)
+![8-69](https://user-images.githubusercontent.com/92877810/141006788-d9f9a577-ee31-4542-a026-9b4775c5be1f.png)
 
 🚩Scatterplots are a great way to look at the correlation between two measures in our blended data. We will be comparing the average delivery time and gross margin for each store. Let us move to the Builder panel. 
 
 95. Click **Add Measure**
 
-![8-70](https://user-images.githubusercontent.com/92877810/140558806-5ad94b74-8dd3-42c2-8b26-4248ac4b5f02.png)
+![8-70](https://user-images.githubusercontent.com/92877810/141006790-e5b8e778-9961-4e3d-a4d1-aef5dba33b22.png)
 
 96. Click **ANA260_SHIPPING_INFO**
 
-![8-71](https://user-images.githubusercontent.com/92877810/140558807-cb390ec0-1d17-45af-b5c1-bec37bc86cc8.png)
+![8-71](https://user-images.githubusercontent.com/92877810/141006793-4c724e69-1371-44d1-9d07-990e04da8da2.png)
 
 97. Click **Avg Delivery Time**
 
-![8-72](https://user-images.githubusercontent.com/92877810/140558809-6147d9ea-5c26-4852-bcde-58625979b651.png)
+![8-72](https://user-images.githubusercontent.com/92877810/141006794-c38b5d14-441d-492d-8564-973e6f4ff29d.png)
 
 98. Click **Add Measure**
 
-![8-73](https://user-images.githubusercontent.com/92877810/140558810-2fcabcc8-0787-4327-8f27-63d5a83b0c0c.png)
+![8-73](https://user-images.githubusercontent.com/92877810/141006795-cd41d4da-3739-47f7-92df-8fb36f032f85.png)
 
 99. Click **ANA260_ORDER_FINANCE**
 
-![8-74](https://user-images.githubusercontent.com/92877810/140558812-a364467f-cc69-4147-9154-0133b54a84dd.png)
+![8-74](https://user-images.githubusercontent.com/92877810/141008238-9739cec0-38c6-41a7-b3ae-bb4211785765.png)
 
 100. Click **Gross Margin**
 
-![8-75](https://user-images.githubusercontent.com/92877810/140558813-509ffb36-86cf-4787-888d-052c2ba58ca3.png)
+![8-75](https://user-images.githubusercontent.com/92877810/141008240-7f924e57-0e99-4d26-8670-16176ad3a29d.png)
 
 ⚠️Quality check! Does your scatterplot look like this screenshot? We can see that stores with higher avg delivery time seem to also have lower gross margin
 
-![8-76](https://user-images.githubusercontent.com/92877810/140558815-13349c86-b64c-40b6-8452-a65419e204f0.png)
+![8-76](https://user-images.githubusercontent.com/92877810/141008241-64e2afa0-70d8-4e87-83ec-0e263365f0bc.png)
 
 🚩Let us now test out Calculation Input Controls and simulating values. Here we have a basic financial statement of gross margin, sales revenue, and cost of goods sold calculated by the difference between sales revenue and gross margin. We want to simulate what our gross margin % on each product would be given a simulated sales revenue increase
 
@@ -531,7 +519,7 @@ Let us now look a scatterplot to see if Average Delivery Time is affecting our G
 
 102. Click the **ANA260_ORDER_FINANCE** Table
 
-![8-77](https://user-images.githubusercontent.com/92877810/140558816-eb980967-f020-4f2e-b709-01a844067dd0.png)
+![8-77](https://user-images.githubusercontent.com/92877810/141008242-8c061481-a275-4897-8951-b4f88223b8d4.png)
 
 🚩Let us add a calculation for simulated sales revenue. 
 
@@ -539,17 +527,17 @@ Let us now look a scatterplot to see if Average Delivery Time is affecting our G
 
 104. Click **Add Calculation**
 
-![8-78](https://user-images.githubusercontent.com/92877810/140558817-fb904fee-a62f-42c3-8f7f-3b2b2d0d19f8.png)
+![8-78](https://user-images.githubusercontent.com/92877810/141008243-35608fb8-b076-4df5-871b-0950315d87f6.png)
 
 105. Click **Calculated Measure**
 
-![8-79](https://user-images.githubusercontent.com/92877810/140558819-97a186e2-97d7-4a76-9146-53ef071e9563.png)
+![8-79](https://user-images.githubusercontent.com/92877810/141008244-09e5e925-afce-40fa-8c7c-eef44929cdcd.png)
 
 106. Rename the Calculation to **Simulated Sales Revenue**
 
 107. Click **["ANA260_ORDER_FINANCE":Sales_Revenue]** 
 
-![8-80](https://user-images.githubusercontent.com/92877810/140558820-7cb8b4c2-5340-4085-a7e8-f2a995f657fb.png)
+![8-80](https://user-images.githubusercontent.com/92877810/141008247-9febb042-45ea-4cee-8cf2-da4246ccaf3a.png)
 
 108. Type in **"*" (Multiplication Sign)**
   
@@ -557,7 +545,7 @@ Let us now look a scatterplot to see if Average Delivery Time is affecting our G
 
 109. Click **+ Create New**
 
-![8-81](https://user-images.githubusercontent.com/92877810/140558822-6b88f84e-b9c4-4af2-b8d9-3a90dd3b64b6.png)
+![8-81](https://user-images.githubusercontent.com/92877810/141008249-bf35a515-7052-4e96-9f11-e8d30100a473.png)
 
 🚩Calculation input controls can be created using values in Existing Dimensions or through values defined in a Static List. We want to create a static list of Revenue Multiplier values
 
@@ -567,13 +555,13 @@ Let us now look a scatterplot to see if Average Delivery Time is affecting our G
 
 112. Expand **Values**
 
-![8-82](https://user-images.githubusercontent.com/92877810/140558825-02eedf0d-a6dd-450d-9026-935644a78096.png)
+![8-82](https://user-images.githubusercontent.com/92877810/141008250-e65ff065-fc7d-4e1b-b842-fb1bdbf3fb5e.png)
 
 🚩Let us define a range of possible values to multiply our simulated sales revenue by. 
 
 113. Click **Select by Range**
 
-![8-83](https://user-images.githubusercontent.com/92877810/140558826-e70db0be-cfb7-40cb-8f54-fa4e00021186.png)
+![8-83](https://user-images.githubusercontent.com/92877810/141008251-69e389a9-e750-41d2-a13f-1097c14baac2.png)
 
 114. Input **1** as the Min Value
 
@@ -583,39 +571,39 @@ Let us now look a scatterplot to see if Average Delivery Time is affecting our G
 
 117. Click **OK**
 
-![8-84](https://user-images.githubusercontent.com/92877810/140558828-0a5bb909-cf4b-4dae-85f3-061633da0ba5.png)
+![8-84](https://user-images.githubusercontent.com/92877810/141008252-b0b17ef6-a465-44a4-a60d-ab25e65856f1.png)
 
 118. Click **OK**
 
-![8-85](https://user-images.githubusercontent.com/92877810/140558831-09f94829-3dc1-462b-821d-1f85de99bd7e.png)
+![8-85](https://user-images.githubusercontent.com/92877810/141008253-bfabe145-a45b-4dae-a7ae-0ba23566fe64.png)
 
 119. Click **Revenue Multiplier**
 
 120. Click **OK**
 
-![8-86](https://user-images.githubusercontent.com/92877810/140558832-20b61a46-f813-49ad-8380-32e610392f65.png)
+![8-86](https://user-images.githubusercontent.com/92877810/141008254-cfd96451-53e5-4167-a732-1a51a7f0bd29.png)
 
 121. Drag our new Input Control to the left of the table
 
-![8-87](https://user-images.githubusercontent.com/92877810/140558833-f939b7b7-d2eb-4d7f-b69e-efc687d0522c.png)
+![8-87](https://user-images.githubusercontent.com/92877810/141008255-d1645320-85b3-4852-a79d-d33debe77756.png)
 
 🚩Now we can test to see how our Revenue Multiplier input control can help simulate values in our table. 
 
 122. Resize the **Revenue Multiplier Calculation Input Control**
 
-![8-88](https://user-images.githubusercontent.com/92877810/140558834-bfd39519-6f44-4d8b-a464-0fdc635e65a7.png)
+![8-88](https://user-images.githubusercontent.com/92877810/141008258-5bb79042-c518-4d7a-8bc5-456e0a88d32a.png)
 
 ⚠️Quality check! Does your revenue multiplier and table look like this screenshot? Let us try simulating some values. 
 
-![8-89](https://user-images.githubusercontent.com/92877810/140558836-8853c122-209d-48f2-97a7-079ed82d38d9.png)
+![8-89](https://user-images.githubusercontent.com/92877810/141008261-b3e1f85b-c50f-4857-9db3-ade42dde07e2.png)
 
 123. Drag the Revenue Multiplier to **1.5**
 
-![8-90](https://user-images.githubusercontent.com/92877810/140558837-e13d2434-a17b-4ea7-bf95-2058140080a4.png)
+![8-90](https://user-images.githubusercontent.com/92877810/141008263-8b256ed2-31ad-4c27-a294-f864f90bbd47.png)
 
 ⚠️Quality check! Do the values on your table look like this after changing the calculation input control? Using the calculation input control for a simulation improves the interactivity of our dashboard for the use of the story viewer.
 
-![8-91](https://user-images.githubusercontent.com/92877810/140558838-c4401c27-cb35-4742-ae51-00677e40ff1c.png)
+![8-91](https://user-images.githubusercontent.com/92877810/141008264-f77e7796-3577-41d6-8470-c0630105d424.png)
 
 ⚠️  
 Quality check! Does your dashboard look like this screenshot? 
@@ -624,7 +612,7 @@ Quality check! Does your dashboard look like this screenshot?
  
 ℹ️You have now completed the **Calculations and Blending Jump Off**. In this section we have covered how to create a calculated dimension with string functions, how to link dimensions and use blending for visualizations, how to create calculations with measures across models, how to apply linked analysis between charts with different models, how to use median and quartile aggregations, and how to use calculation input controls to create simulated calculations. 
 
-![8-92](https://user-images.githubusercontent.com/92877810/140558839-1c77e933-1e47-4fcf-b120-d8b59e029881.png)
+![8-92](https://user-images.githubusercontent.com/92877810/141008266-c8f2fa21-b252-4f74-9c85-0e080e39f85a.png)
 
 <br><br>
 
