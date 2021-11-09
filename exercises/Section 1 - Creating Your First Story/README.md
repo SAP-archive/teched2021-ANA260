@@ -534,7 +534,7 @@ We will cover calculations in more detail for business analytics use cases in ou
 
 🚩We currently do not have a measure for our average sales revenue by store in our model. Hence, let us create a calculation to track this metric on our dashboard. 
 
-121. Remove Sales Revenue as a Measure
+121. Remove Sales Revenue as a Measure (for the duplicate chart)
 
 122. Click **Add Measure**
 
