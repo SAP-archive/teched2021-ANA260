@@ -550,7 +550,7 @@ We will cover calculations in more detail for business analytics use cases in ou
 
 ![Image 124](https://user-images.githubusercontent.com/90856848/137995115-e628f923-c48b-4336-b88c-5560d32d4b27.png)
 
-125. Click **Expand** for **Operation**
+125. Click **Expand** on **Operation**
 
 126. Scroll till AVERAGE is Visible
 
@@ -558,7 +558,7 @@ We will cover calculations in more detail for business analytics use cases in ou
 
 ![Image 125_126_127](https://user-images.githubusercontent.com/90856848/137995225-83e32c59-4229-43f9-aebb-896db54fc98a.png)
 
-128. Click **Expand** for **Operation**
+128. Click **Expand** on **Measure**
 
 129. Click **Sales Revenue**
 
