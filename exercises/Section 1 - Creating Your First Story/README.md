@@ -448,7 +448,7 @@ We will cover calculations in more detail for business analytics use cases in ou
 
 ![Image 96_97](https://user-images.githubusercontent.com/90856848/137991293-6d1655d1-60c9-458b-90fc-642a4710131f.png)
 
-98. **Click Target**
+98. **Click Indicator**
 
 99. **Click Numeric Point**
 
