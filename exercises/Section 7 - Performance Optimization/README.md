@@ -238,9 +238,14 @@ You can click on learn more to know more about this Performance Tip
 
 56. To improve the performance of your story, let's collapse the Input Control
 
+![7-37](https://user-images.githubusercontent.com/92877810/139121989-96386c94-9bf7-4b0b-8e7c-488b87f5e613.png)
+
+🚩Quality Check! Does your collapsed Input Control look like this?
+
 ℹ️With the Input Control Collapsed, Dimension members will only be loaded on demand once a viewer selects input control.
 
-![7-37](https://user-images.githubusercontent.com/92877810/139121989-96386c94-9bf7-4b0b-8e7c-488b87f5e613.png)
+![7-rr](https://user-images.githubusercontent.com/92877810/141009859-f5e879f9-e4b0-4db8-9035-6f7b13aba782.png)
+
 
 🚩Now if you notice, we have our Performance Optimization Tip on having too many widgets come back. 
 
