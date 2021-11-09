@@ -330,7 +330,7 @@ For widget, you see only the styling options for the specific area that you have
 
 65. Click **Color Values**
 
-![3-45](https://user-images.githubusercontent.com/92877810/138261843-bcf22ea7-26f3-42e8-8474-88e795adde2b.png)
+![3-r](https://user-images.githubusercontent.com/92877810/140990851-e292bf04-dc4d-4420-8f0a-1cd29842ce50.png)
 
 🚩Thresholds in the table are now color coded instead of representation by a symbol indicator. 
 
