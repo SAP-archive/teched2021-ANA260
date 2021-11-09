@@ -40,14 +40,15 @@ If not, then navigate to the homepage.
 
 2. Click the **Search to Insight** Textbox to start asking your data related questions
 
-![6-2](https://user-images.githubusercontent.com/92877810/138933140-f7a8258a-34b3-445c-87e5-f8af1a2e71b5.png)
+![Section 6_2](https://user-images.githubusercontent.com/90856848/140966426-a0c1f1b1-fc2c-46ef-86be-65b7c7294537.png)
 
 3. Enter **"Show me gro"** in the textbox
 
 4. Click show me  **Gross Margin**
 
 5. Click **Search** icon
-![6-3](https://user-images.githubusercontent.com/92877810/138933142-613aa00c-f668-47f3-b13f-726d88bd3e1e.png)
+
+![Section 6_3](https://user-images.githubusercontent.com/90856848/140966561-412ee9ac-1699-4a29-b05e-311aae42c5da.png)
 
 ℹ️Welcome to **Search to Insight (Natural Language Search)!**
   
@@ -88,7 +89,7 @@ Margin comes from my selecting the model icon of the chart details.
 
 12. Click **Exit Search to Insight**
 
-![6-9](https://user-images.githubusercontent.com/92877810/138933160-11baebc9-0578-4c4b-b784-4d0ef5bd3d0e.png)
+![Section 6_10](https://user-images.githubusercontent.com/90856848/140966736-4566cc39-e8cd-435d-841e-b21c25abf7d9.png)
 
 13. Click **Create Your First Story**
 
