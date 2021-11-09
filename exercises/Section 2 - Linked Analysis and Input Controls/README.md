@@ -243,19 +243,35 @@ Take a minute and save your work using **Ctrl + S**.
 
 50. Click the **Gross Margin per Product, Workout Usage for Actual** Chart
 
-51. Remove **Gross Margin**
+51. Click **Designer**
 
-52. Click **Add Measure** 
+52. Remove **Gross Margin**
+
+53. Click **Add Measure** 
 
 ![img32](https://user-images.githubusercontent.com/92877810/138149944-1950d0dd-92dd-48d1-aae9-c2659f0370cd.png)
 
-53. Scroll untill New Measure Input Control is Visible
+54. Scroll untill New Measure Input Control is Visible
 
-54. Click **New Measure Input Control**
+55. Click **New Measure Input Control**
 
-55. Click Inside the Builder Panel to Collapse the Measure Selection Drop Down
+56. Click Inside the Builder Panel to Collapse the Measure Selection Drop Down
 
 ![img33](https://user-images.githubusercontent.com/92877810/138149945-0cd758f0-232f-49c8-9abc-725e750c05ab.png)
+
+57. Click **Sales Revenue per Region for Actual** Chart
+
+58. Click **Designer**
+
+59. Remove **Sales Revenue**
+
+
+60. Scroll until New Measure Input Control is Visible
+
+61. Click **New Measure Input Control**
+
+62. Click Inside the Builder Panel to Collapse the Measure Selection Drop Down
+
 
 ⚠️Quality Check! Do your story's charts use the same measures as this screenshot? 
 
@@ -265,11 +281,20 @@ Changing the measure input control to Gross Margin would update all 3 charts to 
 
 ![img34](https://user-images.githubusercontent.com/92877810/138149947-54aaadde-cb43-4b88-9a02-cf9dab0ceed8.png)
 
-56. Click **Sales Revenue per Region for Actual** Chart
+57. Click **Sales Revenue per Region for Actual** Chart
 
-57. Remove the **Region** Dimension
+58. Remove the **Region** Dimension
 
-58. Click **Add Dimension**
+59. Click **Add Dimension**
+
+![2-replace](https://user-images.githubusercontent.com/92877810/140985440-7eff0fd7-eddf-445a-a7bf-fce609235506.png)
+![2-replace2](https://user-images.githubusercontent.com/92877810/140985444-ba8dc4af-25ca-442a-9da3-dcd992065b17.png)
+![2-replace3](https://user-images.githubusercontent.com/92877810/140985447-8432583a-fc79-4438-8dbc-b55f64275388.png)
+![2-replace4](https://user-images.githubusercontent.com/92877810/140985449-9587d750-a275-4fce-9d3f-9f85988226cd.png)
+![2-replace5](https://user-images.githubusercontent.com/92877810/140985451-d3573c33-637d-4be9-b378-33ebd0572229.png)
+![2-replace6](https://user-images.githubusercontent.com/92877810/140985453-b71a726c-c0e6-4f52-bfb3-50d8d5a11f3a.png)
+![2-replace7](https://user-images.githubusercontent.com/92877810/140985455-3e527d4e-a4a6-4714-95f2-a0920c1893b3.png)
+
 
 ![img35](https://user-images.githubusercontent.com/92877810/138149948-33882713-8a85-459f-8599-502fee2c8812.png)
 
