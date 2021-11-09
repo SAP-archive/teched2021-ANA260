@@ -36,11 +36,11 @@ different from the current system date.
  
 If not, then navigate to the homepage. 
 
-![6-2](https://user-images.githubusercontent.com/92877810/138933140-f7a8258a-34b3-445c-87e5-f8af1a2e71b5.png)
-
 🚩First you want to find out more about your Gross Margin, but you don't really know which model Gross Margin contains. As you start typing the search goes across all models and suggests you the best results for measure, dimension as well as dimension members related to what you're asking for. 
 
 2. Click the **Search to Insight** Textbox to start asking your data related questions
+
+![6-2](https://user-images.githubusercontent.com/92877810/138933140-f7a8258a-34b3-445c-87e5-f8af1a2e71b5.png)
 
 3. Enter **"Show me gro"** in the textbox
 
@@ -60,7 +60,7 @@ Drive conversational artificial intelligence forward by asking questions about y
 🚩You can see which model the Gross 
 Margin comes from my selecting the model icon of the chart details. 
 
-6. Click **Model** icon
+6. Click **Model** icon to confirm the model name **"ANA260_ORDER_FINANCE"**
 
 ![6-5](https://user-images.githubusercontent.com/92877810/138933150-bd06b86a-b5ad-467f-ad6a-3479bfc68dd6.png)
 
@@ -70,7 +70,7 @@ Margin comes from my selecting the model icon of the chart details.
 
 🚩You can see that several suggestions for questions are provided as part of the type ahead. 
 
-8. Select **Show me Gross Margin by Workout Usage**
+8. Select **Show me Gross Margin by Workout Usage** (If not visible, start typing until you see the suggestion)
 
 ![6-6](https://user-images.githubusercontent.com/92877810/138933154-8897d1e6-8868-4531-98ac-9a6eab139da6.png)
 
@@ -131,6 +131,8 @@ Move back to Search to Insight.
 
 ![6-16](https://user-images.githubusercontent.com/92877810/138933186-86c692b2-93cd-4bb0-8fc3-16f796d04595.png)
 
+🚩You can see that Search to Insight recognized the time reference and automatically generated a time series chart on month granularity. However, you only want to look at the last 2 years. Let's adjust the question.
+
 22. Add **"for last year and this year"** to the question
 
 23. Click the **Search** icon
@@ -139,9 +141,7 @@ Move back to Search to Insight.
 
 24. Click **Display as Line** to create a line chart
 
-![6-18](https://user-images.githubusercontent.com/92877810/138935393-923febc8-7554-4850-b209-9eaf0cc07885.png)
-
-🚩You can see that Search to Insight recognized the time reference and automatically generated a line chart on month granularity. However, you only want to look at the last 2 years. Let's adjust the question. 
+![6-18](https://user-images.githubusercontent.com/92877810/138935393-923febc8-7554-4850-b209-9eaf0cc07885.png) 
 
 🚩The new chart has been filtered on the last year and this year. You can see this on the filter token.  
   
@@ -247,7 +247,7 @@ Note: different charts and data may provide different insights.
 
 ![6-31](https://user-images.githubusercontent.com/92877810/138935436-2c115123-d8c6-4376-bc84-b7cdbc9312e1.png)
 
-ℹ️change based on day granularity, you're more interested in the monthly data change. Switch to month view.
+ℹ️Smart Insight has inspected the different levels of the time hierarchy automatically and selected the level with the most interesting change, in this case the day granularity. However, you're more interested in the monthly data change. Switch to month view. 
 
 46. Click **M**
 
@@ -261,7 +261,7 @@ Note: different charts and data may provide different insights.
 
 47. Scroll to the bottom
 
-🚩There seem to be 2 identical location dimensions in the data model as well as 2 dimensions for Order IDs. This results in redundant insights. A story designer can configure whether certain dimension will be excluded from Smart Insight in order to provide better results. Let's exclude the redundant dimensions. 
+🚩The data model contains 2 identical location dimensions and 2 identical dimensions containing Order IDs. This is a common assurance in business data but can result in redundant insights. A story designer can configure whether certain dimensions will be excluded from Smart Insight to provide better results. Let us exclude the redundant dimensions.
 
 48. Click **Close**
 
@@ -406,11 +406,9 @@ insights. Let's look at the location contributor.
 
 🚩Smart Insights are available on the values contributing to the calculation, to allow the user to explore further and better understand the numbers. (Right Click on Gross Margin for smart insights)
 
-🚩Smart Insights are available on the values contributing to the calculation, to allow the user to explore further and better understand the numbers.
-
 ![6-59](https://user-images.githubusercontent.com/92877810/138958430-79deaf27-db0b-4033-b132-e8d1ac0b274b.png)
 
-🚩Besides Search to Insight and Smart Insight, SAP Analytics Cloud can also generate an entire story for you using Smart Discovery. Let's try that out. 
+🚩In addition to Smart Insights and Search to Insights, Smart Discovery provides automated data exploration. Let us try that now.  
 
 82. Click **Tools**
 
@@ -472,10 +470,11 @@ It is important to note that the analysis is performed on a snapshot of the data
 ![6-69](https://user-images.githubusercontent.com/92877810/138958453-6f980818-1cc7-4b02-9ba6-65463998d878.png)
 
 ℹ️Smart Discovery Creates up to Four Pages: 
-1.	**Overview:** The overview page provides visualizations to summarize the results for your target dimension or measure in relation to your entity
-2.	**Key Influencers:** The Key Influencers page is generated based on the predictive model. The Key Influencers page lists (ranked from highest to lowest) up to 10 dimensions and measures that significantly impact the target. 
+1.	**Overview:** The overview page provides some high-level metrics and visualizations based on your business question
+2.	**Key Influencers:** The Key Influencers page is generated based on the predictive model. The Key Influencers page lists (ranked from highest to lowest) up to 10 dimensions and measures that significantly impact the target. 
 3.	**Unexpected Values:** contains a table with the records that have been identified by the underlying machine learning model as unexpected. The table shows the actual and the predicted values along with the other corresponding dimensions.  
-4.	**Simulation:** it contains a listing of the key influencers and their corresponding values. You can simulate an impact by selecting values for each key influencer. The impact of the value is reflected on the chart. 
+4.	**Simulation:** It contains a listing of the key influencers and their corresponding values. You can simulate a row of data by selecting 
+values for each key influencer. The target is updated based on your selections.
 
 ![6-70](https://user-images.githubusercontent.com/92877810/138958454-8d4a6533-3776-4255-b00a-671d1a87d9d8.png)
 
@@ -492,7 +491,7 @@ It is important to note that the analysis is performed on a snapshot of the data
 
 ![6-72](https://user-images.githubusercontent.com/92877810/138958460-73df95b9-8c47-40fd-a594-cc6c33fe8a17.png)
 
-🚩Here we can see that the tool has identified 10 things that influence Gross Margin the most. There is an informative summary on the right and you can scroll down to see more information charted for the top 3 key influencers. Region has the greatest influence on Gross Margin. Scroll down to see more info.
+🚩Here we can see that the tool has identified 10 variables in the data that influence Gross Margin. Region has the greatest influence on Gross Margin. Scroll down to see more info.
 
 ![6-73](https://user-images.githubusercontent.com/92877810/138958461-2054ad0e-9fe9-47b0-b713-8a71a90affa8.png)
 
