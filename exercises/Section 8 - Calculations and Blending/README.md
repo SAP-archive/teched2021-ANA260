@@ -29,67 +29,67 @@ different from the current system date.
 
 1. Click the **Main Menu** icon
 
-![8-1](https://user-images.githubusercontent.com/92877810/140549559-34510e1a-ab16-4d15-8a09-44780b9bbf21.png)
+![8-1](https://user-images.githubusercontent.com/92877810/141001191-4f0c4613-5aa2-48d4-9d66-142a4e976eee.png)
 
 2. Click **Files**
 
-![8-2](https://user-images.githubusercontent.com/92877810/140549561-b6bb2640-ee6a-4e33-aa3a-caf0dcb0268b.png)
+![8-2](https://user-images.githubusercontent.com/92877810/141001193-c202d0f4-690b-4593-9128-5c93cf601625.png)
 
 3. Click **Public**
 
-![8-3](https://user-images.githubusercontent.com/92877810/140549562-a6349f0f-d727-4dae-920c-fe0b38d245b9.png)
+![8-3](https://user-images.githubusercontent.com/92877810/141001195-893057f1-b4f4-4265-a71a-70358d57f840.png)
 
 4. Click **TechEd 2021**
 
-![8-4](https://user-images.githubusercontent.com/92877810/140549563-026d102d-db04-4e00-b57a-12fe5e714d6c.png)
+![8-4](https://user-images.githubusercontent.com/92877810/141001196-634601bd-3dab-4bc4-94a4-2f231eb4cfa8.png)
 
 5. Select **Section 8.0 - Calculations and Blending (Start)** 
 
 6. Click **Copy** icon
 
-![8-5](https://user-images.githubusercontent.com/92877810/140549565-9a67f98d-96ba-4ce6-84fd-aa5dc77c1e50.png)
+![8-5](https://user-images.githubusercontent.com/92877810/141001198-38ff6f03-a106-447b-af34-e9418a817735.png)
 
 🚩Save the file in **MyFiles**
 
 7. Save the file as **"ANA26-_Section 8_Your Initials"**
 
-![8-6](https://user-images.githubusercontent.com/92877810/140549566-fa6f2184-6822-450c-8b7b-65fe99d9a2ce.png)
+![8-6](https://user-images.githubusercontent.com/92877810/141001200-e232eddb-227d-4b3e-bd92-16568579f20e.png)
 
 8. Click **MyFiles**
 
-![8-7](https://user-images.githubusercontent.com/92877810/140549567-953abbcf-397b-4831-ab33-bf72f9ac624b.png)
+![8-7](https://user-images.githubusercontent.com/92877810/141001201-cc255abe-cabf-494c-a1cc-2d3228ad09aa.png)
 
 9. Click **ANA260_Section 8_KG**
 
-![8-8](https://user-images.githubusercontent.com/92877810/140549568-4350e00b-8975-4431-ba21-205a0d5940f0.png)
+![8-8](https://user-images.githubusercontent.com/92877810/141001203-e9c2bb70-4c95-4aa0-897a-01c296738941.png)
 
 10. Click **Edit** 
 
-![8-9](https://user-images.githubusercontent.com/92877810/140549570-8cb791c4-e65b-48bd-b300-466a042cd20e.png)
+![8-9](https://user-images.githubusercontent.com/92877810/141001204-dfcaa281-09b9-4786-b58c-98a177a2c46e.png)
 
 11. Click **Operations Overview**
 
-![8-10](https://user-images.githubusercontent.com/92877810/140549571-579d5608-532b-4339-b6f6-71031341bbad.png)
+![8-10](https://user-images.githubusercontent.com/92877810/141001206-54cf13a0-6b64-4f20-a6e9-d0c6a666364d.png)
 
 ⚠️Exercise check! Does your dashboard look like this screenshot in Edit mode? 
 
-![8-11](https://user-images.githubusercontent.com/92877810/140549572-32e4b1d1-b581-48c1-9471-0495b26b0d58.png)
+![8-11](https://user-images.githubusercontent.com/92877810/141001207-38cb21c3-afcc-4afe-97e3-2654decbcd5e.png)
 
 🚩When working with your data in SAP Analytics Cloud, you may find that you want to look at additional components to your data that are currently not captured by the existing measures and dimensions in the model. Luckily, story designers can extend the data models with additional calculated measures and dimensions. This enables the story creator to delve into further insights from their data. Let us start by creating a calculated dimension that divides the Store dimension in our data into Studios and Non-Studios. 
 
 12. Click **Gross Margin % for Actual** Chart
 
-![8-12](https://user-images.githubusercontent.com/92877810/140549574-27a28c0e-3bbd-4177-9372-dcbaac4c3f89.png)
+![8-12](https://user-images.githubusercontent.com/92877810/141001210-6972c75e-d8e4-41d5-8277-e6a0f1f125b5.png)
 
 13. Click **Designer**
 
 14. Click **+ Add Dimension**
 
-![8-13](https://user-images.githubusercontent.com/92877810/140549575-adc20077-0840-448b-85ba-9ad193b00792.png)
+![8-13](https://user-images.githubusercontent.com/92877810/141001213-4780958e-36a7-48ba-80d4-fd2dae6fcfc7.png)
 
 15. Scroll and Click **+ Create Calcluated Dimension...**
 
-![8-14](https://user-images.githubusercontent.com/92877810/140549576-2709a2d4-a0e6-4806-9343-53c95bb32708.png)
+![8-14](https://user-images.githubusercontent.com/92877810/141001215-0c23dda2-e371-4ea9-b899-98402a7555bd.png)
 
 ℹ️Welcome to Calculated Dimensions!  
   
@@ -102,35 +102,36 @@ You can choose to combine existing dimensions to create your own dimensions. The
 **Measure Based Dimension:** Use ranges within an existing measure to determine how to group 
 dimension members together 
 
-![8-15](https://user-images.githubusercontent.com/92877810/140549577-68a72378-205b-4bef-9837-95e0b6cacd81.png)
+![8-15](https://user-images.githubusercontent.com/92877810/141001216-206f391e-838f-4990-bfa6-a4c54f412bde.png)
 
 🚩As we want to identify the stores that are studios, we will use the regular calculated dimension. 
 
 16. Click **Calculated DImension**
 
-![8-16](https://user-images.githubusercontent.com/92877810/140549579-56cd9530-2c68-4d46-90fb-7e2310dc2b15.png)
+![8-16](https://user-images.githubusercontent.com/92877810/141001218-95abc1d1-e88a-4f5e-86e6-0297cd012253.png)
+
 
 🚩The formula field for Calculated Dimensions uses conditional logic and function formulas to create the Dimension rules. This offers the business analyst great flexibility in defining new calculated dimensions. 
 
 17. Press **Ctrl + Space** on the Keyboard
 
-![8-17](https://user-images.githubusercontent.com/92877810/140549580-b8f0fe2d-d25b-454b-b294-295375e2cbf3.png)
+![8-17](https://user-images.githubusercontent.com/92877810/141001219-fafdb6a7-630b-4794-a941-949be5bad762.png)
 
 18. Click IF
 
 🚩Our IF statement has three fields. The first field is used as a condition that evaluates to true or false. The second field is the Dimension value if True and the third field is the Dimension value if False. 
 
-![8-18](https://user-images.githubusercontent.com/92877810/140549582-9615bda3-5c9e-48f8-80ed-91b9566353fe.png)
+![8-18](https://user-images.githubusercontent.com/92877810/141001220-064fbdca-e32b-4ac0-bc57-a128c43dbd54.png)
 
 19. Click the **Condition (First Field)** in the IF Formula
 
-![8-19](https://user-images.githubusercontent.com/92877810/140549585-5cd5024c-5dc0-465d-9395-f3870ccd5518.png)
+![8-19](https://user-images.githubusercontent.com/92877810/141001222-7e10a669-1844-4cc1-ba71-2d2cfeff1abb.png)
 
 20. Press **Ctrl + Space** on the Keyboard
   
 💡Using Ctrl + Space is a great way to learn how to use the Calculation Editor. Using this hotkey combination will always bring up all possible functions and measures/dimensions that can be typed into the according field for the ease of the user. 
 
-![8-20](https://user-images.githubusercontent.com/92877810/140549586-a9e20b48-650a-473c-8589-37f5080612cc.png)
+![8-20](https://user-images.githubusercontent.com/92877810/141001223-3c34b82b-ad11-411c-a0e4-7e17a3ff1605.png)
 
 ℹ️Welcome to String Functions in the Calculation Editor! There are a variety of different String Functions that can be used to transform the Dimension values to a specific use case. 
   
@@ -149,7 +150,7 @@ Let us use RIGHT function to categorize Stores by if they are a Studio.
 
 22. Click **RIGHT**
 
-![8-21](https://user-images.githubusercontent.com/92877810/140549589-fe998e0a-ab3b-4b17-a176-05b03259f06b.png)
+![8-21](https://user-images.githubusercontent.com/92877810/141001226-0d25fc27-6b0e-4f29-acf4-bff8ab0ac983.png)
 
 🚩Here we are specifying the Dimension we are reading our string from
 
@@ -157,7 +158,7 @@ Let us use RIGHT function to categorize Stores by if they are a Studio.
 
 24. Click **Store**
 
-![8-22](https://user-images.githubusercontent.com/92877810/140549591-334bb3da-91df-458e-b4aa-55e2a2388144.png)
+![8-22](https://user-images.githubusercontent.com/92877810/141001227-22d4256f-12d5-465c-81c6-5d8e36f51fa7.png)
 
 ℹ️Since Dimensions often have an ID and 
 Description, it is important to clarify that we are looking to parse the Store name from description here. 
@@ -168,13 +169,13 @@ Description, it is important to clarify that we are looking to parse the Store n
 
 27. Click **Description**
 
-![8-23](https://user-images.githubusercontent.com/92877810/140549593-70ae4a45-9d0c-4a2d-b0f2-ec799fd55f00.png)
+![8-23](https://user-images.githubusercontent.com/92877810/141001228-d237c7fa-3597-42d9-bdb5-dd169025b3e1.png)
 
 🚩We know we are trying to divide our Store dimension into Studios and Non-Studio. Since we are looking for "Studio" at the end of store name, we know we should filter on 6 characters using our RIGHT string function. 
 
 28. Type **"6"** in the **Second Input Field** for the **RIGHT** Function
 
-![8-24](https://user-images.githubusercontent.com/92877810/140549594-21b9d667-0d1b-458b-8cbd-2617a5b6c9e9.png)
+![8-24](https://user-images.githubusercontent.com/92877810/141001229-fca4ebcc-f2fa-48f2-b79f-7a0d2837160d.png)
 
 🚩Let us compare the last 6 letters of our store name with Studio to group them into two Store Groups. 
 
@@ -184,7 +185,7 @@ Description, it is important to clarify that we are looking to parse the Store n
 
 31. Type in **"Non-Studio"** in the **FALSE** Field for the  IF Function
 
-![8-25](https://user-images.githubusercontent.com/92877810/140549595-59e377a7-7be1-4add-8a3e-0ab1a4c67ccb.png)
+![8-25](https://user-images.githubusercontent.com/92877810/141001230-457d5b2a-8277-4f94-8222-7d2b1d4a3492.png)
 
 ⚠️Quality Check! Does the end of your formula look like this? 
 
