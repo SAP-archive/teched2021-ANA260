@@ -287,7 +287,7 @@ You can click on learn more to know more about this Performance Tip
   
 💡Now if you try add another page to the story, you will see a new Optimization Tip. It is letting you know that you now already have a lot of pages in the story and it may impact the story's performance if you add an additional page. 
  
-In this case the story designer will always see the Perfromance Optimization Tip pop-up whenever there is more than 10 pages in a story.
+In this case the story designer will always see the Performance Optimization Tip pop-up whenever there is more than 10 pages in a story.
  
 We recommend not going against the performance tips for the best performance of your story.  
 
