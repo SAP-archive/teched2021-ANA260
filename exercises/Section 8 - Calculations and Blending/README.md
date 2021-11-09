@@ -367,7 +367,7 @@ In this table, we have specified Reasons for Delay as our Row dimension. We can 
 
 ⚠️Quality Check! Does your table look like this screenshot? 
 
-🚩We can see how useful blended visualizations can be with multiple data sets. From this table, we can see that around 42% of our revenue ships on time. However, weather conditions and out of stock also have relatively high % contributions to revenue. We should probably consider inventory management improvements as over 11% of our revenue in shipments are delayed due to being Out of Stock. 
+🚩We can see how useful blended visualizations can be with multiple data sets. From this table, we can see that around 42% of our revenue ships on time. However, weather conditions and out of stock also have relatively high % contributions to revenue. We should probably consider inventory management improvements as over 12% of our revenue in shipments are delayed due to being Out of Stock. 
 
 ![8-52](https://user-images.githubusercontent.com/92877810/141006755-d776d870-e316-4974-95f8-0a372f7d6c4f.png)
 
@@ -535,61 +535,63 @@ Let us now look a scatterplot to see if Average Delivery Time is affecting our G
 
 106. Rename the Calculation to **Simulated Sales Revenue**
 
-107. Click **["ANA260_ORDER_FINANCE":Sales_Revenue]** 
+107. Type **"Sa"**
+
+108. Click **["ANA260_ORDER_FINANCE":Sales_Revenue]** 
 
 ![8-80](https://user-images.githubusercontent.com/92877810/141008247-9febb042-45ea-4cee-8cf2-da4246ccaf3a.png)
 
-108. Type in **"*" (Multiplication Sign)**
+109. Type in **"*" (Multiplication Sign)**
   
 🚩We are using a calculation input control in this calculation. Calculation input controls allow the viewer of the story to adjust the value in the formula through a widget on the page. This interactivity is key to our simulated financial statement
 
-109. Click **+ Create New**
+110. Click **+ Create New**
 
 ![8-81](https://user-images.githubusercontent.com/92877810/141008249-bf35a515-7052-4e96-9f11-e8d30100a473.png)
 
 🚩Calculation input controls can be created using values in Existing Dimensions or through values defined in a Static List. We want to create a static list of Revenue Multiplier values
 
-110. Click **Revenue Multiplier**
+111. Click **Revenue Multiplier**
 
-111. Click **Static List**
+112. Click **Static List**
 
-112. Expand **Values**
+113. Expand **Values**
 
 ![8-82](https://user-images.githubusercontent.com/92877810/141008250-e65ff065-fc7d-4e1b-b842-fb1bdbf3fb5e.png)
 
 🚩Let us define a range of possible values to multiply our simulated sales revenue by. 
 
-113. Click **Select by Range**
+114. Click **Select by Range**
 
 ![8-83](https://user-images.githubusercontent.com/92877810/141008251-69e389a9-e750-41d2-a13f-1097c14baac2.png)
 
-114. Input **1** as the Min Value
+115. Input **1** as the Min Value
 
-115. Input **2.5** as the Max Value
+116. Input **2.5** as the Max Value
 
-116. Input **0.1** as the Increment Value
-
-117. Click **OK**
-
-![8-84](https://user-images.githubusercontent.com/92877810/141008252-b0b17ef6-a465-44a4-a60d-ab25e65856f1.png)
+117. Input **0.1** as the Increment Value
 
 118. Click **OK**
 
+![8-84](https://user-images.githubusercontent.com/92877810/141008252-b0b17ef6-a465-44a4-a60d-ab25e65856f1.png)
+
+119. Click **OK**
+
 ![8-85](https://user-images.githubusercontent.com/92877810/141008253-bfabe145-a45b-4dae-a7ae-0ba23566fe64.png)
 
-119. Click **Revenue Multiplier**
+120. Click **Revenue Multiplier**
 
-120. Click **OK**
+121. Click **OK**
 
 ![8-86](https://user-images.githubusercontent.com/92877810/141008254-cfd96451-53e5-4167-a732-1a51a7f0bd29.png)
 
-121. Drag our new Input Control to the left of the table
+122. Drag our new Input Control to the left of the table (if not already on the left)
 
 ![8-87](https://user-images.githubusercontent.com/92877810/141008255-d1645320-85b3-4852-a79d-d33debe77756.png)
 
 🚩Now we can test to see how our Revenue Multiplier input control can help simulate values in our table. 
 
-122. Resize the **Revenue Multiplier Calculation Input Control**
+123. Resize the **Revenue Multiplier Calculation Input Control**
 
 ![8-88](https://user-images.githubusercontent.com/92877810/141008258-5bb79042-c518-4d7a-8bc5-456e0a88d32a.png)
 
@@ -597,7 +599,7 @@ Let us now look a scatterplot to see if Average Delivery Time is affecting our G
 
 ![8-89](https://user-images.githubusercontent.com/92877810/141008261-b3e1f85b-c50f-4857-9db3-ade42dde07e2.png)
 
-123. Drag the Revenue Multiplier to **1.5**
+124. Drag the Revenue Multiplier to **1.5**
 
 ![8-90](https://user-images.githubusercontent.com/92877810/141008263-8b256ed2-31ad-4c27-a294-f864f90bbd47.png)
 
