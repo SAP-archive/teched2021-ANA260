@@ -29,25 +29,25 @@ different from the current system date.
 
 1. Click the **Main Menu** icon
 
-![8-1](https://user-images.githubusercontent.com/92877810/141001191-4f0c4613-5aa2-48d4-9d66-142a4e976eee.png)
+![8-1](https://user-images.githubusercontent.com/92877810/141006651-c61908cf-8b21-4d12-96c8-323b0ffc92e1.png)
 
 2. Click **Files**
 
-![8-2](https://user-images.githubusercontent.com/92877810/141001193-c202d0f4-690b-4593-9128-5c93cf601625.png)
+![8-2](https://user-images.githubusercontent.com/92877810/141006655-b009af92-d530-42ea-9576-b8c0b8dcc1bd.png)
 
 3. Click **Public**
 
-![8-3](https://user-images.githubusercontent.com/92877810/141001195-893057f1-b4f4-4265-a71a-70358d57f840.png)
+![8-3](https://user-images.githubusercontent.com/92877810/141006657-5077c01f-82cb-4db0-ba11-3811853726e4.png)
 
 4. Click **TechEd 2021**
 
-![8-4](https://user-images.githubusercontent.com/92877810/141001196-634601bd-3dab-4bc4-94a4-2f231eb4cfa8.png)
+![8-4](https://user-images.githubusercontent.com/92877810/141006659-58e0878e-3268-4c09-bca5-266cc16c467f.png)
 
 5. Select **Section 8.0 - Calculations and Blending (Start)** 
 
 6. Click **Copy** icon
 
-![8-5](https://user-images.githubusercontent.com/92877810/141001198-38ff6f03-a106-447b-af34-e9418a817735.png)
+![8-5](https://user-images.githubusercontent.com/92877810/141006662-c085bfe9-084f-406a-9ccb-3776955a7405.png)
 
 🚩Save the file in **MyFiles**
 
@@ -55,43 +55,43 @@ different from the current system date.
 
 8. Click **OK**
 
-![8-6](https://user-images.githubusercontent.com/92877810/141001200-e232eddb-227d-4b3e-bd92-16568579f20e.png)
+![8-6](https://user-images.githubusercontent.com/92877810/141006664-f993b933-5fc0-442d-9ed5-08bccfeb2883.png)
 
 9. Click **MyFiles**
 
-![8-7](https://user-images.githubusercontent.com/92877810/141001201-cc255abe-cabf-494c-a1cc-2d3228ad09aa.png)
+![8-7](https://user-images.githubusercontent.com/92877810/141006666-28635412-5785-44ac-b1fd-e16315dc4be1.png)
 
 10. Click **ANA260_Section 8_KG**
 
-![8-8](https://user-images.githubusercontent.com/92877810/141001203-e9c2bb70-4c95-4aa0-897a-01c296738941.png)
+![8-8](https://user-images.githubusercontent.com/92877810/141006667-985189c7-9788-487a-8064-a06f5158e39b.png)
 
 11. Click **Edit** 
 
-![8-9](https://user-images.githubusercontent.com/92877810/141001204-dfcaa281-09b9-4786-b58c-98a177a2c46e.png)
+![8-9](https://user-images.githubusercontent.com/92877810/141006670-96651307-8ca9-4bfa-99a0-2eb8adcdfb5b.png)
 
 12. Click **Operations Overview**
 
-![8-10](https://user-images.githubusercontent.com/92877810/141001206-54cf13a0-6b64-4f20-a6e9-d0c6a666364d.png)
+![8-10](https://user-images.githubusercontent.com/92877810/141006671-45a49347-3add-497c-ae5e-05d5cbf1b75b.png)
 
 ⚠️Exercise check! Does your dashboard look like this screenshot in Edit mode? 
 
-![8-11](https://user-images.githubusercontent.com/92877810/141001207-38cb21c3-afcc-4afe-97e3-2654decbcd5e.png)
+![8-11](https://user-images.githubusercontent.com/92877810/141006673-3826b6bd-9bf0-4d51-8424-7612626c6275.png)
 
 🚩When working with your data in SAP Analytics Cloud, you may find that you want to look at additional components to your data that are currently not captured by the existing measures and dimensions in the model. Luckily, story designers can extend the data models with additional calculated measures and dimensions. This enables the story creator to delve into further insights from their data. Let us start by creating a calculated dimension that divides the Store dimension in our data into Studios and Non-Studios. 
 
 13. Click **Gross Margin % for Actual** Chart
 
-![8-12](https://user-images.githubusercontent.com/92877810/141001210-6972c75e-d8e4-41d5-8277-e6a0f1f125b5.png)
+![8-12](https://user-images.githubusercontent.com/92877810/141006677-0d6bbe2e-d1bf-43bb-9974-32056994bc67.png)
 
 14. Click **Designer**
 
 15. Click **+ Add Dimension**
 
-![8-13](https://user-images.githubusercontent.com/92877810/141001213-4780958e-36a7-48ba-80d4-fd2dae6fcfc7.png)
+![8-13](https://user-images.githubusercontent.com/92877810/141006679-c4ddfcc8-ad52-4ed0-acf1-f4c75a6b601d.png)
 
 16. Scroll and Click **+ Create Calcluated Dimension...**
 
-![8-14](https://user-images.githubusercontent.com/92877810/141001215-0c23dda2-e371-4ea9-b899-98402a7555bd.png)
+![8-14](https://user-images.githubusercontent.com/92877810/141006681-e1068697-44ba-4718-99b7-83fb9ee468da.png)
 
 ℹ️Welcome to Calculated Dimensions!  
   
@@ -104,36 +104,35 @@ You can choose to combine existing dimensions to create your own dimensions. The
 **Measure Based Dimension:** Use ranges within an existing measure to determine how to group 
 dimension members together 
 
-![8-15](https://user-images.githubusercontent.com/92877810/141001216-206f391e-838f-4990-bfa6-a4c54f412bde.png)
+![8-15](https://user-images.githubusercontent.com/92877810/141006683-1dac0f5e-40f5-42b1-9448-84903c584235.png)
 
 🚩As we want to identify the stores that are studios, we will use the regular calculated dimension. 
 
 17. Click **Calculated DImension**
 
-![8-16](https://user-images.githubusercontent.com/92877810/141001218-95abc1d1-e88a-4f5e-86e6-0297cd012253.png)
-
+![8-16](https://user-images.githubusercontent.com/92877810/141006684-629e5566-31ab-4431-afcd-6fc004c70b94.png)
 
 🚩The formula field for Calculated Dimensions uses conditional logic and function formulas to create the Dimension rules. This offers the business analyst great flexibility in defining new calculated dimensions. 
 
 18. Press **Ctrl + Space** on the Keyboard
 
-![8-17](https://user-images.githubusercontent.com/92877810/141001219-fafdb6a7-630b-4794-a941-949be5bad762.png)
+![8-17](https://user-images.githubusercontent.com/92877810/141006687-22d5b394-0876-4870-a982-91d0838a5f94.png)
 
 19. Click IF
 
 🚩Our IF statement has three fields. The first field is used as a condition that evaluates to true or false. The second field is the Dimension value if True and the third field is the Dimension value if False. 
 
-![8-18](https://user-images.githubusercontent.com/92877810/141001220-064fbdca-e32b-4ac0-bc57-a128c43dbd54.png)
+![8-18](https://user-images.githubusercontent.com/92877810/141006690-43289132-1d4a-4003-9185-c48ed9272b85.png)
 
 20. Click the **Condition (First Field)** in the IF Formula
 
-![8-19](https://user-images.githubusercontent.com/92877810/141001222-7e10a669-1844-4cc1-ba71-2d2cfeff1abb.png)
+![8-19](https://user-images.githubusercontent.com/92877810/141006691-5ff882ef-e972-42a5-8b2b-df41ecf3f497.png)
 
 21. Press **Ctrl + Space** on the Keyboard
   
 💡Using Ctrl + Space is a great way to learn how to use the Calculation Editor. Using this hotkey combination will always bring up all possible functions and measures/dimensions that can be typed into the according field for the ease of the user. 
 
-![8-20](https://user-images.githubusercontent.com/92877810/141001223-3c34b82b-ad11-411c-a0e4-7e17a3ff1605.png)
+![8-20](https://user-images.githubusercontent.com/92877810/141006692-1b3a8569-4491-4d14-b203-2fc7918a041b.png)
 
 ℹ️Welcome to String Functions in the Calculation Editor! There are a variety of different String Functions that can be used to transform the Dimension values to a specific use case. 
   
@@ -152,7 +151,7 @@ Let us use RIGHT function to categorize Stores by if they are a Studio.
 
 23. Click **RIGHT**
 
-![8-21](https://user-images.githubusercontent.com/92877810/141001226-0d25fc27-6b0e-4f29-acf4-bff8ab0ac983.png)
+![8-21](https://user-images.githubusercontent.com/92877810/141006695-8a2018bd-3e34-455f-a47c-e8fd45b3c6dd.png)
 
 🚩Here we are specifying the Dimension we are reading our string from
 
@@ -160,7 +159,7 @@ Let us use RIGHT function to categorize Stores by if they are a Studio.
 
 25. Click **Store**
 
-![8-22](https://user-images.githubusercontent.com/92877810/141001227-22d4256f-12d5-465c-81c6-5d8e36f51fa7.png)
+![8-22](https://user-images.githubusercontent.com/92877810/141006697-d73c223a-8627-4d41-a7a0-3a9ce1a7198a.png)
 
 ℹ️Since Dimensions often have an ID and 
 Description, it is important to clarify that we are looking to parse the Store name from description here. 
@@ -171,13 +170,13 @@ Description, it is important to clarify that we are looking to parse the Store n
 
 28. Click **Description**
 
-![8-23](https://user-images.githubusercontent.com/92877810/141001228-d237c7fa-3597-42d9-bdb5-dd169025b3e1.png)
+![8-23](https://user-images.githubusercontent.com/92877810/141006698-bc5592b2-9763-471b-980f-fd1b0530659f.png)
 
 🚩We know we are trying to divide our Store dimension into Studios and Non-Studio. Since we are looking for "Studio" at the end of store name, we know we should filter on 6 characters using our RIGHT string function. 
 
 29. Type **"6"** in the **Second Input Field** for the **RIGHT** Function
 
-![8-24](https://user-images.githubusercontent.com/92877810/141001229-fca4ebcc-f2fa-48f2-b79f-7a0d2837160d.png)
+![8-24](https://user-images.githubusercontent.com/92877810/141006700-9275c240-e159-478e-b613-2334cb849a77.png)
 
 🚩Let us compare the last 6 letters of our store name with Studio to group them into two Store Groups. 
 
@@ -187,11 +186,11 @@ Description, it is important to clarify that we are looking to parse the Store n
 
 32. Type in **"Non-Studio"** in the **FALSE** Field for the  IF Function
 
-![8-25](https://user-images.githubusercontent.com/92877810/141001230-457d5b2a-8277-4f94-8222-7d2b1d4a3492.png)
+![8-25](https://user-images.githubusercontent.com/92877810/141006702-74aad9f1-5737-44d0-81ed-cb6481387cdc.png)
 
 ⚠️Quality Check! Does the end of your formula look like this? 
 
-![8-26](https://user-images.githubusercontent.com/92877810/140549596-a6b917c3-b702-49e0-ba9a-1f401a72fd41.png)
+![8-26](https://user-images.githubusercontent.com/92877810/141006703-ac58bbb8-b21d-4bdd-8e61-bc4147c337ea.png)
 
 🚩Format will parse your Formula and identify if there are any problems with the input parameters. 
 
@@ -199,41 +198,41 @@ Description, it is important to clarify that we are looking to parse the Store n
   
 🚩Great! Our formula is valid and good for use in defining a new Calculated Dimension. Let us name this Dimension and use it in our charts. 
 
-![8-27](https://user-images.githubusercontent.com/92877810/140549597-31e851c6-c35b-4536-9523-107b69e54e04.png)
+![8-27](https://user-images.githubusercontent.com/92877810/141006705-223073c3-2bf1-4b4e-801a-4a3b5d499aee.png)
 
 34. Name the Calculated Dimension as **Store Group**
 
 35. Click **OK**
 
-![8-28](https://user-images.githubusercontent.com/92877810/140549599-466141d1-921b-4d59-a929-c4a8b6a0c12a.png)
+![8-28](https://user-images.githubusercontent.com/92877810/141006707-c60f5381-be9e-463d-9a82-5e7b37d045dc.png)
 
 ⚠️Quality check! Does your chart look like this after including your Calculated Dimension? 
 
 🚩By creating a Calculated Dimension, we are able extract further insights from our data. We can now see that Gross Margin % is higher for Studios than other stores. This could be of interest to us for further financial analysis and investments. 
 
-![8-29](https://user-images.githubusercontent.com/92877810/140549600-0b8c5372-3354-417b-acfa-1dbe46a1e743.png)
+![8-29](https://user-images.githubusercontent.com/92877810/141006708-2ba13a1f-b302-4b12-b4f3-1ba783cbf162.png)
 
 🚩Let us use our new Calculated Dimension to find out the split of Average Sales Revenue by Store Group. 
 
 36. Click Avg Sales Revenue for Actual Chart
 
-![8-30](https://user-images.githubusercontent.com/92877810/140549603-8c0a65f3-0e30-4d04-8242-f36a6cef9d1f.png)
+![8-30](https://user-images.githubusercontent.com/92877810/141006711-b0215de9-3334-4faa-93ce-1087c3755f0b.png)
 
 37. Click **+ Add Dimension** 
 
-![8-31](https://user-images.githubusercontent.com/92877810/140554035-5d406625-989b-4baa-95f4-39c69a528e07.png)
+![8-31](https://user-images.githubusercontent.com/92877810/141006713-6fc3679d-96a2-4405-b87e-2f0bc6de0f0d.png)
 
 38. Scroll and Click **Store Group**
 
 39. Click Inside the Builder Panel to Collapse the Dimension Selection Drop Down Menu 
 
-![8-32](https://user-images.githubusercontent.com/92877810/140554037-ab975a17-23ff-4641-b8e5-270b2d6f1ad6.png)
+![8-32](https://user-images.githubusercontent.com/92877810/141006714-7dfdceba-e915-40a4-99f5-bd6b0c3de334.png)
 
 ⚠️Quality check! Do your charts look like this screenshot? 
   
 🚩We can now see that Avg Sales Revenue is also higher for Studio Stores. It could be a good business decision to change our contract structure with our Studio Stores! 
 
-![8-33](https://user-images.githubusercontent.com/92877810/140554039-db560268-4991-414b-b69f-9589b723809f.png)
+![8-33](https://user-images.githubusercontent.com/92877810/141006715-991c052d-6d0b-4758-9789-ae58619b8d1e.png)
 
 🚩Up until this point, we have been working with visualizations built from measures and dimensions spanning a single model. Now, we can improve the value of our analysis through Blending to combine data sources. We can accomplish this by linking dimensions across models so we can compare and analyze the relationship between measures and dimensions across multiple models
 
@@ -242,7 +241,7 @@ Description, it is important to clarify that we are looking to parse the Store n
 
 40. Click **Link Dimensions**
 
-![8-34](https://user-images.githubusercontent.com/92877810/140554041-9111d980-223d-480f-954c-3d27ca9709ab.png)
+![8-34](https://user-images.githubusercontent.com/92877810/141006717-6b4b2378-c714-4f7c-8254-0355efba9097.png)
 
 ℹ️Welcome to Link Dimensions! 
   
@@ -252,7 +251,7 @@ By default, the ID attribute is used to match members between the linked dimensi
 
 We can utilize Linked Dimensions in our data by linking across the Finance and Shipping models by connecting dimensions that are identical across our two models. 
 
-![8-35](https://user-images.githubusercontent.com/92877810/140554043-d42dfb93-1be3-4934-bca9-4d47c2ac8b51.png)
+![8-35](https://user-images.githubusercontent.com/92877810/141006720-9ea97ba9-0c97-4dd3-99c0-06ab53b26309.png)
 
 🚩Let us link the Order Number and Store dimensions between our two models. Both these dimensions are identical across our models and have independent members that we can gather insights from. By linking on Store and Order Number we can look at analyses that target Store entities or individual orders. 
 
@@ -260,13 +259,13 @@ We can utilize Linked Dimensions in our data by linking across the Finance and S
  
 42. Scroll and Click **Order Number**
  
-![8-36](https://user-images.githubusercontent.com/92877810/140554044-0149768f-1514-46d0-b447-d97c6f8f9dc3.png)
+![8-36](https://user-images.githubusercontent.com/92877810/141006722-8587b3cd-b56c-48b1-884b-e315016e4c82.png)
 
 43. Scroll and Click **Store** 
  
 44. Scroll and Click **Store**
  
-![8-37](https://user-images.githubusercontent.com/92877810/140554045-0c508e60-5778-4a78-87d5-389c70d87788.png)
+![8-37](https://user-images.githubusercontent.com/92877810/141006724-2ee1cb5a-43dc-4634-a3bc-4ab37e0da50b.png)
 
 🚩It is important to specify the Dimension Attribute we are linking across. Order Number in our models is common on the Dimension ID whereas Store is common on the Dimension Description (the store name). Let us make sure that Order Number is linked by IDs between the models and Store is linked by Description or Store Names between the models. 
 
@@ -274,19 +273,19 @@ We can utilize Linked Dimensions in our data by linking across the Finance and S
 
 46. Click **ID**
 
-![8-38](https://user-images.githubusercontent.com/92877810/140554046-0e7dc1de-088e-477c-951a-0cf357ede842.png)
+![8-38](https://user-images.githubusercontent.com/92877810/141006726-e32881f7-4d96-4b1b-bbab-aed1ac9db005.png)
 
 47. Click **Link Attribute**
 
 48. Click **ID**
 
-![8-39](https://user-images.githubusercontent.com/92877810/140554047-cb7439d2-a9b8-45ec-92f0-2926976d790d.png)
+![8-39](https://user-images.githubusercontent.com/92877810/141006729-39ceac93-9b20-4a10-8114-d9d232872345.png)
 
 49. Click **Link Attribute**
 
 50. Click **Description**
 
-![8-40](https://user-images.githubusercontent.com/92877810/140554048-587bd199-3237-40ab-8a79-fd6c599d842e.png)
+![8-40](https://user-images.githubusercontent.com/92877810/141006731-dfd107d6-651f-43eb-8632-774dd5873b77.png)
 
 51. Click **Link Attribute**
 
@@ -294,13 +293,13 @@ We can utilize Linked Dimensions in our data by linking across the Finance and S
 
 53. Click **Set**
 
-![8-41](https://user-images.githubusercontent.com/92877810/140554051-7448a98d-e2de-46c8-a40e-ceea581d032e.png)
+![8-41](https://user-images.githubusercontent.com/92877810/141006732-a25a1567-4da0-43e9-83f1-ab936ec2b0d6.png)
 
 🚩SAP Analytics Cloud will display the model links you have created to link dimensions. We could choose to edit these links or add more linked dimensions. 
 
 54. Click **Done**
 
-![8-42](https://user-images.githubusercontent.com/92877810/140554053-4b750b64-2b8b-4bf3-ad27-8be37cafe3ee.png)
+![8-42](https://user-images.githubusercontent.com/92877810/141006734-6795f708-f8c7-4c92-af8e-97fc8d2c25ae.png)
 
 🚩Now that we have Linked Dimensions, we can create blended visualizations to look at correlations in our data. As a business analyst, we may be concerned about shipping delays and how it affects our company revenue. Let us look at a blended table to display information that would help this analysis
 
@@ -308,11 +307,11 @@ We can utilize Linked Dimensions in our data by linking across the Finance and S
 
 56. Click **ANA260_Shipping_Info** Table
 
-![8-43](https://user-images.githubusercontent.com/92877810/140554054-68697cb0-bef5-4621-bd00-c103dd801dd1.png)
+![8-43](https://user-images.githubusercontent.com/92877810/141006735-34185c59-ebba-4122-837c-db609b72e3fe.png)
 
 57. Click **+ Add Linked Models**
 
-![8-44](https://user-images.githubusercontent.com/92877810/140554055-d4ed9d76-5abc-461b-a0af-5590964e5dff.png)
+![8-44](https://user-images.githubusercontent.com/92877810/141006736-0e31025f-79e6-41ce-a5af-919dd8c2b05f.png)
 
 58. Click **ANA260_ORDER_FINANCE**
 
@@ -322,7 +321,7 @@ We can choose to display measures and calculations across our columns from both 
   
 In this table, we have specified Reasons for Delay as our Row dimension. We can look at how our Finance data is affected in each of these delay members. 
 
-![8-45](https://user-images.githubusercontent.com/92877810/140554057-7652be75-e3ab-4e66-ad5e-eaa8f727fade.png)
+![8-45](https://user-images.githubusercontent.com/92877810/141006738-5f189140-81fb-48c7-91cb-7a5afbbe90bd.png)
 
 🚩Let us create a calculation using Finance data to see how much of our product revenue falls under each of the Reasons for Delay categories. 
 
@@ -332,17 +331,17 @@ In this table, we have specified Reasons for Delay as our Row dimension. We can 
 
 61. Click **ANA260_ORDER_FINANCE**
 
-![8-46](https://user-images.githubusercontent.com/92877810/140554058-c7b4d44e-bc93-4b10-95eb-eac572812d2b.png)
+![8-46](https://user-images.githubusercontent.com/92877810/141006741-e6b3e9cc-67c2-465f-9d93-e4216a849bf9.png)
 
 62. Rename the Calculation to % **Contribution to Revenue**
 
-![8-47](https://user-images.githubusercontent.com/92877810/140554060-a621a52e-31f0-497d-83b7-3d70bf80a437.png)
+![8-47](https://user-images.githubusercontent.com/92877810/141006743-03c9e2bd-e718-43aa-8278-ebb51825ab5b.png)
 
 63. Type in "%" in Edit Formula
 
 64. Select **%GrandTotal**
 
-![8-48](https://user-images.githubusercontent.com/92877810/140554061-40e1fc37-da1c-42dd-b541-a252c7416797.png)
+![8-48](https://user-images.githubusercontent.com/92877810/141006745-386f4b59-bc8e-4277-8e22-b8af9e836642.png)
 
 65. Type in **"Re"** in %GrandTotal Field
 
@@ -350,7 +349,7 @@ In this table, we have specified Reasons for Delay as our Row dimension. We can 
 
 67. Click **OK**
 
-![8-49](https://user-images.githubusercontent.com/92877810/140554062-e9fd33d2-a946-47f1-8d5f-576948a9837d.png)
+![8-49](https://user-images.githubusercontent.com/92877810/141006746-af20207b-5151-4991-b6d3-343151979f1c.png)
 
 🚩Our table has updated with this calculation, but it has also included many other measures from the Finance model. First, we need to filter what columns are included in the table. 
 
@@ -358,19 +357,19 @@ In this table, we have specified Reasons for Delay as our Row dimension. We can 
 
 69. Click **ANA260_ORDER_FINANCE**
 
-![8-50](https://user-images.githubusercontent.com/92877810/140554064-9b63ef6a-b6e2-484c-967a-0e0237fe7bb9.png)
+![8-50](https://user-images.githubusercontent.com/92877810/141006749-67804dab-14de-45aa-b737-282d2253f339.png)
 
 70. Scroll and Click **% Contribution to Revenue**
 
 71. Click **OK**
 
-![8-51](https://user-images.githubusercontent.com/92877810/140554065-cea38047-1403-494a-974b-53ca2ff750db.png)
+![8-51](https://user-images.githubusercontent.com/92877810/141006750-8f335f7a-f778-42d6-9e67-15730d3ab06b.png)
 
 ⚠️Quality Check! Does your table look like this screenshot? 
 
 🚩We can see how useful blended visualizations can be with multiple data sets. From this table, we can see that around 42% of our revenue ships on time. However, weather conditions and out of stock also have relatively high % contributions to revenue. We should probably consider inventory management improvements as over 11% of our revenue in shipments are delayed due to being Out of Stock. 
 
-![8-52](https://user-images.githubusercontent.com/92877810/140554067-20718442-2f86-4ee8-8404-52e63cd19e32.png)
+![8-52](https://user-images.githubusercontent.com/92877810/141006755-d776d870-e316-4974-95f8-0a372f7d6c4f.png)
 
 🚩We can create calculations with measures from both models for visualization purposes. Let us look at the relationship between average order size from our stores and the delivery time
 
@@ -378,29 +377,29 @@ In this table, we have specified Reasons for Delay as our Row dimension. We can 
 
 73. Click the **Store Order Size per Store for Actual** Chart
 
-![8-53](https://user-images.githubusercontent.com/92877810/140554068-71c9e198-a08f-4c5e-8fba-666badb21014.png)
+![8-53](https://user-images.githubusercontent.com/92877810/141006756-ee72e780-d22a-4d6d-b58f-f6f71ace03ff.png)
 
 🚩Once again, our visualization has a linked model for Finance. Let us add a new measure for Store Order Size. 
 
 74. Click **Add Measure** 
 
-![8-54](https://user-images.githubusercontent.com/92877810/140554069-9903484e-4b61-40cf-8b9c-4b6cd49d2f48.png)
+![8-54](https://user-images.githubusercontent.com/92877810/141006759-bd68fa6b-1b9b-4ec8-8e05-89733a053cc9.png)
 
 75. Click **ANA260_SHIPPING_INFO**
  
-![8-55](https://user-images.githubusercontent.com/92877810/140554070-fef8cd4c-554a-4d0c-a3f9-d867f2a80daf.png)
+![8-55](https://user-images.githubusercontent.com/92877810/141006761-0605aa7b-a50a-4484-9501-104a19fd174c.png)
 
 76. Click **Store Order Size**
 
 77. Click Inside the Builder Panel to collapse the Measure Selection drop - down menu 
 
-![8-56](https://user-images.githubusercontent.com/92877810/140554071-feada96e-c27f-463b-9c7c-0f614fa64447.png)
+![8-56](https://user-images.githubusercontent.com/92877810/141006763-db21276f-c911-4600-ab86-4e40874d5c3d.png)
 
 ⚠️Quality check! Does your chart appear like this screenshot? 
  
 **Note:** You might have a different color chart
 
-![8-57](https://user-images.githubusercontent.com/92877810/140554073-bb572f64-9069-4682-a934-f0c0163229a3.png)
+![8-57](https://user-images.githubusercontent.com/92877810/141006766-e254012f-097d-40aa-aa53-be233180b610.png)
 
 ℹ️Let us look at how this calculation was created. We can easily examine the formula by going into the options
 
@@ -408,14 +407,14 @@ In this table, we have specified Reasons for Delay as our Row dimension. We can 
 
 79. Click **Edit Calculation**
 
-![8-58](https://user-images.githubusercontent.com/92877810/140554075-629191d6-14b6-4e8b-a4e4-55c85a2d7a78.png)
+![8-58](https://user-images.githubusercontent.com/92877810/141006767-f447fa44-ee3b-4041-810c-af7cf37e4d52.png)
 
 🚩Here is the formula for Store Order Size. It is a calculation using Sales Revenue from the Finance model and a Count 
 Aggregation from the Shipping Model for the Number of Delivered Orders. Since we are blending on Store name, our chart will understand this context for our Shipping aggregation. 
 
 80. Click **OK**
 
-![8-59](https://user-images.githubusercontent.com/92877810/140554077-6d7777df-3207-45f6-b67c-7d3ed60ed0cc.png)
+![8-59](https://user-images.githubusercontent.com/92877810/141006768-980bec32-9d34-44a5-a7b6-965feca41b88.png)
 
 🚩Let us use a Top N ranking to sort our chart data since we are interested in analyzing our top performing stores rather than all our stores. 
 
@@ -425,13 +424,25 @@ Aggregation from the Shipping Model for the Number of Delivered Orders. Since we
 
 83. Click **Top N Options**
 
-![8-60](https://user-images.githubusercontent.com/92877810/140554078-1393f924-ff32-430d-95c8-00de10be16cb.png)
+![8-60](https://user-images.githubusercontent.com/92877810/141006773-9480f8c6-e083-4c76-9c51-1153b83d2a7e.png)
 
 84. Set Value to 10
 
 85. Click **Apply**
 
-![8-61](https://user-images.githubusercontent.com/92877810/140558791-07496d08-dcb9-4a10-8a25-d11973dce90a.png)
+![8-61](https://user-images.githubusercontent.com/92877810/141006775-d8848aa5-b409-4401-81a3-df79a30b9f11.png)
+![8-62](https://user-images.githubusercontent.com/92877810/141006777-18f8210e-3b20-45a7-91e0-c50d2610b4f7.png)
+![8-63](https://user-images.githubusercontent.com/92877810/141006779-74abb924-368d-416b-b74b-e0e8a3ece9a8.png)
+![8-64](https://user-images.githubusercontent.com/92877810/141006780-3e982569-4cb6-4385-866e-6cc90e345c70.png)
+![8-65](https://user-images.githubusercontent.com/92877810/141006781-64a8ad43-e637-443d-b956-a71e76aab5ec.png)
+![8-66](https://user-images.githubusercontent.com/92877810/141006783-9058473a-f798-4a28-a51a-eec203f70750.png)
+![8-67](https://user-images.githubusercontent.com/92877810/141006785-1e03fbb0-2508-4437-88bd-2e5897d44ca1.png)
+![8-68](https://user-images.githubusercontent.com/92877810/141006786-7bbc3a60-b04f-4924-b782-bb371a3fda84.png)
+![8-69](https://user-images.githubusercontent.com/92877810/141006788-d9f9a577-ee31-4542-a026-9b4775c5be1f.png)
+![8-70](https://user-images.githubusercontent.com/92877810/141006790-e5b8e778-9961-4e3d-a4d1-aef5dba33b22.png)
+![8-71](https://user-images.githubusercontent.com/92877810/141006793-4c724e69-1371-44d1-9d07-990e04da8da2.png)
+![8-72](https://user-images.githubusercontent.com/92877810/141006794-c38b5d14-441d-492d-8564-973e6f4ff29d.png)
+![8-73](https://user-images.githubusercontent.com/92877810/141006795-cd41d4da-3739-47f7-92df-8fb36f032f85.png)
 
 ⚠️Quality check! Does your chart look like this screenshot? 
 
