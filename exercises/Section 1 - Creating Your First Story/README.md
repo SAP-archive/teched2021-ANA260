@@ -542,7 +542,7 @@ We will cover calculations in more detail for business analytics use cases in ou
 
 123. Click **Create Calculation** in **Add Measure**
 
-![Image 123](https://user-images.githubusercontent.com/90856848/137995024-c34a8f38-e1cb-42ae-9d0d-405cc9266b62.png)
+![1-replace2](https://user-images.githubusercontent.com/92877810/140980346-5627ef94-4a18-4417-a4bb-b7da886155b8.png)
 
 🚩We want to calculate the average sales revenue by store for our company. This will require an aggregation of all sales revenue averaged by number of stores. We can create this in the Aggregation Calculation Type. 
 
