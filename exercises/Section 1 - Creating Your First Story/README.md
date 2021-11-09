@@ -263,7 +263,7 @@ We can now see gross margin by each product category (Accessories, Clothing, Foo
 
 57. Click **CGR (Compound Growth Rate)**
 
-![Image 55_56_57](https://user-images.githubusercontent.com/90856848/137972267-afac9e7c-cc63-4cf9-80d2-b8b5d1a76135.png)
+![1-replace](https://user-images.githubusercontent.com/92877810/140978948-b47a57aa-2bb3-4912-94ee-3974d201e51a.png)
 
 🚩We use the CGR added to the chart that compared to look at our compound growth rate in the year. If the CGR is negative it could be alarming information for the business user
 
