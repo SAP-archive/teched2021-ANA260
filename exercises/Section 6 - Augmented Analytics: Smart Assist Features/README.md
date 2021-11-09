@@ -86,7 +86,7 @@ Margin comes from my selecting the model icon of the chart details.
 
 11. Click **Copy**
 
-12. Click **Home**
+12. Click **Exit Search to Insight**
 
 ![6-9](https://user-images.githubusercontent.com/92877810/138933160-11baebc9-0578-4c4b-b784-4d0ef5bd3d0e.png)
 
