@@ -167,9 +167,11 @@ Swatch 6: f9c43e
 
 30. Click  the **Paint Bucket** for **Lane Styling Options**
 
+![4-r1](https://user-images.githubusercontent.com/92877810/140995125-693f27b4-3cc0-462f-a387-aba051849075.png)
+
 31. Choose **Black Color**
 
-![4-19](https://user-images.githubusercontent.com/92877810/138502949-c7d3c409-a96a-418b-84a5-eb4fc19160de.png)
+![4-r2](https://user-images.githubusercontent.com/92877810/140995128-dc22db98-ed48-406a-a975-81cad2feb02f.png)
 
 🚩We can also change the background of the left lane to separate the input controls from visualizations. 
 
