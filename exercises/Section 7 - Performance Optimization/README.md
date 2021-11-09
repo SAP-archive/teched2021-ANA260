@@ -59,13 +59,12 @@ Let's open the required story
 
 ![7-7](https://user-images.githubusercontent.com/92877810/139118594-89430be8-b4a8-4d58-b110-d2b9d2ea2c1f.png)
 
-8. Go to **MyFiles**
+8. Rename the File as **Section 7 - Performance Optimisation Your Initials**
 
-![7-8](https://user-images.githubusercontent.com/92877810/139118595-0086f14c-55b7-4104-91c4-b44093d6afe9.png)
+9. Click **OK**
 
-9. Rename the File as **Section 7 - Performance Optimisation Your Initials**
+![7-r](https://user-images.githubusercontent.com/92877810/140999492-0986bb4d-4c15-4ddf-a46d-ba146cc03617.png)
 
-![7-9](https://user-images.githubusercontent.com/92877810/139118596-bc5e3cb7-80db-4bf1-8d69-23f380a71ee3.png)
 
 10. Click **Edit** to go into Edit mode
 
