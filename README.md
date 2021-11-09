@@ -10,7 +10,7 @@ This session consists of a series of exercises to introduce you to the most inno
 
 We've also included additional in-depth content for expereinced users which will teach best practices and overview how to use powerful SAC features to create calculations, blend data, build versatile geo visualizations, manipulate time dimensions, and showcase your work in Digital Boardroom.
 
-The script and exercises are built to accomodate new users as well as experienced users. New users are recommended to focus on sections one to seven, which will take approximately two hours, and more advanced users are recommended to complete the deep dives if they'd like to learn more about complex topics. 
+The script and exercises are built to accomodate new users as well as experienced users. New users are recommended to focus on sections one to seven, which will take approximately two hours, and more advanced users should try the deep dives if they'd like to learn more about complex topics. 
 
 ## Instructions to Log onto Tenant
 
