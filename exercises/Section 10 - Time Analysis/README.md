@@ -474,17 +474,17 @@ Let's expand it and put it into the position.
 
 107. Click **Linked Analysis**
 
-![10-80](https://user-images.githubusercontent.com/92877810/140186496-6ae5f811-92d1-429c-aa2c-7512086976a2.png)
+![10-80](https://user-images.githubusercontent.com/92877810/141184244-994d348c-b401-4902-ad72-14760e0e9700.png)
 
 108. Click **Only Selected Widgets**
 
-![10-81](https://user-images.githubusercontent.com/92877810/140186497-bc428b4a-08ec-4967-b407-95b70f040a89.png)
+![10-81](https://user-images.githubusercontent.com/92877810/141184246-5eb54781-a6de-4d13-a4d8-5a2ca792d60c.png)
 
 109. Scroll and Click **Order Delivery Analysis**
 
 110. Click **Apply**
 
-![10-82](https://user-images.githubusercontent.com/92877810/140186499-1133a61e-128c-4c29-a45e-ea12dee51c60.png)
+![10-82](https://user-images.githubusercontent.com/92877810/141184247-e01aa484-1816-4f2c-bb8b-7633b7efea67.png)
 
 🚩We want to repeat the steps for the 
 Receive Date Range Filter Input Control. 
@@ -495,45 +495,45 @@ Receive Date Range Filter Input Control.
 
 113. Click **Linked Analysis**
 
-![10-83](https://user-images.githubusercontent.com/92877810/140186502-56325139-6b98-4598-b773-50cb9156239a.png)
+![10-83](https://user-images.githubusercontent.com/92877810/141184249-09132d0b-0e37-45cf-ae2a-dfe4a65afc9a.png)
 
 114. Click **Only Selected Widgets**
 
-![10-84](https://user-images.githubusercontent.com/92877810/140186505-b049e077-4c88-451d-a02c-7f8845672c1f.png)
+![10-84](https://user-images.githubusercontent.com/92877810/141184250-ac6c00e4-0502-49b1-8bd7-fe4f3591c63e.png)
 
 115. Scroll and Click **Order Delivery Analysis**
 
 116. Click **Apply**
 
-![10-85](https://user-images.githubusercontent.com/92877810/140186506-6bdc613a-d4c1-441b-8fa4-26c45bc90d11.png)
+![10-85](https://user-images.githubusercontent.com/92877810/141184251-1ab25407-b841-47c1-a810-907dde6e653f.png)
 
 ⚠️Quality Check! Your page input controls should only drive the Order Delivery Analysis table
 
-![10-86](https://user-images.githubusercontent.com/92877810/140186509-4a1a1cf7-3315-44e7-9275-15a046d644d1.png)
+![10-86](https://user-images.githubusercontent.com/92877810/141184252-3612b49b-afd5-455e-b201-986e8197f61f.png)
 
 🚩Let's find out which orders that were shipped after Oct 1st, 2021 have been received by October 8th, 2021. 
 
 117. Click the **End Date Picker**
 
-![10-87](https://user-images.githubusercontent.com/92877810/140186512-413438e7-b011-4fc5-b628-15776b63e818.png)
+![10-87](https://user-images.githubusercontent.com/92877810/141184253-32dca347-697d-451f-be38-128291b79c9e.png)
 
 118. Click **November**
 
-![10-88](https://user-images.githubusercontent.com/92877810/140186513-3c465b16-965c-461a-9eb2-26874113e9fe.png)
+![10-88](https://user-images.githubusercontent.com/92877810/141184254-24b0025d-07ce-4fe7-a80c-9a7049d451ac.png)
 
 119. Click **Oct**
 
-![10-89](https://user-images.githubusercontent.com/92877810/140186514-fc5e9d28-a1aa-4c8f-b308-9ceab2ac1f01.png)
+![10-89](https://user-images.githubusercontent.com/92877810/141184255-da68786f-8e7a-439c-b38c-a0e5c8c62516.png)
 
 120. Click **8**
 
-![10-90](https://user-images.githubusercontent.com/92877810/140186516-b102e2c1-4cac-49c3-bc40-18bb289abce6.png)
+![10-90](https://user-images.githubusercontent.com/92877810/141184257-ed38e2c6-ae45-4b60-9d30-60b78b2d1a82.png)
   
 🚩Next you want to calculate the time it takes to deliver your orders. This can easily be done via calculations. 
 
 121. Click the **Order Delivery Analysis Table**
 
-![10-91](https://user-images.githubusercontent.com/92877810/140186519-db3becca-215f-4e71-aa49-2f30a4ad8222.png)
+![10-91](https://user-images.githubusercontent.com/92877810/141184258-1015bbd5-e08a-441f-b3ea-7e97a81e1118.png)
 
 122. Click **Designer**
 
@@ -541,11 +541,11 @@ Receive Date Range Filter Input Control.
 
 124. Click **Add Calculation**
 
-![10-92](https://user-images.githubusercontent.com/92877810/140186521-6a21f910-e8ab-43a2-b8bf-0a5289473498.png)
+![10-92](https://user-images.githubusercontent.com/92877810/141184259-6c50aea8-59d2-4e8d-b203-b379e11cb3e0.png)
 
 125. Click **Date Difference**
 
-![10-93](https://user-images.githubusercontent.com/92877810/140186522-6b19ff77-090d-4095-9052-b5074fdea4e2.png)
+![10-93](https://user-images.githubusercontent.com/92877810/141184261-e5ff9630-0efc-4639-be65-44305066cf75.png)
 
 The time to deliver the orders is the difference between Receive Date and Order Date. 
 
@@ -553,31 +553,31 @@ The time to deliver the orders is the difference between Receive Date and Order 
 
 127. Click **Receive Date**
 
-![10-94](https://user-images.githubusercontent.com/92877810/140186524-d499a9d0-c42b-49fa-81ed-4ca4875c0614.png)
+![10-94](https://user-images.githubusercontent.com/92877810/141184263-dc431ac6-af78-4ef1-afa7-ad3f2bd307d2.png)
 
 🚩You must specify the context of the calculation. As the delivery time is based on orders you must use Order ID in the dimension context. Also, in case the chart or table does not include Order ID, then an additional average aggregation will be applied to the calculation.  
 
 128. Expand **Dimension Context**
 
-![10-95](https://user-images.githubusercontent.com/92877810/140186525-f3c28564-d364-48de-ac19-5c2ea740c655.png)
+![10-95](https://user-images.githubusercontent.com/92877810/141184264-9fd19f71-1006-41d0-b64b-b2248ec77e9f.png)
 
 129. Click **Order ID**
 
 130. Click Outside the Dimension Context Drop Down Menu to Collapse
 
-![10-96](https://user-images.githubusercontent.com/92877810/140186527-ce60798c-380d-4fd7-82ae-5e4d74aa9a52.png)
+![10-96](https://user-images.githubusercontent.com/92877810/141184266-f4134e2a-b166-43ef-96a3-96dba5d28d88.png)
 
 131. Rename Calculation to **Delivery Time**
 
 132. Click **OK**
 
-![10-97](https://user-images.githubusercontent.com/92877810/140186528-fc880f7e-7fa9-48d8-afe1-b8ca316fd413.png)
+![10-97](https://user-images.githubusercontent.com/92877810/141184267-048c4d0d-2b30-4780-baf4-b8f707e804a3.png)
 
 🚩You can see the delivery time has been added to the table.  
   
 **Note:** You may need to scroll in the table to see the new calculation. 
 
-![10-98](https://user-images.githubusercontent.com/92877810/140186530-2f9ea854-9ce7-4bfa-b63c-1874b981f206.png)
+![10-98](https://user-images.githubusercontent.com/92877810/141184268-8c1b9f9f-0a49-4348-89ef-1683ab453280.png)
   
 Let's format the calculation. 
 
@@ -585,7 +585,7 @@ Let's format the calculation.
 
 134. Click **Edit Formatting**
 
-![10-99](https://user-images.githubusercontent.com/92877810/140186533-5ed7d0e2-7907-4d2f-ade6-0a020f0a0980.png)
+![10-99](https://user-images.githubusercontent.com/92877810/141184269-dfec9bf3-534d-45ed-b945-20795ad2a8f9.png)
 
 135. Deselect **Use Unit of Underlying Measure**
 
@@ -593,15 +593,15 @@ Let's format the calculation.
 
 137. Click **OK**
 
-![10-100](https://user-images.githubusercontent.com/92877810/140186534-4efe053f-b133-4ac8-8219-b129a6b03561.png)
+![10-100](https://user-images.githubusercontent.com/92877810/141184270-15b92fc8-eae2-4252-897b-03b84866052f.png)
 
 🚩The calculation has been formatted. Let's order the measures in the table. 
 
-![10-101](https://user-images.githubusercontent.com/92877810/140192554-52e3153d-fcc2-45c4-a3d9-76c0a3809f28.png)
+![10-101](https://user-images.githubusercontent.com/92877810/141184272-8fe47644-d760-484c-b51b-e25261d0eb83.png)
 
 138. Click **Designer** to collapse the **Designer Panel**
 
-![10-102](https://user-images.githubusercontent.com/92877810/140192558-60a7965c-13a9-4045-bb89-78dc0c4e3b51.png)
+![10-102](https://user-images.githubusercontent.com/92877810/141184274-614deefe-1377-4a42-be47-18fdb3eaa4b8.png)
 
 🚩We want to reorder the measure within our table. 
 
@@ -611,7 +611,7 @@ Let's format the calculation.
 
 141. Click **Add Custom Order**
 
-![10-103](https://user-images.githubusercontent.com/92877810/140192559-a781153e-976c-49f3-a326-ee2ec079abf7.png)
+![10-103](https://user-images.githubusercontent.com/92877810/141184275-bb63c680-1269-46cd-9aaa-bd536fda883d.png)
 
 🚩The desired order is: 
 •	Delivery Time 
@@ -625,17 +625,17 @@ Let's format the calculation.
 
 144. Click and Drag Gross Margin above Discount
 
-![10-104](https://user-images.githubusercontent.com/92877810/140192561-efc8a051-1b8b-4120-8b64-008281c08396.png)
+![10-104](https://user-images.githubusercontent.com/92877810/141184278-bb131b96-2415-4be4-a829-d1262ef7b444.png)
 
 ⚠️Quality Check! Does your custom sort match the screenshot? 
 
 145. Click **OK**
 
-![10-105](https://user-images.githubusercontent.com/92877810/140192562-b3658ddd-593f-46c0-b408-caff6446e3b2.png)
+![10-105](https://user-images.githubusercontent.com/92877810/141184279-a7db2c5e-27a0-4e06-af94-8f36f68df776.png)
 
-⚠️Quality Check! Does your table look like this? 
+⚠️Quality Check! Does your table look like this?
 
-![10-106](https://user-images.githubusercontent.com/92877810/140192564-6787222a-eb94-41f2-8cf8-801fb60c3ed7.png)
+![10-106](https://user-images.githubusercontent.com/92877810/141184280-5817c42f-bbb4-4ac6-a5be-958cd2a54488.png)
 
 🚩Next you want to compare the financial performance for this year to the performance from last year during the same period. You will do the analysis on the Financial Performance table. Select the table and open the Builder panel.  
 
@@ -643,7 +643,7 @@ Let's format the calculation.
 
 147. Click the **Financial Performance** Table
 
-![10-107](https://user-images.githubusercontent.com/92877810/140192565-ed098374-0244-4848-bc0f-4f6f30c0a3e5.png)
+![10-107](https://user-images.githubusercontent.com/92877810/141184281-33f37b68-2a27-432e-959e-678ce907443f.png)
 
 148. Click **Designer** to Open the Builder Panel
 
@@ -651,13 +651,13 @@ Let's format the calculation.
 
 149. Click **+ Add Measures/Dimensions**
 
-![10-108](https://user-images.githubusercontent.com/92877810/140192566-b5a7f715-50e5-4f6b-b47b-b212b9046f44.png)
+![10-108](https://user-images.githubusercontent.com/92877810/141184282-6f228ea2-a01f-45d2-aa0a-fd44127d2c88.png)
 
 150. Click **Cross Calculations**
 
 151. Click **Outside** the **Measures/Dimensions** Drop Down Menu to Collapse
 
-![10-109](https://user-images.githubusercontent.com/92877810/140192567-969736ce-018a-4609-b7ad-c0e3c57be954.png)
+![10-109](https://user-images.githubusercontent.com/92877810/141184283-2b1bf5dc-0f4a-4af2-a115-34195d47fd5a.png)
 
 🚩Let's add the first cross calculation as a restricted measure for the year to date time range using order date dimension 
 
@@ -665,59 +665,59 @@ Let's format the calculation.
 
 153. Click **Add Calculations**
 
-![10-110](https://user-images.githubusercontent.com/92877810/140192569-7cb06df7-d840-4f8c-bb9b-b85ffcfbf01f.png)
+![10-110](https://user-images.githubusercontent.com/92877810/141184284-7a3b1678-a191-4a90-abb7-028470f4102c.png)
 
 154. Click **Restricted Measure**
 
-![10-111](https://user-images.githubusercontent.com/92877810/140192570-2c242cbe-166d-42e1-974d-ca2b060cf4be.png)
+![10-111](https://user-images.githubusercontent.com/92877810/141184285-d71a799e-fafe-403d-b690-8d5d2920309f.png)
 
 155. Expand **Dimensions**
 
 156. Click **Order Date**
 
-![10-112](https://user-images.githubusercontent.com/92877810/140192572-038cff7b-7a9a-41a6-9347-6c1184af9098.png)
+![10-112](https://user-images.githubusercontent.com/92877810/141184286-0bd90e5a-5c52-479f-ac34-aebcbef4789c.png)
 
 157. Expand **Values** or **Input Controls**
 
 158. Expand **To Date** Under **Current Period**
 
-![10-113](https://user-images.githubusercontent.com/92877810/140192574-d0633bf1-1ce7-420c-9be4-51be75267a7f.png)
+![10-113](https://user-images.githubusercontent.com/92877810/141184287-76b55e49-17ae-4e86-8ced-dcbb7bc96490.png)
 
 159. Click **Year**
 
-![10-114](https://user-images.githubusercontent.com/92877810/140192575-2bf06b8a-c437-487d-8c57-bb010c217fd5.png)
+![10-114](https://user-images.githubusercontent.com/92877810/141184288-071b9252-577b-4b53-aab2-9489a1bdcaea.png)
 
 160. Rename the Calculation to **YTD**
 
 161. Click **OK**
 
-![10-115](https://user-images.githubusercontent.com/92877810/140192577-8bb7976b-f5d6-4437-bd00-45199200fccc.png)
+![10-115](https://user-images.githubusercontent.com/92877810/141184289-3eec058a-c9a3-480d-b973-721169b300f2.png)
 
 🚩You can see the calculation was added to the table. Let's create an equivalent calculation for the previous year's value. 
 
-![10-116](https://user-images.githubusercontent.com/92877810/140192579-4a5a9b6d-69fb-409b-ac40-6eca1eb26f0d.png)
+![10-116](https://user-images.githubusercontent.com/92877810/141184291-9e79cb1c-0ec2-4d96-a0d7-90bbbfe6395b.png)
 
 162. Click **Add Calculations**
 
 163. Click the **More Action** Icon for **Cross Calculations**
 
-![10-117](https://user-images.githubusercontent.com/92877810/140192580-1a3af021-a454-44ce-8ab8-1c858d24458a.png)
+![10-117](https://user-images.githubusercontent.com/92877810/141184294-34234e18-972f-4eac-8f24-0bd33bcf921c.png)
 
 164. Click **Restricted Measure**
 
-![10-118](https://user-images.githubusercontent.com/92877810/140192582-103f71f8-2f78-4ed6-995a-0c5bbab1db9c.png)
+![10-118](https://user-images.githubusercontent.com/92877810/141184296-2b7912a9-9ef5-47c4-97f8-3a336fa72324.png)
 
 165. Expand **Measures**
 
 166. Click **Account Values**
 
-![10-119](https://user-images.githubusercontent.com/92877810/140192584-d2bf122b-e877-4e9c-8d5c-611ed64c7fa9.png)
+![10-119](https://user-images.githubusercontent.com/92877810/141184297-b1732ab8-ccac-4df3-98ea-17a1d0e734c1.png)
 
 167. Expand **Dimensions**
 
 168. Click **Order Date**
 
-![10-120](https://user-images.githubusercontent.com/92877810/140192585-c3bfd93c-2db9-4682-aa36-71d60f3b5c36.png)
+![10-120](https://user-images.githubusercontent.com/92877810/141184299-3194d565-92ad-4e83-960e-e19dd54ddd8f.png)
 
 169. Expand **Values** or **Input Controls**
 
@@ -725,13 +725,13 @@ Let's format the calculation.
 
 171. Click **Year**
 
-![10-121](https://user-images.githubusercontent.com/92877810/140194901-16dd988d-2aa2-453d-a363-8e7e0609d3f5.png)
+![10-121](https://user-images.githubusercontent.com/92877810/141184300-5299d513-4dc9-438f-8e9d-1b6a3a2e21b9.png)
 
 172. Rename the Calculation to **PYTD**
 
 173. Click **OK**
 
-![10-122](https://user-images.githubusercontent.com/92877810/140194904-f1fa64e4-cffe-4c9d-9877-70cf030cc428.png)
+![10-122](https://user-images.githubusercontent.com/92877810/141184302-9134fd87-2183-4cc1-888e-2503c15331c0.png)
 
 🚩Next you want to calculate the variance between last years data and this year’s data. 
 
@@ -739,47 +739,47 @@ Let's format the calculation.
 
 175. Click **Add Calculation**
 
-![10-123](https://user-images.githubusercontent.com/92877810/140416150-41033377-251d-4973-88be-b0e5a24b1c64.png)
+![10-123](https://user-images.githubusercontent.com/92877810/141184303-6bf10815-a8f7-4fa1-948b-1bce81b45790.png)
 
 176. Click **Calculated Measure**
 
-![10-124](https://user-images.githubusercontent.com/92877810/140416151-09429935-49d8-4c60-9655-8e83e7976ef8.png)
+![10-124](https://user-images.githubusercontent.com/92877810/141184306-536b840c-d466-4690-a843-a0f418997ef2.png)
 
 177. Type **P**
 
 178. Click **PYTD**
 
-![10-125](https://user-images.githubusercontent.com/92877810/140416153-846fedb2-0554-4521-bdbd-8a956afd2de6.png)
+![10-125](https://user-images.githubusercontent.com/92877810/141184308-cf38271e-d029-40c0-a371-146e1f5a6e91.png)
 
 179. Type **Y**
 
 180. Click **YTD** 
 
-![10-126](https://user-images.githubusercontent.com/92877810/140416155-e4d922c4-1a30-43cd-829e-fcf8a261f88f.png)
+![10-126](https://user-images.githubusercontent.com/92877810/141184309-f6be7cad-a777-4568-8005-457e1c60d44b.png)
 
 181. Rename Calculation to **Variance**
 
 182. Click **OK**
 
-![10-127](https://user-images.githubusercontent.com/92877810/140416156-8846a57c-5104-40ec-b19d-9931310db939.png)
+![10-127](https://user-images.githubusercontent.com/92877810/141184310-13239b30-fafa-487c-a340-654c7c9ca077.png)
 
 🚩Before reviewing the table. Let's make sure we have only the desired calculations selected. 
 
 183. Click **Filter** for **Cross Calculations**
 
-![10-128](https://user-images.githubusercontent.com/92877810/140416158-559e4385-de9b-4070-be7b-2c3f6b8b73da.png)
+![10-128](https://user-images.githubusercontent.com/92877810/141184311-15e4e02c-854e-47cc-beed-9fdb36997051.png)
 
 184. Click **PYTD**
 
 185. Click **OK**
 
-![10-129](https://user-images.githubusercontent.com/92877810/140416160-73313292-70eb-4644-899f-39044fe52708.png)
+![10-129](https://user-images.githubusercontent.com/92877810/141184312-4c6e3b60-9055-4db0-a832-518ea2ed9f94.png)
 
 ⚠️Quality Check! Does your table look like this? 
   
 Note: Due to the dynamic time filter the data may vary. 
 
-![10-130](https://user-images.githubusercontent.com/92877810/140416162-7629fd39-d437-4c9d-8780-772c0f9df1df.png)
+![10-130](https://user-images.githubusercontent.com/92877810/141184315-0e91f804-f09e-4e57-835c-fd6e2e396422.png)
 
 🚩Next, you would like to adjust the order of the columns in the table. 
 
@@ -787,7 +787,7 @@ Note: Due to the dynamic time filter the data may vary.
 
 187. Click **Edit Member Order...**
 
-![10-131](https://user-images.githubusercontent.com/92877810/140416163-f8f3c2d3-03e7-4132-a3b0-6b3c1fb2a75f.png)
+![10-131](https://user-images.githubusercontent.com/92877810/141184316-920ef0e2-cf7e-4c3d-a170-3cc7b002c88e.png)
 
 🚩The required member order is: 
  
@@ -803,17 +803,17 @@ Measure Selector
 
 190. Click and drag **Variance** below PYTD
 
-![10-132](https://user-images.githubusercontent.com/92877810/140416164-e41aecd9-f4e5-490c-92c7-2bcf8f57d885.png)
+![10-132](https://user-images.githubusercontent.com/92877810/141184317-d8a36b10-5f05-4873-b86d-33b2b536ae68.png)
 
 ⚠️Quality Check! Does your Edit Member Order match the screenshot? 
 
 191. Click **Done**
 
-![10-133](https://user-images.githubusercontent.com/92877810/140416166-20d56089-9df8-4757-ba13-3cebc3e046e8.png)
+![10-133](https://user-images.githubusercontent.com/92877810/141184319-b7576665-3720-48e4-a7a6-20c3749205e3.png)
 
 ⚠️Quality Check! Does your table look like this? 
 
-![10-134](https://user-images.githubusercontent.com/92877810/140416167-ff83c058-1b55-4cde-85a6-9c8a00be3419.png)
+![10-134](https://user-images.githubusercontent.com/92877810/141184320-bc39721c-63b9-4c13-841b-6c11fe3f4525.png)
 
 🚩You want to make the variance stand out more easily indicating where there was an increase or decrease from last year. This can easily be done by turning it into a variance in-cell chart.  
 
@@ -821,7 +821,7 @@ Measure Selector
 
 193. Click **In-Cell Chart**
 
-![10-135](https://user-images.githubusercontent.com/92877810/140416170-c0f79d3a-335d-4606-af6b-90e489445331.png)
+![10-135](https://user-images.githubusercontent.com/92877810/141184322-150fefd7-66fe-49d6-8796-1e51f719d519.png)
 
 194. Click the **In-Cell Chart**
 
@@ -829,11 +829,26 @@ Measure Selector
 
 196. Click **Variance Bar**
 
-![10-137](https://user-images.githubusercontent.com/92877810/140416173-43fbea61-d361-43e3-820f-02393749ab99.png)
+![10-136](https://user-images.githubusercontent.com/92877810/141184323-7ef6c6e3-e8cb-4297-8d7e-b0e40fbdba61.png)
 
 ⚠️Quality Check! Does your table look like this? 
 
-![10-138](https://user-images.githubusercontent.com/92877810/140416176-89626d1d-121a-4cf6-b421-277a580bd682.png)
+![10-137](https://user-images.githubusercontent.com/92877810/141184324-57f91e53-435a-4229-b3a0-220fbac8c63e.png)
+![10-138](https://user-images.githubusercontent.com/92877810/141184325-1e1b1b8b-a078-46c9-ae97-d6acb7e05f6e.png)
+![10-139](https://user-images.githubusercontent.com/92877810/141184327-c87b56e8-9acf-4418-bf3f-65fdc23eabd8.png)
+![10-140](https://user-images.githubusercontent.com/92877810/141184328-9e0afe56-c63d-4e2b-9d18-7714fd86172b.png)
+![10-141](https://user-images.githubusercontent.com/92877810/141184331-2529667e-a6ab-4448-9f6a-3aefa8495b21.png)
+![10-142](https://user-images.githubusercontent.com/92877810/141184334-c1392574-175e-48cf-bfb7-291623bb3b88.png)
+![10-143](https://user-images.githubusercontent.com/92877810/141184337-327a5e6c-a9db-4c1d-9337-760f21a8dbe5.png)
+![10-144](https://user-images.githubusercontent.com/92877810/141184338-264f53a6-fe9c-4b68-badb-4fb9cdf3a5e1.png)
+![10-145](https://user-images.githubusercontent.com/92877810/141184339-0983234e-fa37-4a19-8c7a-5dfc594bf5d4.png)
+![10-146](https://user-images.githubusercontent.com/92877810/141184341-abdac089-4a9b-41e2-a084-2a67e3b022db.png)
+![10-147](https://user-images.githubusercontent.com/92877810/141184342-b5402795-6802-48a2-9d11-f7541f4b9629.png)
+![10-148](https://user-images.githubusercontent.com/92877810/141184343-83d75052-8c2a-4697-add5-17e5d76bfa92.png)
+![10-149](https://user-images.githubusercontent.com/92877810/141184344-5f6466df-2c07-4a50-8f12-c511b95f2a1c.png)
+![10-150](https://user-images.githubusercontent.com/92877810/141184345-5858f7d9-0e56-4305-a241-30a59f527c32.png)
+![10-151](https://user-images.githubusercontent.com/92877810/141184346-8e371521-c693-4f3a-bad1-fe500e72c068.png)
+![10-152](https://user-images.githubusercontent.com/92877810/141184348-4f95f491-f7a1-4ce2-a007-5c075bbd53a1.png)
 
 🚩Next let's look at some time navigation inside a chart. The chart shows the Sales Revenue over time. Let's drill a level down to understand how 2021 is performing. 
 
