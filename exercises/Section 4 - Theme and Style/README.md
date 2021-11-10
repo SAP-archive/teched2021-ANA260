@@ -130,25 +130,25 @@ Swatch 6: f9c43e
 
 20. Click **Remove**
 
-![4-13](https://user-images.githubusercontent.com/92877810/138502939-eaee116f-2863-45c7-86f1-65abc0c8054b.png)
+![4-rr](https://user-images.githubusercontent.com/92877810/141191921-fce67a22-36b2-4d15-8af9-15e0b8db5864.png)
 
 21. Click and Drag the Numeric Point Chart to the Right 
 
 22. Drop the Numeric Point Chart Here 
 
-![4-14](https://user-images.githubusercontent.com/92877810/138502941-2b386b87-c06d-4d62-9e18-630a128b4e5b.png)
+![4-rr2](https://user-images.githubusercontent.com/92877810/141191924-5db25609-de30-4747-8de2-2a534b6d01de.png)
 
 23. Click and Drag the Numeric Point Chart to the Right 
 
 24. Drop the Numeric Point Chart Here 
 
-![4-15](https://user-images.githubusercontent.com/92877810/138502942-5540e583-869d-4f09-9d69-1e58ff49ad7c.png)
+![4-rr3](https://user-images.githubusercontent.com/92877810/141191926-605e270f-a604-4ec3-91ca-bf96e43678d0.png)
 
 25. Click and Drag the Numeric Point Chart to the Right 
 
 26. Drop the Numeric Point Chart Here 
  
-![4-16](https://user-images.githubusercontent.com/92877810/138502943-13ab7f50-e274-487f-b503-dc20b0a96ad6.png)
+![4-rr4](https://user-images.githubusercontent.com/92877810/141191928-0c382de2-2557-41bb-8f8c-9f46ccdc196c.png)
 
 ℹ️We have created some space on the left of our top lane for corporate branding covered later in this section. Let’s edit the charts on our dashboard to declutter the view. 
 
@@ -243,7 +243,7 @@ Swatch 6: f9c43e
 
 51. Resize your numeric point charts so they are smaller. 
 
-![4-31](https://user-images.githubusercontent.com/92877810/138505238-f31eafb4-5942-4c46-bfea-43d6cd8b0f53.png)
+![4-rr5](https://user-images.githubusercontent.com/92877810/141191929-09d4461d-35d0-4bd5-b9c1-a323f54f3b43.png)
 
 🚩In responsive pages, the story is divided into cells that are used to format the placement and size of all elements on the story. This enables the story view to be easily converted for viewing on a variety of device formats, including mobile. Users can choose to change the size and spacing between cells. 
 
@@ -287,7 +287,7 @@ Swatch 6: f9c43e
 
 58. Click the Sales Revnue numeric point chart
 
-![4-39](https://user-images.githubusercontent.com/92877810/138505263-f3cebacc-7691-4610-a9c9-7f7470607e3b.png)
+![4-rr6](https://user-images.githubusercontent.com/92877810/141191930-8a1b49e8-c95b-4212-8bad-f040e6a0c4f1.png)
 
 59. Scroll to the Bottom of the Styling Panel to Number Format 
 
@@ -299,7 +299,7 @@ Swatch 6: f9c43e
 
 62. Click the Avg Sales Revnue numeric point chart
 
-![4-41](https://user-images.githubusercontent.com/92877810/138505266-7c4f4b6f-615d-4df6-9130-126a5c919743.png)
+![4-rr7](https://user-images.githubusercontent.com/92877810/141191931-0947a2d2-fe84-4d1d-b98b-d8628d696aaa.png)
 
 63. Scroll to the Bottom of the Styling Panel to Number Format 
 
