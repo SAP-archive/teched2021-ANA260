@@ -247,7 +247,7 @@ The last range shall be the last 2 years as well as the current year
 
 ![10-r51](https://user-images.githubusercontent.com/92877810/141179791-7ad856bb-9deb-4cb1-b129-49fbe90b391d.png)
 
-51. Click **Current Month**
+51. Click **Order Date**
 
 52. Click the **Last Member**
 
@@ -261,7 +261,7 @@ The last range shall be the last 2 years as well as the current year
 
 🚩Right now, the story filter has still a lot of options such as configuring the time periods to go back to. You can hide this complexity from the story viewer. Let's do that and only expose the effected time range to the story viewers. 
 
-54. Click **Current Month**
+54. Click **Order Date**
 
 55. Click **Settings**
 
@@ -753,7 +753,7 @@ Let's format the calculation.
 
 179. Type **Y**
 
-180. Click **YTD** 
+180. Click **- YTD** 
 
 ![10-126](https://user-images.githubusercontent.com/92877810/141184309-f6be7cad-a777-4568-8005-457e1c60d44b.png)
 
@@ -883,19 +883,21 @@ Measure Selector
 
 207. Click the **More Action Icon** for **Sales Revenue** under Measures
 
+![10-147](https://user-images.githubusercontent.com/92877810/141184342-b5402795-6802-48a2-9d11-f7541f4b9629.png)
+
 208. Click **Add Time Calculation**
 
 209. Click **Year Over Year**
 
-![10-147](https://user-images.githubusercontent.com/92877810/141184342-b5402795-6802-48a2-9d11-f7541f4b9629.png)
+![10-148](https://user-images.githubusercontent.com/92877810/141184343-83d75052-8c2a-4697-add5-17e5d76bfa92.png)
 
 210. Remove **Sales Revenue**
 
-![10-148](https://user-images.githubusercontent.com/92877810/141184343-83d75052-8c2a-4697-add5-17e5d76bfa92.png)
+![10-149](https://user-images.githubusercontent.com/92877810/141184344-5f6466df-2c07-4a50-8f12-c511b95f2a1c.png)
 
 ⚠️Quality Check! Does your chart look like this? 
 
-![10-149](https://user-images.githubusercontent.com/92877810/141184344-5f6466df-2c07-4a50-8f12-c511b95f2a1c.png)
+![10-150](https://user-images.githubusercontent.com/92877810/141184345-5858f7d9-0e56-4305-a241-30a59f527c32.png)
 
 🚩You can see that H1 2021 is significantly lower than H1 2020. Let's drill into this more. 
 
@@ -903,17 +905,17 @@ Measure Selector
 
 212. Click **Drill Down**
 
-![10-150](https://user-images.githubusercontent.com/92877810/141184345-5858f7d9-0e56-4305-a241-30a59f527c32.png)
+![10-151](https://user-images.githubusercontent.com/92877810/141184346-8e371521-c693-4f3a-bad1-fe500e72c068.png)
 
 🚩The major deviation was in Q1 of 2021. 
 
-![10-151](https://user-images.githubusercontent.com/92877810/141184346-8e371521-c693-4f3a-bad1-fe500e72c068.png)
+![10-152](https://user-images.githubusercontent.com/92877810/141184348-4f95f491-f7a1-4ce2-a007-5c075bbd53a1.png)
   
 ℹ️You have concluded the **Time Analysis Section!** Save your document.
 
 🚩Press **Ctrl + S** to save your story
 
-![10-152](https://user-images.githubusercontent.com/92877810/141184348-4f95f491-f7a1-4ce2-a007-5c075bbd53a1.png)
+![10-f](https://user-images.githubusercontent.com/92877810/141187198-b36b5cd0-8bbd-4111-a386-16cea2ca8b4f.png)
 
 <br><br>
 
