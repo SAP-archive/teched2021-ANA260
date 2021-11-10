@@ -24,7 +24,7 @@ different from the current system date.
 
 ⚠️Quality Check! Does your screen look like this screenshot?
 
-![10-1](https://user-images.githubusercontent.com/92877810/140169050-9da1077e-80d2-4de4-a035-b10a445bca10.png)
+![10-r](https://user-images.githubusercontent.com/92877810/141178734-c3c60a37-6251-4139-85f1-5fdb78e7a9df.png)
 
 1. Click **Home**
 
@@ -151,7 +151,7 @@ Note: Range 1: Current Month may not match due to dynamic time.
 
 ![10-21](https://user-images.githubusercontent.com/92877810/140178403-2e9cd164-249f-4d77-82b8-abf54a658ad8.png)
 
-🚩You can see the Date Selector input control was added to the story filter bar. In the time series chart, you can see that the data now show November data until November 30th
+🚩You can see the Date Selector input control was added to the story filter bar. In the time series chart, you can see that the data now show October data until October 31st.
 
 ![10-22](https://user-images.githubusercontent.com/92877810/140178404-59bade35-8056-434f-b739-a7d92f6cb4be.png)
 
