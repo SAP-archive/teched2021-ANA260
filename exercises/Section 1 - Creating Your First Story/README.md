@@ -386,7 +386,8 @@ We will cover calculations in more detail for business analytics use cases in ou
 
 83. Click **Filter** on Account in Columns
 
-![image 83](https://user-images.githubusercontent.com/90856848/137989991-811df258-030d-4a46-93e4-e3b6fc57b818.png)
+![1-rr](https://user-images.githubusercontent.com/92877810/141189222-4d49766d-92b6-4f3c-a98f-71dc7116da1e.png)
+
 
 84. Deselect **Gross Margin**
 
@@ -550,7 +551,7 @@ We will cover calculations in more detail for business analytics use cases in ou
 
 ![Image 124](https://user-images.githubusercontent.com/90856848/137995115-e628f923-c48b-4336-b88c-5560d32d4b27.png)
 
-125. Click **Expand** on **Operation**
+125. Click **Expand** for **Operation**
 
 126. Scroll till AVERAGE is Visible
 
@@ -558,7 +559,7 @@ We will cover calculations in more detail for business analytics use cases in ou
 
 ![Image 125_126_127](https://user-images.githubusercontent.com/90856848/137995225-83e32c59-4229-43f9-aebb-896db54fc98a.png)
 
-128. Click **Expand** on **Measure**
+128. Click **Expand** for **Measure**
 
 129. Click **Sales Revenue**
 
