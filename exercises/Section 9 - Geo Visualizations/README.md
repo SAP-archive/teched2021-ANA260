@@ -414,11 +414,13 @@ Let us see what the tooltip looks like when we hover over a bubble.
 
 ![9-67](https://user-images.githubusercontent.com/92877810/139946904-69663a4d-fd98-4157-94b5-b0579a87c536.png)
 
-82. Click **More** to open the menu 
+82. Click **Menu**
+
+![9-r](https://user-images.githubusercontent.com/92877810/141177930-e08c8d53-d9ac-4097-93cc-c6315ae41474.png)
 
 83. Click **Modeler** to create a new model 
 
-![9-68](https://user-images.githubusercontent.com/92877810/139946906-aa50ecd8-f4df-4afd-8a6c-31905caa8245.png)
+![9-r2](https://user-images.githubusercontent.com/92877810/141177932-6c15bbf1-222f-4cb4-b0eb-21bddc671aa0.png)
 
 🚩We want to start our model based on the Shipping Ports Excel file, which is located in GitHub. 
 
