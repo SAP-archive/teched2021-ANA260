@@ -249,7 +249,8 @@ Take a minute and save your work using **Ctrl + S**.
 
 53. Click **Add Measure** 
 
-![img32](https://user-images.githubusercontent.com/92877810/138149944-1950d0dd-92dd-48d1-aae9-c2659f0370cd.png)
+![MicrosoftTeams-image](https://user-images.githubusercontent.com/92877810/141190056-58e54d57-d284-4ac2-90c8-8e599340145a.png)
+
 
 54. Scroll untill New Measure Input Control is Visible
 
