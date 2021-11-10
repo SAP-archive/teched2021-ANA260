@@ -829,26 +829,11 @@ Measure Selector
 
 196. Click **Variance Bar**
 
-![10-136](https://user-images.githubusercontent.com/92877810/141184323-7ef6c6e3-e8cb-4297-8d7e-b0e40fbdba61.png)
+![10-137](https://user-images.githubusercontent.com/92877810/141184324-57f91e53-435a-4229-b3a0-220fbac8c63e.png)
 
 ⚠️Quality Check! Does your table look like this? 
 
-![10-137](https://user-images.githubusercontent.com/92877810/141184324-57f91e53-435a-4229-b3a0-220fbac8c63e.png)
 ![10-138](https://user-images.githubusercontent.com/92877810/141184325-1e1b1b8b-a078-46c9-ae97-d6acb7e05f6e.png)
-![10-139](https://user-images.githubusercontent.com/92877810/141184327-c87b56e8-9acf-4418-bf3f-65fdc23eabd8.png)
-![10-140](https://user-images.githubusercontent.com/92877810/141184328-9e0afe56-c63d-4e2b-9d18-7714fd86172b.png)
-![10-141](https://user-images.githubusercontent.com/92877810/141184331-2529667e-a6ab-4448-9f6a-3aefa8495b21.png)
-![10-142](https://user-images.githubusercontent.com/92877810/141184334-c1392574-175e-48cf-bfb7-291623bb3b88.png)
-![10-143](https://user-images.githubusercontent.com/92877810/141184337-327a5e6c-a9db-4c1d-9337-760f21a8dbe5.png)
-![10-144](https://user-images.githubusercontent.com/92877810/141184338-264f53a6-fe9c-4b68-badb-4fb9cdf3a5e1.png)
-![10-145](https://user-images.githubusercontent.com/92877810/141184339-0983234e-fa37-4a19-8c7a-5dfc594bf5d4.png)
-![10-146](https://user-images.githubusercontent.com/92877810/141184341-abdac089-4a9b-41e2-a084-2a67e3b022db.png)
-![10-147](https://user-images.githubusercontent.com/92877810/141184342-b5402795-6802-48a2-9d11-f7541f4b9629.png)
-![10-148](https://user-images.githubusercontent.com/92877810/141184343-83d75052-8c2a-4697-add5-17e5d76bfa92.png)
-![10-149](https://user-images.githubusercontent.com/92877810/141184344-5f6466df-2c07-4a50-8f12-c511b95f2a1c.png)
-![10-150](https://user-images.githubusercontent.com/92877810/141184345-5858f7d9-0e56-4305-a241-30a59f527c32.png)
-![10-151](https://user-images.githubusercontent.com/92877810/141184346-8e371521-c693-4f3a-bad1-fe500e72c068.png)
-![10-152](https://user-images.githubusercontent.com/92877810/141184348-4f95f491-f7a1-4ce2-a007-5c075bbd53a1.png)
 
 🚩Next let's look at some time navigation inside a chart. The chart shows the Sales Revenue over time. Let's drill a level down to understand how 2021 is performing. 
 
@@ -858,41 +843,41 @@ Measure Selector
 
 199. Click the **Drill Down** Icon
 
-![10-139](https://user-images.githubusercontent.com/92877810/140416177-73f0524d-dc6b-4f03-b4a3-e9c59ef80d3d.png)
+![10-139](https://user-images.githubusercontent.com/92877810/141184327-c87b56e8-9acf-4418-bf3f-65fdc23eabd8.png)
 
 🚩You can see the chart now show the Sales Revenue by quarter. However, you're more interested in it for the half year. Let's change the hierarchy via the builder panel. 
 
-![10-140](https://user-images.githubusercontent.com/92877810/140416178-718fb807-8904-4739-a533-069d6b6a29ae.png)
+![10-140](https://user-images.githubusercontent.com/92877810/141184328-9e0afe56-c63d-4e2b-9d18-7714fd86172b.png)
 
 200. Click the **Drill** Icon for **Order Date**
 
 201. Click **Set Hierarchy**
 
-![10-141](https://user-images.githubusercontent.com/92877810/140416179-ce6c7d10-0ad1-4402-9284-8ad2a3e86aee.png)
+![10-141](https://user-images.githubusercontent.com/92877810/141184331-2529667e-a6ab-4448-9f6a-3aefa8495b21.png)
 
 202. Expand **Hierarchy**
 
 203. Click **Year, Half-Year, Quarter, Month, Day**
 
-![10-142](https://user-images.githubusercontent.com/92877810/140416180-6997eec4-4e42-4aa4-add8-cf08b18c2765.png)
+![10-142](https://user-images.githubusercontent.com/92877810/141184334-c1392574-175e-48cf-bfb7-291623bb3b88.png)
 
 204. Click **Set**
 
-![10-143](https://user-images.githubusercontent.com/92877810/140416182-ea251592-5015-414a-b23b-be56f4ad2444.png)
+![10-143](https://user-images.githubusercontent.com/92877810/141184337-327a5e6c-a9db-4c1d-9337-760f21a8dbe5.png)
 
 🚩The chart has been reset to the new hierarchy. Let's change the level via the builder panel. 
 
-![10-144](https://user-images.githubusercontent.com/92877810/140416184-a9ba3c1a-fb15-4d23-a63c-9f9e703b811a.png)
+![10-144](https://user-images.githubusercontent.com/92877810/141184338-264f53a6-fe9c-4b68-badb-4fb9cdf3a5e1.png)
 
 205. Click the **Drill Icon** for **Order Date**
 
 206. Click **Level 3**
 
-![10-145](https://user-images.githubusercontent.com/92877810/140416186-68e5abb9-113e-43a0-89b8-ac0ba8acec11.png)
+![10-145](https://user-images.githubusercontent.com/92877810/141184339-0983234e-fa37-4a19-8c7a-5dfc594bf5d4.png)
 
 ⚠️Quality Check! Does your chart look like this? 
 
-![10-146](https://user-images.githubusercontent.com/92877810/140416190-11f22b89-2fde-4bf0-9082-a6a1e3ef2e2e.png)
+![10-146](https://user-images.githubusercontent.com/92877810/141184341-abdac089-4a9b-41e2-a084-2a67e3b022db.png)
 
 🚩Now let's look at quickly showing the year over year changes if the Sales Revenue. This can be done via time calculation quick options if time if in the chart
 
@@ -902,15 +887,15 @@ Measure Selector
 
 209. Click **Year Over Year**
 
-![10-147](https://user-images.githubusercontent.com/92877810/140416191-3900cf0e-b912-4431-a5a8-23368a9e981a.png)
+![10-147](https://user-images.githubusercontent.com/92877810/141184342-b5402795-6802-48a2-9d11-f7541f4b9629.png)
 
 210. Remove **Sales Revenue**
 
-![10-148](https://user-images.githubusercontent.com/92877810/140416193-480abdcc-9038-41c2-9c0f-86f7b6928272.png)
+![10-148](https://user-images.githubusercontent.com/92877810/141184343-83d75052-8c2a-4697-add5-17e5d76bfa92.png)
 
 ⚠️Quality Check! Does your chart look like this? 
 
-![10-149](https://user-images.githubusercontent.com/92877810/140416194-6f6cdf60-7e4a-4a2a-aab7-7b13017ab304.png)
+![10-149](https://user-images.githubusercontent.com/92877810/141184344-5f6466df-2c07-4a50-8f12-c511b95f2a1c.png)
 
 🚩You can see that H1 2021 is significantly lower than H1 2020. Let's drill into this more. 
 
@@ -918,17 +903,17 @@ Measure Selector
 
 212. Click **Drill Down**
 
-![10-150](https://user-images.githubusercontent.com/92877810/140416197-cc7fce00-97b6-46b4-b384-e0163c0c0d1a.png)
+![10-150](https://user-images.githubusercontent.com/92877810/141184345-5858f7d9-0e56-4305-a241-30a59f527c32.png)
 
 🚩The major deviation was in Q1 of 2021. 
 
-![10-151](https://user-images.githubusercontent.com/92877810/140416198-30c6cd7a-266b-4cbb-819a-d348a8073529.png)
+![10-151](https://user-images.githubusercontent.com/92877810/141184346-8e371521-c693-4f3a-bad1-fe500e72c068.png)
   
 ℹ️You have concluded the **Time Analysis Section!** Save your document.
 
 🚩Press **Ctrl + S** to save your story
 
-![10-152](https://user-images.githubusercontent.com/92877810/140416199-770e7da5-4f92-4a6d-b574-e7de1ba43228.png)
+![10-152](https://user-images.githubusercontent.com/92877810/141184348-4f95f491-f7a1-4ce2-a007-5c075bbd53a1.png)
 
 <br><br>
 
