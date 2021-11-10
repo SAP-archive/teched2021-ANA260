@@ -492,7 +492,7 @@ Dynamic text can be created in your story and are automatically updated based on
 
 ![4-70](https://user-images.githubusercontent.com/92877810/138517173-08376e20-2c5a-4ba9-aec9-b838f73b40c8.png)
 
-ℹ️You can find the file to upload on the GitHub page for this workshop under **teched2021-ANA260**
+ℹ️In order to upload the corporate logo to SAP Analytics Cloud, we need to first download it from the GitHub page for this workshop under **teched2021-ANA260**
 
 108. Click **Excercises**
 
