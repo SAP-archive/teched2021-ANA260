@@ -201,7 +201,7 @@ You can do this by adding additional ranges to the Current Month story filter
 
 38. Click **+ Add a New Range**
 
-![10-30](https://user-images.githubusercontent.com/92877810/140178417-c7566064-7259-4ad5-b9ac-2bbc7b298b7c.png)
+![10-r2](https://user-images.githubusercontent.com/92877810/141179788-23e3145c-dfd4-426a-865c-9641bd7035ca.png)
 
 39. Expand **Range Type**
 
@@ -241,11 +241,11 @@ The last range shall be the last 2 years as well as the current year
 
 50. Click  outside to collapse the story filter
 
-![10-35](https://user-images.githubusercontent.com/92877810/140178425-5a8089ae-8aab-460b-8777-38380541b6b7.png)
+![10-r50](https://user-images.githubusercontent.com/92877810/141179790-1797e9b4-d882-46be-823e-b797f5ea8576.png)
 
 🚩You can see on the time series chart that the filter has been applied. Let's extend to view the last 2 years as well as the current year. 
 
-![10-36](https://user-images.githubusercontent.com/92877810/140178427-3abdf64d-17f0-44eb-969e-0c8cff1fca4d.png)
+![10-r51](https://user-images.githubusercontent.com/92877810/141179791-7ad856bb-9deb-4cb1-b129-49fbe90b391d.png)
 
 51. Click **Current Month**
 
@@ -253,11 +253,11 @@ The last range shall be the last 2 years as well as the current year
 
 53. Click  outside to collapse the story filter
 
-![10-37](https://user-images.githubusercontent.com/92877810/140178429-9a41f6f6-996a-43c6-ab55-0b79d807b7c7.png)
+![10-r53](https://user-images.githubusercontent.com/92877810/141179792-f8d3464d-3e88-4275-956b-3cce59521258.png)
 
 🚩Again, you can see on the time series chart that the filter has been applied.  
 
-![10-38](https://user-images.githubusercontent.com/92877810/140178431-5350fbe1-7f30-4d37-83d2-97e1a6fcc0f0.png)
+![10-r54](https://user-images.githubusercontent.com/92877810/141179795-cc7a58d4-ac20-4c6f-a51c-315cbddc8766.png)
 
 🚩Right now, the story filter has still a lot of options such as configuring the time periods to go back to. You can hide this complexity from the story viewer. Let's do that and only expose the effected time range to the story viewers. 
 
@@ -267,7 +267,7 @@ The last range shall be the last 2 years as well as the current year
 
 56. Click **Show/Hide**
 
-![10-39](https://user-images.githubusercontent.com/92877810/140178433-75828487-bca8-48f4-b89a-48203e0e623c.png)
+![10-r56](https://user-images.githubusercontent.com/92877810/141179796-04f48fa1-9748-49a4-a195-79ed33a31e2a.png)
 
 57. Deselect **Look Back**
 
@@ -277,11 +277,11 @@ The last range shall be the last 2 years as well as the current year
 
 60. Deselect **Range Info Icons**
 
-![10-40](https://user-images.githubusercontent.com/92877810/140178440-9bee5706-6d6e-4e64-b69f-3fbf24ac70e6.png)
+![10-r60](https://user-images.githubusercontent.com/92877810/141179797-1662d859-3490-4585-b3e4-9c217a6ec7a6.png)
 
 🚩You can see that this looks much cleaner. 
 
-![10-41](https://user-images.githubusercontent.com/92877810/140178442-81320b5e-7c34-4b03-8118-c6eb410efbdb.png)
+![10-r61](https://user-images.githubusercontent.com/92877810/141179798-1f65d17a-4e3d-4206-b11c-40f5fe7d7971.png)
 
 🚩Next you want to add some page input controls to investigate, which orders where ordered and received in a certain time frame. These input controls shall be in the lane with the Order Deliver Analysis table. Let's select the lane and add an input control each for Order and Receive Date
 
