@@ -61,7 +61,7 @@ different from the current system date.
 
 ![8-7](https://user-images.githubusercontent.com/92877810/141006666-28635412-5785-44ac-b1fd-e16315dc4be1.png)
 
-10. Click **ANA260_Section 8_KG**
+10. Click **ANA260_Section 8_Your Initials**
 
 ![8-8](https://user-images.githubusercontent.com/92877810/141006667-985189c7-9788-487a-8064-a06f5158e39b.png)
 
