@@ -378,7 +378,7 @@ Let's add the option to the Action Bar.
 
 90. Click the **Next Page** Icon
 
-![11-54](https://user-images.githubusercontent.com/92877810/140398500-217f79c0-a903-4bb0-9b2f-5e2cf783df15.png)
+![11-r90](https://user-images.githubusercontent.com/92877810/141532034-63788427-721e-4e4f-8bf9-9e7906312a7a.png)
 
 🚩We can see that we had a smooth navigation to the **Historical Performance** page. The breadcrumb at the top of the Digital Boardroom has updated to reflect the new page. Let's navigate back to the **Overview** page. 
 
@@ -446,7 +446,7 @@ Let's test our Jump To navigation with the filter context by selecting Clothing 
 
 106. Click **Filter** in the **Action Bar**
 
-![11-63](https://user-images.githubusercontent.com/92877810/140398513-9dbf3c76-3ed6-4a9e-93fe-926310b457c4.png)
+![11-r106](https://user-images.githubusercontent.com/92877810/141532080-a3a8eef0-3082-4c08-a730-e6d9dab98c45.png)
 
 107. Click **Region**
 
