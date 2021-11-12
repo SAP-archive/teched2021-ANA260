@@ -442,7 +442,7 @@ Let's test our Jump To navigation with the filter context by selecting Clothing 
 
 ![11-62](https://user-images.githubusercontent.com/92877810/140398512-f1e1dfc4-61aa-49fe-9f6d-3867acea2550.png)
 
-🚩We can see that the dashboard has updated to reflect our Clothing Product Category. We can see that based on the table, MEE has the highest contribution to our Revenue. Let's further filter down our data to focus on the MEE region. 
+🚩We can see that the dashboard has updated to reflect our Clothing Product Category. Let's further filter down our data to focus on the MEE region. 
 
 106. Click **Filter** in the **Action Bar**
 
