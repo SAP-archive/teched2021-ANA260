@@ -1,4 +1,4 @@
-# Section 10 - Time Analysis
+# Section 10 - Time Analysis Deep Dive
 
 ℹ️**Objective:** Learn how to effectively analyze your time-based data, how to create time-based filters, 
 calculations and visualisations. 
