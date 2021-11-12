@@ -119,7 +119,7 @@ Department.** We will include several pages here.
 
 ![11-15](https://user-images.githubusercontent.com/92877810/140385601-d6abbdd4-3524-439f-a83b-fde930068ed8.png)
 
-23. Click **Expand**
+23. Click **Expand** on ANA 260 HR
 
 ![11-16](https://user-images.githubusercontent.com/92877810/140390212-577894a3-fbea-434a-8404-c2fa1ec889ca.png)
 
