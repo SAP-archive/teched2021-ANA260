@@ -1,4 +1,4 @@
-# Section 9 - Geo Visualizations
+# Section 9 - Geo Visualizations Deep Dive
 
 ℹ️**Objective:** Use Geo Maps in SAP Analytics Cloud to interpret geo-enriched models and enhance your 
 dashboard’s analytic capabilities. Develop an understanding of the various features available in geo 
