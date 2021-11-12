@@ -1,4 +1,4 @@
-# Section 5 - Bookmarking and Sharing
+# Section 5 - Bookmarking and Sharing of a Story
 
 ⚠️This section builds on top of another section. If you did not complete the previous section, please select 
 **“Section 4 – Theme and Style”** from the **“Public/TechEd”** folder and click **Copy To** your
