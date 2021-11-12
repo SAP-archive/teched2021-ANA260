@@ -36,13 +36,13 @@ different from the current system date.
 
 ![11-2](https://user-images.githubusercontent.com/92877810/140385579-1112254b-ae8f-425b-bdb5-bfdb35005762.png)
 
-2. Click More icon
+2. Click Menu
 
-![11-3](https://user-images.githubusercontent.com/92877810/140385581-703defaf-2bbc-4d26-bb3e-f6fb2f27d266.png)
+![11-r](https://user-images.githubusercontent.com/92877810/141531530-c37d7753-cf95-4fa9-8d9d-e855d1461c9a.png)
 
 3. Click Digital Boardroom
 
-![11-4](https://user-images.githubusercontent.com/92877810/140385585-13a9b719-0dce-4db2-bd5b-ac560742cee1.png)
+![11-r2](https://user-images.githubusercontent.com/92877810/141531533-efb718be-31c7-45bd-b61c-f358512396e7.png)
 
 ℹ️Welcome to the **Digital Boardroom!**
  
@@ -72,7 +72,7 @@ The Digital Boardroom is a place to design a real-time, interactive boardroom pr
 
 ![11-8](https://user-images.githubusercontent.com/92877810/140385592-15920d80-9d57-4caa-a047-b169c98aa71c.png)
 
-9. Click **TechEd**
+9. Click **TechEd 2021**
 
 ![11-9](https://user-images.githubusercontent.com/92877810/140385594-16a2ae05-cb86-41ad-921c-40df22a6e17c.png)
 
