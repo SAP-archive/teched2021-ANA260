@@ -225,7 +225,7 @@ Similarly, we want to provide the executives a quick way to jump to the Operatio
 
 50. Click **Add**
 
-![11-30](https://user-images.githubusercontent.com/92877810/140390238-319c4452-61b6-47e8-b0b8-bc5a47b5f39b.png)
+![11-r50](https://user-images.githubusercontent.com/92877810/141532614-cbbf6f41-4494-4fff-adfc-05bbd721c3bb.png)
 
 51. Click **Expand** for **Topic** under **Tile**
 
@@ -386,7 +386,7 @@ Let's add the option to the Action Bar.
 
 ![11-55](https://user-images.githubusercontent.com/92877810/140398503-0fdf44d1-299c-4a6c-98b4-82cd4ed8c1ed.png)
 
-92. **Right Click** on the Mouse
+92. **Right Click** anywhere on the screen
 
 🚩Within the Digital Boardroom, the various actions (i.e. filtering, jump to, search, etc.) is available within the Context Menu. We want to ensure that the Jump To Navigate we implemented earlier works as expected! 
 
