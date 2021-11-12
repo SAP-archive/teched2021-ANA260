@@ -1,4 +1,4 @@
-# Section 8 - Calculations and Blending
+# Section 8 - Calculations and Blending Deep Dive
 
 ℹ️**Objective:** Use the latest calculations available in SAP Analytics Cloud to expose additional information that 
 was not available in your original data model. Understand the potential and workflow of blending models and 
