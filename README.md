@@ -30,7 +30,7 @@ Our exercises build on the previous exercise for a holistic learning experience.
 - [Section 4 - Theme and Style](exercises/Section%204%20-%20Theme%20and%20Style/README.md/)
 - [Section 5 - Bookmarking and Sharing](exercises/Section%205%20-%20Bookmarking%20and%20Sharing/README.md/)
 - [Section 6 - Augmented Analytics: Smart Assist Features](exercises/Section%206%20-%20Augmented%20Analytics:%20Smart%20Assist%20Features/README.md)
-- [Section 7 - Bookmarking and Sharing](exercises/Section%207%20-%20Performance%20Optimization/README.md)
+- [Section 7 - Performance Optimization](exercises/Section%207%20-%20Performance%20Optimization/README.md)
 - [Section 8 - Calculations and Blending](exercises/Section%208%20-%20Calculations%20and%20Blending/README.md)
 - [Section 9 - Geo Visualizations](exercises/Section%209%20-%20Geo%20Visualizations/README.md)
 - [Section 10 - Time Analysis](exercises/Section%2010%20-%20Time%20Analysis/README.md)
