@@ -1,4 +1,4 @@
-# Section 11 - Digital Boardroom
+# Section 11 - Creating Digital Boardroom: Deep Dive
 
 ℹ️**Objective:** Learn how to create an executive overview of your company’s performance by curating selected 
 pages from several Stories in one view with Digital Boardroom.
