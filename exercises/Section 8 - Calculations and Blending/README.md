@@ -397,7 +397,7 @@ In this table, we have specified Reasons for Delay as our Row dimension. We can 
 
 ⚠️Quality check! Does your chart appear like this screenshot? 
  
-**Note:** You might have a different color chart
+🚩**Note:** You might have a different color chart
 
 ![8-57](https://user-images.githubusercontent.com/92877810/141006766-e254012f-097d-40aa-aa53-be233180b610.png)
 
