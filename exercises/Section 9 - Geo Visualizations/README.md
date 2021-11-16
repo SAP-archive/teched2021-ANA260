@@ -99,11 +99,11 @@ Let us change the model for this layer to the shipping model which contains our 
 
 16. Click **Select Model**
 
-![9-16](https://user-images.githubusercontent.com/92877810/139945779-cf580dd3-555b-46b4-93fa-cb95d6744a2d.png)
+![9-rr1](https://user-images.githubusercontent.com/92877810/142055275-a15b60b2-1c94-472b-81a9-84f4944ce729.png)
 
 17. Click **ANA260_SHIPPING_INFO**
 
-![9-17](https://user-images.githubusercontent.com/92877810/139945780-e14aa69c-9798-4170-97a1-e84f1f646268.png)
+![9-rr2](https://user-images.githubusercontent.com/92877810/142055304-0031275c-2647-41bb-bb47-fc5881fa44b8.png)
 
 18. Click **OK**
 
