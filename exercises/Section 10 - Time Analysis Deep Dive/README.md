@@ -767,7 +767,7 @@ Let's format the calculation.
 
 183. Click **Filter** for **Cross Calculations**
 
-![10-128](https://user-images.githubusercontent.com/92877810/141184311-15e4e02c-854e-47cc-beed-9fdb36997051.png)
+![10-rrrr1](https://user-images.githubusercontent.com/92877810/142061455-d218642c-fe02-427d-b43f-efbb84230eb0.png)
 
 184. Click **PYTD**
 
