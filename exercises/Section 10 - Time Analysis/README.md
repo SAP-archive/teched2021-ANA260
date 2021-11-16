@@ -751,9 +751,9 @@ Let's format the calculation.
 
 ![10-125](https://user-images.githubusercontent.com/92877810/141184308-cf38271e-d029-40c0-a371-146e1f5a6e91.png)
 
-179. Type **Y**
+179. Type **- Y**
 
-180. Click **- YTD** 
+180. Click **YTD** 
 
 ![10-126](https://user-images.githubusercontent.com/92877810/141184309-f6be7cad-a777-4568-8005-457e1c60d44b.png)
 
