@@ -274,7 +274,7 @@ Geo Map. Let us look at average delivery time aggregated based on location rathe
 
 ![3-37](https://user-images.githubusercontent.com/92877810/138261834-7e46845c-1b63-4751-9957-7d6956ef8007.png)
 
-🚩A new column has been created that represents the differences in values between 2019 and 2020. We want to add a visual indicator to see whether our delta is below or above the previous year. 
+🚩A new column has been created that represents the differences in values between 2020 and 2021. We want to add a visual indicator to see whether our delta is below or above the previous year. 
 
 53. Right Click on Delta to Open the Context Menu
 
