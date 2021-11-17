@@ -105,7 +105,7 @@ We have just added an empty chart to our story and now we want to start adding m
 
 18. Click **Bottom Pane**
 
-19. Click **Insert**
+19. Click **Insert** (Click **More** on the top toolbar if you don't see Insert)
 
 20. Click **Chart**
 
@@ -191,7 +191,7 @@ We can now see gross margin by each product category (Accessories, Clothing, Foo
 
 🚩We now want to analyze how our gross margin has been performing over time. Let us build a chart with a time dimension to display this data. 
 
-39. Click **Insert**
+39. Click **Insert** (Click **More** on the top toolbar if you don't see Insert)
 
 40. Click **Chart**
 
@@ -271,7 +271,7 @@ We can now see gross margin by each product category (Accessories, Clothing, Foo
 
 🚩Let us add a table to our story to examine our Gross Margin contribution by each Sales Manager. Since Sales Manager is a high cardinality dimension with a lot of members, it is recommended to view this data in a table. 
 
-58. Click **Insert** 
+58. Click **Insert** (Click **More** on the top toolbar if you don't see Insert)
 
 59. Click **Table**
 
@@ -443,7 +443,7 @@ We will cover calculations in more detail for business analytics use cases in ou
 
 🚩Since this lane is in now at the top of our dashboard, let us add some easily viewable KPIs as numeric point charts in our story. Numeric point charts are a chart visualization that display the total of a measure and are best suited for highlighting key business KPIs. They can be filtered so the KPI describes a specific context relevant to the business user. 
 
-96. Click **Insert**
+96. Click **Insert** (Click **More** on the top toolbar if you don't see Insert)
 
 97. Select **Chart**
 
