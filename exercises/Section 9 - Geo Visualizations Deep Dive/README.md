@@ -483,7 +483,7 @@ In this screen, users can assign dimensions and measures, build hierarchies in t
 
 ![9-78](https://user-images.githubusercontent.com/92877810/139954391-8630d971-9e77-4ac1-9afc-0f2c20993c16.png)
 
-🚩Let us choose an Identifier for our geo enriched Location dimension. This will be thelabel used for each node in a geo map layer. Let us use the Shipping Port names as the description.
+🚩Let us choose an Identifier for our geo enriched Location dimension. This will be the label used for each node in a geo map layer. Let us use the Shipping Port names as the description.
 
 95. Click **Location Description**
 
