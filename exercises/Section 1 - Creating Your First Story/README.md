@@ -354,7 +354,7 @@ The Calculation Editor allows you to create calculations for use in a chart or t
   
 6. **Dimension to Measure**: Create a measure by converting a dimension to measure. 
 
-We will cover calculations in more detail for business analytics use cases in our **Section 7 - Calculations and Blending Deep Dive**. You can jump off to this section to learn more. 
+We will cover calculations in more detail for business analytics use cases in our **Section 8 - Calculations and Blending Deep Dive**. You can jump off to this section to learn more. 
 
 ![Image 74](https://user-images.githubusercontent.com/90856848/137978728-f825539c-015a-4480-9c15-fc48b5a2230b.png)
 
