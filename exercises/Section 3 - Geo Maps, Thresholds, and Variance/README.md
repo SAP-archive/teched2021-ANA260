@@ -29,7 +29,7 @@ different from the current system date.
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 
-ℹ️Welcome to the **Geo Maps, Thresholds and Variance** section! We will also go into greater detail on the analytic capabilities available to story creators with geo maps and geo-enriched data in our **Section 8 - Geo Visualizations Deep Dive**. 
+ℹ️Welcome to the **Geo Maps, Thresholds and Variance** section! We will also go into greater detail on the analytic capabilities available to story creators with geo maps and geo-enriched data in our **Section 9 - Geo Visualizations Deep Dive**. 
  
 Exercise check! Does your dashboard look like this screenshot? 
 
@@ -106,7 +106,7 @@ Exercise check! Does your dashboard look like this screenshot?
 ![3-15](https://user-images.githubusercontent.com/92877810/138260792-abab03c4-3b01-47dd-b6d0-f5d2117228ea.png)
 
 🚩There are other layers applicable to our 
-Geo Map. Let us look at average delivery time aggregated based on location rather on an individual store level. We can do this by choosing to add a choropleth layer. We will go into further detail on the other layer types available in SAP Analytics Cloud in our **Section 8 - Geo Visualizations Deep Dive** section. 
+Geo Map. Let us look at average delivery time aggregated based on location rather on an individual store level. We can do this by choosing to add a choropleth layer. We will go into further detail on the other layer types available in SAP Analytics Cloud in our **Section 9 - Geo Visualizations Deep Dive** section. 
 
 13. Click **Expand** for **Layer Type**
 
@@ -344,7 +344,7 @@ For widget, you see only the styling options for the specific area that you have
 
 ℹ️You have now completed the **Geo Maps, Thresholds, and Variances** section! In this section we learned how to create geo visualizations to populate our dashboard, add thresholds, dynamic reference lines, and variances to our charts to highlight key insights.
   
-To explore more of SAP Analytics Cloud's capabilities in analyzing geo enriched data, you can jump off to **Section 8 - Geo Visualizations Deep Dive**. 
+To explore more of SAP Analytics Cloud's capabilities in analyzing geo enriched data, you can jump off to **Section 9 - Geo Visualizations Deep Dive**. 
  
 ![3-48](https://user-images.githubusercontent.com/92877810/138261848-de24c692-62f2-410a-be46-a70b2c52d1b4.png)
 
