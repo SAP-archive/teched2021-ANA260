@@ -1,5 +1,7 @@
 # ANA260 - Experience Interactive Storytelling for Information Workers
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2021-ANA260)](https://api.reuse.software/info/github.com/SAP-samples/teched2021-ANA260/)
+
 ## Description
 
 This repository contains the material for the SAP TechEd 2021 session called ANA260 - Experience Interactive Storytelling for Information Workers.
